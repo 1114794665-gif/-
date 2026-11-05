@@ -6,3 +6,7 @@ private-data/**
 node_modules/
 *.tar.gz
 *.zip
+
+cloudflare-dist/
+.wrangler/
+.dev.vars
