@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 40" width="220" height="40">
+  <g>
+    <path d="M14 6 h20 l-2.6 26 a2.4 2.4 0 0 1 -2.4 2.2 h-10 a2.4 2.4 0 0 1 -2.4 -2.2 Z" fill="none" stroke="#C8622B" stroke-width="2.6" stroke-linejoin="round"/>
+    <path d="M13 12 h22" stroke="#C8622B" stroke-width="2.6" stroke-linecap="round"/>
+  </g>
+  <text x="44" y="28" font-family="Fraunces, Georgia, serif" font-weight="600" font-size="24" letter-spacing="0.5">
+    <tspan fill="#2C231A">EVER</tspan><tspan fill="#C8622B">CUP</tspan>
+  </text>
+</svg>

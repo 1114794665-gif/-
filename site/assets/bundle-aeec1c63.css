@@ -1,0 +1,119 @@
+/* /assets/product-series-20261027.css */
+/* 同系列可选规格模块（2026-10-27）
+   产品页是前端渲染的，所以这个模块由 product-series-20261027.js 在页面渲染完成后
+   插进真实 DOM，样式沿用站点现有的 bx-* 设计变量，视觉上和原生模块一致。 */
+
+.bx-series-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:20px}
+.bx-series-card{display:flex;flex-direction:column;min-width:0;background:#fff;border:1px solid var(--bx-line,#e2e6df);border-radius:6px;padding:16px;color:var(--bx-ink,#1c2b24)}
+.bx-series-card.is-current{border-color:var(--bx-copper,#a86b3c);box-shadow:0 0 0 1px var(--bx-copper,#a86b3c) inset}
+.bx-series-tag{display:inline-block;align-self:flex-start;margin:0 0 12px;padding:2px 9px;border-radius:999px;background:#eef3e8;color:#2b5b49;font-size:9px;font-weight:800;letter-spacing:.14em;text-transform:uppercase}
+.bx-series-figure{display:block;margin:0 0 14px;border:1px solid var(--bx-line,#e2e6df);border-radius:5px;overflow:hidden;background:#fbfbf8}
+.bx-series-figure img{display:block;width:100%;height:auto;aspect-ratio:1/1;object-fit:contain}
+.bx-series-cap{font-family:Manrope,Arial,sans-serif;font-size:17px;font-weight:700;line-height:1.25;margin:0 0 4px;letter-spacing:-.02em}
+.bx-series-sku{display:block;font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:11px;font-weight:600;color:var(--bx-copper,#a86b3c);letter-spacing:.04em;margin:0 0 10px}
+.bx-series-name{font-size:12px;line-height:1.65;color:var(--bx-muted,#6b756c);margin:0 0 14px;overflow-wrap:anywhere}
+.bx-series-cta{margin-top:auto;font-size:11px;font-weight:800;letter-spacing:.04em;color:var(--bx-green,#2f6650);text-decoration:none;border-top:1px solid var(--bx-line,#e2e6df);padding-top:12px}
+.bx-series-cta:hover{text-decoration:underline;text-underline-offset:3px}
+.bx-series-note{font-size:11px;line-height:1.8;color:var(--bx-muted,#6b756c);margin:18px 0 0}
+/* 从「合并款去向」页点 #model-型号 跳过来时，把那一款闪一下，方便一眼找到 */
+.bx-series-card.is-flash{border-color:#2f6650;box-shadow:0 0 0 3px rgba(47,102,80,.22);transition:box-shadow .3s,border-color .3s}
+
+@media(max-width:1023px){.bx-series-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:599px){.bx-series-grid{grid-template-columns:1fr}.bx-series-card{padding:14px}}
+
+/* 已并入主款的型号页：改成的跳转提示页（纯静态，不加载前端框架） */
+.ec-series-moved{min-height:70vh;display:flex;align-items:center;justify-content:center;padding:56px 20px;font-family:Manrope,system-ui,-apple-system,"Segoe UI",sans-serif;color:#1c2b24;background:#f8f9f5}
+.ec-series-moved main{max-width:620px;border:1px solid #d6dcd2;border-radius:8px;padding:38px 34px;background:#fff}
+.ec-series-moved .k{font-size:10px;font-weight:800;letter-spacing:.16em;text-transform:uppercase;color:#a86b3c;margin:0 0 14px}
+.ec-series-moved h1{font-size:clamp(22px,3vw,30px);line-height:1.3;margin:0 0 16px;letter-spacing:-.02em}
+.ec-series-moved p{font-size:14px;line-height:1.85;margin:0 0 14px;color:#5c665e}
+.ec-series-moved a{font-weight:800;color:#2f6650;text-decoration:underline;text-underline-offset:3px}
+
+/* /assets/scene-guide-20261027.css */
+/* 场景导购 + 采购核对表（2026-10-27）
+   硅胶杯页、LED 杯具页各一套：
+     · 买手先按「用在哪」选，而不是先看容量
+     · 再给一张「下单前要核的几件事」表，把电池、耐温、印刷、MOQ 摊开
+     · 最后三张实景图，证明这些场景真的能落地
+   这两页的正文也是前端渲染的，所以内容由脚本在渲染完成后插进真实 DOM。 */
+
+.bx-scene-guide{padding-top:8px}
+.bx-scene-kicker{margin:0 0 10px;font-size:9.5px;font-weight:800;letter-spacing:.18em;
+  text-transform:uppercase;color:var(--bx-copper,#a86b3c)}
+.bx-scene-h2{font-family:Manrope,Arial,sans-serif;font-size:clamp(21px,2.6vw,30px);font-weight:800;
+  line-height:1.2;letter-spacing:-.02em;color:var(--bx-ink,#1c2b24);margin:0 0 12px}
+.bx-scene-lede{max-width:74ch;margin:0 0 22px;font-size:13.5px;line-height:1.75;
+  color:var(--bx-muted,#6b756c)}
+
+.bx-scene-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+.bx-scene-grid.is-four{grid-template-columns:repeat(4,minmax(0,1fr))}
+.bx-scene-card{display:flex;flex-direction:column;min-width:0;background:#fff;
+  border:1px solid var(--bx-line,#e2e6df);border-radius:7px;overflow:hidden;
+  text-decoration:none;transition:border-color .18s,box-shadow .18s,transform .18s}
+.bx-scene-card:hover{border-color:var(--bx-green,#2f6650);
+  box-shadow:0 8px 22px rgba(28,43,36,.10);transform:translateY(-2px)}
+.bx-scene-figure{margin:0;position:relative;background:#f3f4ef;aspect-ratio:4/3;overflow:hidden}
+.bx-scene-figure img{display:block;width:100%;height:100%;object-fit:cover}
+.bx-scene-body{padding:14px 15px 15px;display:flex;flex-direction:column;flex:1}
+.bx-scene-title{font-family:Manrope,Arial,sans-serif;font-size:15.5px;font-weight:800;line-height:1.28;
+  margin:0 0 7px;color:var(--bx-ink,#1c2b24);letter-spacing:-.01em}
+.bx-scene-why{font-size:12.5px;line-height:1.68;color:var(--bx-muted,#6b756c);margin:0 0 13px}
+.bx-scene-link{margin-top:auto;font-size:11.5px;font-weight:800;color:var(--bx-green,#2f6650);
+  letter-spacing:.02em;display:flex;align-items:center;gap:6px}
+.bx-scene-card:hover .bx-scene-link{text-decoration:underline;text-underline-offset:3px}
+
+/* 下单前核对表 */
+.bx-check-h2{font-family:Manrope,Arial,sans-serif;font-size:clamp(19px,2.3vw,26px);font-weight:800;
+  letter-spacing:-.02em;line-height:1.24;color:var(--bx-ink,#1c2b24);margin:0 0 10px}
+.bx-check-lede{max-width:74ch;margin:0 0 20px;font-size:13px;line-height:1.72;
+  color:var(--bx-muted,#6b756c)}
+.bx-check-table{width:100%;border-collapse:collapse;font-size:12.5px;line-height:1.6;
+  table-layout:fixed}
+.bx-check-table th,.bx-check-table td{text-align:left;padding:11px 14px;
+  border-bottom:1px solid var(--bx-line,#e2e6df);vertical-align:top}
+.bx-check-table thead th{font-size:9.5px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;
+  color:var(--bx-copper,#a86b3c);border-bottom:1px solid var(--bx-ink,#1c2b24);padding-bottom:9px}
+.bx-check-table thead th:first-child{color:transparent}
+.bx-check-table tbody th{font-weight:700;color:var(--bx-ink,#1c2b24);font-size:12.5px}
+.bx-check-table thead th:first-child,.bx-check-table tbody th{width:17%}
+.bx-check-table td{color:var(--bx-muted,#6b756c)}
+.bx-check-note{margin:14px 0 0;font-size:11.5px;line-height:1.7;color:var(--bx-muted,#6b756c)}
+.bx-check-note a{color:var(--bx-green,#2f6650);font-weight:700}
+
+/* 实景三连 */
+.bx-proof-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}
+.bx-proof-grid figure{margin:0;position:relative;border-radius:7px;overflow:hidden;
+  border:1px solid var(--bx-line,#e2e6df);background:#f3f4ef}
+.bx-proof-grid img{display:block;width:100%;aspect-ratio:4/3;object-fit:cover}
+.bx-proof-grid figcaption{position:absolute;left:0;right:0;bottom:0;padding:22px 14px 12px;
+  font-size:11.5px;font-weight:700;color:#fff;letter-spacing:.01em;
+  background:linear-gradient(transparent,rgba(12,20,16,.78))}
+
+@media(max-width:1023px){
+  .bx-scene-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .bx-scene-grid.is-four{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .bx-proof-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .bx-proof-grid figure:last-child{display:none}
+}
+@media(max-width:599px){
+  .bx-scene-grid,.bx-scene-grid.is-four{grid-template-columns:1fr}
+  .bx-proof-grid{grid-template-columns:1fr}
+  .bx-proof-grid figure:last-child{display:block}
+  .bx-check-table{font-size:11.5px}
+  .bx-check-table th,.bx-check-table td{padding:9px 10px}
+  .bx-check-table thead{display:none}
+  .bx-check-table tbody th{display:block;width:auto;border-bottom:0;padding-bottom:2px}
+  .bx-check-table tbody td{display:block;border-bottom:1px solid var(--bx-line,#e2e6df);
+    padding-top:0}
+  .bx-check-table tbody td::before{content:attr(data-col) " · ";font-weight:700;
+    color:var(--bx-copper,#a86b3c);font-size:10px;letter-spacing:.06em;text-transform:uppercase}
+}
+
+/* 详情页：实景三连下面的四条采购要点 */
+.bx-detail-points{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px;margin-top:18px}
+.bx-detail-points>div{border-top:2px solid var(--bx-ink,#1c2b24);padding-top:10px}
+.bx-detail-points h4{margin:0 0 6px;font-size:9.5px;font-weight:800;letter-spacing:.14em;
+  text-transform:uppercase;color:var(--bx-copper,#a86b3c)}
+.bx-detail-points p{margin:0;font-size:12px;line-height:1.66;color:var(--bx-muted,#6b756c)}
+@media(max-width:1023px){.bx-detail-points{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:599px){.bx-detail-points{grid-template-columns:1fr;gap:12px}}

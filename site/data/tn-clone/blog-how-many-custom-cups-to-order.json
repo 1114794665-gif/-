@@ -1,0 +1,471 @@
+{
+ "path": "blog/how-many-custom-cups-to-order",
+ "title": "How Many Custom Cups Should You Order? MOQ Arithmetic | EVERCUP",
+ "description": "The three minimums behind one MOQ number, where 10 / 250 / 10,000 come from, the break-even quantity, and how many spares an event needs.",
+ "crumb": "Blog",
+ "art": {
+  "kicker": "Order Planning",
+  "h1": "How Many Custom Cups Should You Order? The Arithmetic Behind the Minimum",
+  "meta": "Published 29 October 2026 · 12 min read · BYF order planning team, Shenzhen",
+  "date": "2026-10-29",
+  "hero": "/img/archive-real-20261103/045-c400fed33c.webp",
+  "body": [
+   {
+    "t": "h2",
+    "x": "Quick Answer"
+   },
+   {
+    "t": "p",
+    "x": "The number you should order is not the minimum your supplier will accept. It is the quantity at which the <strong>fixed cost per piece</strong> stops being the reason your unit price looks high — plus enough spares to cover the cups that will be lost before the last guest leaves."
+   },
+   {
+    "t": "p",
+    "x": "<strong>The rule is: order in the smallest quantity that removes the setup premium, then add 8–12% spares.</strong> Below that point you are paying for screens, colour purges and machine time that get spread over too few pieces. Far above it you are paying for storage, dead stock and cash that sits in a warehouse."
+   },
+   {
+    "t": "p",
+    "x": "This page sets out the three minimums that hide behind one quote, where the familiar 10 / 250 / 10,000 numbers come from, how the price actually behaves as quantity rises, how many spares an event needs by type, and when ordering more becomes the expensive choice. Numbers marked illustrative are methods, not our price list."
+   },
+   {
+    "t": "h2",
+    "x": "What Does “Minimum Order Quantity” Actually Mean?"
+   },
+   {
+    "t": "p",
+    "x": "One MOQ number usually conceals three different minimums, and buyers get caught by the second and third. Ask which one you are being quoted against before you negotiate."
+   },
+   {
+    "t": "table",
+    "cols": [
+     "The minimum you are being quoted",
+     "What sets it",
+     "What changes it"
+    ],
+    "rows": [
+     [
+      "Per order — the smallest shipment the factory will schedule",
+      "Machine time: one run, one setup, one QC pass",
+      "Whether the model is already in production that week"
+     ],
+     [
+      "Per colour — the smallest quantity in one Pantone",
+      "Colour change: purge material, clean the barrel, re-check against the chip",
+      "Whether you accept a nearby stock colour instead of an exact match"
+     ],
+     [
+      "Per decoration — the smallest quantity per print",
+      "Screen, pad or plate setup, plus registration and first-off approval",
+      "Whether artwork is repeated from a previous order, in which case the setup already exists"
+     ],
+     [
+      "Per mould — the smallest quantity that justifies new tooling",
+      "Steel cost divided across the expected life of the tool",
+      "Whether the shape already exists in the supplier's catalogue"
+     ]
+    ],
+    "note": "If a supplier quotes “MOQ 1,000” without saying which of these it refers to, the real constraint is usually decoration, not the cup."
+   },
+   {
+    "t": "p",
+    "x": "The practical consequence: three colours of the same cup at 300 pieces each is not the same order as 900 pieces in one colour. It is three colour changes and three print setups, and it is priced that way. Buyers who plan a colour range without knowing this are surprised at the sample stage, which is the most expensive place to be surprised."
+   },
+   {
+    "t": "h2",
+    "x": "Where Do 10, 250 and 10,000 Pieces Come From?"
+   },
+   {
+    "t": "p",
+    "x": "Those three numbers are not marketing. Each one is the point at which a different cost stops dominating the unit price. They map onto the three routes to a custom cup."
+   },
+   {
+    "t": "table",
+    "cols": [
+     "Route",
+     "Typical entry",
+     "What is being paid for",
+     "What you get"
+    ],
+    "rows": [
+     [
+      "Existing mould, new colour or print",
+      "From 10 pieces",
+      "Setup time only: ink, screens, a colour purge",
+      "Your brand on a shape that already exists"
+     ],
+     [
+      "Existing mould, colour-changing or special ink",
+      "From 250 pieces",
+      "Ink batch minimum and a full purge between colours",
+      "A finish that behaves differently in cold or light"
+     ],
+     [
+      "New shape or new part",
+      "From 10,000 pieces per shape",
+      "Steel, cavity set, trial rounds, tool maintenance",
+      "A body, lid or closure that is yours"
+     ]
+    ],
+    "note": "Entry quantities are the point where the route becomes sensible, not a hard wall. A 6,000-piece tooling order is possible; it just costs more per piece than a 20,000-piece one."
+   },
+   {
+    "t": "p",
+    "x": "The 10-piece entry exists because a single-colour print on an existing model needs maybe twenty minutes of setup. The 250 exists because special inks are bought in batches and a colour change means cleaning the whole ink path. The 10,000 exists because a mould is a five-figure capital item: spread over 10,000 pieces it is a small addition per cup, spread over 1,000 it is not."
+   },
+   {
+    "t": "calc",
+    "label": "Worked example — illustrative figures only",
+    "rows": [
+     [
+      "Decoration setup (hypothetical)",
+      "USD 180"
+     ],
+     [
+      "Order 100 pieces",
+      "USD 1.80 per piece of setup"
+     ],
+     [
+      "Order 500 pieces",
+      "USD 0.36 per piece"
+     ],
+     [
+      "Order 2,000 pieces",
+      "USD 0.09 per piece"
+     ],
+     [
+      "Order 2,000 pieces in four colours",
+      "USD 0.36 per piece again — four setups"
+     ]
+    ],
+    "out": "Setup does not scale down. Whatever the fixed amount is, dividing it by a small quantity is what makes a small order look expensive."
+   },
+   {
+    "t": "h2",
+    "x": "What Does the Price Actually Do as Quantity Rises?"
+   },
+   {
+    "t": "p",
+    "x": "It falls, but not in a straight line, and it stops falling sooner than most buyers expect. The first jump — from a few hundred to a couple of thousand — is large. After that each step saves less, because you have already absorbed the setup and are now only saving machine time and material purchasing."
+   },
+   {
+    "t": "table",
+    "cols": [
+     "Quantity band",
+     "What dominates the price",
+     "What a further increase saves",
+     "Watch for"
+    ],
+    "rows": [
+     [
+      "10 – 100",
+      "Setup per order, picking, packing",
+      "Almost everything — setup is most of the cost",
+      "Per-unit price looks alarming and means nothing yet"
+     ],
+     [
+      "100 – 500",
+      "Setup still visible, material at retail-ish rates",
+      "A large step down, often 25–40%",
+      "Colour changes quietly multiplying the setup"
+     ],
+     [
+      "500 – 2,000",
+      "Machine time, material, decoration",
+      "A clear step down, then flattening",
+      "Storage and spares start to matter more than price"
+     ],
+     [
+      "2,000 – 10,000",
+      "Material, run speed, freight weight",
+      "Modest, single-digit percentages per step",
+      "Cash tied up; artwork revisions become costly"
+     ],
+     [
+      "10,000 +",
+      "Material and freight only",
+      "Little to nothing",
+      "You are now buying a mould-shaped commitment in stock"
+     ]
+    ],
+    "note": "Bands are indicative. The shape of the curve, not the exact percentages, is the useful part — it is the same curve on almost every plastic part."
+   },
+   {
+    "t": "p",
+    "x": "Two things break the curve and are worth asking about. First, whether the factory is already running that model and colour this month — joining an existing run removes a setup you would otherwise pay for. Second, whether your artwork fits the print method without extra passes: a two-colour design on a curved surface can need two registrations, which is a second setup."
+   },
+   {
+    "t": "h2",
+    "x": "How Do You Find the Point Where More Pieces Stop Helping?"
+   },
+   {
+    "t": "p",
+    "x": "Divide the fixed costs by the quantity, add the variable cost, and compare the result against the price you need for your retail or event budget. When the fixed part per piece falls below roughly 10% of the target unit cost, quantity is no longer your problem."
+   },
+   {
+    "t": "calc",
+    "label": "Break-even sketch — illustrative figures only",
+    "rows": [
+     [
+      "Fixed costs (setup + plate/screen + sample)",
+      "USD 620"
+     ],
+     [
+      "Variable cost per cup",
+      "USD 0.85"
+     ],
+     [
+      "Target landed cost per cup",
+      "USD 1.15"
+     ],
+     [
+      "Headroom for fixed cost per cup",
+      "USD 0.30"
+     ],
+     [
+      "620 ÷ 0.30 = quantity needed",
+      "2,067 pieces"
+     ]
+    ],
+    "out": "At about 2,000 pieces the fixed cost stops being the reason the cup is expensive. Below that, every extra 100 pieces buys a visible saving; above it, the saving is small enough that freight and storage can cancel it."
+   },
+   {
+    "t": "p",
+    "x": "Run this before you ask for a quote, not after. A buyer who arrives with a quantity that already clears the fixed cost gets a cleaner number, and a supplier who can see the arithmetic is less likely to pad the range to protect themselves."
+   },
+   {
+    "t": "h2",
+    "x": "How Many Extra Cups Do You Actually Need?"
+   },
+   {
+    "t": "p",
+    "x": "Events lose cups in predictable ways: breakage in transit, staff using them behind the bar, guests taking them home, and the last-minute guest who was not on the list. The percentage depends on the setting, and it is more than most planners budget."
+   },
+   {
+    "t": "table",
+    "cols": [
+     "Setting",
+     "Spares to add",
+     "Where they go",
+     "Notes"
+    ],
+    "rows": [
+     [
+      "Wedding or private party, seated service",
+      "8 – 10%",
+      "Breakage, staff, keepsakes",
+      "Guests often take the cup home; count it as a giveaway, not a loss"
+     ],
+     [
+      "Corporate event or conference",
+      "10 – 12%",
+      "Walk-ins, staff, damaged in transit",
+      "Branded cups disappear fastest at multi-day events"
+     ],
+     [
+      "Bar, club or festival, high volume",
+      "12 – 15%",
+      "Drop damage, clearing, theft",
+      "Order in the same colour as the venue's backup stock if possible"
+     ],
+     [
+      "Stadium or sports venue",
+      "10 – 15%",
+      "Concourse loss, stacking damage",
+      "Stacking damage is real: badly stacked cups crack at the rim"
+     ],
+     [
+      "Sample and approval stage",
+      "10 – 20 pieces",
+      "Your team, the client, the file copy",
+      "Always keep one signed reference piece per colour"
+     ]
+    ],
+    "note": "These are planning percentages from event work, not guarantees. The test is simple: how many cups were short at your last event, and what did the shortfall cost at the bar?"
+   },
+   {
+    "t": "p",
+    "x": "Two spares categories get forgotten. The first is the reference set: one approved cup per colour and per print, kept out of circulation so a repeat order can be matched against something physical rather than a photograph. The second is the replacement set for the venue — cups that will be in use next season, ordered in the same run so the colour matches."
+   },
+   {
+    "t": "h2",
+    "x": "What Happens When You Split One Order Across Colours or Sizes?"
+   },
+   {
+    "t": "p",
+    "x": "Splitting does not divide the minimum, it multiplies it. Each additional colour or size is another changeover, and the changeover is what the minimum was protecting."
+   },
+   {
+    "t": "table",
+    "cols": [
+     "Split",
+     "What the factory has to do",
+     "Effect on your unit price"
+    ],
+    "rows": [
+     [
+      "Two colours, existing mould, same print method",
+      "One extra colour change and purge",
+      "Setup roughly doubles for that order"
+     ],
+     [
+      "Two colours with different artwork",
+      "Extra purge plus extra print setup",
+      "Setup doubles and approval doubles"
+     ],
+     [
+      "Two sizes of the same body",
+      "Usually no extra mould; different cycle and packing",
+      "Small, mainly packing and carton count"
+     ],
+     [
+      "Two lids, one body",
+      "Second part to stock, match and pack",
+      "Small if the lid already exists; new lid means a new minimum"
+     ],
+     [
+      "One colour, one print, one size",
+      "Nothing extra",
+      "The cheapest configuration you can buy"
+     ]
+    ],
+    "note": "If you need a range, the cheapest structure is usually a shared base colour with a small number of accent variations, not four equal colour splits."
+   },
+   {
+    "t": "p",
+    "x": "There is a legitimate reason to split anyway: a distributor needs a sellable range, not one colour. In that case, split by <em>print</em> rather than by <em>cup colour</em> where possible — the cup can be printed in different colours from a single base stock, which is one mould, one material batch and one colour change."
+   },
+   {
+    "t": "h2",
+    "x": "When Does Ordering Less Cost More?"
+   },
+   {
+    "t": "p",
+    "x": "Small orders are cheap per decision and expensive per cup. Three costs hide in them: the setup you pay in full, the freight rate you lose by shipping a light carton, and the second setup when you run short."
+   },
+   {
+    "t": "ul",
+    "items": [
+     "<strong>You pay the setup twice.</strong> A shortfall after the first delivery usually means a second small run, and the second run carries a second full setup. The combined cost is often more than the original larger order.",
+     "<strong>Freight is priced per kilogram and per cubic metre, but with a floor.</strong> A 300-cup shipment occupies almost the same container slot as 600 and pays almost the same handling, so the freight per cup roughly halves.",
+     "<strong>Production slots are not equal.</strong> A tiny order may be scheduled around bigger runs, which can add days. Ask where a small order sits in the queue before you assume it will ship faster.",
+     "<strong>Sample costs are not recoverable.</strong> A sample you pay for on a 200-piece order is a much larger share of the total than the same sample on 2,000 pieces."
+    ]
+   },
+   {
+    "t": "h2",
+    "x": "When Does Ordering More Cost More?"
+   },
+   {
+    "t": "p",
+    "x": "Above the break-even point, every extra pallet is a cost that never appears on the invoice: storage, insurance, dead stock, and the colour drift between an old batch and a new one."
+   },
+   {
+    "t": "table",
+    "cols": [
+     "Cost that grows with quantity",
+     "How it shows up",
+     "How to keep it small"
+    ],
+    "rows": [
+     [
+      "Storage",
+      "Pallet space, rent, re-handling, damp cartons",
+      "Agree a delivery schedule instead of one drop; ask whether stock can be held at the factory"
+     ],
+     [
+      "Dead stock",
+      "Cups from a campaign that ended, a colour the client dropped",
+      "Buy to a plan with a named use, not to a discount"
+     ],
+     [
+      "Colour drift across batches",
+      "The second half of a big order is slightly off the first half",
+      "Ask for one production batch where possible, or approve a tolerance up front"
+     ],
+     [
+      "Cash and working capital",
+      "Money in boxes instead of in the business",
+      "Compare the discount against the cost of holding for a year"
+     ],
+     [
+      "Artwork obsolescence",
+      "Logo or date printed on 5,000 cups you cannot sell",
+      "Never print a date or a season on the whole quantity"
+     ]
+    ],
+    "note": "The last row is the one that hurts. Any cup carrying a date, a venue name or a sponsor should be ordered for that event only."
+   },
+   {
+    "t": "h2",
+    "x": "What This Article Cannot Tell You"
+   },
+   {
+    "t": "p",
+    "x": "It cannot give you a number, because the number depends on four things we do not know yet: the model, the decoration, the number of colours and the delivery address."
+   },
+   {
+    "t": "ul",
+    "items": [
+     "It does not tell you what a cup costs. Setup amounts, variable costs and freight rates in this page are illustrative, used to show the method.",
+     "It does not cover print registration quality or colour accuracy, which can change what quantity is sensible — read the colour guide before you approve a large run.",
+     "It does not account for your own spoilage after delivery: warehouse damage, transport between venues, or staff handling.",
+     "It does not know your sales curve. A distributor ordering for a season has a different right answer from an event organiser buying once.",
+     "It does not replace a written specification. Two quotes at the same quantity can differ by a third simply because one is a thinner wall."
+    ]
+   },
+   {
+    "t": "h2",
+    "x": "What to Send Us to Get a Real Number"
+   },
+   {
+    "t": "p",
+    "x": "Six lines of information turn a range into a number. Send these and the answer usually comes back the same day:"
+   },
+   {
+    "t": "ol",
+    "items": [
+     "The model or the shape you have in mind, plus capacity in oz or ml.",
+     "The quantity you think you need, and separately the date it has to be in hand.",
+     "How many colours in the artwork, and where it sits on the cup.",
+     "Whether colour must match a Pantone chip or a stock colour is acceptable.",
+     "Whether you need lids, straws or packaging in the same shipment.",
+     "The delivery city and whether it can travel by sea."
+    ]
+   },
+   {
+    "t": "p",
+    "x": "If the shape does not exist yet, quantity is the second question, not the first — start with the <a href=\"/tooling/\">tooling guide</a>. If the shape exists and you only need your logo on it, the <a href=\"/how-to-work-with-us/\">ordering process</a> explains what happens between your brief and your delivery date."
+   }
+  ],
+  "related": [
+   {
+    "href": "/blog/mould-or-no-mould",
+    "title": "Does Your Custom Cup Need a New Mould?",
+    "text": "The three routes to a custom cup and the arithmetic that tells you when a mould pays for itself.",
+    "image": "/img/archive-real-20261103/070-bf8b50e360.webp",
+    "alt": "Factory tooling workshop and CNC machining equipment"
+   },
+   {
+    "href": "/blog/custom-cup-lead-times",
+    "title": "Sampling and Production Lead Times",
+    "text": "What the 7–12 day sample window contains, and why production takes 25–30 days.",
+    "image": "/img/archive-real-20261103/081-56ed5ab019.webp",
+    "alt": "Injection moulding equipment in the factory workshop"
+   },
+   {
+    "href": "/quality-control/",
+    "title": "Quality Control and Inspection",
+    "text": "What gets checked in a production run, how many pieces, and against which standard.",
+    "image": "/img/alibaba-factory-20261031/qc-checking.jpg",
+    "alt": "Quality control station at the BYF factory"
+   }
+  ],
+  "cta": {
+   "h2": "Tell us the date and the quantity — we will tell you what fits",
+   "text": "Send the model, the quantity you have in mind and the date it must arrive. You get a quantity recommendation, a decoration breakdown and a delivery plan, not a range.",
+   "href": "/contact/",
+   "label": "Send your order brief"
+  },
+  "heroAlt": "Printed stemware displayed in batches on factory racks",
+  "heroDisclosure": "Photography from our factory archive is used where relevant. Images labelled AI illustration are conceptual and are not production or inspection records."
+ }
+}

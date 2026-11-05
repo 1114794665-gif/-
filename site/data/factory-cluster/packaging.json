@@ -1,0 +1,241 @@
+{
+  "title": "Custom Packaging for Drinkware: Boxes, Inserts and Cartons | EVERCUP",
+  "description": "Packaging options for plastic and silicone drinkware: printed boxes, sleeves, window boxes, gift sets, inserts, labels and barcodes — plus the master carton and drop-test rules that decide whether the goods arrive intact.",
+  "crumb": "Custom Packaging",
+  "blocks": [
+    {
+      "type": "hero",
+      "kicker": "BAOYUANFENG / PACKAGING",
+      "h1": "Packaging: Protection First, Presentation Second",
+      "lead": "A cup that breaks in transit is a product problem, whatever the box looked like. Packing is planned together with the specification — the box, the insert, the carton and the label — because each one is decided by where the product is sold.",
+      "cta": {
+        "href": "/contact/?models=Custom%20packaging",
+        "label": "Get a Packaging Review"
+      },
+      "cta2": {
+        "href": "/wholesale/",
+        "label": "Wholesale & Bulk"
+      },
+      "image": "/img/alibaba-factory-20261031/packing.jpg",
+      "image700": "/img/alibaba-factory-20261031/packing.jpg",
+      "image_alt": "Packing line at the Baoyuanfeng factory — cartoning and sealing",
+      "caption": "Cartoning and sealing on our own line — pack count, carton marks and weight checked before release."
+    },
+    {
+      "type": "stats",
+      "items": [
+        [
+          "Box types",
+          "8",
+          "Bag to gift set"
+        ],
+        [
+          "Inner pack",
+          "Checked",
+          "Count and seal"
+        ],
+        [
+          "Carton drop",
+          "Tested",
+          "On export orders"
+        ],
+        [
+          "Dieline review",
+          "2–3<em>days</em>",
+          "From your file"
+        ],
+        [
+          "Barcode",
+          "Verified",
+          "Scan-tested"
+        ]
+      ]
+    },
+    {
+      "type": "section",
+      "kicker": "THE PACKAGING LAYERS",
+      "h2": "Three layers, three different jobs.",
+      "intro": "Most packaging problems come from treating these as one decision. The inner pack protects the surface, the retail unit sells the product, and the master carton survives the journey.",
+      "blocks": [
+        {
+          "type": "choices",
+          "items": [
+            {
+              "title": "Inner pack — protection",
+              "text": "Poly bag, tissue wrap, foam or bubble pouch, or a moulded pulp cradle. This is the layer that decides whether the print arrives scuffed, and it is the cheapest place to add protection.",
+              "meta": "Bulk and retail"
+            },
+            {
+              "title": "Retail unit — presentation",
+              "text": "White box, kraft box, printed carton, sleeve, window box or a gift set with an insert. The dieline, the print method and the board grade all change the price per unit.",
+              "meta": "Printed per artwork"
+            },
+            {
+              "title": "Master carton — transit",
+              "text": "Carton grade, pack count, weight limit, shipping marks, barcode and pallet pattern. This is the layer your forwarder and your warehouse will judge you on.",
+              "meta": "Export standard"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "tint": true,
+      "kicker": "OPTIONS",
+      "h2": "What we can pack into.",
+      "intro": "The list below covers what buyers actually order. Anything outside it is quoted on request, and we will say when a box type is the wrong choice for the product.",
+      "blocks": [
+        {
+          "type": "table",
+          "head": [
+            "Pack type",
+            "Best for",
+            "Notes"
+          ],
+          "rows": [
+            [
+              "Poly bag, bulk carton",
+              "Wholesale and promotional orders",
+              "Cheapest per unit; the carton does all the protecting"
+            ],
+            [
+              "White or kraft box",
+              "Retail and gift, unbranded",
+              "Low minimum, quick to produce, print applied as a label or a stamp"
+            ],
+            [
+              "Printed carton with dieline",
+              "Retail shelves and e-commerce",
+              "Needs a dieline; board grade and print method are quoted together"
+            ],
+            [
+              "Sleeve over a plain box",
+              "Short runs and seasonal artwork",
+              "Cheaper than reprinting a box; the sleeve carries the design"
+            ],
+            [
+              "Window box",
+              "Products that must be seen before purchase",
+              "Film window plus board; the product must sit tight or it rattles"
+            ],
+            [
+              "Gift set with insert",
+              "Sets of two or more pieces",
+              "Moulded pulp, EVA or card insert — the insert decides the set price"
+            ],
+            [
+              "Hangtag or header card",
+              "Clip-strip and pegboard retail",
+              "Hole position and card thickness are specified by the retailer"
+            ],
+            [
+              "Egg crate and divider",
+              "Stemmed glasses and multi-piece sets",
+              "The only reliable way to ship stemware in a carton"
+            ]
+          ],
+          "note": "Printed packaging is quoted as a separate line with its own minimum, because a box run and a cup run have different setup costs. Folding both into one price makes the packaging look free when it is not."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "kicker": "BEFORE THE BOX IS MADE",
+      "h2": "What decides whether the box works.",
+      "intro": "A beautiful dieline on the wrong board arrives as a crushed carton. These are the checks we run before a packaging order is placed.",
+      "blocks": [
+        {
+          "type": "checklist",
+          "items": [
+            {
+              "title": "Dieline and product fit",
+              "text": "Internal dimensions against the actual product, with clearance for the bag or wrap. A 2 mm error is a rattling product or a box that will not close."
+            },
+            {
+              "title": "Board grade and print method",
+              "text": "Corrugated flute, greyboard, kraft or art paper — and whether the artwork is printed, laminated or applied as a label. Each has a different cost floor."
+            },
+            {
+              "title": "Insert and protection",
+              "text": "Whether the product needs a cradle, a divider or a bag, and how it behaves in a drop test — a stemmed glass and a tumbler need completely different answers."
+            },
+            {
+              "title": "Labels and barcodes",
+              "text": "Barcode symbology, position, and whether the retailer requires a specific label size. Barcodes are scan-tested, not just printed."
+            },
+            {
+              "title": "Master carton rules",
+              "text": "Pack count, carton weight limit, inner dimensions, shipping marks and pallet pattern — set by the channel, not by us."
+            },
+            {
+              "title": "Channel requirements",
+              "text": "Amazon FBA, a retail chain and a distributor each have their own carton, labelling and appointment rules. Send the requirement sheet if you have one."
+            }
+          ]
+        },
+        {
+          "type": "qa",
+          "items": [
+            [
+              "Can you design the packaging?",
+              "We can propose a structure and a dieline from your product and artwork. If you have a designer, send the file and we will check it against the product and the board grade before sampling."
+            ],
+            [
+              "Do you have a minimum for printed boxes?",
+              "Yes, and it is separate from the cup minimum. Tell us the box type and the print coverage and it is quoted as its own line — a printed box run and a moulded cup run do not share a setup."
+            ],
+            [
+              "Can you pack to Amazon FBA rules?",
+              "Yes. Send the FBA shipment plan: carton weight and size limits, FNSKU labelling, poly-bag suffocation warnings and the appointment process. The packing is built to that sheet, not to a generic standard."
+            ],
+            [
+              "What if the cartons arrive damaged?",
+              "Carton damage is a transit issue, and it is handled with photos, the packing list and the forwarder's claim process. Drop-testing the packed carton before shipment is what prevents most of it."
+            ],
+            [
+              "Can I supply my own packaging?",
+              "Yes. Send it to our address and we will pack against it, with the arrival date planned before production starts. Supplying packaging late is the most common reason a shipment slips."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "tint": true,
+      "kicker": "CONTINUE YOUR PROJECT",
+      "h2": "The next useful pages.",
+      "blocks": [
+        {
+          "type": "related",
+          "items": [
+            {
+              "href": "/customization/",
+              "title": "Customization Guide",
+              "text": "Colour, logo method, lids and components — what changes before the box does."
+            },
+            {
+              "href": "/quality-control/",
+              "title": "Quality Control & Testing",
+              "text": "How packed cartons are sampled, weighed and drop-tested before release."
+            },
+            {
+              "href": "/how-to-work-with-us/",
+              "title": "How to Work With Us",
+              "text": "Shipping methods and payment terms, including DDP to a warehouse or FBA centre."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brief",
+      "kicker": "YOUR NEXT STEP",
+      "h2": "Send the product and the artwork. We will tell you what the box has to survive.",
+      "text": "Model, quantity, artwork or dieline, and the sales channel — retail, e-commerce, distributor or promotional.",
+      "label": "Get a Packaging Review",
+      "href": "/contact/?models=Custom%20packaging"
+    }
+  ]
+}

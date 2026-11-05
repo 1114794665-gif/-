@@ -1,0 +1,51 @@
+/* === RFQ-LAYOUT-20261029 === */
+/* 询盘表版式：参考图（居中标题 + 两列/三列栅格 + 虚线文件框 + 订阅勾选） */
+.buyer-rfq-form{display:block;max-width:880px}
+.rfq-head{text-align:center;margin:4px 0 26px}
+.rfq-head h2{margin:0 0 10px;font-size:clamp(23px,2.3vw,31px);line-height:1.25;font-weight:700;color:#22303c;letter-spacing:-.01em}
+.rfq-head p{margin:0;font-size:15.5px;line-height:1.5;color:#5d6d7b}
+.rfq-fields{border:0;margin:0;padding:0;min-width:0}
+.rfq-row{display:grid;gap:14px;margin:0 0 14px}
+.rfq-row.is2{grid-template-columns:1fr 1fr}
+.rfq-row.is3{grid-template-columns:1.25fr 1fr 1fr}
+.rfq-field{display:block;margin:0;min-width:0}
+.rfq-field>span{display:block;margin:0 0 6px;font-size:12.5px;color:#7c8a96}
+.rfq-field input,.rfq-field select,.rfq-field textarea{
+  width:100%;box-sizing:border-box;border:1px solid #d7dde3;border-radius:9px;background:#fff;
+  color:#23323d;font-size:15px;line-height:1.4;padding:13px 15px;font-family:inherit;
+  transition:border-color .15s ease,box-shadow .15s ease;
+}
+.rfq-field input::placeholder,.rfq-field textarea::placeholder{color:#8d9aa6}
+.rfq-field input:focus,.rfq-field select:focus,.rfq-field textarea:focus{
+  outline:0;border-color:#2f6f5a;box-shadow:0 0 0 3px rgba(47,111,90,.12)
+}
+.rfq-select select{
+  -webkit-appearance:none;appearance:none;padding-right:40px;cursor:pointer;
+  background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='14' height='9' viewBox='0 0 14 9'%3E%3Cpath d='M1 1l6 6 6-6' fill='none' stroke='%23394b57' stroke-width='1.8' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+  background-repeat:no-repeat;background-position:right 15px center;background-size:13px 9px;
+}
+.rfq-select select:invalid{color:#8d9aa6}
+.rfq-date input{color:#23323d}
+.rfq-area{margin:2px 0 16px}
+.rfq-area textarea{min-height:170px;resize:vertical;padding:15px}
+.rfq-filehint{margin:10px 0 0;font-size:13.5px;line-height:1.5;color:#5d6d7b}
+.rfq-filehint a{color:#2f6f5a;text-decoration:underline;text-underline-offset:2px}
+form.buyer-rfq-form .rfq-consent{display:flex;align-items:flex-start;gap:11px;margin:20px 0 4px;font-size:13.5px;line-height:1.55;color:#3d4d59;cursor:pointer}
+.rfq-consent input{flex:0 0 auto;width:17px;height:17px;margin:2px 0 0;accent-color:#2f6f5a;cursor:pointer}
+.rfq-consent span{flex:1 1 auto}
+/* 文件框改成参考图的虚线框 */
+.buyer-rfq-form .buyer-artwork-box{border:1px dashed #d3dae0;border-radius:10px;background:#fbfcfd;padding:16px 18px;margin-top:2px}
+.buyer-rfq-form .buyer-artwork-label{display:block;margin:0 0 8px;font-size:11.5px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:#94a1ac}
+.buyer-rfq-form .buyer-drop-header{align-items:center;gap:14px}
+.buyer-rfq-form .buyer-add-files{border-radius:8px;background:#2f6f5a;color:#fff;border:0;font-size:14px;padding:11px 18px}
+.buyer-rfq-form .buyer-add-files:hover{background:#275e4c}
+.buyer-rfq-form .ec-b2b-button{width:100%;margin-top:22px;border-radius:9px;font-size:15px;padding:16px 20px}
+@media (max-width:726px){
+  .rfq-row.is2,.rfq-row.is3{grid-template-columns:1fr}
+  .rfq-head{margin-bottom:20px}
+  .rfq-area textarea{min-height:140px}
+}
+/* 文件框里那段重复的说明框收起来（大文本框已经承担这个用途） */
+.buyer-rfq-form .buyer-artwork-description{display:none}
+form.buyer-rfq-form .rfq-consent input[type=checkbox]{width:17px!important;height:17px!important;min-height:0!important;max-height:17px;margin:3px 0 0!important;padding:0!important;align-self:flex-start;border-radius:4px}
+/* === /RFQ-LAYOUT-20261029 === */

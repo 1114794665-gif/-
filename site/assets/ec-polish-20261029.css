@@ -1,0 +1,98 @@
+/* 类目页卡片美容 2026-10-29
+   选择器前缀 .bx-site 是为了盖住后加载的 buyer-experience 样式，不是随便加的。 */
+
+.bx-site .bx-model-grid .ec-library-card {
+  border-radius: 12px;
+  border: 1px solid #e5e7e7;
+  transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
+}
+
+.bx-site .bx-model-grid .ec-library-card:hover {
+  border-color: #cfe0e4;
+  box-shadow: 0 16px 34px rgba(23, 63, 53, 0.09);
+}
+
+.bx-site .bx-model-grid .ec-library-image-link {
+  background: linear-gradient(180deg, #fbfcfc 0%, #f4f7f7 100%);
+}
+
+.bx-site .bx-model-grid .ec-library-image-link img {
+  height: 214px;
+  padding: 18px;
+}
+
+.bx-site .bx-model-grid .ec-library-card h3 {
+  min-height: 3.15em;
+}
+
+/* 对比按钮：从“灰条”改成真正像按钮 */
+.bx-site .bx-model-grid .buyer-compare-button {
+  border-radius: 8px;
+  border: 1px solid #d8e2e0;
+  background: #fbfdfd;
+  color: #33484a;
+  font-size: 11.5px;
+  letter-spacing: 0.01em;
+  min-height: 38px;
+  padding: 8px 12px;
+  transition: border-color 0.18s, color 0.18s, background 0.18s;
+}
+
+.bx-site .bx-model-grid .buyer-compare-button:hover {
+  border-color: #9fd3e3;
+  color: #0d6b80;
+  background: #f2fbfd;
+}
+
+.bx-site .bx-model-grid .buyer-compare-button.selected {
+  background: #0f323e;
+  border-color: #0f323e;
+  color: #fff;
+}
+
+.bx-site .bx-model-grid .ec-library-link {
+  color: #0f6f8a;
+}
+
+@media (max-width: 900px) {
+  .bx-site .bx-model-grid .ec-library-image-link img { height: 172px; }
+}
+
+/* 类目页底部问答（2026-10-29 恢复） */
+.bx-site .bx-faq-restore { margin-top: 8px; }
+.bx-site .bx-faq-restore > h2 {
+  font-size: 22px;
+  font-weight: 600;
+  color: #0f323e;
+  letter-spacing: -0.01em;
+  margin: 0 0 6px;
+}
+.bx-site .bx-faq-restore .opt-faq { border-top: 1px solid #e5e7e7; margin-top: 14px; }
+.bx-site .bx-faq-restore details { border-bottom: 1px solid #e5e7e7; }
+.bx-site .bx-faq-restore summary {
+  cursor: pointer;
+  padding: 16px 34px 16px 0;
+  font-size: 15px;
+  font-weight: 500;
+  color: #173d33;
+  list-style: none;
+  position: relative;
+}
+.bx-site .bx-faq-restore summary::-webkit-details-marker { display: none; }
+.bx-site .bx-faq-restore summary::after {
+  content: "+";
+  position: absolute;
+  right: 6px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 18px;
+  color: #7d8c89;
+}
+.bx-site .bx-faq-restore details[open] summary::after { content: "–"; }
+.bx-site .bx-faq-restore details p {
+  margin: 0 0 18px;
+  font-size: 14px;
+  line-height: 1.75;
+  color: #5b6a68;
+  max-width: 820px;
+}

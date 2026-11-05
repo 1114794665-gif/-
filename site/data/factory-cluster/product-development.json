@@ -1,0 +1,258 @@
+{
+  "title": "Product Development: Three Routes From Idea to Production | EVERCUP",
+  "description": "Customize an existing model, change one component, or develop a new product from a drawing. What each route costs, what drives the timeline, and the six steps from concept review to mass production.",
+  "crumb": "Product Development",
+  "blocks": [
+    {
+      "type": "hero",
+      "kicker": "BAOYUANFENG / DEVELOPMENT",
+      "h1": "From a Sketch, a Sample or Nothing at All",
+      "lead": "Most projects arrive as a photo of something close, with a list of what is wrong with it. That is enough to start. The first question is never “what do you want to make” — it is “how far from what already exists do you need to be”.",
+      "cta": {
+        "href": "/contact/?models=Product%20development",
+        "label": "Discuss a Development Project"
+      },
+      "cta2": {
+        "href": "/tooling/",
+        "label": "Tooling & Mould Cost"
+      },
+      "image": "/img/alibaba-factory-20261031/ultrasonic-welder.jpg",
+      "image700": "/img/alibaba-factory-20261031/ultrasonic-welder.jpg",
+      "image_alt": "Development and sample work at the Baoyuanfeng factory",
+      "caption": "Development work stays with the team that will mould the part — not a separate design office."
+    },
+    {
+      "type": "stats",
+      "items": [
+        [
+          "Routes",
+          "3",
+          "Existing · part · new"
+        ],
+        [
+          "DFM feedback",
+          "2–5<em>days</em>",
+          "From a drawing"
+        ],
+        [
+          "Decorated sample",
+          "5–7<em>days</em>",
+          "After artwork"
+        ],
+        [
+          "New tooling",
+          "25–35<em>days</em>",
+          "Drawing to trial"
+        ],
+        [
+          "First sample, new product",
+          "30–40<em>days</em>",
+          "Including trial rounds"
+        ]
+      ]
+    },
+    {
+      "type": "section",
+      "kicker": "CHOOSE THE ROUTE",
+      "h2": "Three routes, three different commitments.",
+      "intro": "The route decides the cost, the minimum order and how long the project takes. Choosing the smallest route that solves the problem is usually the difference between a product that ships this season and one that does not.",
+      "blocks": [
+        {
+          "type": "choices",
+          "items": [
+            {
+              "title": "01 · Customize an existing product",
+              "text": "Take a model from the library and change what the buyer sees: colour, finish, print, laser mark, lid option, packing. No tooling, fastest route, 10 pieces on eligible configurations.",
+              "meta": "No tooling · from 10 pcs · 25–30 days"
+            },
+            {
+              "title": "02 · Modify one component",
+              "text": "Keep the body, change the part that makes it yours — a new lid, a different rim, an insert, a base. One small mould instead of a product's worth of tooling, and the body stays on an existing tool.",
+              "meta": "1 mould · 3,000–5,000 pcs"
+            },
+            {
+              "title": "03 · Develop a new product",
+              "text": "A structure that does not exist yet: new body, new lid, new proportions. 2–4 mould sets, DFM review, trial rounds, then a 10,000 piece production minimum to carry the tooling.",
+              "meta": "2–4 moulds · 10,000 pcs"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "text": "If your design can be delivered by route 01 or 02, we will say so — even when route 03 is the more profitable answer for us. A mould cut for a product that did not need one is a customer lost at the second order."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "tint": true,
+      "kicker": "WHAT DRIVES COST AND TIME",
+      "h2": "Four things, and only one of them is the design fee.",
+      "intro": "Development cost is mostly tooling and trial time, not drawing time. This is what to expect before you approve a route.",
+      "blocks": [
+        {
+          "type": "table",
+          "head": [
+            "Factor",
+            "What it covers",
+            "How it moves the project"
+          ],
+          "rows": [
+            [
+              "Tooling",
+              "Mould sets, cavity count, steel, slides, texture",
+              "The largest single line, and the one that sets the production MOQ"
+            ],
+            [
+              "Product design",
+              "Wall sections, draft, gate position, tolerance stack-up, part count",
+              "Redesigning a 2.5 mm wall to 2 mm can remove a mould set — or a whole part"
+            ],
+            [
+              "Sampling",
+              "Trial rounds, decorated samples, freight to you",
+              "2–3 trial rounds are normal; each extra round adds roughly a week"
+            ],
+            [
+              "Testing",
+              "Third-party lab reports, food-contact migration, material identification",
+              "Quoted per model, and only where your market requires it"
+            ]
+          ],
+          "note": "A development quotation separates these four. When they are folded into one number, nobody can tell whether the cost is in the steel or in the paperwork."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "kicker": "THE PROCESS",
+      "h2": "Six steps from brief to mass production.",
+      "intro": "Every step ends with something written down. The point is not bureaucracy — it is that a change after T1 costs tooling time, while the same change before T1 costs an email.",
+      "blocks": [
+        {
+          "type": "steps",
+          "items": [
+            {
+              "title": "Brief and concept review",
+              "text": "What the product has to do, who uses it, the market it sells into, the target quantity and price. Reference photos are welcome; a competitor sample is even better."
+            },
+            {
+              "title": "Route and DFM",
+              "text": "We say which of the three routes fits, and what will be difficult in the drawing: thin sections, undercuts, threads, tolerance between lid and body."
+            },
+            {
+              "title": "Drawing or 3D model",
+              "text": "We work from your file, or produce one from the brief. Rendered views and a dimensioned drawing come back for approval before any steel is cut."
+            },
+            {
+              "title": "Tooling and T1",
+              "text": "The mould is cut, fitted and trialled. T1 parts are measured against the drawing, assembled and sent to you with the measurements."
+            },
+            {
+              "title": "Sample approval",
+              "text": "T2 or T3 corrects what T1 showed. The approved sample — with artwork version and dimension sheet — becomes the standard for production."
+            },
+            {
+              "title": "Mass production",
+              "text": "Production runs on the approved tool at the agreed MOQ, 25–30 days to ship, with first-off parts retained as the reference."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "tint": true,
+      "kicker": "BEFORE THE FIRST CALL",
+      "h2": "What makes a development enquiry answerable.",
+      "intro": "None of these are gates. But an enquiry with all six gets a route recommendation and a cost shape in the first reply, instead of three emails of clarification.",
+      "blocks": [
+        {
+          "type": "checklist",
+          "items": [
+            {
+              "title": "The job the product does",
+              "text": "Cold drink, hot drink, single serve, resale, giveaway. It decides wall thickness, material and lid type more than aesthetics do."
+            },
+            {
+              "title": "A reference",
+              "text": "A product you like, a product you dislike, or your own sketch. Anything visual shortens the first exchange."
+            },
+            {
+              "title": "Volume and price target",
+              "text": "First order and annual repeat, plus the unit price you need to hit. It tells us whether route 01 is even viable."
+            },
+            {
+              "title": "Material constraints",
+              "text": "Food contact, recyclability, BPA-free, hot-fill, dishwasher — each one eliminates some options immediately."
+            },
+            {
+              "title": "Decoration intent",
+              "text": "Print, laser, label, or bare. A part designed for a full wrap print is moulded differently from one that stays blank."
+            },
+            {
+              "title": "Market and documents",
+              "text": "Destination country and the compliance documents your buyer will ask for, so testing is planned rather than discovered."
+            }
+          ]
+        },
+        {
+          "type": "qa",
+          "items": [
+            [
+              "Can you develop a product from a photo only?",
+              "We can start from a photo, and we will tell you what cannot be inferred from it: internal dimensions, wall thickness, material and thread geometry. Those come from a sample, a drawing, or a first round of tooling with iteration."
+            ],
+            [
+              "Do you sign an NDA?",
+              "Yes, on request, before drawings are exchanged. Send yours or ask for ours."
+            ],
+            [
+              "Who owns the design?",
+              "You do, on a development project paid by you. We do not resell a customer's proprietary shape — and we say that in writing rather than in a sales conversation."
+            ],
+            [
+              "What if the product needs a component we do not make?",
+              "We say which parts are outside our process — metal bodies, glass, electronic modules — and quote them as sourced items with the source stated. We do not pass a sourced part off as our own moulding."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "kicker": "CONTINUE YOUR PROJECT",
+      "h2": "The next useful pages.",
+      "blocks": [
+        {
+          "type": "related",
+          "items": [
+            {
+              "href": "/tooling/",
+              "title": "Custom Tooling & Mould Cost",
+              "text": "Mould sets, cavity count and the MOQ that comes with a new tool."
+            },
+            {
+              "href": "/customization/",
+              "title": "Customization Guide",
+              "text": "What can be changed on an existing model — colour, print, lid and packing."
+            },
+            {
+              "href": "/oem-manufacturer/",
+              "title": "OEM & ODM Scope",
+              "text": "Where our work stops and yours starts on a development project."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brief",
+      "kicker": "YOUR NEXT STEP",
+      "h2": "Send what you have. A sketch counts.",
+      "text": "The job the product does, a reference, the volume and the price target. We reply with the route that fits and what it would take.",
+      "label": "Discuss a Development Project",
+      "href": "/contact/?models=Product%20development"
+    }
+  ]
+}

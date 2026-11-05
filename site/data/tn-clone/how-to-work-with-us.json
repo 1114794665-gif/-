@@ -1,0 +1,328 @@
+{
+ "path": "how-to-work-with-us",
+ "title": "How to Work With Us | Custom Drinkware Ordering Process | EVERCUP",
+ "description": "Six steps from first message to loaded pallet: quote, sample, production, inspection, shipping and payment — each with a fixed trigger and output.",
+ "crumb": "How to Work With Us",
+ "postlist": null,
+ "blocks": [
+  {
+   "type": "sec",
+   "head": {
+    "kicker": "HOW TO WORK WITH US",
+    "h2": "Custom Drinkware Ordering Process",
+    "lead": "Six steps from first message to loaded pallet. Every step has a fixed trigger, a fixed output and one person accountable for it — so nobody is guessing where the order stands.",
+    "tag": "h1"
+   },
+   "blocks": [
+    {
+     "type": "cards",
+     "items": [
+      {
+       "icon": "quote",
+       "title": "Get a Quote",
+       "text": "Send the model or the use case, quantity, material, decoration, packing and destination. With those six points we can price against a real specification instead of a guess. If the product does not exist yet, start with the <a href=\"/product-development/\">development routes</a> instead. — usually within one working day."
+      },
+      {
+       "icon": "sample",
+       "title": "Request a Sample",
+       "text": "Before mass production you approve a physical sample: colour against the chip, logo position and size, lid fit, wall thickness and how the surface feels in the hand. Sample lead time is 7–12 days from artwork approval. Sample fees and courier costs are refunded against the bulk order — see <a href=\"/free-samples/\">free samples</a>."
+      },
+      {
+       "icon": "order",
+       "title": "Place Your Order",
+       "text": "The approved sample becomes the specification. We issue a proforma invoice with model, material, decoration, packing, quantity, price basis and delivery date. Production is scheduled once the deposit clears."
+      },
+      {
+       "icon": "production",
+       "title": "Start Production",
+       "text": "Moulding, then decoration, then assembly. You get a production schedule with the dates that matter — material in, moulding start, decoration start, packing start — and a photo update at each milestone. The full route is on the <a href=\"/manufacturing-process/\">manufacturing process</a> page."
+      },
+      {
+       "icon": "inspection",
+       "title": "Quality Inspection",
+       "text": "In-process checks plus a final AQL inspection before packing: appearance, dimensions, leak test where relevant, colour against the approved sample, print adhesion and carton drop. Reports and photos come to you. AQL levels, test items and the reports you receive are set out under <a href=\"/quality-control/\">quality control</a>."
+      },
+      {
+       "icon": "shipping",
+       "title": "Shipping",
+       "text": "We book against your forwarder or quote freight ourselves. Documents — invoice, packing list, and certificate of origin where needed — go out before the container is sealed, not after. Cartons and pallet patterns are agreed earlier, under <a href=\"/packaging/\">custom packaging</a>."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "sec",
+   "bg": "gray",
+   "head": {
+    "kicker": "ORDER SHIPPING",
+    "h2": "Main Shipping Methods for Drinkware",
+    "lead": "Four routes cover almost every order we ship. The right one depends on volume, deadline and how much of the customs paperwork you want to handle."
+   },
+   "blocks": [
+    {
+     "type": "ship",
+     "icon": "ship",
+     "tag": "SEA",
+     "caption": "Sea Freight (Ocean Shipping)",
+     "captionSub": "Best for: large volumes, bulk orders, cost-sensitive shipments",
+     "body": [
+      {
+       "label": "Options",
+       "lines": [
+        "FCL — one customer occupies the whole container (20GP / 40GP / 40HQ)",
+        "LCL — shared container, charged by cubic metre"
+       ]
+      },
+      {
+       "label": "Advantages",
+       "lines": [
+        "Lowest cost per unit",
+        "The normal route for mass production and repeat replenishment"
+       ]
+      },
+      {
+       "label": "Considerations",
+       "lines": [
+        "Longer transit: typically 20–45 days door to door, depending on destination port",
+        "Book early around Chinese New Year and the pre-Christmas peak"
+       ]
+      },
+      {
+       "label": "Typical applications",
+       "lines": [
+        "Wholesale orders",
+        "Retail chain supply",
+        "Long-term inventory planning"
+       ]
+      }
+     ],
+     "stat": {
+      "value": "20–45",
+      "unit": "days door to door"
+     }
+    },
+    {
+     "type": "ship",
+     "icon": "plane",
+     "tag": "AIR",
+     "caption": "Air Freight",
+     "captionSub": "Best for: urgent orders, medium volumes, high-value products",
+     "body": [
+      {
+       "label": "Advantages",
+       "lines": [
+        "Transit around 3–10 days airport to airport",
+        "More predictable than sea when a launch date is fixed"
+       ]
+      },
+      {
+       "label": "Considerations",
+       "lines": [
+        "Cost per kilo is several times sea freight",
+        "Charged on volumetric weight, so light bulky cartons are expensive"
+       ]
+      },
+      {
+       "label": "Typical applications",
+       "lines": [
+        "New product launches",
+        "Urgent restocking",
+        "Time-sensitive promotions"
+       ]
+      }
+     ],
+     "stat": {
+      "value": "3–10",
+      "unit": "days airport to airport"
+     }
+    },
+    {
+     "type": "ship",
+     "icon": "express",
+     "tag": "COURIER",
+     "caption": "Express Courier (DHL / FedEx / UPS)",
+     "captionSub": "Best for: samples, small orders, urgent deliveries",
+     "body": [
+      {
+       "label": "Advantages",
+       "lines": [
+        "Door to door with tracking",
+        "Fastest option, usually 3–7 days",
+        "Paperwork handled by the courier"
+       ]
+      },
+      {
+       "label": "Considerations",
+       "lines": [
+        "Highest cost per unit",
+        "Not sensible above a few hundred kilos"
+       ]
+      },
+      {
+       "label": "Typical applications",
+       "lines": [
+        "Pre-production samples",
+        "Trial orders",
+        "Replacement or urgent shipments"
+       ]
+      }
+     ],
+     "stat": {
+      "value": "3–7",
+      "unit": "days door to door"
+     }
+    },
+    {
+     "type": "ship",
+     "icon": "train",
+     "tag": "RAIL",
+     "caption": "Rail Freight (China–Europe Routes)",
+     "captionSub": "Best for: medium volumes between Asia and Europe",
+     "body": [
+      {
+       "label": "Advantages",
+       "lines": [
+        "Faster than sea, cheaper than air",
+        "Reasonably stable rates"
+       ]
+      },
+      {
+       "label": "Considerations",
+       "lines": [
+        "Limited routes; not available for every European destination",
+        "Schedules are less frequent than weekly sailings"
+       ]
+      },
+      {
+       "label": "Typical applications",
+       "lines": [
+        "European warehouse replenishment",
+        "Buyers balancing cost against transit time"
+       ]
+      }
+     ],
+     "stat": {
+      "value": "18–25",
+      "unit": "days to Europe"
+     }
+    }
+   ]
+  },
+  {
+   "type": "sec",
+   "head": {
+    "kicker": "DOOR TO DOOR",
+    "h2": "Door-to-Door Delivery",
+    "lead": "We quote FOB Shenzhen as standard. If you would rather not run your own freight forwarder, we can quote landed: export clearance, ocean or air leg, import duty and the final delivery to your warehouse or an Amazon FBA centre, on one invoice."
+   },
+   "blocks": [
+    {
+     "type": "twocol",
+     "items": [
+      {
+       "icon": "truck",
+       "title": "Local Truck Delivery",
+       "text": "The classic sea-freight-to-door route. After arrival the container is cleared and delivered by local carrier. Cost-efficient above roughly 3 CBM; the last leg usually takes 3–10 days after the port release, depending on the carrier's schedule.",
+       "lines": [
+        "Large-volume shipments",
+        "Cost-focused replenishment",
+        "Retail and wholesale distribution"
+       ]
+      },
+      {
+       "icon": "express",
+       "title": "Local Express Delivery",
+       "text": "The sea leg stays the same, but the last mile is split into parcels and handed to a domestic courier. For mid-volume orders this is usually faster than a full truck and cheaper than flying, with a practical minimum around 50 kg.",
+       "lines": [
+        "Faster replenishment without paying air freight",
+        "Mid-volume shipments",
+        "Buyers balancing speed against cost"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "strip",
+   "h3": "How Most Buyers Choose?",
+   "lines": [
+    "Lowest landed cost: sea freight, FCL or LCL, on DDP terms",
+    "Fastest delivery: express courier for samples, air for the rest",
+    "Best balance: sea plus local express, or rail for Europe",
+    "Simplest process: let us quote door to door on one invoice"
+   ],
+   "cta": {
+    "label": "Ask for a Freight Quote",
+    "href": "/contact/"
+   }
+  },
+  {
+   "type": "sec",
+   "blocks": [
+    {
+     "type": "pay",
+     "h2": "Flexible & Secure Payment Terms",
+     "paras": [
+      "Built for brands and bulk buyers. We are a factory in Shenzhen, not a trading company, so the payment route matters: it decides who carries the risk between the deposit and the container.",
+      "Below are the channels we actually accept. If anyone asks you to pay into an account that is not on this list, stop and call the number on our contact page before you send anything."
+     ],
+     "noticeTitle": "Important notice",
+     "noticeText": "We only accept payment through the channels below. Any request outside them is not from us — verify first at christoph_enrico@hotmail.com.",
+     "image": "/img/archive-real-20261103/081-56ed5ab019.webp",
+     "imageAlt": "Injection moulding equipment in the factory workshop",
+     "cards": [
+      {
+       "title": "T/T Wire Transfer",
+       "sub": "Recommended for bulk and repeat orders",
+       "paras": [
+        "The standard for international trade and the cheapest route: bank charges are typically USD 20–40 per transfer regardless of amount.",
+        "Normal terms are 30% deposit to schedule production, 70% against the copy of the bill of lading. For repeat customers we can discuss other splits."
+       ],
+       "listTitle": "Key notes",
+       "lines": [
+        "Company account only — no personal accounts, no cash, no cheques",
+        "SWIFT or Hong Kong CHATS both work",
+        "Bank details are re-sent with every proforma invoice so you can compare them"
+       ]
+      },
+      {
+       "title": "Alibaba Trade Assurance",
+       "sub": "Best if you want the order held by a platform",
+       "paras": [
+        "We rank first in the bottle-opener category on Alibaba, and orders placed through Trade Assurance are covered by the platform's payment protection.",
+        "The money is held until the agreed shipping date and inspection terms are met, which suits first orders and buyers who have not worked with a Chinese factory before."
+       ],
+       "listTitle": "Best used for",
+       "lines": [
+        "First order with a new supplier",
+        "Orders where you want platform mediation as a backstop",
+        "Buyers who already purchase through Alibaba"
+       ]
+      },
+      {
+       "title": "PayPal / Card",
+       "sub": "Samples and small trial orders only",
+       "paras": [
+        "Convenient for sample fees and small trials, but the processing fee is high, so we pass it through at cost rather than absorbing it into the unit price.",
+        "A 5% surcharge applies to PayPal payments; for bulk orders please confirm in advance whether it can be accepted at all."
+       ],
+       "listTitle": "Best used for",
+       "lines": [
+        "Sample and mould-development fees",
+        "Orders under a few thousand dollars",
+        "Buyers who need card payment for accounting reasons"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "h2": "Ready to Build Your Next Drinkware Order?",
+   "text": "From a sketch or an existing model to pallets on a boat — send the six points and we will come back with a specification, a price basis and a date."
+  }
+ ]
+}

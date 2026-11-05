@@ -1,0 +1,37 @@
+/* Match the heat-transfer page rhythm; scope LED changes to its hero image. */
+main:has(.ec-library-hero img[src*="fgb-006"]) {--led-ink:#173a30;--led-paper:#faf8f1;--led-line:#dedfd1;background:var(--led-paper)}
+main:has(.ec-library-hero img[src*="fgb-006"]) .ec-library-hero{background:var(--led-paper);border-bottom:1px solid var(--led-line);padding:70px 0}
+main:has(.ec-library-hero img[src*="fgb-006"]) .ec-library-hero-grid{max-width:1240px;grid-template-columns:.85fr 1.15fr;gap:60px;align-items:center}
+main:has(.ec-library-hero img[src*="fgb-006"]) .ec-library-hero h1{font:clamp(38px,4.1vw,60px)/1.12 Georgia,'Songti SC','SimSun',serif;color:var(--led-ink);letter-spacing:-.025em;margin:22px 0}
+main:has(.ec-library-hero img[src*="fgb-006"]) .ec-library-lead{font-size:15px;line-height:1.9;color:#6b7869;max-width:470px}
+main:has(.ec-library-hero img[src*="fgb-006"]) .ec-library-hero figure{border:1px solid #e5e4d9;border-radius:12px;box-shadow:none;overflow:hidden;background:white}
+main:has(.ec-library-hero img[src*="fgb-006"]) .ec-library-hero figure img{width:100%;height:auto;aspect-ratio:3/2;object-fit:contain;padding:18px;background:white}
+main:has(.ec-library-hero img[src*="fgb-006"]) .ec-library-hero figcaption{padding:16px 22px;border-top:1px solid #eeeade;text-align:left;font-size:11px;color:#7a856f}
+main:has(.ec-library-hero img[src*="fgb-006"]) .ec-b2b-button{border-radius:4px;background:#a95736;color:white;box-shadow:none;padding:15px 22px}
+main:has(.ec-library-hero img[src*="fgb-006"]) .ec-library-catalog{max-width:1240px;padding-top:65px;padding-bottom:70px}
+main:has(.ec-library-hero img[src*="fgb-006"]) .buyer-comparison{background:#f0f1e7;border:1px solid var(--led-line);border-radius:8px;box-shadow:none;margin-bottom:30px}
+main:has(.ec-library-hero img[src*="fgb-006"]) .ec-library-group-links{gap:12px;margin:28px 0 55px}
+main:has(.ec-library-hero img[src*="fgb-006"]) .ec-library-group-links a{border:1px solid #d6dccc;border-radius:4px;background:transparent;padding:12px 16px;color:#35533e}
+main:has(.ec-library-hero img[src*="fgb-006"]) .ec-library-group{margin-bottom:65px;scroll-margin-top:110px}
+main:has(.ec-library-hero img[src*="fgb-006"]) .ec-library-group-heading{border-top:1px solid var(--led-line);padding-top:25px;margin-bottom:28px;align-items:baseline}
+main:has(.ec-library-hero img[src*="fgb-006"]) .ec-library-group-heading h2{font:clamp(28px,3vw,38px)/1.2 Georgia,'Songti SC','SimSun',serif;color:var(--led-ink)}
+main:has(.ec-library-hero img[src*="fgb-006"]) .ec-library-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:28px}
+main:has(.ec-library-hero img[src*="fgb-006"]) .ec-library-card{border:1px solid #e3e4d8;border-radius:8px;overflow:hidden;background:white;display:flex;flex-direction:column;box-shadow:none}
+main:has(.ec-library-hero img[src*="fgb-006"]) .ec-library-image-link{display:block;aspect-ratio:1;background:white;overflow:hidden}
+main:has(.ec-library-hero img[src*="fgb-006"]) .ec-library-image-link img{width:100%;height:100%;object-fit:contain;aspect-ratio:1;transition:transform .35s}
+main:has(.ec-library-hero img[src*="fgb-006"]) .ec-library-card:hover img{transform:scale(1.025)}
+main:has(.ec-library-hero img[src*="fgb-006"]) .buyer-image-note{padding:10px 20px;margin:0;background:#f4f4ec;font-size:10px;line-height:1.7;color:#7b836d}
+main:has(.ec-library-hero img[src*="fgb-006"]) .ec-library-card-copy{padding:23px;display:flex;flex:1;flex-direction:column}
+main:has(.ec-library-hero img[src*="fgb-006"]) .ec-library-model{font-size:11px;letter-spacing:.12em;color:#a85b3c;margin:0 0 12px}
+main:has(.ec-library-hero img[src*="fgb-006"]) .ec-library-card h3{font:25px/1.25 Georgia,'Songti SC','SimSun',serif;color:var(--led-ink);margin:0 0 16px;flex:1}
+main:has(.ec-library-hero img[src*="fgb-006"]) .ec-library-facts{font-size:13px;color:#73806d;margin-bottom:18px}
+main:has(.ec-library-hero img[src*="fgb-006"]) .buyer-compare-button{border-radius:4px;min-height:42px;font-size:12px}
+main:has(.ec-library-hero img[src*="fgb-006"]) .ec-library-link{margin-top:18px;padding-top:16px;border-top:1px solid #e1e5d8;color:#a95736;font-size:12px}
+/* Screen-printing shortlist shares the same spacing and square-image cards. */
+.pe-related:has(a[href*="full-color-stadium"]) .pe-product-grid{gap:28px}
+.pe-related .pe-product{display:flex;flex-direction:column;border:1px solid #e3e4d8;background:white;border-radius:8px;overflow:hidden;padding-bottom:22px}
+.pe-related .pe-product-image{width:100%;aspect-ratio:1}
+.pe-related .pe-product>span,.pe-related .pe-product>h3,.pe-related .pe-product>p{margin-left:22px;margin-right:22px}
+.pe-related .pe-product>h3{flex:1;font-size:25px}
+@media(max-width:850px){main:has(.ec-library-hero img[src*="fgb-006"]) .ec-library-hero-grid{grid-template-columns:1fr;gap:30px}main:has(.ec-library-hero img[src*="fgb-006"]) .ec-library-hero{padding:42px 0}main:has(.ec-library-hero img[src*="fgb-006"]) .ec-library-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}main:has(.ec-library-hero img[src*="fgb-006"]) .ec-library-card h3{font-size:21px}}
+@media(max-width:550px){main:has(.ec-library-hero img[src*="fgb-006"]) .ec-library-grid,.pe-related .pe-product-grid{grid-template-columns:1fr}main:has(.ec-library-hero img[src*="fgb-006"]) .ec-library-catalog{padding-top:35px}main:has(.ec-library-hero img[src*="fgb-006"]) .ec-library-group-links{margin-bottom:35px}main:has(.ec-library-hero img[src*="fgb-006"]) .ec-library-hero h1{font-size:40px}}

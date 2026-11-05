@@ -1,0 +1,153 @@
+{
+ "path": "blog",
+ "title": "Drinkware Manufacturing & Buying Guides | EVERCUP",
+ "description": "Six factory-floor guides for drinkware buyers: order quantity, lead times, silicone vs plastic, when a new mould pays off, colour matching, and AQL inspection.",
+ "crumb": "Blog",
+ "postlist": [
+  {
+   "href": "/blog/how-many-custom-cups-to-order/",
+   "title": "How Many Custom Cups Should You Order?"
+  },
+  {
+   "href": "/blog/custom-cup-lead-times/",
+   "title": "What 7–12 Days of Sampling Actually Contains"
+  },
+  {
+   "href": "/blog/silicone-vs-plastic-cups/",
+   "title": "Silicone vs Plastic Cups, Spec by Spec"
+  },
+  {
+   "href": "/blog/mould-or-no-mould/",
+   "title": "Does Your Custom Cup Need a New Mould?"
+  },
+  {
+   "href": "/blog/plastic-colour-matching/",
+   "title": "Why Your Cup Colour Doesn't Match the Chip"
+  },
+  {
+   "href": "/blog/what-aql-inspection-tells-you/",
+   "title": "What an AQL Inspection Actually Tells You"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "blog",
+   "side": {
+    "title": "Explore Drinkware Topics",
+    "links": [
+     {
+      "label": "Custom Tooling & Mould Cost",
+      "href": "/tooling/"
+     },
+     {
+      "label": "Manufacturing Process",
+      "href": "/manufacturing-process/"
+     },
+     {
+      "label": "Quality Control & Testing",
+      "href": "/quality-control/"
+     },
+     {
+      "label": "Product Development",
+      "href": "/product-development/"
+     },
+     {
+      "label": "Customization Guide",
+      "href": "/customization/"
+     },
+     {
+      "label": "Custom Packaging",
+      "href": "/packaging/"
+     },
+     {
+      "label": "Buying FAQ",
+      "href": "/faq/"
+     }
+    ],
+    "help": {
+     "image": "/img/alibaba-factory-20261031/packing.jpg",
+     "imageAlt": "BYF packing team member checking a wrapped product",
+     "title": "Need Help With Your Drinkware Project?",
+     "text": "Tell us what you need — product, quantity, logo, colour or packaging. Our team reviews the requirement and comes back with a specification and a price basis.",
+     "cta": {
+      "label": "Get a Quote",
+      "href": "/contact/"
+     }
+    }
+   },
+   "posts": [
+    {
+     "href": "/blog/how-many-custom-cups-to-order/",
+     "day": "29",
+     "month": "Oct",
+     "title": "How Many Custom Cups Should You Order?",
+     "excerpt": "Three different minimums hide behind one MOQ number. The quantity arithmetic that removes the setup premium — and how many spare cups an event actually loses.",
+     "image": "/img/archive-real-20261103/045-c400fed33c.webp",
+     "alt": "Printed stemware displayed in batches on factory racks",
+     "imageDisclosure": "Photography from our factory archive is used where relevant. Images labelled AI illustration are conceptual and are not production or inspection records."
+    },
+    {
+     "href": "/blog/custom-cup-lead-times/",
+     "day": "29",
+     "month": "Oct",
+     "title": "What 7–12 Days of Sampling Actually Contains",
+     "excerpt": "The day-by-day anatomy of a sample window, why production runs 25–30 days, and the three calendar weeks in China that quietly decide your launch date.",
+     "image": "/img/archive-real-20261103/069-06bb45674b.webp",
+     "alt": "Factory sample room; sample range reference",
+     "imageDisclosure": "Photography from our factory archive is used where relevant. Images labelled AI illustration are conceptual and are not production or inspection records."
+    },
+    {
+     "href": "/blog/silicone-vs-plastic-cups/",
+     "day": "29",
+     "month": "Oct",
+     "title": "Silicone vs Plastic Cups, Spec by Spec",
+     "excerpt": "One material folds and survives a drop, the other holds a hairline logo. What changes in print, colour, freight weight and carton count for 500 cups.",
+     "image": "/img/factory-article-scenes-20261103/materials-6971a859e37d.webp",
+     "alt": "Silicone and PP cups side by side at the factory bench — AI illustration based on factory photos",
+     "imageDisclosure": "Photography from our factory archive is used where relevant. Images labelled AI illustration are conceptual and are not production or inspection records."
+    },
+    {
+     "href": "/blog/mould-or-no-mould/",
+     "day": "29",
+     "month": "Oct",
+     "title": "Does Your Custom Cup Need a New Mould?",
+     "excerpt": "The three routes to a custom cup, the arithmetic that tells you when a mould pays for itself, and the six stages between a drawing and a shippable cup.",
+     "image": "/img/archive-real-20261103/072-884500fb18.webp",
+     "alt": "CNC machining equipment in the tooling workshop",
+     "imageDisclosure": "Photography from our factory archive is used where relevant. Images labelled AI illustration are conceptual and are not production or inspection records."
+    },
+    {
+     "href": "/blog/plastic-colour-matching/",
+     "day": "29",
+     "month": "Oct",
+     "title": "Why Your Cup Colour Doesn't Match the Chip",
+     "excerpt": "The four renderings of one Pantone number, why the light you approve in changes the answer, and how to sign off colour so a repeat order still matches.",
+     "image": "/img/archive-real-20261103/084-771efa29cf.webp",
+     "alt": "Yellow stemmed glass compared with a physical colour swatch",
+     "imageDisclosure": "Photography from our factory archive is used where relevant. Images labelled AI illustration are conceptual and are not production or inspection records."
+    },
+    {
+     "href": "/blog/what-aql-inspection-tells-you/",
+     "day": "29",
+     "month": "Oct",
+     "title": "What an AQL Inspection Actually Tells You",
+     "excerpt": "What the percentages mean, how many pieces get checked out of 10,000, and six defects an inspection cannot see before the container sails.",
+     "image": "/img/factory-article-scenes-20261103/inspection-ac2e151863fc.webp",
+     "alt": "One selected cup inspected beside a sample tray and the remaining batch — AI illustration based on factory photos",
+     "imageDisclosure": "Photography from our factory archive is used where relevant. Images labelled AI illustration are conceptual and are not production or inspection records."
+    }
+   ],
+   "foot": "Six guides, written in-house by the people who run the moulds. Where a number depends on your specification, the guide shows the arithmetic instead of quoting a price.",
+   "head": {
+    "kicker": "Journal",
+    "h1": "Drinkware Manufacturing & Buying Guides",
+    "lead": "Six guides written by the people who run the moulds: how many cups a project really needs, where the days in a lead time actually go, how silicone and rigid plastic differ in the hand, when a new mould is the answer, why colour drifts from the Pantone chip, and what an inspection can and cannot see."
+   }
+  },
+  {
+   "type": "cta",
+   "h2": "Ready to Build Your Next Drinkware Collection?",
+   "text": "From product idea to pallets on a boat — tell us the product, the quantity and the date, and we will come back with a specification and a price basis."
+  }
+ ]
+}

@@ -1,0 +1,8 @@
+{
+  "enabled": false,
+  "ga4MeasurementId": null,
+  "domain": "www.boomdrinkware.com",
+  "status": "prepared, not connected",
+  "consentRequired": true,
+  "prohibitedFields": ["name", "email", "phone", "enquiry_text", "file_urls", "artwork", "full_query_string"]
+}

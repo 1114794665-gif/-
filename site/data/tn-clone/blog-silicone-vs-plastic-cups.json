@@ -1,0 +1,527 @@
+{
+ "path": "blog/silicone-vs-plastic-cups",
+ "title": "Silicone vs Plastic Cups: Use, Print, Freight and Cost | EVERCUP",
+ "description": "What changes when a cup is flexible instead of rigid: print quality, colour, 500-cup freight weight and carton count, ageing, and the five common mistakes.",
+ "crumb": "Blog",
+ "art": {
+  "kicker": "Material Selection",
+  "h1": "Silicone vs Plastic Cups: What Actually Changes in Use, Print and Freight",
+  "meta": "Published 29 October 2026 · 12 min read · BYF materials and tooling team, Shenzhen",
+  "date": "2026-10-29",
+  "hero": "/img/factory-article-scenes-20261103/materials-6971a859e37d.webp",
+  "body": [
+   {
+    "t": "h2",
+    "x": "Quick Answer"
+   },
+   {
+    "t": "p",
+    "x": "Silicone is flexible, folds flat, survives being dropped and takes heat. Rigid plastic holds a crisp shape, shows print sharply, stacks compactly and costs less per unit at volume. They are not competing for the same job, and the choice is usually decided by three questions: does it have to fold, does the print have to be sharp, and how much freight can you afford?"
+   },
+   {
+    "t": "p",
+    "x": "<strong>The rule is: pick silicone when the cup has to survive handling and travel; pick rigid plastic when the cup has to look like a product.</strong> A collapsible cup that will be stuffed into a backpack is silicone. A branded stadium cup that must reproduce a logo at 8 pt is plastic."
+   },
+   {
+    "t": "p",
+    "x": "Below: the mechanical difference in one line, where each material genuinely wins, a spec-by-spec table, how printing and colour behave on each surface, the freight arithmetic for 500 cups, how both age, and the five mistakes buyers make that only appear after the container has sailed."
+   },
+   {
+    "t": "h2",
+    "x": "What Is the Real Difference Between Them?"
+   },
+   {
+    "t": "p",
+    "x": "Silicone is an elastomer: it deforms and returns. Plastic is a thermoplastic: it holds its shape until it is heated past its softening point. Everything else — the print methods, the wall design, the packing, the lifespan — follows from that one sentence."
+   },
+   {
+    "t": "table",
+    "cols": [
+     "Property",
+     "Silicone",
+     "Rigid plastic (PP, Tritan, AS)",
+     "What it changes for you"
+    ],
+    "rows": [
+     [
+      "Shape under load",
+      "Squeezes, returns to shape",
+      "Holds shape, can crack under impact",
+      "Silicone survives handling; plastic survives looking good"
+     ],
+     [
+      "Wall thickness",
+      "Thick, 1.5–3 mm, needed for stiffness",
+      "Thin, 0.8–2 mm",
+      "Silicone weighs more per cup for the same capacity"
+     ],
+     [
+      "Transparency",
+      "Translucent at best",
+      "Clear or fully opaque",
+      "Only plastic can be water-clear"
+     ],
+     [
+      "Print resolution",
+      "Softer edges, thicker minimum line",
+      "Sharp, fine detail and small text",
+      "Fine logos and small type belong on plastic"
+     ],
+     [
+      "Packing volume",
+      "Folds flat, small footprint",
+      "Stacks, but full height",
+      "Silicone saves freight when it collapses"
+     ],
+     [
+      "Repairability",
+      "Dents recover, tears do not",
+      "Cracks are permanent",
+      "Both are consumables; silicone fails less dramatically"
+     ]
+    ],
+    "note": "The comparison assumes food-contact grades on both sides. A non-food-grade plastic can be cheaper and is not an option for a drinking vessel."
+   },
+   {
+    "t": "h2",
+    "x": "Where Does Silicone Genuinely Win?"
+   },
+   {
+    "t": "p",
+    "x": "Silicone wins in environments where the cup is treated as equipment rather than as a display object. Four situations come up again and again."
+   },
+   {
+    "t": "ul",
+    "items": [
+     "<strong>It folds.</strong> A collapsible silicone pint flattens to a couple of centimetres. For festival merchandise, camper kits, boat lockers and corporate welcome packs, that is the entire proposition — the cup travels in a pocket.",
+     "<strong>It survives a drop.</strong> No shards, no crack propagating across the base. On a concrete floor at a nightclub, that is the difference between a cup that gets picked up and one that gets swept up.",
+     "<strong>It takes temperature at both ends.</strong> Silicone is happy with boiling coffee and with a freezer, without the stress-cracking that thin plastic can develop. A cup that goes from a hot drinks station to an ice bucket is a silicone job.",
+     "<strong>It grips.</strong> A silicone surface does not slide out of a wet hand, and it does not clatter on a bar top. For hospitality, both matter more than buyers expect."
+    ]
+   },
+   {
+    "t": "p",
+    "x": "Our own silicone lines run at roughly 3,000 pieces a day, which is why silicone is not a niche for us — but the material still has limits that no amount of capacity removes. A silicone cup cannot be water-clear, and it cannot hold a hairline logo."
+   },
+   {
+    "t": "h2",
+    "x": "Where Does Rigid Plastic Genuinely Win?"
+   },
+   {
+    "t": "p",
+    "x": "Rigid plastic wins wherever the cup is doing brand work: it is a surface that holds ink precisely and a shape that photographs well."
+   },
+   {
+    "t": "ul",
+    "items": [
+     "<strong>Print fidelity.</strong> Small type, fine rules, a signature or a crest at 6 pt — plastic reproduces it. On silicone the same artwork thickens and softens because the surface moves under the ink.",
+     "<strong>Clarity and finish.</strong> Water-clear Tritan, frosted PP, high-gloss AS: the material itself is part of the design. Silicone is a matte, slightly translucent object and stays that way.",
+     "<strong>Stacking and service.</strong> Rigid cups stack into a stable column, sit in a cup holder, take a lid with a positive click and hold a straw upright. Silicone cups are floppy when empty and need a hand.",
+     "<strong>Unit cost at volume.</strong> Injection moulding a thin wall uses less material and shorter cycle time than compression moulding a thick silicone wall. At 10,000 pieces the gap per unit is meaningful.",
+     "<strong>Colour accuracy.</strong> Matching a Pantone chip on plastic is a well-worn process. On silicone it is achievable but with a wider tolerance band, because the material itself is not transparent and the surface scatters light."
+    ]
+   },
+   {
+    "t": "h2",
+    "x": "How Do They Compare Spec by Spec?"
+   },
+   {
+    "t": "p",
+    "x": "This is the table to take into a specification meeting. It is deliberately about the properties that change a buying decision, not a full material data sheet."
+   },
+   {
+    "t": "table",
+    "cols": [
+     "Specification",
+     "Silicone",
+     "PP",
+     "Tritan / AS",
+     "Ask for"
+    ],
+    "rows": [
+     [
+      "Typical service temperature",
+      "−40 to 230 °C",
+      "0 to 100 °C",
+      "0 to 90 °C",
+      "Written range for the exact grade"
+     ],
+     [
+      "Dishwasher",
+      "Yes",
+      "Usually yes, top rack preferred",
+      "Yes, but check the grade",
+      "A note that the print survives washing"
+     ],
+     [
+      "Clarity",
+      "Translucent",
+      "Translucent to opaque",
+      "Clear",
+      "A physical sample, not a photo"
+     ],
+     [
+      "Weight, 16 oz cup",
+      "120 – 170 g",
+      "45 – 70 g",
+      "90 – 115 g",
+      "Filled and empty weight on the spec sheet"
+     ],
+     [
+      "Wall",
+      "1.5 – 3 mm, thick by design",
+      "0.8 – 1.5 mm",
+      "1.2 – 2 mm",
+      "Wall at the rim, where cracking starts"
+     ],
+     [
+      "Flex",
+      "Flexible",
+      "Rigid",
+      "Rigid",
+      "Whether the cup must fold"
+     ],
+     [
+      "Impact behaviour",
+      "Bounces",
+      "Can crack at low temperature",
+      "Can craze or shatter",
+      "A drop test at the temperature of use"
+     ],
+     [
+      "Entry quantity",
+      "From 250 pieces for colour change",
+      "From 10 pieces on existing moulds",
+      "From 10 pieces on existing moulds",
+      "Whether the shape already exists"
+     ]
+    ],
+    "note": "Temperature ranges and weights are typical bands, not guarantees. The grade, the wall thickness and the lid all move them, which is why the specification should name the grade."
+   },
+   {
+    "t": "p",
+    "x": "One line in that table decides more projects than the rest: <strong>clarity</strong>. If the design depends on seeing the drink — a layered cocktail, a coloured beer, a lit-up base — silicone is disqualified before price is discussed."
+   },
+   {
+    "t": "h2",
+    "x": "How Do Printing and Colour Behave on Each Surface?"
+   },
+   {
+    "t": "p",
+    "x": "The same artwork is not the same print on two materials. Ink adheres differently, the surface scatters light differently, and the minimum line weight is different. A design approved on a plastic sample will look heavier on silicone."
+   },
+   {
+    "t": "table",
+    "cols": [
+     "Method",
+     "Works on silicone",
+     "Works on rigid plastic",
+     "What it looks like in use"
+    ],
+    "rows": [
+     [
+      "Screen printing",
+      "Yes, with silicone-compatible ink and a cure",
+      "Yes, the standard method",
+      "Solid, opaque, good for one or two colours"
+     ],
+     [
+      "Pad printing",
+      "Possible, softer detail",
+      "Yes",
+      "Good for small curved areas and fine text"
+     ],
+     [
+      "UV digital printing",
+      "Not typical",
+      "Yes",
+      "Photographic detail, gradients, short runs"
+     ],
+     [
+      "Laser marking",
+      "Not applicable",
+      "Yes, on darker plastics",
+      "Permanent, tonal, single colour"
+     ],
+     [
+      "Moulded-in colour",
+      "Yes, pigment in the compound",
+      "Yes, masterbatch",
+      "Colour cannot peel because it is not a layer"
+     ],
+     [
+      "Heat transfer",
+      "Not typical",
+      "Yes",
+      "Full-colour wraps on curved walls"
+     ]
+    ],
+    "note": "Silicone print needs a cure step and a stretch Test: bend the printed area and look for cracking. Ask for a stretched sample, not a flat one."
+   },
+   {
+    "t": "p",
+    "x": "There is a second colour issue on silicone that surprises buyers on repeat orders. The material is pigmented throughout, so a small change in pigment loading reads as a larger visual shift than the same change on an opaque plastic surface. If you need two production runs to match, approve both against a physical plaque rather than a screen — the same discipline that applies to <a href=\"/blog/plastic-colour-matching\">plastic colour matching</a>, with less margin."
+   },
+   {
+    "t": "h2",
+    "x": "What Do 500 Cups Weigh and Occupy?"
+   },
+   {
+    "t": "p",
+    "x": "Freight is where the material choice stops being aesthetic. A collapsible silicone cup is heavier per piece but far smaller packed; a rigid cup is light but takes its full volume to the port."
+   },
+   {
+    "t": "calc",
+    "label": "500 × 16 oz cups — illustrative figures only",
+    "rows": [
+     [
+      "Collapsible silicone: weight per cup",
+      "160 g → 80 kg total"
+     ],
+     [
+      "Collapsible silicone: folded volume per cup",
+      "≈ 0.28 L → 140 L total"
+     ],
+     [
+      "Rigid PP: weight per cup",
+      "60 g → 30 kg total"
+     ],
+     [
+      "Rigid PP: stacked volume per cup",
+      "≈ 1.24 L → 620 L total"
+     ],
+     [
+      "Cartons at roughly 60 L each",
+      "Silicone 3 cartons · plastic 11 cartons"
+     ]
+    ],
+    "out": "The silicone order weighs 2.7× more but occupies a quarter of the space. On sea freight charged by volume, silicone is the cheaper shipment; on air freight charged by weight, plastic usually is."
+   },
+   {
+    "t": "p",
+    "x": "This is the calculation that flips the decision for export buyers. For a US or EU delivery by sea, a collapsible silicone programme often lands cheaper than a rigid one despite the higher unit price, purely because eleven cartons of air space become three. Run the arithmetic with your own freight rate before rejecting silicone on unit cost alone."
+   },
+   {
+    "t": "h2",
+    "x": "How Do They Age Over a Season?"
+   },
+   {
+    "t": "p",
+    "x": "Both materials are consumables, but they fail differently, and the failure mode decides what your second order looks like."
+   },
+   {
+    "t": "table",
+    "cols": [
+     "Ageing behaviour",
+     "Silicone",
+     "Rigid plastic"
+    ],
+    "rows": [
+     [
+      "Typical usable life",
+      "Years, if washed and dried",
+      "A season or two of heavy event use"
+     ],
+     [
+      "First sign of wear",
+      "Print dulls, edges soften, odour retention",
+      "Scratches, crazing, print chipping"
+     ],
+     [
+      "Heat damage",
+      "Rare",
+      "Deformation in a dishwasher or hot car"
+     ],
+     [
+      "Odour and staining",
+      "Absorbs strong smells and turmeric-type colours",
+      "Stains less, but scratches hold residue"
+     ],
+     [
+      "Breakage",
+      "Tears at a fold line, rarely",
+      "Cracks at the rim or base radius"
+     ],
+     [
+      "Repeat order risk",
+      "Colour drifts between pigment batches",
+      "Colour drifts less; mould wear shows as flash"
+     ]
+    ],
+    "note": "Silicone's odour retention is the complaint buyers forget to test for. If the cup will hold coffee, mulled wine or a spiced drink, wash one and leave it closed overnight before you approve a large run."
+   },
+   {
+    "t": "p",
+    "x": "Neither material is a permanent asset. What matters is whether the failure is visible before the event or during it. A cracked rigid cup fails loudly at the worst moment; a silicone cup that has lost its print still holds the drink, which is often the more useful failure."
+   },
+   {
+    "t": "h2",
+    "x": "What Do Buyers Get Wrong?"
+   },
+   {
+    "t": "p",
+    "x": "These five mistakes recur across projects, and each one is expensive in a different way."
+   },
+   {
+    "t": "table",
+    "cols": [
+     "Mistake",
+     "What it costs",
+     "How to avoid it"
+    ],
+    "rows": [
+     [
+      "Approving artwork on a plastic sample, then switching to silicone",
+      "A new print setup and a second sample round",
+      "Approve the artwork on the material you will actually buy"
+     ],
+     [
+      "Specifying a fine logo on silicone",
+      "A print that looks blurred and a rejected batch",
+      "Thicken lines and simplify detail before the sample"
+     ],
+     [
+      "Assuming silicone is cheaper because it folds",
+      "A unit price surprise at quote stage",
+      "Compare landed cost including cartons and freight, not unit price"
+     ],
+     [
+      "Ordering silicone without a stretch test",
+      "Print cracking in the first week of use",
+      "Bend the printed area on the sample before approving"
+     ],
+     [
+      "Ignoring the lid",
+      "A cup that leaks in a bag",
+      "Test the lid filled and on its side, not empty"
+     ]
+    ],
+    "note": "The first row is the most common and the most avoidable. Material changes after sample approval are never free."
+   },
+   {
+    "t": "h2",
+    "x": "What This Comparison Leaves Out"
+   },
+   {
+    "t": "p",
+    "x": "It leaves out your drink, your venue and your dishwasher, which is where the real answer usually hides."
+   },
+   {
+    "t": "ul",
+    "items": [
+     "It does not cover food-contact certification for your market. Silicone and plastic both need the right grade and the right documentation, and they are not interchangeable paperwork.",
+     "It assumes a drinking vessel. Silicone and plastic behave differently in bowls, ice buckets and bar mats, where stiffness and weight matter more.",
+     "It cannot judge your print design. Send the artwork and we will tell you which material preserves it.",
+     "It does not price anything. Per-unit and freight figures above are illustrative and used to show the method.",
+     "It does not replace a physical sample. Every claim on this page is worth less than holding both cups in the same hand."
+    ]
+   },
+   {
+    "t": "h2",
+    "x": "Where Can You Check the Rules Yourself?"
+   },
+   {
+    "t": "p",
+    "x": "Every compliance sentence on this page points back to a published rule, and you should read the rule rather than take our word for it. The six links below go straight to the issuing body — no reseller, no summary blog, no copy on our server."
+   },
+   {
+    "t": "table",
+    "cols": [
+     "Rule",
+     "What it actually covers",
+     "Original text"
+    ],
+    "rows": [
+     [
+      "FDA — Food Ingredients & Packaging",
+      "The US framework: what counts as a food contact substance and how it is cleared before sale",
+      "<a href=\"https://www.fda.gov/food/food-ingredients-packaging\" target=\"_blank\" rel=\"noopener\">fda.gov</a>"
+     ],
+     [
+      "21 CFR Part 177",
+      "Indirect food additives — the permitted base polymers, including polypropylene and rubber articles",
+      "<a href=\"https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-177\" target=\"_blank\" rel=\"noopener\">ecfr.gov</a>"
+     ],
+     [
+      "EU 1935/2004",
+      "Framework regulation for any material intended to touch food in the EU",
+      "<a href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32004R1935\" target=\"_blank\" rel=\"noopener\">eur-lex.europa.eu</a>"
+     ],
+     [
+      "EU 10/2011",
+      "The plastic-specific rules: authorised substances, migration limits, declaration of compliance",
+      "<a href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011R0010\" target=\"_blank\" rel=\"noopener\">eur-lex.europa.eu</a>"
+     ],
+     [
+      "LFGB (Germany)",
+      "German food and feed code — what an LFGB report is issued against, and what it does not cover",
+      "<a href=\"https://www.gesetze-im-internet.de/lfgb/\" target=\"_blank\" rel=\"noopener\">gesetze-im-internet.de</a>"
+     ],
+     [
+      "California Prop 65",
+      "Warning requirement for listed chemicals; it reaches decorated and printed drinkware sold in California",
+      "<a href=\"https://oehha.ca.gov/proposition-65\" target=\"_blank\" rel=\"noopener\">oehha.ca.gov</a>"
+     ]
+    ],
+    "note": "Six government or EU publications. All of them are long, none is written for buyers, and none of them says your cup passes — they say what a laboratory has to test."
+   },
+   {
+    "t": "p",
+    "x": "What none of them tell you is which clause applies to your order. That depends on the material, the country of sale, and whether the cup is aimed at children. Send the model and the destination and we will name the clause, not just the standard."
+   },
+   {
+    "t": "h2",
+    "x": "What to Send Us to Get a Straight Answer"
+   },
+   {
+    "t": "p",
+    "x": "Two materials, one brief, one recommendation. Send these five things and we will tell you which one we would specify and why:"
+   },
+   {
+    "t": "ol",
+    "items": [
+     "The use: event service, retail product, merchandise, or hospitality.",
+     "Capacity in oz or ml, and whether the cup must fold or stack.",
+     "Artwork, including the smallest text that must stay legible.",
+     "Whether clarity matters — does the drink need to be visible?",
+     "Quantity, destination and whether the shipment goes by sea or air."
+    ]
+   },
+   {
+    "t": "p",
+    "x": "If the answer is a new shape, the next step is a tooling conversation rather than a material one — start with <a href=\"/blog/mould-or-no-mould\">whether you need a new mould</a>. If the shape exists and you need both options quoted, the <a href=\"/custom-silicone-cups/\">silicone range</a> and the <a href=\"/custom-plastic-cups/\">plastic range</a> show what is already tooled."
+   }
+  ],
+  "related": [
+   {
+    "href": "/blog/plastic-colour-matching",
+    "title": "Why Your Cup Colour Doesn't Match the Chip",
+    "text": "The four renderings of one Pantone number, and how to approve colour so a repeat order still matches.",
+    "image": "/img/alibaba-factory-20261031/ultrasonic-welder.jpg",
+    "alt": "Assembly line at the BYF factory"
+   },
+   {
+    "href": "/blog/custom-cup-lead-times",
+    "title": "Sampling and Production Lead Times",
+    "text": "What the 7–12 day sample window contains, and why silicone and plastic run on different rhythms.",
+    "image": "/img/archive-real-20261103/081-56ed5ab019.webp",
+    "alt": "Injection moulding equipment in the factory workshop"
+   },
+   {
+    "href": "/customization/",
+    "title": "Customization: Colour, Print and Packaging",
+    "text": "Which decoration method suits which material, and what to approve before a production run.",
+    "image": "/img/archive-real-20261103/070-bf8b50e360.webp",
+    "alt": "Factory tooling workshop and CNC machining equipment"
+   }
+  ],
+  "cta": {
+   "h2": "Send the artwork — we will tell you which material keeps it sharp",
+   "text": "Give us the use, the capacity, the artwork and the destination. You get a material recommendation, a print method and a landed cost comparison, not two quotes with no explanation.",
+   "href": "/contact/",
+   "label": "Ask for a material recommendation"
+  },
+  "heroAlt": "Silicone and PP cups side by side at the factory bench — AI illustration based on factory photos",
+  "heroDisclosure": "Photography from our factory archive is used where relevant. Images labelled AI illustration are conceptual and are not production or inspection records."
+ }
+}

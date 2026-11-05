@@ -1,0 +1,251 @@
+{
+  "title": "How Your Cups Are Made: Process, Capacity and Lead Time | EVERCUP",
+  "description": "Eight production steps from resin to sealed carton: moulding, trimming, decoration, assembly, inspection and packing. Machine count, daily capacity and what actually drives the 25–30 day lead time.",
+  "crumb": "Manufacturing Process",
+  "blocks": [
+    {
+      "type": "hero",
+      "kicker": "BAOYUANFENG / PRODUCTION",
+      "h1": "How Your Cups Are Made",
+      "lead": "Moulding, decoration, assembly and packing all happen with 3,416 m² of floor space listed on our Alibaba company profile. The production and supply scope is confirmed for each model. This is the eight-step route a cup takes from resin to a sealed carton.",
+      "cta": {
+        "href": "/contact/?models=Manufacturing%20process",
+        "label": "Request a Project Quote"
+      },
+      "cta2": {
+        "href": "/factory/",
+        "label": "Factory & Quality Review"
+      },
+      "image": "/img/archive-real-20261103/081-56ed5ab019.webp",
+      "image700": "/img/archive-real-20261103/081-56ed5ab019.webp",
+      "image_alt": "Injection moulding equipment in the factory workshop",
+      "caption": "Injection moulding on site — injection moulding equipment, from 12 oz tumblers to ice buckets."
+    },
+    {
+      "type": "stats",
+      "items": [
+        [
+          "Plant area",
+          "3,416<em>m²</em>",
+          "Alibaba company profile"
+        ],
+        [
+          "Production machinery",
+          "65",
+          "Total equipment"
+        ],
+        [
+          "Production lines",
+          "4",
+          "Self-owned"
+        ],
+        [
+          "Test equipment",
+          "1",
+          "Alibaba company profile"
+        ],
+        [
+          "QA/QC inspectors",
+          "4",
+          "Alibaba company profile"
+        ]
+      ]
+    },
+    {
+      "type": "section",
+      "kicker": "THE ROUTE",
+      "h2": "Eight steps, one building.",
+      "intro": "The order of these steps is not decorative. A part that will be laser-engraved is moulded to a different surface than one that will be screen printed, and packing is planned before moulding starts, not after.",
+      "blocks": [
+        {
+          "type": "steps",
+          "items": [
+            {
+              "title": "Tooling and trial",
+              "text": "The mould is cut, fitted and trialled in our own shop. T1 parts are measured against the drawing before production is scheduled."
+            },
+            {
+              "title": "Material and colour",
+              "text": "Resin is checked against the approved grade — PP, AS, PC, Tritan or silicone — and colour is matched to the approved chip under the same light as the sample."
+            },
+            {
+              "title": "Injection moulding",
+              "text": "injection moulding equipment, from a 12 oz tumbler to a 5 L ice bucket. Wall thickness, cycle time and gate position are fixed on the setup sheet; first-off parts are kept as the reference."
+            },
+            {
+              "title": "Silicone compression moulding",
+              "text": "Lids, sleeves, coasters and ice trays run on silicone compression equipment at an order-specific production plan, trimmed and deflashed by hand where the part needs it."
+            },
+            {
+              "title": "Trimming and assembly",
+              "text": "Gates removed, flash cleaned, then multi-part items assembled — lid to body, seal fitted, straw and plug checked for engagement."
+            },
+            {
+              "title": "Decoration",
+              "text": "Screen print, UV print, heat transfer, hydro dip, laser or decal. Artwork, colour and position are confirmed against the signed-off proof before the press runs."
+            },
+            {
+              "title": "Inspection",
+              "text": "AQL sampling by batch size, with the checks the order specifies: dimensions, appearance, lid fit, leak test on assembled units, carton drop and shipping marks."
+            },
+            {
+              "title": "Packing and dispatch",
+              "text": "Inner pack count, carton size and marks, packing list, then the goods move on the shipping method agreed at quotation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "photoband",
+      "image": "/img/archive-real-20261103/065-5f4299408d.webp",
+      "image700": "/img/factory-20261104/factory-1-building-700.webp",
+      "alt": "Factory building exterior",
+      "caption": "One address for tooling, moulding, decoration, inspection and packing."
+    },
+    {
+      "type": "section",
+      "tint": true,
+      "kicker": "LEAD TIME",
+      "h2": "Where the 25–30 days actually go.",
+      "intro": "A quoted lead time is a production window, not a promise about the whole project. This is the sequence behind it, so you can see which step your own delay would move.",
+      "blocks": [
+        {
+          "type": "table",
+          "head": [
+            "Stage",
+            "Typical duration",
+            "What starts the clock"
+          ],
+          "rows": [
+            [
+              "Sample — existing model",
+              "1–2 days",
+              "Model chosen and stock confirmed"
+            ],
+            [
+              "Sample — decorated",
+              "5–7 days",
+              "Artwork approved for print"
+            ],
+            [
+              "Tooling, if needed",
+              "25–35 days",
+              "Drawing approved and deposit received"
+            ],
+            [
+              "First sample off new tooling",
+              "30–40 days",
+              "Drawing approved"
+            ],
+            [
+              "Mass production",
+              "25–30 days",
+              "Deposit cleared <strong>and</strong> artwork approved"
+            ],
+            [
+              "Production with new tooling",
+              "30–40 days",
+              "Trial parts approved"
+            ],
+            [
+              "Sea freight, Shenzhen to US West Coast",
+              "14–20 days port to port",
+              "Vessel departure"
+            ],
+            [
+              "Express door to door",
+              "7–10 days",
+              "Goods ready"
+            ]
+          ],
+          "note": "Two things move a date more than anything else: artwork that arrives late, and a specification change after moulding has started. Both are recoverable — but only before the setup sheet is signed."
+        },
+        {
+          "type": "qa",
+          "items": [
+            [
+              "Can production be faster than 25 days?",
+              "Sometimes, and only if the model already runs and the press has a free slot. A rush run is a scheduling decision made at quotation, with the cost of overtime stated. It is not something that can be promised after an order is placed."
+            ],
+            [
+              "Do you produce in one run or in batches?",
+              "One run per order unless the quantity needs several days of press time. On a long programme we can hold stock and ship against releases, which is agreed as part of the order."
+            ],
+            [
+              "What stops production mid-run?",
+              "An unresolved artwork question, a colour that does not match the approved chip, or a specification change. In each case the line waits for a written answer instead of guessing — that pause is visible in the delivery date."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "kicker": "CAPACITY, HONESTLY",
+      "h2": "What we can absorb, and what we cannot.",
+      "intro": "A factory page that claims unlimited capacity is not useful to a buyer planning a season. This is the shape of our floor.",
+      "blocks": [
+        {
+          "type": "choices",
+          "items": [
+            {
+              "title": "Plastic drinkware",
+              "text": "injection moulding equipment covering tumblers, stemmed glasses, steins, pitchers and ice buckets. Multiple SKUs of the same model can run in parallel if the moulds exist.",
+              "meta": "Injection · multi-cavity"
+            },
+            {
+              "title": "Silicone parts",
+              "text": "silicone compression equipment, an order-specific production plan, for lids, sleeves, coasters and ice trays. Silicone runs are slower per piece than injection and are planned accordingly.",
+              "meta": "Compression · Project-specific output"
+            },
+            {
+              "title": "Metal items",
+              "text": "Stainless shakers, openers and similar barware are sourced to the arrangement confirmed per model, and quoted as a separate line with the source stated. We do not claim a metal workshop we do not have.",
+              "meta": "Sourced · quoted separately"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "text": "We only work in plastic and silicone. Anything that needs glass, ceramic, leather or a metal body is either declined or sourced openly — it is not quietly passed off as our own production."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "tint": true,
+      "kicker": "CONTINUE YOUR PROJECT",
+      "h2": "The next useful pages.",
+      "blocks": [
+        {
+          "type": "related",
+          "items": [
+            {
+              "href": "/quality-control/",
+              "title": "Quality Control & Testing",
+              "text": "The checks at each stage, the tests we run on finished cups, and the AQL table behind them."
+            },
+            {
+              "href": "/tooling/",
+              "title": "Custom Tooling & Mould Cost",
+              "text": "How many mould sets a product needs and what commits you to a 10,000 piece minimum."
+            },
+            {
+              "href": "/how-to-work-with-us/",
+              "title": "How to Work With Us",
+              "text": "Order steps, shipping methods, payment terms and what to send in the first enquiry."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brief",
+      "kicker": "YOUR NEXT STEP",
+      "h2": "Tell us the model and the date. We will tell you which steps move.",
+      "text": "Model or idea, quantity, decoration, destination and the date the goods must arrive.",
+      "label": "Request a Project Quote"
+    }
+  ]
+}

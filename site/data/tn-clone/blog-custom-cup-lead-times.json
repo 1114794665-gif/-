@@ -1,0 +1,500 @@
+{
+ "path": "blog/custom-cup-lead-times",
+ "title": "Custom Cup Lead Times: Sampling & Production | EVERCUP",
+ "description": "Where the 7–12 sample days go, why production takes 25–30 days, and the Chinese calendar weeks that quietly decide your launch date.",
+ "crumb": "Blog",
+ "art": {
+  "kicker": "Lead Time & Planning",
+  "h1": "Custom Cup Lead Times: What 7–12 Days of Sampling and 25–30 Days of Production Actually Contain",
+  "meta": "Published 29 October 2026 · 12 min read · BYF production planning team, Shenzhen",
+  "date": "2026-10-29",
+  "hero": "/img/archive-real-20261103/069-06bb45674b.webp",
+  "body": [
+   {
+    "t": "h2",
+    "x": "Quick Answer"
+   },
+   {
+    "t": "p",
+    "x": "A printed sample on an existing cup takes 7–12 days from approved artwork. A production run after that takes 25–30 days from deposit and approved sample. Those two numbers are reliable — but only if you count them from the right starting point and do not spend the sample window re-deciding the design."
+   },
+   {
+    "t": "p",
+    "x": "<strong>The rule is: the clock starts when the artwork is frozen, not when you send the enquiry.</strong> Everything that happens before the freeze — choosing the model, approving a colour, fixing the logo size — is the part of the timeline you actually control. Buyers who lose three weeks rarely lose them in the factory."
+   },
+   {
+    "t": "p",
+    "x": "Below: the day-by-day anatomy of a sample window, the three different things buyers call “a sample”, where days disappear in production, the calendar windows that close a factory, how sea, rail and air change the total, and what a delivery date can and cannot promise."
+   },
+   {
+    "t": "h2",
+    "x": "What Is the 7–12 Day Sample Window Made Of?"
+   },
+   {
+    "t": "p",
+    "x": "It is not seven days of printing. Most of it is preparation that happens before the cup goes near the machine, and that preparation is what a sample fee pays for."
+   },
+   {
+    "t": "table",
+    "cols": [
+     "Stage",
+     "Days",
+     "What is happening",
+     "What can shorten it"
+    ],
+    "rows": [
+     [
+      "Artwork check and separation",
+      "1 – 2",
+      "File checked for resolution, colour count, bleed and print area",
+      "Supply vector artwork with fonts outlined"
+     ],
+     [
+      "Screen, pad or plate making",
+      "1 – 2",
+      "The print tool is produced for your artwork",
+      "Nothing — this is physical production"
+     ],
+     [
+      "Material and colour preparation",
+      "1 – 3",
+      "Stock colour pulled, or a match mixed and checked against the chip",
+      "Accept a stock colour instead of a Pantone match"
+     ],
+     [
+      "Printing and first-off check",
+      "1",
+      "A short run, then the first piece is inspected",
+      "Nothing"
+     ],
+     [
+      "Cure, assembly and packing",
+      "1 – 2",
+      "Ink cured, lids or straws fitted, sample packed",
+      "Nothing"
+     ],
+     [
+      "Courier transit",
+      "2 – 4",
+      "Express to your door",
+      "Use your own courier account and a faster service"
+     ]
+    ],
+    "note": "The 7–12 day figure covers a printed sample on a model that already exists. A new shape needs a tooling trial instead, which is counted in weeks, not days."
+   },
+   {
+    "t": "p",
+    "x": "Two things push a sample to the top of that range. A Pantone match that has to be mixed and re-checked adds days, and artwork that arrives as a screenshot rather than a file restarts the clock at stage one. Neither is the factory being slow; both are the sample doing its job before a large run repeats the error."
+   },
+   {
+    "t": "h2",
+    "x": "Which Sample Do You Actually Need?"
+   },
+   {
+    "t": "p",
+    "x": "Three different objects get called “a sample”, and they answer different questions. Asking for the wrong one either wastes a week or leaves the real question unanswered until production."
+   },
+   {
+    "t": "table",
+    "cols": [
+     "Type",
+     "What you are looking at",
+     "Time",
+     "The question it answers"
+    ],
+    "rows": [
+     [
+      "Stock or photo sample",
+      "An existing model, usually unbranded or with another customer's print",
+      "Days, sometimes already in stock",
+      "Is the shape and capacity right in your hand?"
+     ],
+     [
+      "Pre-production sample",
+      "Your model, your colour, your artwork, printed and packed as it will ship",
+      "7 – 12 days",
+      "Is the print position, colour and finish acceptable?"
+     ],
+     [
+      "Tooling trial (T1, T2…)",
+      "First shots from a new mould, before decoration",
+      "Weeks",
+      "Does the new shape mould cleanly and meet dimensions?"
+     ]
+    ],
+    "note": "Most programmes need the first two. The third only exists when a new shape is being cut — see the tooling guide for that timeline."
+   },
+   {
+    "t": "p",
+    "x": "A pre-production sample is not decoration. It is the reference piece: the thing a QC inspector holds against a production run six weeks later. Approve it in writing, photograph it under the same light, and keep it. When a repeat order arrives next year, that cup is the only honest record of what “approved” meant."
+   },
+   {
+    "t": "h2",
+    "x": "Where Do the Days Actually Disappear?"
+   },
+   {
+    "t": "p",
+    "x": "In a project that runs late, the factory stage is usually close to plan and the buyer stage is not. These are the recurring causes, in the order they usually appear."
+   },
+   {
+    "t": "table",
+    "cols": [
+     "Where the days go",
+     "Typical loss",
+     "Who owns it",
+     "How to prevent it"
+    ],
+    "rows": [
+     [
+      "Deciding the model",
+      "3 – 10 days",
+      "Buyer",
+      "Shortlist three models before the first call, not after"
+     ],
+     [
+      "Artwork revisions",
+      "2 – 7 days per round",
+      "Buyer",
+      "Approve the print area and the smallest legible text before design"
+     ],
+     [
+      "Colour approval by photo",
+      "3 – 8 days",
+      "Both",
+      "Approve against a physical chip or a sprayed plaque, never a screen"
+     ],
+     [
+      "Waiting for a deposit to clear",
+      "1 – 5 days",
+      "Buyer",
+      "Send the transfer before the invoice is due, not after"
+     ],
+     [
+      "Public holidays",
+      "3 – 10 days",
+      "Calendar",
+      "Check the factory calendar before you fix a launch date"
+     ],
+     [
+      "Congested shipping space",
+      "3 – 14 days",
+      "Market",
+      "Book space when the order is confirmed, not when it is packed"
+     ],
+     [
+      "Customs documents",
+      "1 – 5 days",
+      "Both",
+      "Send the importer details and HS code with the order"
+     ]
+    ],
+    "note": "Only two rows here are ours. The rest are the reason a factory quotes a window rather than a date."
+   },
+   {
+    "t": "h2",
+    "x": "Why Does Production Take 25–30 Days?"
+   },
+   {
+    "t": "p",
+    "x": "Production is not one long machine run. It is a sequence of dependent stages, and most of the days are spent waiting for something to cool, cure or be checked."
+   },
+   {
+    "t": "table",
+    "cols": [
+     "Production stage",
+     "Days",
+     "Why it cannot be skipped"
+    ],
+    "rows": [
+     [
+      "Material ordering and incoming check",
+      "3 – 5",
+      "Resin and colour concentrate arrive, then get checked against the approved batch"
+     ],
+     [
+      "Mould set and trial shots",
+      "1 – 2",
+      "Every run starts with first-off pieces checked before the full quantity is committed"
+     ],
+     [
+      "Injection or silicone compression",
+      "5 – 8",
+      "Cycle time times quantity, plus scrap and restarts"
+     ],
+     [
+      "Decoration",
+      "3 – 6",
+      "Printing, curing between colours, and a first-off check per colour"
+     ],
+     [
+      "Assembly and fitting",
+      "1 – 3",
+      "Lids, straws, handles, inserts"
+     ],
+     [
+      "In-process and final inspection",
+      "2 – 3",
+      "AQL sampling at agreed points, plus a final check before packing"
+     ],
+     [
+      "Packing and carton marking",
+      "1 – 3",
+      "Inner bags, cartons, labels, pallet build"
+     ],
+     [
+      "Documentation and handover to forwarder",
+      "1 – 2",
+      "Packing list, invoice, booking confirmation"
+     ]
+    ],
+    "note": "These stages overlap where possible. The 25–30 day figure assumes a normal order in a normal month; a run in the week before Chinese New Year does not follow it."
+   },
+   {
+    "t": "p",
+    "x": "Silicone runs on a different rhythm from plastic. Our silicone lines produce roughly 3,000 pieces a day, so a 30,000-piece silicone order is ten days of pressing before decoration even starts. Plastic injection is faster per piece but the setup and colour change cost more of the schedule. The quantity you order changes which stage dominates."
+   },
+   {
+    "t": "h2",
+    "x": "How Do the Two Windows Add Up?"
+   },
+   {
+    "t": "p",
+    "x": "Sampling and production run one after the other, and then shipping runs after that. Buyers who plan a launch usually forget the last segment, which is often the longest single block."
+   },
+   {
+    "t": "calc",
+    "label": "Timeline sketch — illustrative, working days",
+    "rows": [
+     [
+      "Artwork frozen to sample in hand",
+      "7 – 12 days"
+     ],
+     [
+      "Sample approval by you",
+      "2 – 3 days"
+     ],
+     [
+      "Production, deposit received",
+      "25 – 30 days"
+     ],
+     [
+      "Packing and handover",
+      "1 – 2 days"
+     ],
+     [
+      "Sea freight to US west coast port",
+      "14 – 22 days"
+     ],
+     [
+      "Port to your warehouse",
+      "3 – 7 days"
+     ]
+    ],
+    "out": "Roughly 52 to 76 days door to door by sea, of which the factory holds the goods for about a third. Air freight cuts the last two rows to 4–7 days and multiplies the freight cost."
+   },
+   {
+    "t": "p",
+    "x": "If your event is in eleven weeks, that arithmetic is the whole conversation. It is also why the question “can you make it faster” usually has a better answer than “yes”: send the sea shipment early and the balance by air, or split the order into two deliveries so the first half is on the water while the second half is still printing."
+   },
+   {
+    "t": "h2",
+    "x": "Which Calendar Windows Ruin a Launch Date?"
+   },
+   {
+    "t": "p",
+    "x": "Chinese factory calendars are not a detail. They are the single most common cause of a missed date on an order placed from Europe or North America, because the quiet weeks before a holiday are busier than the holiday itself."
+   },
+   {
+    "t": "table",
+    "cols": [
+     "Window",
+     "When",
+     "Effect on a new order",
+     "Plan"
+    ],
+    "rows": [
+     [
+      "Chinese New Year",
+      "Late January to mid February, date moves each year",
+      "Factory closes 2–4 weeks; work queues from December; labour returns gradually",
+      "Place orders by early December, or after the first week of March"
+     ],
+     [
+      "National Day / Golden Week",
+      "First week of October",
+      "1 week closed, plus congestion either side",
+      "Avoid confirming a run in the last two weeks of September"
+     ],
+     [
+      "May Day holiday",
+      "Early May",
+      "3–5 days, shorter disruption",
+      "Minor, but check it before fixing a date"
+     ],
+     [
+      "Dragon Boat Festival",
+      "June, movable",
+      "1–3 days",
+      "Minor"
+     ],
+     [
+      "Peak freight season",
+      "August to October",
+      "Space is tight and rates rise; late bookings get rolled",
+      "Book space with the order, not with the packing list"
+     ],
+     [
+      "Christmas retail cut-off",
+      "Late October to mid November",
+      "Everything is booked; air capacity is expensive",
+      "Aim to have goods on the water by mid October"
+     ]
+    ],
+    "note": "Dates shift with the lunar calendar. Ask the factory for the exact closure dates for the coming year rather than working from a general rule."
+   },
+   {
+    "t": "h2",
+    "x": "How Much Time Does a Faster Shipping Mode Buy?"
+   },
+   {
+    "t": "p",
+    "x": "Shipping mode is the one lever that changes days without touching quality. It trades money for time, in a fairly predictable way."
+   },
+   {
+    "t": "table",
+    "cols": [
+     "Mode",
+     "Typical door-to-door days",
+     "Best used for",
+     "What it costs you"
+    ],
+    "rows": [
+     [
+      "Sea freight, full container",
+      "25 – 40",
+      "Large volume, planned launches",
+      "Slowest, cheapest per unit"
+     ],
+     [
+      "Sea freight, LCL",
+      "30 – 45",
+      "Smaller volumes shared in a container",
+      "Consolidation delays at both ends"
+     ],
+     [
+      "Rail to Europe",
+      "20 – 30",
+      "Mid-size orders to inland Europe",
+      "Less frequent departures"
+     ],
+     [
+      "Air freight",
+      "5 – 10",
+      "Late orders, samples, high-value branded pieces",
+      "Several times the sea rate"
+     ],
+     [
+      "Express courier",
+      "3 – 6",
+      "Samples and small top-ups",
+      "Per-kilogram pricing punishes cartons"
+     ]
+    ],
+    "note": "Transit days exclude customs clearance, which is where a shipment with incomplete paperwork sits for a week without anyone being able to explain why."
+   },
+   {
+    "t": "h2",
+    "x": "How Do You Compress a Timeline Without Creating Chaos?"
+   },
+   {
+    "t": "p",
+    "x": "The honest answer is that most of the compressible time is at the front, in decisions, and most of the incompressible time is in curing and inspection. Working on the first list works. Working on the second produces defects that cost more time than they save."
+   },
+   {
+    "t": "ul",
+    "items": [
+     "<strong>Freeze the artwork before you ask for a sample.</strong> Every revision inside the sample window is a paid repeat.",
+     "<strong>Accept a stock colour when the exact Pantone is not the point.</strong> A colour match is days; a stock colour is hours.",
+     "<strong>Approve the sample in one working day.</strong> Put the approver's name in the plan. “The team will look at it” is how a week disappears.",
+     "<strong>Pay the deposit against the sample approval, not against the invoice date.</strong> Production starts when money clears, not when paperwork is signed.",
+     "<strong>Split deliveries for a fixed event date.</strong> Send the first half by sea and the balance by air rather than shipping everything late.",
+     "<strong>Book freight space at order confirmation.</strong> Space in December is a different market from space in June.",
+     "<strong>Do not request a change after the mould or the screens exist.</strong> That is the one change that reliably costs both money and weeks."
+    ]
+   },
+   {
+    "t": "h2",
+    "x": "What a Delivery Date Cannot Promise"
+   },
+   {
+    "t": "p",
+    "x": "A factory can promise when goods leave the building. It cannot promise when they arrive, and any supplier who does is either guessing or hiding behind a force majeure clause."
+   },
+   {
+    "t": "ul",
+    "items": [
+     "It cannot promise customs clearance time. That depends on your broker, your HS code and your paperwork, not on us.",
+     "It cannot promise vessel schedule adherence. Blank sailings and port congestion move ships, not orders.",
+     "It cannot promise the date survives a change order. Any change after the mould or screens exist resets the relevant stage.",
+     "It cannot promise the same window in the four weeks before Chinese New Year. Ask for the holiday calendar in writing.",
+     "It cannot promise a quality outcome from a compressed inspection. Cutting the inspection days moves the risk to your warehouse.",
+     "The dates in this article are our normal windows, not a contract. The committed date belongs in the order confirmation, per order."
+    ]
+   },
+   {
+    "t": "h2",
+    "x": "What to Send Us for a Dated Plan"
+   },
+   {
+    "t": "p",
+    "x": "To turn these windows into a schedule with your date on it, we need six things. With them, a dated plan — sample date, production start, ship date, arrival window — comes back the same day."
+   },
+   {
+    "t": "ol",
+    "items": [
+     "The model or shape, and the capacity you need.",
+     "Quantity, and whether it can be split across two deliveries.",
+     "Artwork status: final file, or still being designed this week.",
+     "Colour: a Pantone number, a physical reference, or “stock colour is fine”.",
+     "The date the goods must be in your hands, and whether that date is fixed or preferred.",
+     "Destination city and port, and whether sea freight is acceptable."
+    ]
+   },
+   {
+    "t": "p",
+    "x": "If the shape does not exist yet, the timeline starts with tooling, not with printing — read <a href=\"/blog/mould-or-no-mould\">the mould decision guide</a> first. For how the whole order runs from brief to delivery, see <a href=\"/how-to-work-with-us/\">how to work with us</a>."
+   }
+  ],
+  "related": [
+   {
+    "href": "/blog/mould-or-no-mould",
+    "title": "Does Your Custom Cup Need a New Mould?",
+    "text": "When tooling is the right answer, what drives the price, and the six stages from drawing to cup.",
+    "image": "/img/archive-real-20261103/070-bf8b50e360.webp",
+    "alt": "Factory tooling workshop and CNC machining equipment"
+   },
+   {
+    "href": "/blog/how-many-custom-cups-to-order",
+    "title": "How Many Custom Cups Should You Order?",
+    "text": "The three minimums behind one MOQ number and the quantity where setup stops mattering.",
+    "image": "/img/alibaba-factory-20261031/packing.jpg",
+    "alt": "Packing line at the BYF factory"
+   },
+   {
+    "href": "/manufacturing-process/",
+    "title": "How the Cups Are Made",
+    "text": "Injection, silicone compression, decoration and packing — stage by stage.",
+    "image": "/img/alibaba-factory-20261031/ultrasonic-welder.jpg",
+    "alt": "Assembly line at the BYF factory"
+   }
+  ],
+  "cta": {
+   "h2": "Send the date first — we will tell you whether it fits",
+   "text": "Give us the model, the quantity and the date it must arrive. You get a sample date, a production window and a shipping recommendation with the arithmetic shown.",
+   "href": "/contact/",
+   "label": "Ask for a dated plan"
+  },
+  "heroAlt": "Factory sample room; sample range reference",
+  "heroDisclosure": "Photography from our factory archive is used where relevant. Images labelled AI illustration are conceptual and are not production or inspection records."
+ }
+}

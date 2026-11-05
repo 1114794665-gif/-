@@ -1,0 +1,128 @@
+/* OEM / ODM 页版面补强（2026-10-29）
+   1) 五步流程：右侧补一张询盘卡（原 4 列网格里有两列是空的）
+   2) 制造与项目管理：去掉左侧大图，三条要点改成图文卡 + 数字条
+   只作用于 /oem-manufacturer/ 与 /zh/oem-manufacturer/ */
+
+/* ---------- 1. 流程 + 询盘卡 ---------- */
+.oemx-process-grid{display:grid;grid-template-columns:minmax(0,1fr) 396px;gap:56px;align-items:start}
+.oemx-process-main{min-width:0}
+.oem-focus .oemx-process-grid .oemx-process-main .of-process-lede{max-width:none}
+.oem-focus .oemx-process-grid .oemx-process-main .of-steps{margin-top:26px}
+
+/* 五步在这里改成两列（序号 | 正文），把「你要 / 我们来」并排放在正文下面 */
+.oem-focus .oemx-process-grid .oemx-process-main .of-step{grid-template-columns:44px minmax(0,1fr);gap:0 16px;align-items:start;padding:20px 0}
+.oem-focus .oemx-process-grid .oemx-process-main .of-step>b{grid-column:1;grid-row:1/3;padding-top:4px;margin:0}
+.oem-focus .oemx-process-grid .oemx-process-main .of-step-main{grid-column:2;grid-row:1;min-width:0}
+.oem-focus .oemx-process-grid .oemx-process-main .of-step-main h3{font-size:16.5px;margin:0 0 5px}
+.oem-focus .oemx-process-grid .oemx-process-main .of-step-main p{margin:0}
+.oem-focus .oemx-process-grid .oemx-process-main .of-step-main figure{display:none}
+.oem-focus .oemx-process-grid .oemx-process-main .of-step-meta{
+  grid-column:2;grid-row:2;display:grid;grid-template-columns:1fr 1fr;gap:6px 24px;
+  margin:10px 0 0;padding-top:9px;border-top:1px dashed rgba(255,255,255,.16)
+}
+.oem-focus .oemx-process-grid .oemx-process-main .of-step-meta span{font-size:11.5px;line-height:1.68;color:#c3d4ca}
+
+/* 询盘卡 */
+.oemx-rfq{
+  position:sticky;top:88px;background:#fff;color:#17362f;border-radius:10px;
+  padding:26px 24px 22px;box-shadow:0 26px 64px rgba(0,0,0,.34);
+  font-family:Manrope,""PingFang SC","Microsoft YaHei"","Microsoft YaHei",Arial,sans-serif
+}
+.oemx-kicker{font-size:10px;letter-spacing:.16em;text-transform:uppercase;font-weight:800;color:#96704d;margin:0 0 10px}
+.oemx-rfq h3,.oem-focus .of-process .oemx-rfq h3,.oem-focus .of-process .oemx-rfq .oemx-state h3{font-size:21px;line-height:1.35;margin:0 0 8px;color:#17362f;font-family:inherit;font-weight:700}
+.oemx-sub{font-size:12.5px;line-height:1.72;color:#62736b;margin:0 0 18px}
+.oemx-field{display:block;margin:0 0 12px}
+.oemx-field>span{display:block;font-size:11px;font-weight:700;letter-spacing:.02em;color:#3c4f47;margin-bottom:5px}
+.oemx-field input,.oemx-field textarea{
+  width:100%;box-sizing:border-box;border:1px solid #d6dcd4;border-radius:6px;background:#fbfcfa;
+  padding:9px 11px;font:inherit;font-size:13px;line-height:1.5;color:#17362f
+}
+.oemx-field textarea{min-height:76px;resize:vertical}
+.oemx-field input:focus,.oemx-field textarea:focus{outline:2px solid #96704d;outline-offset:1px;border-color:#96704d;background:#fff}
+.oemx-row2{display:grid;grid-template-columns:1fr 1fr;gap:0 12px}
+.oemx-hp{position:absolute;left:-9999px;width:1px;height:1px;overflow:hidden}
+.oemx-rfq button[type=submit]{
+  margin:6px 0 0;width:100%;border:0;border-radius:6px;background:#193f35;color:#fff;
+  font:800 13px/1 inherit;letter-spacing:.02em;padding:15px 16px;min-height:47px;cursor:pointer;
+  transition:background .15s ease
+}
+.oemx-rfq button[type=submit]:hover{background:#215345}
+.oemx-rfq button[type=submit][disabled]{opacity:.62;cursor:progress}
+.oemx-fine{font-size:10.5px;line-height:1.72;color:#7b8a82;margin:10px 0 0}
+.oemx-fine a{color:#193f35;text-decoration:underline;text-underline-offset:3px}
+.oemx-alt{
+  display:flex;flex-wrap:wrap;gap:5px 16px;margin:14px 0 0;padding:12px 0 0;border-top:1px solid #e6eae2;
+  font-size:11.5px;color:#6d7d74
+}
+.oemx-alt a{color:#193f35;font-weight:800;text-decoration:none}
+.oemx-alt a:hover{text-decoration:underline}
+.oemx-incl{margin:14px 0 0;padding:13px 0 0;border-top:1px solid #e6eae2}
+.oemx-incl>p{font-size:10px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:#96704d;margin:0 0 8px}
+.oemx-incl ul{list-style:none;margin:0;padding:0}
+.oemx-incl li{position:relative;font-size:11.5px;line-height:1.62;color:#54655c;padding:0 0 0 14px;margin:0 0 5px}
+.oemx-incl li:last-child{margin-bottom:0}
+.oemx-incl li::before{content:"";position:absolute;left:0;top:6px;width:5px;height:5px;border-radius:50%;background:#96704d}
+
+/* 回执 / 兜底 */
+.oemx-state{min-height:452px}
+.oemx-state h3{margin:0 0 8px}
+.oemx-state p{font-size:12.5px;line-height:1.75;color:#4e6159;margin:0 0 10px}
+.oemx-state .oemx-ref{display:inline-block;font:700 12px/1.6 "IBM Plex Mono",monospace;background:#f1f4ee;border:1px solid #dce2da;border-radius:4px;padding:3px 9px;margin:2px 0 10px;color:#193f35}
+.oemx-next{margin:16px 0 0;padding:14px 0 0;border-top:1px solid #e6eae2}
+.oemx-next>p{font-size:10px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:#96704d;margin:0 0 9px}
+.oemx-next ul{list-style:none;margin:0;padding:0}
+.oemx-next li{position:relative;font-size:12px;line-height:1.68;color:#4e6159;padding:0 0 0 15px;margin:0 0 7px}
+.oemx-next li:last-child{margin-bottom:0}
+.oemx-next li::before{content:"";position:absolute;left:0;top:7px;width:5px;height:5px;border-radius:50%;background:#96704d}
+.oemx-next a{color:#193f35;font-weight:700;text-decoration:underline;text-underline-offset:2px}
+.oemx-state a.oemx-big{
+  display:block;text-align:center;background:#193f35;color:#fff;border-radius:6px;padding:14px 16px;
+  font-weight:800;font-size:13px;text-decoration:none;margin:12px 0 0
+}
+.oemx-state a.oemx-big:hover{background:#215345}
+
+/* ---------- 2. 制造与项目管理：图文卡 ---------- */
+.of-factory-grid.oemx-factory{grid-template-columns:1fr;gap:0;align-items:start}
+.oemx-head{justify-content:space-between;align-items:flex-end;gap:48px;margin-bottom:34px}
+.oemx-head>div{flex:0 1 auto;max-width:660px;min-width:0}
+.oemx-head .of-lead,.oemx-head>p{flex:0 0 auto;max-width:540px;margin:0 0 4px;font-size:14.5px;line-height:1.9;color:#5d6f66;text-align:left}
+.oemx-cards{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px;margin:0}
+.oemx-card{
+  margin:0;border:1px solid #dce2da;border-radius:8px;background:#fff;overflow:hidden;
+  display:flex;flex-direction:column
+}
+.oemx-card figure{margin:0;aspect-ratio:4/3;overflow:hidden;background:#eef1ea}
+.oemx-card img{width:100%;height:100%;object-fit:cover;display:block}
+.oemx-card .oemx-card-body{padding:16px 18px 18px}
+.oemx-card b{display:block;font-size:10px;letter-spacing:.14em;font-weight:800;color:#96704d;margin-bottom:6px}
+.oemx-card h3{font-size:15.5px;line-height:1.4;margin:0 0 7px;color:#17362f}
+.oemx-card p{font-size:12.5px;line-height:1.76;color:#62736b;margin:0}
+
+.oemx-facts{
+  display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:16px;
+  margin:26px 0 0;padding:18px 0;border-top:1px solid #dce2da;border-bottom:1px solid #dce2da
+}
+.oemx-facts div{min-width:0}
+.oemx-facts strong{display:block;font-size:20px;line-height:1.2;color:#193f35;font-weight:700}
+.oemx-facts span{display:block;font-size:11px;line-height:1.6;color:#62736b;margin-top:3px}
+.oemx-factory .of-textlink{display:inline-block;margin-top:22px}
+
+/* ---------- 响应式 ---------- */
+@media (max-width:1180px){
+  .oemx-process-grid{grid-template-columns:minmax(0,1fr) 340px;gap:36px}
+}
+@media (max-width:1024px){
+  .oemx-process-grid{grid-template-columns:1fr;gap:34px}
+  .oemx-rfq{position:static;box-shadow:0 10px 30px rgba(0,0,0,.2)}
+  .oemx-cards{grid-template-columns:1fr 1fr}
+  .oemx-facts{grid-template-columns:1fr 1fr;gap:14px 20px}
+}
+@media (max-width:680px){
+  .oem-focus .oemx-process-grid .oemx-process-main .of-step-meta{grid-template-columns:1fr;gap:8px}
+  .oemx-row2{grid-template-columns:1fr}
+  .oemx-cards{grid-template-columns:1fr}
+  .oemx-facts{grid-template-columns:1fr 1fr}
+  .oemx-rfq{padding:22px 18px 18px}
+  .oemx-rfq h3{font-size:19px}
+  .oemx-state{min-height:0}
+}

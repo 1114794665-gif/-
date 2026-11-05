@@ -1,0 +1,123 @@
+/* 工厂页集群补充样式（2026-10-29）
+   只加载在新建的静态页上，不进入主站 CSS 包，避免影响既有页面。 */
+
+/* 四张卡片时改成两列，避免第三张后面挂一张孤零零的卡 */
+.bx-choice-grid:has(> .bx-choice:nth-child(4):last-child) {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+@media (max-width: 640px) {
+  .bx-choice-grid:has(> .bx-choice:nth-child(4):last-child) {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* 表格里的链接保持站内主色，并允许长表格在窄屏横向滚动 */
+.bx-table-wrap table a {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.bx-table-wrap table a:hover {
+  opacity: 0.75;
+}
+
+@media (max-width: 720px) {
+  .bx-table-wrap {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+  .bx-table-wrap table {
+    min-width: 560px;
+  }
+}
+
+/* 问答展开后的内边距，与站内既有问答块一致 */
+.bx-qa details[open] > p {
+  margin-top: 0.5rem;
+}
+
+/* 顶部横向信息条在小屏可以横向滑动，不再挤压 */
+@media (max-width: 720px) {
+  .ec-static-note {
+    font-size: 11px;
+  }
+}
+
+/* 六项清单：三列两行，避免最后一行只剩两张卡 */
+.bx-order-checklist:has(> div:nth-child(6):last-child),
+.bx-step-grid:has(> article:nth-child(6):last-child) {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+@media (max-width: 900px) {
+  .bx-order-checklist:has(> div:nth-child(6):last-child),
+  .bx-step-grid:has(> article:nth-child(6):last-child) {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 560px) {
+  .bx-order-checklist:has(> div:nth-child(6):last-child),
+  .bx-step-grid:has(> article:nth-child(6):last-child) {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* 五项清单：三列，避免最后一行只剩一张卡 */
+.bx-order-checklist:has(> div:nth-child(5):last-child) {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+@media (max-width: 900px) {
+  .bx-order-checklist:has(> div:nth-child(5):last-child) {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 560px) {
+  .bx-order-checklist:has(> div:nth-child(5):last-child) {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Factory & Quality 下拉：两列分组，避免单列过长 */
+.of-nav details > div.of-mega {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0 26px;
+  min-width: 520px;
+  max-width: calc(100vw - 40px);
+  padding: 10px 14px 14px;
+}
+.of-mega .of-col { min-width: 0; }
+.of-mega .of-grp {
+  margin: 8px 0 2px;
+  padding: 0 12px 8px;
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: #8b9b93;
+  border-bottom: 1px solid #e6eae2;
+}
+.of-mega .of-grp-second { margin-top: 22px; }
+.of-mega a { white-space: nowrap; }
+
+@media (max-width: 1280px) {
+  .of-nav details > div.of-mega { left: auto; right: 0; }
+}
+
+/* 指南清单：手机上竖排，不用左右滑 */
+@media (max-width: 720px) {
+  .bx-table-wrap.bx-table-list { overflow-x: visible; }
+  .bx-table-list table { min-width: 0; width: 100%; }
+  .bx-table-list thead { display: none; }
+  .bx-table-list tbody, .bx-table-list tr, .bx-table-list td { display: block; width: 100%; }
+  .bx-table-list tr { padding: 12px 0; border-bottom: 1px solid #e3e8df; }
+  .bx-table-list tr:last-child { border-bottom: 0; }
+  .bx-table-list td { padding: 0; border: 0; }
+  .bx-table-list td + td { margin-top: 4px; font-size: 13px; line-height: 1.5; color: #5d6b66; }
+}

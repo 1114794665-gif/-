@@ -1,0 +1,450 @@
+{
+ "path": "blog/mould-or-no-mould",
+ "title": "Does Your Custom Cup Need a New Mould? Cost and Timing | EVERCUP",
+ "description": "The three routes to a custom cup, the arithmetic that says when a mould pays for itself, what drives the price, and the six stages to a shippable cup.",
+ "crumb": "Blog",
+ "art": {
+  "kicker": "Tooling & Product Development",
+  "h1": "Does Your Custom Cup Need a New Mould? How to Decide Before You Pay",
+  "meta": "Published 29 October 2026 · 13 min read · BYF tooling team, Shenzhen",
+  "date": "2026-10-29",
+  "hero": "/img/archive-real-20261103/072-884500fb18.webp",
+  "body": [
+   {
+    "t": "h2",
+    "x": "Quick Answer"
+   },
+   {
+    "t": "p",
+    "x": "Most branded cups do not need a new mould. They need a new colour, a new print, or a different lid — three changes that use tooling we already own. A new mould is only the right answer when the <strong>body shape itself</strong> is the product, and when the volume is large enough that the tooling cost per unit stops mattering."
+   },
+   {
+    "t": "p",
+    "x": "<strong>The decision rule is arithmetic, not taste.</strong> Divide the mould cost by your first-order quantity. If the answer is a large fraction of the unit price you are trying to hit, the mould is too early. If it is small enough that the landed cost still works against your retail price, the mould is justified. This single calculation decides more tooling projects than any design argument."
+   },
+   {
+    "t": "p",
+    "x": "Below: what counts as existing tooling, the volume bands where each route pays for itself, what actually moves a mould price, how many cavities to specify, and the six stages between a drawing and a cup you can ship. All figures marked as illustrative are methods, not our price list."
+   },
+   {
+    "t": "h2",
+    "x": "What Counts as an Existing Mould?"
+   },
+   {
+    "t": "p",
+    "x": "Buyers often ask for a quote on a completely new mould when a colour change would have done the job. Before you go to tooling, check which of these three levels your change actually sits at. Suppliers should tell you this on the first call, not after you have paid a sample fee."
+   },
+   {
+    "t": "table",
+    "cols": [
+     "What you want to change",
+     "What has to be made",
+     "Tooling needed",
+     "Entry quantity"
+    ],
+    "rows": [
+     [
+      "Body colour",
+      "Colour concentrate, then a production run",
+      "None — existing mould",
+      "From 10 pieces"
+     ],
+     [
+      "Logo or artwork",
+      "A screen, pad or laser file",
+      "Print tooling only",
+      "From 10 pieces (250 for colour-changing inks)"
+     ],
+     [
+      "Lid, handle or straw",
+      "A separate small part",
+      "Small part mould, often already owned",
+      "From 250 pieces"
+     ],
+     [
+      "Body shape, capacity or wall",
+      "A new mould cavity set",
+      "New mould",
+      "10,000 pieces per shape"
+     ],
+     [
+      "Thread, seal or closure system",
+      "New mould for body and lid together",
+      "New mould, two halves",
+      "10,000 pieces per shape"
+     ]
+    ],
+    "note": "The first three rows are how most branded drinkware programmes actually start. Only the last two are tooling projects."
+   },
+   {
+    "t": "p",
+    "x": "There is a fourth case that catches people out: your cup exists, but the mould belongs to another customer. Exclusive tooling is common in this industry. Ask directly whether the mould for the model you are being quoted is <em>free</em>, <em>shared</em>, or <em>customer-owned</em> — the answer decides whether you can have it in your own colour at all."
+   },
+   {
+    "t": "h2",
+    "x": "When Does a New Mould Pay for Itself?"
+   },
+   {
+    "t": "p",
+    "x": "A mould is a fixed cost spread across units. The only question that matters is how many units. Work it in three lines."
+   },
+   {
+    "t": "calc",
+    "label": "Worked example — illustrative figures only",
+    "rows": [
+     [
+      "Mould cost (hypothetical figure for the method)",
+      "USD 6,000"
+     ],
+     [
+      "First order",
+      "10,000 pieces"
+     ],
+     [
+      "Tooling per piece (6,000 ÷ 10,000)",
+      "USD 0.60"
+     ],
+     [
+      "Second order at the same volume",
+      "USD 0.30"
+     ],
+     [
+      "Fifth order at the same volume",
+      "USD 0.12"
+     ]
+    ],
+    "out": "If the piece price you need to hit is USD 2.00, USD 0.60 of tooling is a 30% surcharge. If it is USD 8.00, it is 7.5% — and gone by the second order."
+   },
+   {
+    "t": "p",
+    "x": "Two adjustments make the arithmetic honest. First, add the cost of the sample rounds and any engineering time the buyer has to absorb. Second, discount the later orders: an order you hope to place in year three is worth less than an order you place now, and a mould you cannot amortise within about three years is usually the wrong decision at your current volume."
+   },
+   {
+    "t": "table",
+    "cols": [
+     "Your situation",
+     "Usual right answer",
+     "Why"
+    ],
+    "rows": [
+     [
+      "First product, unproven demand, under 3,000 units",
+      "Existing mould + your colour and print",
+      "You keep the option to change shape after the first sell-through"
+     ],
+     [
+      "Brand already sells the same product shape, 10,000+ a year",
+      "Own the mould",
+      "You stop competing for shared capacity and protect the shape"
+     ],
+     [
+      "Shape is the brand — the silhouette is the product",
+      "Own the mould at the lowest viable quantity",
+      "A copied shape has no defensible advantage"
+     ],
+     [
+      "Promotional or event order, one season",
+      "Existing mould, decorated",
+      "Tooling will never amortise inside the campaign"
+     ],
+     [
+      "Buyer needs a size that does not exist in the catalogue",
+      "New mould, single cavity first",
+      "Prove sell-through before paying for multi-cavity output"
+     ]
+    ]
+   },
+   {
+    "t": "h2",
+    "x": "What Actually Drives the Price of a Mould?"
+   },
+   {
+    "t": "p",
+    "x": "Six factors explain almost all of the difference between two quotes for the same cup. If a quote is far below the others, one of them has been quietly dropped."
+   },
+   {
+    "t": "table",
+    "cols": [
+     "Factor",
+     "What it changes",
+     "Effect on price"
+    ],
+    "rows": [
+     [
+      "Number of cavities",
+      "Output per cycle, and the size of the steel block",
+      "Each extra cavity adds cost roughly in steps, not proportionally — a 4-cavity is well under 4× a 1-cavity"
+     ],
+     [
+      "Steel grade",
+      "Tool life. P20 for tens of thousands of shots, hardened grades for hundreds of thousands",
+      "Hardened steel and heat treatment add a meaningful premium"
+     ],
+     [
+      "Sliders and lifters",
+      "Any undercut: a recessed handle, a snap groove, an internal rib",
+      "Each slider is a separate mechanism that must be fitted and tested"
+     ],
+     [
+      "Surface finish",
+      "Texture, gloss level, or a polished band",
+      "Texture is etched into the steel; changing it later means re-cutting"
+     ],
+     [
+      "Tolerance",
+      "Wall thickness consistency, thread fit, lid seal",
+      "Tight tolerance means more trial rounds and slower cycles"
+     ],
+     [
+      "Prototype route",
+      "3D print, aluminium trial mould, or straight to production steel",
+      "Aluminium bridges the gap but is a cost you pay twice"
+     ]
+    ]
+   },
+   {
+    "t": "note",
+    "label": "Where buyers lose money",
+    "x": [
+     "The expensive mistake is not choosing a cheap mould. It is changing the shape after the steel is cut. A wall thickness change, a thread change or an added undercut after hardening can cost most of the mould price again, and it restarts the timeline.",
+     "Bring every change before the design freeze — the freeze is the last cheap moment."
+    ]
+   },
+   {
+    "t": "h2",
+    "x": "How Many Cavities Should the Mould Have?"
+   },
+   {
+    "t": "p",
+    "x": "Cavity count is a capacity decision disguised as a price decision. It sets how many pieces come off one machine per day, and therefore whether you can hit a delivery date without holding stock."
+   },
+   {
+    "t": "table",
+    "cols": [
+     "Cavities",
+     "Shots per day",
+     "Pieces per day",
+     "Fits"
+    ],
+    "rows": [
+     [
+      "1",
+      "1,760",
+      "1,760",
+      "Pilot runs, low volume, high-mix catalogue"
+     ],
+     [
+      "2",
+      "1,760",
+      "3,520",
+      "The usual starting point for a branded cup"
+     ],
+     [
+      "4",
+      "1,760",
+      "7,040",
+      "Repeat programmes with confirmed annual volume"
+     ],
+     [
+      "8",
+      "1,760",
+      "14,080",
+      "Single-SKU, high-volume, price-sensitive"
+     ]
+    ],
+    "note": "Cycle time is the other half of the equation. A thick-walled tumbler runs slower than a thin-walled cup, so the same cavity count yields less. Ask for the cycle time in writing, not just the cavity count."
+   },
+   {
+    "t": "p",
+    "x": "The practical rule: match cavities to your <em>repeat</em> order, not your first order. A 4-cavity mould paid for by one launch order sits idle afterwards, and idle steel is money you cannot get back. Start at two cavities unless you have twelve months of confirmed volume."
+   },
+   {
+    "t": "h2",
+    "x": "Should You Start With a Bridge Mould?"
+   },
+   {
+    "t": "p",
+    "x": "A bridge mould is cut in aluminium instead of steel. It produces real parts — same shape, same wall, same material — but it wears out after a few thousand shots. It exists so you can test a market before committing to production steel."
+   },
+   {
+    "t": "table",
+    "cols": [
+     "",
+     "Aluminium bridge mould",
+     "Production steel mould"
+    ],
+    "rows": [
+     [
+      "Tool life",
+      "A few thousand shots",
+      "Tens to hundreds of thousands of shots"
+     ],
+     [
+      "Lead time",
+      "Roughly half",
+      "Full"
+     ],
+     [
+      "Part quality",
+      "Close to production; surface finish slightly softer",
+      "Production finish"
+     ],
+     [
+      "Cost",
+      "A fraction of steel",
+      "Full"
+     ],
+     [
+      "What it is for",
+      "Sell-through testing, trade shows, investor samples",
+      "Repeat production"
+     ]
+    ],
+    "note": "The cost of a bridge mould is only worth it if it saves you from a wrong steel tool. If you already know the shape sells, the bridge is money spent twice."
+   },
+   {
+    "t": "p",
+    "x": "Two honest warnings. A bridge mould is not a cheap way to get production parts — a run of 5,000 from aluminium will show wear on the split line and the texture. And not every shape can be bridged: thin walls, long cores and fine threads behave differently in aluminium, so a bridge that works does not guarantee the steel tool will behave identically."
+   },
+   {
+    "t": "h2",
+    "x": "What Happens Between a Drawing and a Shippable Cup?"
+   },
+   {
+    "t": "p",
+    "x": "Six stages. Each one ends with something you approve — and each approval is the point where a change is still cheap."
+   },
+   {
+    "t": "ol",
+    "items": [
+     "<strong>Design review (DFM).</strong> We read your drawing for wall thickness, draft angle, undercuts, gate position and shrinkage. You get a written list of what will not mould cleanly and what it will cost to fix. Nothing is cut yet.",
+     "<strong>3D printed model.</strong> A physical shape in your hand, usually within a week. This is where ergonomics and proportion get settled — hold it, fill it, put it in a cup holder.",
+     "<strong>Mould design sign-off.</strong> Cavity layout, split line, ejection, cooling and texture are drawn and sent for approval. Your signature here is what protects both sides later.",
+     "<strong>Steel cutting and fitting.</strong> The longest stage. Trial shots begin as soon as the tool closes properly.",
+     "<strong>Trial rounds (T1, T2…).</strong> First shots are checked for flash, short fill, sink marks, dimensions and colour. Most projects need two rounds; a difficult shape can take four.",
+     "<strong>Sample approval and freeze.</strong> You approve a physical sample, we retain a signed reference piece, and the tool is frozen. From here, production runs repeat the approved sample."
+    ]
+   },
+   {
+    "t": "note",
+    "label": "Ask for this in writing",
+    "x": [
+     "“The production tool will be built to the approved sample; any change to cavity count, steel grade or texture will be notified and quoted before it is made.” One sentence, and it prevents the most common tooling dispute."
+    ]
+   },
+   {
+    "t": "h2",
+    "x": "How Long Does It Take?"
+   },
+   {
+    "t": "table",
+    "cols": [
+     "Stage",
+     "Working days",
+     "What you receive"
+    ],
+    "rows": [
+     [
+      "DFM review",
+      "2–4",
+      "Written feasibility notes and a marked-up drawing"
+     ],
+     [
+      "3D printed model",
+      "5–8",
+      "Physical model by courier"
+     ],
+     [
+      "Mould design sign-off",
+      "3–5",
+      "Mould layout drawing for approval"
+     ],
+     [
+      "Steel cutting and fitting",
+      "18–28",
+      "Trial shot photos, then samples"
+     ],
+     [
+      "Trial rounds and corrections",
+      "5–15",
+      "Revised samples per round"
+     ],
+     [
+      "Sample approval, then production",
+      "25–30",
+      "Bulk order on the approved tool"
+     ]
+    ],
+    "note": "Simple open shapes sit at the bottom of these ranges. A cup with a handle, an internal thread and a textured band sits at the top. Add transit time — the tool does not travel, but the samples do."
+   },
+   {
+    "t": "h2",
+    "x": "What Goes Wrong, and Who Pays?"
+   },
+   {
+    "t": "ul",
+    "items": [
+     "<strong>Change after the freeze.</strong> Usually the buyer's cost. The exception is a change needed because the tool cannot produce the approved drawing — then it is ours, and it should be stated that way before the work starts.",
+     "<strong>Wear over time.</strong> Tools wear. A mould that has run several hundred thousand shots will start to show flash on the split line, and it needs maintenance, not a new mould. Ask what the expected shot life is and who maintains the tool.",
+     "<strong>Ownership.</strong> If you pay for the mould, say so in the contract and ask where it is stored. A mould you paid for and cannot retrieve is not an asset.",
+     "<strong>Capacity priority.</strong> Owning the mould does not automatically give you priority in a busy factory. Put a delivery commitment in the order, not just a price."
+    ]
+   },
+   {
+    "t": "h2",
+    "x": "What Should You Put in a Mould Enquiry?"
+   },
+   {
+    "t": "p",
+    "x": "A useful enquiry gets a useful number. Vague ones get a wide range, and wide ranges are what make buyers think tooling is unpredictable. Send these seven things:"
+   },
+   {
+    "t": "ol",
+    "items": [
+     "A 2D drawing with dimensions and tolerances, or a 3D file (STEP preferred).",
+     "Capacity in ml or oz, plus the filled weight if the product is sold by volume.",
+     "Material and wall thickness, or the requirement that drives them (hot fill, dishwasher, freezer).",
+     "Annual volume and first-order volume, stated separately.",
+     "Every undercut, recess, thread or handle — with a sketch if it is unusual.",
+     "Surface finish: gloss level, texture name or a physical reference.",
+     "Any certification the finished part must meet, because it can change the material and therefore the shrinkage and the tool."
+    ]
+   },
+   {
+    "t": "p",
+    "x": "If the shape is not yet decided, the honest starting point is a <a href=\"/product-development/\">development route</a> rather than a mould quote: sketch, model, then tool. And if you only need your logo on an existing cup, none of this applies — read the <a href=\"/customization/\">customization guide</a> instead."
+   }
+  ],
+  "related": [
+   {
+    "href": "/blog/plastic-colour-matching",
+    "title": "Why Your Cup Colour Doesn't Match the Chip",
+    "text": "The four renderings of one Pantone number, and how to approve colour so a repeat order still matches.",
+    "image": "/img/alibaba-factory-20261031/ultrasonic-welder.jpg",
+    "alt": "Assembly line at the BYF factory"
+   },
+   {
+    "href": "/blog/what-aql-inspection-tells-you",
+    "title": "What an AQL Inspection Actually Tells You",
+    "text": "What the percentages mean, how many pieces get checked, and six things an inspection cannot see.",
+    "image": "/img/alibaba-factory-20261031/qc-checking.jpg",
+    "alt": "Quality control station at the BYF factory"
+   },
+   {
+    "href": "/tooling/",
+    "title": "Tooling and Mould Cost Explained",
+    "text": "The three routes to a custom cup, what moves a mould price, and what to send with an enquiry.",
+    "image": "/img/archive-real-20261103/070-bf8b50e360.webp",
+    "alt": "Factory tooling workshop and CNC machining equipment"
+   }
+  ],
+  "cta": {
+   "h2": "Send the drawing, get a tooling answer — not a range",
+   "text": "Send the 2D or 3D file, the annual volume and the surface finish. You get a DFM note, a cavity recommendation and a staged timeline before anything is cut.",
+   "href": "/contact/",
+   "label": "Start a tooling review"
+  },
+  "heroAlt": "CNC machining equipment in the tooling workshop",
+  "heroDisclosure": "Photography from our factory archive is used where relevant. Images labelled AI illustration are conceptual and are not production or inspection records."
+ }
+}

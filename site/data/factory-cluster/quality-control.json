@@ -1,0 +1,261 @@
+{
+  "title": "Quality Control & Testing for Plastic and Silicone Drinkware | EVERCUP",
+  "description": "What is checked before the run, during it and before sealing — dimensions, colour, lid fit, leak, print adhesion and carton drop, with the AQL table.",
+  "crumb": "Quality Control & Testing",
+  "blocks": [
+    {
+      "type": "hero",
+      "kicker": "BAOYUANFENG / QC · TESTING · ACCEPTANCE",
+      "h1": "Quality Control: Sample to Shipment",
+      "lead": "Ten full-time inspectors and a written acceptance standard per order. A cup either matches the signed-off sample or it does not go in the carton — and the checks that decide that are the same on the first order and the tenth.",
+      "cta": {
+        "href": "/contact/?models=Quality%20control%20and%20testing",
+        "label": "Ask About Inspection for My Order"
+      },
+      "cta2": {
+        "href": "/certificates/",
+        "label": "Certificates & Reports"
+      },
+      "image": "/img/alibaba-factory-20261031/qc-checking.jpg",
+      "image700": "/img/alibaba-factory-20261031/qc-checking.jpg",
+      "image_alt": "Inspection bench at the Baoyuanfeng factory — sampled units checked by hand",
+      "caption": "Inspection on the line — every sampled unit is opened and checked against the signed-off sample."
+    },
+    {
+      "type": "stats",
+      "items": [
+        [
+          "QA/QC inspectors",
+          "4",
+          "Alibaba company profile"
+        ],
+        [
+          "Stages checked",
+          "3",
+          "Pre · during · pre-shipment"
+        ],
+        [
+          "Sampling",
+          "AQL",
+          "5% / 3% / 1%"
+        ],
+        [
+          "Tests on finished cups",
+          "6",
+          "Per order scope"
+        ],
+        [
+          "Retained samples",
+          "Kept",
+          "Per approved version"
+        ]
+      ]
+    },
+    {
+      "type": "section",
+      "kicker": "THREE STAGES",
+      "h2": "Quality is decided before the press starts.",
+      "intro": "Most defects that reach a buyer were set in the first hour: a colour chip approved under the wrong light, a wall thickness nobody measured, an artwork file nobody read. These are the checkpoints that stop that.",
+      "blocks": [
+        {
+          "type": "checklist",
+          "items": [
+            {
+              "title": "Before production — materials",
+              "text": "Resin grade and supplier lot checked against the approved specification. Silicone hardness checked against the approved sample. Colour matched to the chip under the same light source used for approval."
+            },
+            {
+              "title": "Before production — sample and standard",
+              "text": "The approved sample, artwork version and dimension sheet are pulled and attached to the order. That set is the acceptance reference for every later check — including a repeat order two years later."
+            },
+            {
+              "title": "Before production — first-off parts",
+              "text": "The first parts off the press are measured and kept. Dimensions, capacity, wall thickness and lid fit are compared with the drawing before the run continues."
+            },
+            {
+              "title": "During production — in-process checks",
+              "text": "Inspectors pull units through the shift and check appearance, flash, sink marks, print position and assembly. A drifting parameter is corrected at the machine, not sorted out at the end."
+            },
+            {
+              "title": "Before shipment — AQL sampling",
+              "text": "The batch is sampled by size, opened, measured and leak-tested where the order calls for it. Carton weight, drop test and shipping marks are checked on the packed carton."
+            },
+            {
+              "title": "Before shipment — documents",
+              "text": "Packing list, inspection record and the retained sample are filed against the order number, then sent with the photos for your approval before the container is released."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "tint": true,
+      "kicker": "SAMPLING",
+      "h2": "How many units we open — decided by batch size.",
+      "intro": "AQL sampling is a statistical check, not a promise of zero defects. What it does promise is that a defect rate above the agreed level will be caught here rather than in your warehouse.",
+      "blocks": [
+        {
+          "type": "table",
+          "head": [
+            "Batch size",
+            "Units opened",
+            "What is checked"
+          ],
+          "rows": [
+            [
+              "Under 500 pcs",
+              "<strong>5%</strong>",
+              "Appearance, dimensions, assembly"
+            ],
+            [
+              "500 – 2,000 pcs",
+              "<strong>3%</strong>",
+              "The above, plus a water leak test on assembled units"
+            ],
+            [
+              "Over 2,000 pcs",
+              "<strong>1%</strong>",
+              "The above, plus carton drop test and shipping marks"
+            ]
+          ],
+          "note": "The sampling plan is stated on the quotation, so the inspection you receive is the inspection you agreed to. Where a buyer has their own AQL level or a third-party inspection booked, the plan follows their standard instead."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "kicker": "WHAT WE TEST",
+      "h2": "Six checks on a finished cup.",
+      "intro": "Which of these apply depends on the product and the market. All six are available on request, and the ones included in your order are written into the specification.",
+      "blocks": [
+        {
+          "type": "table",
+          "head": [
+            "Test",
+            "What it proves",
+            "Applies to"
+          ],
+          "rows": [
+            [
+              "Leak test",
+              "The lid, seal and thread hold water after assembly — the failure buyers notice first",
+              "Tumblers, shakers, travel cups"
+            ],
+            [
+              "Dimensional check",
+              "Capacity, height, rim diameter and wall thickness match the approved drawing",
+              "Every model"
+            ],
+            [
+              "Colour and appearance",
+              "Body colour, print colour and surface finish match the approved chip and sample under the same light",
+              "Every decorated order"
+            ],
+            [
+              "Print adhesion (tape test)",
+              "The print survives handling, washing and packing tape rather than flaking on arrival",
+              "Screen print, UV print, heat transfer, decal"
+            ],
+            [
+              "Assembly and fit",
+              "Lid engagement, straw fit, stackability and part interchangeability across the batch",
+              "Multi-part items"
+            ],
+            [
+              "Carton drop and marks",
+              "The packed carton survives transit and carries the right shipping marks and labels",
+              "Every export shipment"
+            ]
+          ],
+          "note": "Where a market needs a third-party report — food-contact migration, material identification, heavy metals — the sample is sent to the lab and the report is issued against that model. Reports on one model do not transfer to another."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "tint": true,
+      "kicker": "WHAT YOU RECEIVE",
+      "h2": "Evidence, not reassurance.",
+      "intro": "A buyer who cannot see the inspection is trusting a sentence. These are the artifacts that travel with an order.",
+      "blocks": [
+        {
+          "type": "choices",
+          "items": [
+            {
+              "title": "Photos and video before packing",
+              "text": "The run, the finished goods and the packed cartons, sent for approval while a correction is still possible. Not a photo of somebody else's order.",
+              "meta": "Sent before shipment"
+            },
+            {
+              "title": "Inspection record per order",
+              "text": "Batch size, units opened, what was checked and what was found — filed against the order number and available with the shipping documents.",
+              "meta": "Filed with the order"
+            },
+            {
+              "title": "Retained approved sample",
+              "text": "The signed-off sample and artwork version are kept, so a repeat order in two years is measured against the same reference instead of someone's memory.",
+              "meta": "Kept per version"
+            }
+          ]
+        },
+        {
+          "type": "qa",
+          "items": [
+            [
+              "Can I book a third-party inspection?",
+              "Yes, and we encourage it on a first order. Tell us the agency and the date; we schedule production so the goods are packed and accessible when the inspector arrives. The inspection fee is yours, the access is ours."
+            ],
+            [
+              "What happens if the inspection fails?",
+              "The batch is sorted against the agreed standard before shipment, and the re-inspection is at our cost when the failure is ours. If a specification was ambiguous, we fix the specification first — otherwise the same failure returns on the next run."
+            ],
+            [
+              "Do you keep a sample of my order?",
+              "Yes. One approved sample per version stays with the order record. If you need a duplicate sent to your office, ask at quotation."
+            ],
+            [
+              "Is a test report included in the price?",
+              "Not by default. Reports are issued per model by a third-party lab and charged at cost; they are quoted as a separate line so you can decide whether your market needs one."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "kicker": "CONTINUE YOUR PROJECT",
+      "h2": "The next useful pages.",
+      "blocks": [
+        {
+          "type": "related",
+          "items": [
+            {
+              "href": "/manufacturing-process/",
+              "title": "Manufacturing Process",
+              "text": "The eight steps before inspection — moulding, decoration, assembly and packing."
+            },
+            {
+              "href": "/certificates/",
+              "title": "Certificates & Reports",
+              "text": "ISO 9001 and 14001, SGS and STC reports, and the resin documentation behind them."
+            },
+            {
+              "href": "/compliance/",
+              "title": "Compliance",
+              "text": "What a food-contact declaration covers, and what it does not."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brief",
+      "kicker": "YOUR NEXT STEP",
+      "h2": "Put the acceptance standard into the order, not into a conversation.",
+      "text": "Tell us the model, the market and the tests your buyer asks for. We will write them into the specification before the first part is moulded.",
+      "label": "Ask About Inspection for My Order",
+      "href": "/contact/?models=Quality%20control%20and%20testing"
+    }
+  ]
+}

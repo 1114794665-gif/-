@@ -1,0 +1,50 @@
+/* == ec-cat-nest-20261030 : 产品分类第三层（塑胶啤酒杯 下挂 变色杯 / 体育场杯） == */
+.ec-cat-sub3-wrap{padding:0}
+.ec-cat-sub3{
+  list-style:none;
+  margin:2px 0 6px;
+  padding:0 0 0 13px;
+  border-left:1px dashed rgba(120,128,122,.35);
+}
+.ec-cat-sub3 > li{
+  display:flex;
+  align-items:baseline;
+  justify-content:space-between;
+  gap:8px;
+  padding:5px 0 5px 10px;
+  border-left:2px solid transparent;
+  margin-left:-1px;
+  transition:background .16s,border-color .16s;
+}
+.ec-cat-sub3 > li:hover{
+  border-left-color:var(--rail-line,rgba(120,128,122,.35));
+  background:var(--rail-soft,rgba(120,128,122,.07));
+}
+.ec-cat-child-l3{
+  font-size:12px;
+  line-height:1.45;
+  color:var(--rail-mute,#6b746d);
+}
+.ec-cat-child-l3:hover{color:var(--rail-ink,#1d241f)}
+.ec-cat-sub3 .ec-cat-count{font-size:10px;color:#b3bab4}
+
+/* 有下级的父行：名字后面加个小折角，提示下面还有一层 */
+.ec-cat-child-parent > .ec-cat-child{color:var(--rail-ink,#1d241f);position:relative}
+.ec-cat-child-parent > .ec-cat-child::after{
+  content:"";
+  display:inline-block;
+  width:5px;height:5px;
+  margin-left:7px;
+  border-right:1.5px solid currentColor;
+  border-bottom:1.5px solid currentColor;
+  transform:rotate(45deg) translateY(-1px);
+  opacity:.45;
+  vertical-align:baseline;
+}
+.ec-cat-child-parent > .ec-cat-count{margin-left:auto}
+
+@media (max-width:640px){
+  .ec-cat-sub3{padding-left:10px}
+  .ec-cat-sub3 > li{padding:8px 0 8px 9px}
+  .ec-cat-child-l3{font-size:12.5px}
+}

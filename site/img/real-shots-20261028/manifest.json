@@ -1,0 +1,421 @@
+{
+ "assets": [
+  {
+   "file": "scenes/real-bar-01",
+   "source_batch": "真实摄影候选_20261028",
+   "source_name": "REAL-BAR-01.jpg",
+   "w": 1600,
+   "h": 928,
+   "ratio": 1.724,
+   "group": "scenes"
+  },
+  {
+   "file": "scenes/real-bar-02",
+   "source_batch": "真实摄影候选_20261028",
+   "source_name": "REAL-BAR-02.jpg",
+   "w": 1600,
+   "h": 2844,
+   "ratio": 0.563,
+   "group": "scenes"
+  },
+  {
+   "file": "scenes/real-bar-03",
+   "source_batch": "真实摄影候选_20261028",
+   "source_name": "REAL-BAR-03.jpg",
+   "w": 1600,
+   "h": 1067,
+   "ratio": 1.5,
+   "group": "scenes"
+  },
+  {
+   "file": "scenes/real-bbq-01",
+   "source_batch": "真实摄影候选_20261028",
+   "source_name": "REAL-BBQ-01.jpg",
+   "w": 1600,
+   "h": 2400,
+   "ratio": 0.667,
+   "group": "scenes"
+  },
+  {
+   "file": "scenes/real-bbq-02",
+   "source_batch": "真实摄影候选_20261028",
+   "source_name": "REAL-BBQ-02.jpg",
+   "w": 1600,
+   "h": 1280,
+   "ratio": 1.25,
+   "group": "scenes"
+  },
+  {
+   "file": "scenes/real-bbq-03",
+   "source_batch": "真实摄影候选_20261028",
+   "source_name": "REAL-BBQ-03.jpg",
+   "w": 1600,
+   "h": 1067,
+   "ratio": 1.5,
+   "group": "scenes"
+  },
+  {
+   "file": "scenes/real-beach-01",
+   "source_batch": "真实摄影候选_20261028",
+   "source_name": "REAL-BEACH-01.jpg",
+   "w": 1600,
+   "h": 2400,
+   "ratio": 0.667,
+   "group": "scenes"
+  },
+  {
+   "file": "scenes/real-beach-02",
+   "source_batch": "真实摄影候选_20261028",
+   "source_name": "REAL-BEACH-02.jpg",
+   "w": 1600,
+   "h": 901,
+   "ratio": 1.776,
+   "group": "scenes"
+  },
+  {
+   "file": "scenes/real-beach-03",
+   "source_batch": "真实摄影候选_20261028",
+   "source_name": "REAL-BEACH-03.jpg",
+   "w": 1600,
+   "h": 900,
+   "ratio": 1.778,
+   "group": "scenes"
+  },
+  {
+   "file": "scenes/real-camp-01",
+   "source_batch": "真实摄影候选_20261028",
+   "source_name": "REAL-CAMP-01.jpg",
+   "w": 1600,
+   "h": 1067,
+   "ratio": 1.5,
+   "group": "scenes"
+  },
+  {
+   "file": "scenes/real-camp-02",
+   "source_batch": "真实摄影候选_20261028",
+   "source_name": "REAL-CAMP-02.jpg",
+   "w": 1600,
+   "h": 1067,
+   "ratio": 1.5,
+   "group": "scenes"
+  },
+  {
+   "file": "scenes/real-camp-03",
+   "source_batch": "真实摄影候选_20261028",
+   "source_name": "REAL-CAMP-03.jpg",
+   "w": 1600,
+   "h": 1067,
+   "ratio": 1.5,
+   "group": "scenes"
+  },
+  {
+   "file": "scenes/real-yacht-01",
+   "source_batch": "真实摄影候选_20261028",
+   "source_name": "REAL-YACHT-01.jpg",
+   "w": 1600,
+   "h": 1067,
+   "ratio": 1.5,
+   "group": "scenes"
+  },
+  {
+   "file": "scenes/real-yacht-02",
+   "source_batch": "真实摄影候选_20261028",
+   "source_name": "REAL-YACHT-02.jpg",
+   "w": 1600,
+   "h": 2400,
+   "ratio": 0.667,
+   "group": "scenes"
+  },
+  {
+   "file": "product-close/led-01-fgb-006-1200",
+   "source_batch": "杯子近景与产品合成_20261028",
+   "source_name": "LED-01_FGB-006_1200.jpg",
+   "w": 1200,
+   "h": 1200,
+   "ratio": 1.0,
+   "group": "product-close"
+  },
+  {
+   "file": "product-close/led-02-fgb-006-1200",
+   "source_batch": "杯子近景与产品合成_20261028",
+   "source_name": "LED-02_FGB-006_1200.jpg",
+   "w": 1200,
+   "h": 1200,
+   "ratio": 1.0,
+   "group": "product-close"
+  },
+  {
+   "file": "product-close/led-03-fgb-006-1200",
+   "source_batch": "杯子近景与产品合成_20261028",
+   "source_name": "LED-03_FGB-006_1200.jpg",
+   "w": 1200,
+   "h": 1200,
+   "ratio": 1.0,
+   "group": "product-close"
+  },
+  {
+   "file": "product-close/sil-01-gjb-001-1200",
+   "source_batch": "杯子近景与产品合成_20261028",
+   "source_name": "SIL-01_GJB-001_1200.jpg",
+   "w": 1200,
+   "h": 1200,
+   "ratio": 1.0,
+   "group": "product-close"
+  },
+  {
+   "file": "product-close/sil-02-gjb-001-1200",
+   "source_batch": "杯子近景与产品合成_20261028",
+   "source_name": "SIL-02_GJB-001_1200.jpg",
+   "w": 1200,
+   "h": 1200,
+   "ratio": 1.0,
+   "group": "product-close"
+  },
+  {
+   "file": "product-close/sil-03-gjb-001-1200",
+   "source_batch": "杯子近景与产品合成_20261028",
+   "source_name": "SIL-03_GJB-001_1200.jpg",
+   "w": 1200,
+   "h": 1200,
+   "ratio": 1.0,
+   "group": "product-close"
+  },
+  {
+   "file": "product-ambience/real-led-01-fgb-006-1200",
+   "source_batch": "实拍背景氛围中近远景_V3_20261028",
+   "source_name": "REAL-LED-01_FGB-006_1200.jpg",
+   "w": 1200,
+   "h": 1200,
+   "ratio": 1.0,
+   "group": "product-ambience"
+  },
+  {
+   "file": "product-ambience/real-led-02-fgb-006-1200",
+   "source_batch": "实拍背景氛围中近远景_V3_20261028",
+   "source_name": "REAL-LED-02_FGB-006_1200.jpg",
+   "w": 1200,
+   "h": 1200,
+   "ratio": 1.0,
+   "group": "product-ambience"
+  },
+  {
+   "file": "product-ambience/real-led-03-fgb-006-1200",
+   "source_batch": "实拍背景氛围中近远景_V3_20261028",
+   "source_name": "REAL-LED-03_FGB-006_1200.jpg",
+   "w": 1200,
+   "h": 1200,
+   "ratio": 1.0,
+   "group": "product-ambience"
+  },
+  {
+   "file": "product-ambience/real-sil-01-gjb-001-1200",
+   "source_batch": "实拍背景氛围中近远景_V3_20261028",
+   "source_name": "REAL-SIL-01_GJB-001_1200.jpg",
+   "w": 1200,
+   "h": 1200,
+   "ratio": 1.0,
+   "group": "product-ambience"
+  },
+  {
+   "file": "product-ambience/real-sil-02-gjb-001-1200",
+   "source_batch": "实拍背景氛围中近远景_V3_20261028",
+   "source_name": "REAL-SIL-02_GJB-001_1200.jpg",
+   "w": 1200,
+   "h": 1200,
+   "ratio": 1.0,
+   "group": "product-ambience"
+  },
+  {
+   "file": "product-ambience/real-sil-03-gjb-001-1200",
+   "source_batch": "实拍背景氛围中近远景_V3_20261028",
+   "source_name": "REAL-SIL-03_GJB-001_1200.jpg",
+   "w": 1200,
+   "h": 1200,
+   "ratio": 1.0,
+   "group": "product-ambience"
+  },
+  {
+   "file": "product-bbq/bsb-011",
+   "source_batch": "烧烤应用实拍补充_V4_20261028",
+   "source_name": "BSB-011.jpg",
+   "w": 1200,
+   "h": 1200,
+   "ratio": 1.0,
+   "group": "product-bbq"
+  },
+  {
+   "file": "product-bbq/hjb-031",
+   "source_batch": "烧烤应用实拍补充_V4_20261028",
+   "source_name": "HJB-031.jpg",
+   "w": 1200,
+   "h": 1200,
+   "ratio": 1.0,
+   "group": "product-bbq"
+  },
+  {
+   "file": "product-bbq/hjb-073",
+   "source_batch": "烧烤应用实拍补充_V4_20261028",
+   "source_name": "HJB-073.jpg",
+   "w": 1200,
+   "h": 1200,
+   "ratio": 1.0,
+   "group": "product-bbq"
+  },
+  {
+   "file": "product-bbq/msb-002",
+   "source_batch": "烧烤应用实拍补充_V4_20261028",
+   "source_name": "MSB-002.jpg",
+   "w": 1200,
+   "h": 1200,
+   "ratio": 1.0,
+   "group": "product-bbq"
+  },
+  {
+   "file": "product-bbq/pjb-005",
+   "source_batch": "烧烤应用实拍补充_V4_20261028",
+   "source_name": "PJB-005.jpg",
+   "w": 1200,
+   "h": 1200,
+   "ratio": 1.0,
+   "group": "product-bbq"
+  },
+  {
+   "file": "product-bbq/pjb-018",
+   "source_batch": "烧烤应用实拍补充_V4_20261028",
+   "source_name": "PJB-018.jpg",
+   "w": 1200,
+   "h": 1200,
+   "ratio": 1.0,
+   "group": "product-bbq"
+  }
+ ],
+ "photo_credits": [
+  {
+   "id": "REAL-BEACH-01",
+   "title": "沙地围坐与海边篝火",
+   "platform": "Pexels",
+   "author": "Thirdman",
+   "page": "https://www.pexels.com/photo/group-of-friends-having-a-bonfire-on-the-beach-8020678/",
+   "license": "平台免费许可；上线前核对人物、品牌及具体用途",
+   "evidence": "摄影师作品页；图库摄影照片"
+  },
+  {
+   "id": "REAL-BEACH-02",
+   "title": "日落篝火旁的举杯瞬间",
+   "platform": "Pexels",
+   "author": "Kindel Media",
+   "page": "https://www.pexels.com/photo/group-of-friends-clinking-beer-bottles-7148683/",
+   "license": "平台免费许可；上线前核对人物、品牌及具体用途",
+   "evidence": "2021年上传与拍摄记录"
+  },
+  {
+   "id": "REAL-BEACH-03",
+   "title": "海边蓝调夜色与仙女棒",
+   "platform": "Unsplash",
+   "author": "Vitaly Gariev",
+   "page": "https://unsplash.com/photos/friends-celebrating-with-sparklers-by-the-water-at-night-GW2PODU70Ec",
+   "license": "平台免费许可；上线前核对人物、品牌及具体用途",
+   "evidence": "摄影师作品页；2025年发布；Unsplash License"
+  },
+  {
+   "id": "REAL-CAMP-01",
+   "title": "帐篷边的轻松交谈",
+   "platform": "Pexels",
+   "author": "Andrea Piacquadio",
+   "page": "https://www.pexels.com/photo/friends-spending-time-together-at-campsite-3777049/",
+   "license": "平台免费许可；上线前核对人物、品牌及具体用途",
+   "evidence": "Canon EOS 5D Mark III；2016年拍摄、2020年发布"
+  },
+  {
+   "id": "REAL-CAMP-02",
+   "title": "林间串灯下的朋友举杯",
+   "platform": "Pexels",
+   "author": "Ivan S",
+   "page": "https://www.pexels.com/photo/friends-having-drinks-together-9630128/",
+   "license": "平台免费许可；上线前核对人物、品牌及具体用途",
+   "evidence": "Sony ILCE-7RM2；2021年拍摄记录"
+  },
+  {
+   "id": "REAL-CAMP-03",
+   "title": "夜间营火、吉他与帐篷",
+   "platform": "Pexels",
+   "author": "Ivan S",
+   "page": "https://www.pexels.com/photo/friends-camping-in-forest-at-night-9630161/",
+   "license": "平台免费许可；上线前核对人物、品牌及具体用途",
+   "evidence": "Sony ILCE-7RM2；2021年6月2日拍摄记录"
+  },
+  {
+   "id": "REAL-BBQ-01",
+   "title": "阳光庭院里的烤架操作",
+   "platform": "Pexels",
+   "author": "Askar Abayev",
+   "page": "https://www.pexels.com/photo/two-men-grilling-meat-together-5637723/",
+   "license": "平台免费许可；上线前核对人物、品牌及具体用途",
+   "evidence": "Nikon D850；2020年拍摄记录"
+  },
+  {
+   "id": "REAL-BBQ-02",
+   "title": "朋友们的庭院烧烤聚会",
+   "platform": "Pexels",
+   "author": "Samuel Peter",
+   "page": "https://www.pexels.com/photo/group-of-people-at-a-barbecue-16617570/",
+   "license": "平台免费许可；上线前核对人物、品牌及具体用途",
+   "evidence": "摄影师作品页；图库摄影照片"
+  },
+  {
+   "id": "REAL-BBQ-03",
+   "title": "傍晚庭院与自然聚餐",
+   "platform": "Pexels",
+   "author": "Jonathan Borba",
+   "page": "https://www.pexels.com/photo/people-sitting-outdoors-20321283/",
+   "license": "平台免费许可；上线前核对人物、品牌及具体用途",
+   "evidence": "Canon EOS R5；2024年1月拍摄记录"
+  },
+  {
+   "id": "REAL-YACHT-01",
+   "title": "码头游艇上的朋友聚会",
+   "platform": "Pexels",
+   "author": "Matheus Bertelli",
+   "page": "https://www.pexels.com/photo/party-on-yacht-15141379/",
+   "license": "平台免费许可；上线前核对人物、品牌及具体用途",
+   "evidence": "Canon EOS R；2022年11月拍摄记录"
+  },
+  {
+   "id": "REAL-YACHT-02",
+   "title": "甲板上的香槟与聚餐",
+   "platform": "Pexels",
+   "author": "KoolShooters",
+   "page": "https://www.pexels.com/photo/couples-having-dinner-on-a-yacht-9750925/",
+   "license": "平台免费许可；上线前核对人物、品牌及具体用途",
+   "evidence": "Canon EOS 5D Mark IV；2021年拍摄记录"
+  },
+  {
+   "id": "REAL-BAR-01",
+   "title": "朋友在酒吧举杯交谈",
+   "platform": "Pexels",
+   "author": "ELEVATE",
+   "page": "https://www.pexels.com/photo/people-drinking-beer-at-bar-1267351/",
+   "license": "平台免费许可；上线前核对人物、品牌及具体用途",
+   "evidence": "Nikon D610；2016年拍摄记录"
+  },
+  {
+   "id": "REAL-BAR-02",
+   "title": "暮色屋顶酒吧与灯光陈设",
+   "platform": "Pexels",
+   "author": "Flávio Nascimento",
+   "page": "https://www.pexels.com/photo/stylish-rooftop-bar-at-dusk-with-modern-decor-40041432/",
+   "license": "平台免费许可；上线前核对人物、品牌及具体用途",
+   "evidence": "Sony ILCE-6400；2026年10月3日拍摄记录"
+  },
+  {
+   "id": "REAL-BAR-03",
+   "title": "夜间露天移动吧台",
+   "platform": "Pexels",
+   "author": "Mingyang LIU",
+   "page": "https://www.pexels.com/photo/nighttime-outdoor-bar-with-customers-32347121/",
+   "license": "平台免费许可；上线前核对人物、品牌及具体用途",
+   "evidence": "摄影师作品页；London, United Kingdom"
+  }
+ ],
+ "note": "Scenes are licensed stock photography (Pexels/Unsplash). Product composites place an EVERCUP model into licensed scenery; they are not photographs of an actual order."
+}

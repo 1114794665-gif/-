@@ -1,0 +1,7004 @@
+{
+"/products/silicone-coaster-gummy/#model-BD-001": {
+"sku": "BD-001",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/silicone-coaster-jelly/#model-BD-002": {
+"sku": "BD-002",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/custom-led-light-up-coasters/#model-BD-003": {
+"sku": "BD-003",
+"moq": 10,
+"materials": [
+"Acrylic",
+"ABS"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print"
+]
+},
+"/products/crystal-clear-high-gloss-acrylic-promotional/#model-BT-001": {
+"sku": "BT-001",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Screen print",
+"UV print",
+"Hydro dip"
+]
+},
+"/products/eco-friendly-premium-molded-acrylic-ice/#model-BT-002": {
+"sku": "BT-002",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Screen print",
+"UV print",
+"Hydro dip"
+]
+},
+"/products/large-capacity-acrylic-ice-bucket/#model-BT-004": {
+"sku": "BT-004",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"10 L"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"UV print",
+"Hydro dip"
+]
+},
+"/products/square-acrylic-ice-bucket-with-lid/#model-BT-005": {
+"sku": "BT-005",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"5 L"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"UV print",
+"Hydro dip"
+]
+},
+"/products/translucent-frosted-effect-acrylic-ice-bucket/#model-BT-006": {
+"sku": "BT-006",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Screen print",
+"UV print",
+"Hydro dip"
+]
+},
+"/products/high-transparency-round-acrylic-ice-bucket/#model-BT-007": {
+"sku": "BT-007",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Screen print",
+"UV print",
+"Hydro dip"
+]
+},
+"/products/high-capacity-acrylic-ice-bucket-with/#model-BT-008": {
+"sku": "BT-008",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Screen print",
+"UV print"
+]
+},
+"/products/metallic-lustre-touch-asymmetric-acrylic-led/#model-BT-009": {
+"sku": "BT-009",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"8 L"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"UV print",
+"Hydro dip"
+]
+},
+"/products/34oz-ice-bucket/#model-BT-012": {
+"sku": "BT-012",
+"moq": 10,
+"materials": [
+"PS"
+],
+"capacities": [
+"1 L / 34 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"UV print",
+"Hydro dip"
+]
+},
+"/products/5l-boat-shape-ice-bucket/#model-BT-013": {
+"sku": "BT-013",
+"moq": 10,
+"materials": [
+"PET"
+],
+"capacities": [
+"5 L"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"UV print",
+"Hydro dip"
+]
+},
+"/products/4l-8l-12l-ice-bucket/#model-BT-014": {
+"sku": "BT-014",
+"moq": 10,
+"materials": [
+"PS"
+],
+"capacities": [
+"4 L / 8 L / 12 L"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"UV print",
+"Hydro dip"
+]
+},
+"/products/moet-champagne-ice-bucket/#model-BT-015": {
+"sku": "BT-015",
+"moq": 10,
+"materials": [
+"PP",
+"PS"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Screen print",
+"UV print",
+"Hydro dip"
+]
+},
+"/products/3-7l/#model-BT-016": {
+"sku": "BT-016",
+"moq": 10,
+"materials": [
+"PP"
+],
+"capacities": [
+"3.7 L / 700 ml / 20.5 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"UV print",
+"Hydro dip"
+]
+},
+"/products/plastic-ice-bucket/#model-BT-017": {
+"sku": "BT-017",
+"moq": 10,
+"materials": [
+"PP",
+"PS"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Screen print",
+"UV print",
+"Hydro dip"
+]
+},
+"/products/slim-can-silicone-sleeve/#model-BTAO-001": {
+"sku": "BTAO-001",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [
+"12 oz"
+],
+"accessories": [],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/roll-on-silicone-bottle-beer-rubber/#model-BTAO-002": {
+"sku": "BTAO-002",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [
+"12 oz"
+],
+"accessories": [],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/neoprene-zippered-bottle-cooler/#model-BTAO-003": {
+"sku": "BTAO-003",
+"moq": 10,
+"materials": [
+"Rubber"
+],
+"capacities": [
+"12 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Pad print"
+]
+},
+"/products/custom-neoprene-pint-glass-sleeve/#model-BTAO-004": {
+"sku": "BTAO-004",
+"moq": 10,
+"materials": [
+"Rubber"
+],
+"capacities": [
+"16 oz / 20 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"UV print"
+]
+},
+"/products/full-color-collapsible-foam-can-cooler/#model-BTAO-005": {
+"sku": "BTAO-005",
+"moq": 10,
+"materials": [
+"EVA foam"
+],
+"capacities": [
+"12 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"UV print"
+]
+},
+"/products/multicolor-led-light-up-ice-cubes/#model-FGB-003": {
+"sku": "FGB-003",
+"moq": 10,
+"materials": [
+"PS"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Screen print",
+"UV print"
+]
+},
+"/products/silicone-sili-straw/#model-GJXG-001": {
+"sku": "GJXG-001",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/wholesale-bar-service-mat/#model-JBPJ-001": {
+"sku": "JBPJ-001",
+"moq": 10,
+"materials": [
+"Rubber"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Screen print"
+]
+},
+"/products/bar-mats/#model-JBPJ-002": {
+"sku": "JBPJ-002",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/silicone-drying-mat-black-12x16/#model-JBPJ-003": {
+"sku": "JBPJ-003",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/interlocking-12-x-8-glass/#model-JBPJ-004": {
+"sku": "JBPJ-004",
+"moq": 10,
+"materials": [],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Screen print"
+]
+},
+"/products/molded-swizzle-sticks/#model-JBPJ-013": {
+"sku": "JBPJ-013",
+"moq": 10,
+"materials": [],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/custom-molded-cocktail-pick/#model-JBPJ-017": {
+"sku": "JBPJ-017",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/custom-molded-cocktail-pick/#model-JBPJ-018": {
+"sku": "JBPJ-018",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/sports-ball-cocktail-pick/#model-JBPJ-019": {
+"sku": "JBPJ-019",
+"moq": 10,
+"materials": [],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/plastic-jiggers-with-measuring-lines/#model-JBPJ-020": {
+"sku": "JBPJ-020",
+"moq": 10,
+"materials": [],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/acrylic-pyramid-jiggers-multi-colored/#model-JBPJ-021": {
+"sku": "JBPJ-021",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/aqua-kaleidoscope-double-sided-jigger-1oz/#model-JBPJ-022": {
+"sku": "JBPJ-022",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"1 oz / 1.5 oz"
+],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/multi-purpose-cocktail-spoon/#model-JBPJ-023": {
+"sku": "JBPJ-023",
+"moq": 10,
+"materials": [
+"PP"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/composite-muddler-12/#model-JBPJ-024": {
+"sku": "JBPJ-024",
+"moq": 10,
+"materials": [
+"Nylon"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/4in1-multipurpose-cocktail-mortar/#model-JBPJ-025": {
+"sku": "JBPJ-025",
+"moq": 10,
+"materials": [
+"Stainless steel"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/black-plastic-ice-scoop-with-drain/#model-JBPJ-026": {
+"sku": "JBPJ-026",
+"moq": 10,
+"materials": [],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Screen print",
+"UV print"
+]
+},
+"/products/32-oz-plastic-ice-scoop/#model-JBPJ-027": {
+"sku": "JBPJ-027",
+"moq": 10,
+"materials": [],
+"capacities": [
+"32 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"UV print"
+]
+},
+"/products/32-oz-plastic-ice-scoop/#model-JBPJ-028": {
+"sku": "JBPJ-028",
+"moq": 10,
+"materials": [
+"PC"
+],
+"capacities": [
+"64 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"UV print"
+]
+},
+"/products/32-oz-plastic-ice-scoop/#model-JBPJ-029": {
+"sku": "JBPJ-029",
+"moq": 10,
+"materials": [],
+"capacities": [
+"82 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"UV print"
+]
+},
+"/products/your-letter-clear-ice-maker/#model-JBPJ-030": {
+"sku": "JBPJ-030",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/novelty-ice-trays/#model-JBPJ-037": {
+"sku": "JBPJ-037",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/silicone-lid-for-ice-tray/#model-JBPJ-038": {
+"sku": "JBPJ-038",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/wine-pourer-and-stopper-2-in/#model-JBPJ-039": {
+"sku": "JBPJ-039",
+"moq": 10,
+"materials": [
+"ABS",
+"Silicone"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/wine-aerator-pourer/#model-JBPJ-040": {
+"sku": "JBPJ-040",
+"moq": 10,
+"materials": [
+"Acrylic",
+"TPE"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/hawk-wine-aerator-pourer/#model-JBPJ-041": {
+"sku": "JBPJ-041",
+"moq": 10,
+"materials": [
+"AS",
+"Silicone"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/champagne-sipper-for-16-1-mm/#model-JBPJ-042": {
+"sku": "JBPJ-042",
+"moq": 10,
+"materials": [
+"ABS"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/champagne-sipper-for-16-1-mm/#model-JBPJ-043": {
+"sku": "JBPJ-043",
+"moq": 10,
+"materials": [
+"ABS",
+"Silicone"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/bottle-stopper-and-wine-charm-2/#model-JBPJ-044": {
+"sku": "JBPJ-044",
+"moq": 10,
+"materials": [
+"PP",
+"Silicone"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/champagne-stopper-for-17-5/#model-JBPJ-045": {
+"sku": "JBPJ-045",
+"moq": 10,
+"materials": [
+"ABS",
+"Silicone"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/wine-pourer-and-stopper-2-in/#model-JBPJ-046": {
+"sku": "JBPJ-046",
+"moq": 10,
+"materials": [
+"ABS",
+"Silicone"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/ice-tong/#model-JBPJ-047": {
+"sku": "JBPJ-047",
+"moq": 10,
+"materials": [
+"PS"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Screen print",
+"UV print"
+]
+},
+"/products/bar-salt-glass-rimmer-3-tier/#model-JBPJ-048": {
+"sku": "JBPJ-048",
+"moq": 10,
+"materials": [
+"ABS"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Screen print",
+"Pad print"
+]
+},
+"/products/bottle-rack-for-6-bottles/#model-JBPJ-049": {
+"sku": "JBPJ-049",
+"moq": 10,
+"materials": [
+"PP"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Screen print",
+"Pad print"
+]
+},
+"/products/corona-margarita-clip-straight-version/#model-JBPJ-050": {
+"sku": "JBPJ-050",
+"moq": 10,
+"materials": [
+"ABS"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Screen print",
+"Pad print"
+]
+},
+"/products/diner-plastic-food-drinks-trays-410/#model-JBPJ-052": {
+"sku": "JBPJ-052",
+"moq": 10,
+"materials": [],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Screen print",
+"UV print"
+]
+},
+"/products/ibiza-round-non-slip-drinks-tray/#model-JBPJ-053": {
+"sku": "JBPJ-053",
+"moq": 10,
+"materials": [],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Screen print",
+"UV print"
+]
+},
+"/products/acrylic-beverage-carafe/#model-JBPJ-056": {
+"sku": "JBPJ-056",
+"moq": 10,
+"materials": [
+"Acrylic",
+"Silicone"
+],
+"capacities": [
+"36 oz / 56 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"UV print"
+]
+},
+"/products/64-oz-plug-lid-acrylic-pitcher/#model-JBPJ-057": {
+"sku": "JBPJ-057",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"64 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/37-oz-acrylic-pitcher/#model-JBPJ-058": {
+"sku": "JBPJ-058",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"37 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/56-oz-acrylic-square-juice-pitcher/#model-JBPJ-059": {
+"sku": "JBPJ-059",
+"moq": 10,
+"materials": [
+"Acrylic",
+"Silicone"
+],
+"capacities": [
+"56 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/24-oz-acrylic-cocktail-mixer-3/#model-JBPJ-060": {
+"sku": "JBPJ-060",
+"moq": 10,
+"materials": [
+"PS"
+],
+"capacities": [
+"24 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Pad print"
+]
+},
+"/products/16-oz-light-up-acrylic-shaker/#model-JBPJ-061": {
+"sku": "JBPJ-061",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"16 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"UV print"
+]
+},
+"/products/boston-shaker-kit/#model-JBPJ-062": {
+"sku": "JBPJ-062",
+"moq": 10,
+"materials": [
+"Stainless steel"
+],
+"capacities": [
+"18 oz / 28 oz shaker tins"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"UV print"
+]
+},
+"/products/margarita-cocktail-drink-pitcher/#model-JBPJ-063": {
+"sku": "JBPJ-063",
+"moq": 10,
+"materials": [
+"PC"
+],
+"capacities": [
+"54 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/sipper-pourer-universal-version-for-16/#model-JBPJ-064": {
+"sku": "JBPJ-064",
+"moq": 10,
+"materials": [
+"ABS",
+"Silicone"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/bottle-pourer-tulip-shape/#model-JBPJ-065": {
+"sku": "JBPJ-065",
+"moq": 10,
+"materials": [
+"Acrylic",
+"TPE"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/stopper-pourer-2-in-1-with/#model-JBPJ-066": {
+"sku": "JBPJ-066",
+"moq": 10,
+"materials": [],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/sipper-pourer-universal-ver-for-16/#model-JBPJ-067": {
+"sku": "JBPJ-067",
+"moq": 10,
+"materials": [
+"ABS",
+"Silicone"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/bottle-pourer/#model-JBPJ-068": {
+"sku": "JBPJ-068",
+"moq": 10,
+"materials": [
+"Acrylic",
+"TPE"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/vacuum-pump-4x-stopper-s-5/#model-JBPJ-072": {
+"sku": "JBPJ-072",
+"moq": 10,
+"materials": [
+"ABS",
+"Silicone"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/rechargeable-wine-aerator-dispenser/#model-JBPJ-073": {
+"sku": "JBPJ-073",
+"moq": 10,
+"materials": [
+"ABS",
+"Silicone"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/koala-shaped-silicone-wine-glass-charms/#model-JBPJ-074": {
+"sku": "JBPJ-074",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/koala-shaped-silicone-wine-glass-charms/#model-JBPJ-075": {
+"sku": "JBPJ-075",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/koala-shaped-silicone-wine-glass-charms/#model-JBPJ-076": {
+"sku": "JBPJ-076",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/koala-shaped-silicone-wine-glass-charms/#model-JBPJ-077": {
+"sku": "JBPJ-077",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/koala-shaped-silicone-wine-glass-charms/#model-JBPJ-078": {
+"sku": "JBPJ-078",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/koala-shaped-silicone-wine-glass-charms/#model-JBPJ-079": {
+"sku": "JBPJ-079",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/koala-shaped-silicone-wine-glass-charms/#model-JBPJ-080": {
+"sku": "JBPJ-080",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/koala-shaped-silicone-wine-glass-charms/#model-JBPJ-081": {
+"sku": "JBPJ-081",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/koala-shaped-silicone-wine-glass-charms/#model-JBPJ-082": {
+"sku": "JBPJ-082",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/koala-shaped-silicone-wine-glass-charms/#model-JBPJ-083": {
+"sku": "JBPJ-083",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/koala-shaped-silicone-wine-glass-charms/#model-JBPJ-084": {
+"sku": "JBPJ-084",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/koala-shaped-silicone-wine-glass-charms/#model-JBPJ-085": {
+"sku": "JBPJ-085",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/koala-shaped-silicone-wine-glass-charms/#model-JBPJ-086": {
+"sku": "JBPJ-086",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/koala-shaped-silicone-wine-glass-charms/#model-JBPJ-087": {
+"sku": "JBPJ-087",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/koala-shaped-silicone-wine-glass-charms/#model-JBPJ-088": {
+"sku": "JBPJ-088",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/koala-shaped-silicone-wine-glass-charms/#model-JBPJ-089": {
+"sku": "JBPJ-089",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/champagne-stopper/#model-JS-031": {
+"sku": "JS-031",
+"moq": 10,
+"materials": [
+"Stainless steel",
+"TPE"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/vacuum-wine-stopper-keep-fresh-7days/#model-JS-033": {
+"sku": "JS-033",
+"moq": 10,
+"materials": [
+"PC",
+"TPE"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/bottle-stopper-funny-design/#model-JS-034": {
+"sku": "JS-034",
+"moq": 10,
+"materials": [
+"ABS",
+"Silicone"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/champagne-stopper-with-plating-painting/#model-JS-037": {
+"sku": "JS-037",
+"moq": 10,
+"materials": [
+"Stainless steel",
+"TPE"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/vacuum-wine-stopper-with-31-date/#model-JS-038": {
+"sku": "JS-038",
+"moq": 10,
+"materials": [
+"ABS",
+"Silicone"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/wing-corkscrew/#model-JS-039": {
+"sku": "JS-039",
+"moq": 10,
+"materials": [
+"Zinc alloy"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/moet-sipper-with-moet-logo/#model-JS-040": {
+"sku": "JS-040",
+"moq": 10,
+"materials": [
+"ABS"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/vacuum-soda-stopper-pump-air-in/#model-JS-042": {
+"sku": "JS-042",
+"moq": 10,
+"materials": [
+"PP",
+"Silicone"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/plastic-beer-opener/#model-KPQ-005": {
+"sku": "KPQ-005",
+"moq": 10,
+"materials": [
+"ABS"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/goose-head-manual-wine-opener/#model-KPQ-006": {
+"sku": "KPQ-006",
+"moq": 10,
+"materials": [
+"ABS",
+"Zinc alloy"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/manual-wine-opener-kit-s-4/#model-KPQ-007": {
+"sku": "KPQ-007",
+"moq": 10,
+"materials": [
+"ABS"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/electric-wine-opener-s-2/#model-KPQ-008": {
+"sku": "KPQ-008",
+"moq": 10,
+"materials": [],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/electric-wine-opener-s-2/#model-KPQ-009": {
+"sku": "KPQ-009",
+"moq": 10,
+"materials": [
+"Aluminium",
+"ABS"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/electric-wine-opener-s-2/#model-KPQ-010": {
+"sku": "KPQ-010",
+"moq": 10,
+"materials": [
+"Aluminium",
+"ABS"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/rechargeable-wine-opener/#model-KPQ-011": {
+"sku": "KPQ-011",
+"moq": 10,
+"materials": [
+"Aluminium",
+"ABS"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/rechargeable-wine-opener/#model-KPQ-012": {
+"sku": "KPQ-012",
+"moq": 10,
+"materials": [
+"Aluminium",
+"ABS"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/rechargeable-wine-opener/#model-KPQ-013": {
+"sku": "KPQ-013",
+"moq": 10,
+"materials": [
+"Aluminium",
+"ABS"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/rechargeable-wine-opener/#model-KPQ-014": {
+"sku": "KPQ-014",
+"moq": 10,
+"materials": [
+"Aluminium",
+"ABS"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/rechargeable-wine-opener/#model-KPQ-015": {
+"sku": "KPQ-015",
+"moq": 10,
+"materials": [
+"Aluminium",
+"ABS"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/electric-wine-opener-s-2/#model-KPQ-016": {
+"sku": "KPQ-016",
+"moq": 10,
+"materials": [
+"Aluminium",
+"ABS"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/electric-wine-opener-s-2/#model-KPQ-017": {
+"sku": "KPQ-017",
+"moq": 10,
+"materials": [
+"Aluminium",
+"ABS"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/rechargeable-wine-opener/#model-KPQ-018": {
+"sku": "KPQ-018",
+"moq": 10,
+"materials": [
+"Aluminium",
+"ABS"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/rechargeable-wine-opener/#model-KPQ-019": {
+"sku": "KPQ-019",
+"moq": 10,
+"materials": [
+"Aluminium",
+"ABS"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/rechargeable-wine-opener/#model-KPQ-020": {
+"sku": "KPQ-020",
+"moq": 10,
+"materials": [
+"Aluminium",
+"ABS"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/rechargeable-wine-opener/#model-KPQ-021": {
+"sku": "KPQ-021",
+"moq": 10,
+"materials": [
+"Aluminium",
+"ABS"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/custom-silicone-grip-bottle-opener/#model-KPQ-022": {
+"sku": "KPQ-022",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/christmas-silicone-bottle-cap-opener/#model-KPQ-023": {
+"sku": "KPQ-023",
+"moq": 10,
+"materials": [
+"Silicone",
+"Stainless steel"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/keychain-bottle-opener/#model-KPQ-024": {
+"sku": "KPQ-024",
+"moq": 10,
+"materials": [
+"Zinc alloy"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/stainless-steel-credit-card-bottle-opener/#model-KPQ-025": {
+"sku": "KPQ-025",
+"moq": 10,
+"materials": [
+"Stainless steel",
+"Zinc alloy"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/poker-card-bottle-opener/#model-KPQ-026": {
+"sku": "KPQ-026",
+"moq": 10,
+"materials": [
+"Zinc alloy"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/keychain-bottle-opener/#model-KPQ-027": {
+"sku": "KPQ-027",
+"moq": 10,
+"materials": [
+"Zinc alloy"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/keychain-bottle-opener/#model-KPQ-028": {
+"sku": "KPQ-028",
+"moq": 10,
+"materials": [
+"Zinc alloy"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/keychain-bottle-opener/#model-KPQ-029": {
+"sku": "KPQ-029",
+"moq": 10,
+"materials": [
+"Zinc alloy"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/keychain-bottle-opener/#model-KPQ-030": {
+"sku": "KPQ-030",
+"moq": 10,
+"materials": [
+"Zinc alloy"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/metal-pocket-bottle-opener/#model-KPQ-031": {
+"sku": "KPQ-031",
+"moq": 10,
+"materials": [
+"Zinc alloy"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/keychain-bottle-opener/#model-KPQ-032": {
+"sku": "KPQ-032",
+"moq": 10,
+"materials": [
+"Zinc alloy"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/engraved-wine-bottle-opener/#model-KPQ-033": {
+"sku": "KPQ-033",
+"moq": 10,
+"materials": [
+"Zinc alloy"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/metal-beer-opener/#model-KPQ-034": {
+"sku": "KPQ-034",
+"moq": 10,
+"materials": [
+"Zinc alloy"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Pad print",
+"Laser engraving"
+]
+},
+"/products/1-4l-1-5l-plastic-beer/#model-PJB-012": {
+"sku": "PJB-012",
+"moq": 10,
+"materials": [
+"PS"
+],
+"capacities": [
+"1.4 L / 1.5 L"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/1-4l-1-5l-plastic-beer/#model-PJB-017": {
+"sku": "PJB-017",
+"moq": 10,
+"materials": [
+"PP"
+],
+"capacities": [
+"2 L"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/bar-beer-plastic-pitcher-jug/#model-SJZH-018": {
+"sku": "SJZH-018",
+"moq": 10,
+"materials": [],
+"capacities": [
+"2 L"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/1-4l-1-5l-plastic-beer/#model-SJZH-019": {
+"sku": "SJZH-019",
+"moq": 10,
+"materials": [],
+"capacities": [
+"1.5 L"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/stackable-plastic-pitcher/#model-SJZH-020": {
+"sku": "SJZH-020",
+"moq": 10,
+"materials": [],
+"capacities": [
+"1.5 L"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/long-trail-70oz-plastic-pitcher/#model-SJZH-021": {
+"sku": "SJZH-021",
+"moq": 10,
+"materials": [],
+"capacities": [
+"70 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/silicone-32oz-bomber-cup/#model-BPJJ-002": {
+"sku": "BPJJ-002",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [
+"32 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/silicone-6oz-flight-taster/#model-BPJJ-004": {
+"sku": "BPJJ-004",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [
+"6 oz"
+],
+"accessories": [],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/silicone-25oz-handled-barrel-bpjj005/#model-BPJJ-005": {
+"sku": "BPJJ-005",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [
+"25 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/silicone-16oz-siliparty-party/#model-BPJJ-006": {
+"sku": "BPJJ-006",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [
+"16 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/silicone-20oz-pint-glass/#model-BPJJ-008": {
+"sku": "BPJJ-008",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [
+"20 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/customized-silicone-12oz-wine-gjb008/#model-BPJJ-009": {
+"sku": "BPJJ-009",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [
+"12 oz"
+],
+"accessories": [],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/customized-silicone-16oz-straw/#model-BPJJ-012": {
+"sku": "BPJJ-012",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [
+"16 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/silicone-20oz-pint-glass/#model-GJB-001": {
+"sku": "GJB-001",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [
+"16 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/silicone-20oz-pint-glass/#model-GJB-004": {
+"sku": "GJB-004",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [
+"16 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/customized-silicone-16oz-straw/#model-GJB-007": {
+"sku": "GJB-007",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [
+"16 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/customized-silicone-12oz-wine-gjb008/#model-GJB-008": {
+"sku": "GJB-008",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [
+"12 oz"
+],
+"accessories": [],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/customized-silicone-12oz-wine-gjb008/#model-GJB-010": {
+"sku": "GJB-010",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [
+"12 oz"
+],
+"accessories": [],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/customized-silicone-16oz-straw/#model-GJB-012": {
+"sku": "GJB-012",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [
+"8 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/customized-silicone-16oz-straw/#model-GJB-014": {
+"sku": "GJB-014",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [
+"22 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/customized-silicone-16oz-straw/#model-GJB-015": {
+"sku": "GJB-015",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [
+"32 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/silicone-28oz-beer-stein-gjb016/#model-GJB-016": {
+"sku": "GJB-016",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [
+"28 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/silicone-28oz-beer-stein-gjb016/#model-GJB-018": {
+"sku": "GJB-018",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [
+"28 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/customized-silicone-12oz-wine-gjb008/#model-GJB-020": {
+"sku": "GJB-020",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [
+"12 oz"
+],
+"accessories": [],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/silicone-20oz-pint-glass/#model-GJB-021": {
+"sku": "GJB-021",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [
+"16 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/customized-silicone-16oz-straw/#model-GJB-022": {
+"sku": "GJB-022",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [
+"8 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/customized-silicone-12oz-wine-gjb008/#model-GJB-023": {
+"sku": "GJB-023",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [
+"12 oz"
+],
+"accessories": [],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/silicone-25oz-handled-barrel-bpjj005/#model-GJB-024": {
+"sku": "GJB-024",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [
+"25 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/customized-silicone-16oz-straw/#model-GJB-025": {
+"sku": "GJB-025",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [
+"16 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/collapsible-mug/#model-GJZD-009": {
+"sku": "GJZD-009",
+"moq": 10,
+"materials": [
+"Silicone",
+"Nylon"
+],
+"capacities": [],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/collapsible-mug/#model-GJZD-010": {
+"sku": "GJZD-010",
+"moq": 10,
+"materials": [
+"Silicone",
+"Nylon",
+"Fibreglass"
+],
+"capacities": [],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/collapsible-mug/#model-GJZD-011": {
+"sku": "GJZD-011",
+"moq": 10,
+"materials": [
+"Silicone",
+"Nylon"
+],
+"capacities": [],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/collapsible-mug/#model-GJZD-012": {
+"sku": "GJZD-012",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [
+"17 oz / 500 ml / 25 oz / 740 ml"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/hydaway-collapsible-pint/#model-GJZD-014": {
+"sku": "GJZD-014",
+"moq": 10,
+"materials": [
+"Silicone",
+"Stainless steel"
+],
+"capacities": [],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/hydaway-collapsible-tumbler-with-lid/#model-GJZD-016": {
+"sku": "GJZD-016",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/hydaway-collapsible-tumbler-with-lid/#model-GJZD-017": {
+"sku": "GJZD-017",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/customized-silicone-12oz-wine-gjb008/#model-GJZD-018": {
+"sku": "GJZD-018",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/collapsible-mug/#model-GJZD-019": {
+"sku": "GJZD-019",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/collapsible-mug/#model-GJZD-021": {
+"sku": "GJZD-021",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/customized-silicone-12oz-wine-gjb008/#model-HJB-012": {
+"sku": "HJB-012",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [
+"3.5 oz"
+],
+"accessories": [],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/silicone-1-5oz-ljb001/#model-LJB-001": {
+"sku": "LJB-001",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [
+"1.5 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/silicone-2oz-shumbler-shot-ljb002/#model-LJB-002": {
+"sku": "LJB-002",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [
+"2 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/silicone-1-5oz-ljb001/#model-LJB-006": {
+"sku": "LJB-006",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [
+"1.5 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/silicone-2oz-shumbler-shot-ljb002/#model-LJB-008": {
+"sku": "LJB-008",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [
+"2 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/silicone-1-5oz-ljb001/#model-LJB-010": {
+"sku": "LJB-010",
+"moq": 10,
+"materials": [
+"Silicone"
+],
+"capacities": [
+"1.5 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Colour in the material",
+"Moulded-in 3D logo",
+"Silicone print",
+"UV print"
+]
+},
+"/products/16-oz-color-changing-plastic-stadium-bsb002/#model-BSB-001": {
+"sku": "BSB-001",
+"moq": 10,
+"materials": [
+"PP"
+],
+"capacities": [
+"12 oz"
+],
+"accessories": [],
+"processes": [
+"Colour-change ink",
+"UV print",
+"Screen print"
+]
+},
+"/products/16-oz-color-changing-plastic-stadium-bsb002/#model-BSB-002": {
+"sku": "BSB-002",
+"moq": 10,
+"materials": [
+"PP",
+"PS"
+],
+"capacities": [
+"12 oz / 16 oz / 17 oz / 22 oz"
+],
+"accessories": [],
+"processes": [
+"Colour-change ink",
+"UV print",
+"Screen print"
+]
+},
+"/products/16-oz-color-changing-plastic-stadium-bsb002/#model-BSB-003": {
+"sku": "BSB-003",
+"moq": 10,
+"materials": [
+"PP"
+],
+"capacities": [
+"22 oz"
+],
+"accessories": [],
+"processes": [
+"Colour-change ink",
+"UV print",
+"Screen print"
+]
+},
+"/products/16-oz-color-changing-plastic-stadium-bsb002/#model-BSB-004": {
+"sku": "BSB-004",
+"moq": 10,
+"materials": [],
+"capacities": [
+"12 oz"
+],
+"accessories": [],
+"processes": [
+"Colour-change ink",
+"UV print",
+"Screen print"
+]
+},
+"/products/16-oz-color-changing-plastic-stadium-bsb002/#model-BSB-005": {
+"sku": "BSB-005",
+"moq": 10,
+"materials": [],
+"capacities": [
+"22 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print"
+]
+},
+"/products/16-oz-color-changing-plastic-stadium-bsb002/#model-BSB-006": {
+"sku": "BSB-006",
+"moq": 10,
+"materials": [],
+"capacities": [
+"22 oz"
+],
+"accessories": [],
+"processes": [
+"Colour-change ink",
+"UV print",
+"Screen print"
+]
+},
+"/products/16-oz-color-changing-plastic-stadium-bsb002/#model-BSB-010": {
+"sku": "BSB-010",
+"moq": 10,
+"materials": [],
+"capacities": [
+"17 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print"
+]
+},
+"/products/16-oz-color-changing-plastic-stadium-bsb002/#model-BSB-013": {
+"sku": "BSB-013",
+"moq": 10,
+"materials": [],
+"capacities": [
+"17 oz"
+],
+"accessories": [],
+"processes": [
+"Colour-change ink",
+"UV print",
+"Screen print"
+]
+},
+"/custom-plastic-cups/#plastic-tumblers": {
+"sku": "BSB-014",
+"moq": 10,
+"materials": [],
+"capacities": [
+"14 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print",
+"Colour-change ink"
+]
+},
+"/products/16-oz-economy-mood-tumbler/#model-BSB-015": {
+"sku": "BSB-015",
+"moq": 10,
+"materials": [
+"PP"
+],
+"capacities": [
+"16 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print",
+"Laser engraving"
+]
+},
+"/products/wholesale-plastic-stemless-wine-glass-12oz/#model-HJB-001": {
+"sku": "HJB-001",
+"moq": 10,
+"materials": [],
+"capacities": [
+"12 oz / 2 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/wholesale-plastic-stemless-wine-glass-12oz/#model-HJB-002": {
+"sku": "HJB-002",
+"moq": 10,
+"materials": [],
+"capacities": [
+"18 oz / 3 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/wholesale-plastic-stemless-wine-glass-12oz/#model-HJB-003": {
+"sku": "HJB-003",
+"moq": 10,
+"materials": [],
+"capacities": [
+"14 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/wholesale-standard-acrylic-wine-glass/#model-HJB-004": {
+"sku": "HJB-004",
+"moq": 10,
+"materials": [],
+"capacities": [
+"14 oz / 2 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/wholesale-plastic-stemless-wine-glass-12oz/#model-HJB-005": {
+"sku": "HJB-005",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"2 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/wholesale-standard-acrylic-wine-glass/#model-HJB-006": {
+"sku": "HJB-006",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"16 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/wholesale-standard-acrylic-wine-glass/#model-HJB-007": {
+"sku": "HJB-007",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"4 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/wholesale-standard-acrylic-wine-glass/#model-HJB-008": {
+"sku": "HJB-008",
+"moq": 10,
+"materials": [
+"Tritan",
+"Acrylic"
+],
+"capacities": [
+"16 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/wholesale-standard-acrylic-wine-glass/#model-HJB-009": {
+"sku": "HJB-009",
+"moq": 10,
+"materials": [
+"Tritan",
+"Acrylic"
+],
+"capacities": [
+"16 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/wholesale-standard-acrylic-wine-glass/#model-HJB-010": {
+"sku": "HJB-010",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"16 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/wholesale-plastic-stemless-wine-glass-12oz/#model-HJB-011": {
+"sku": "HJB-011",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"16 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/wholesale-outdoor-red-wine-glass-22oz/#model-HJB-013": {
+"sku": "HJB-013",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"22 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/wholesale-plastic-stemless-wine-glass-12oz/#model-HJB-014": {
+"sku": "HJB-014",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"19 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/wholesale-standard-acrylic-wine-glass/#model-HJB-015": {
+"sku": "HJB-015",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"18 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/wholesale-standard-acrylic-wine-glass/#model-HJB-016": {
+"sku": "HJB-016",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"14 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/wholesale-standard-acrylic-wine-glass/#model-HJB-017": {
+"sku": "HJB-017",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"8 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/wholesale-standard-acrylic-wine-glass/#model-HJB-018": {
+"sku": "HJB-018",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"15 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/wholesale-acrylic-ribbed-balloon-glass-19oz/#model-HJB-019": {
+"sku": "HJB-019",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"19 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print",
+"Colour-change ink"
+]
+},
+"/products/wholesale-go-anywhere-red-wine/#model-HJB-020": {
+"sku": "HJB-020",
+"moq": 10,
+"materials": [],
+"capacities": [
+"16 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/wholesale-plastic-flute-6oz-champagne/#model-HJB-021": {
+"sku": "HJB-021",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"4 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/wholesale-plastic-stemless-wine-glass-12oz/#model-HJB-022": {
+"sku": "HJB-022",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"2 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/wholesale-plastic-flute-6oz-champagne/#model-HJB-023": {
+"sku": "HJB-023",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"7 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/wholesale-plastic-flute-6oz-champagne/#model-HJB-024": {
+"sku": "HJB-024",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"5 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/wholesale-plastic-flute-6oz-champagne/#model-HJB-025": {
+"sku": "HJB-025",
+"moq": 10,
+"materials": [],
+"capacities": [
+"6 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/wholesale-plastic-flute-6oz-champagne/#model-HJB-026": {
+"sku": "HJB-026",
+"moq": 10,
+"materials": [],
+"capacities": [
+"5 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/9oz-stemless-pet-champagne-flute/#model-HJB-027": {
+"sku": "HJB-027",
+"moq": 10,
+"materials": [],
+"capacities": [
+"6 oz / 2 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/9oz-stemless-pet-champagne-flute/#model-HJB-028": {
+"sku": "HJB-028",
+"moq": 10,
+"materials": [],
+"capacities": [
+"9 oz / 2 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/wholesale-plastic-flute-6oz-champagne/#model-HJB-029": {
+"sku": "HJB-029",
+"moq": 10,
+"materials": [
+"Tritan",
+"Acrylic"
+],
+"capacities": [
+"9 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/wholesale-plastic-flute-6oz-champagne/#model-HJB-030": {
+"sku": "HJB-030",
+"moq": 10,
+"materials": [
+"Tritan",
+"Acrylic"
+],
+"capacities": [
+"9 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/wholesale-acrylic-martini-glass-8-5oz/#model-HJB-031": {
+"sku": "HJB-031",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"8.5 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"UV print",
+"Colour-change ink"
+]
+},
+"/products/wholesale-acrylic-martini-glass-8-5oz/#model-HJB-032": {
+"sku": "HJB-032",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"10 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"UV print",
+"Colour-change ink"
+]
+},
+"/products/wholesale-tritan-martini-glass-9oz/#model-HJB-033": {
+"sku": "HJB-033",
+"moq": 10,
+"materials": [
+"Tritan",
+"Acrylic"
+],
+"capacities": [
+"8 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"UV print",
+"Colour-change ink"
+]
+},
+"/products/wholesale-tritan-martini-glass-9oz/#model-HJB-034": {
+"sku": "HJB-034",
+"moq": 10,
+"materials": [
+"Tritan",
+"Acrylic"
+],
+"capacities": [
+"6 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"UV print",
+"Colour-change ink"
+]
+},
+"/products/wholesale-tritan-martini-glass-9oz/#model-HJB-035": {
+"sku": "HJB-035",
+"moq": 10,
+"materials": [
+"Tritan",
+"Acrylic"
+],
+"capacities": [
+"9 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"UV print",
+"Colour-change ink"
+]
+},
+"/products/wholesale-acrylic-coupe-glass-7oz/#model-HJB-036": {
+"sku": "HJB-036",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"7 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print",
+"Colour-change ink"
+]
+},
+"/products/wholesale-plastic-stemless-wine-glass-12oz/#model-HJB-037": {
+"sku": "HJB-037",
+"moq": 10,
+"materials": [
+"PET"
+],
+"capacities": [
+"12 oz / 16 oz / 350 ml / 470 ml"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/18-5oz-tritan-wine-glass/#model-HJB-039": {
+"sku": "HJB-039",
+"moq": 10,
+"materials": [
+"Tritan"
+],
+"capacities": [
+"445 ml / 15.5 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/wholesale-plastic-stemless-wine-glass-12oz/#model-HJB-040": {
+"sku": "HJB-040",
+"moq": 10,
+"materials": [
+"PET"
+],
+"capacities": [
+"350 ml / 12 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/18-5oz-tritan-wine-glass/#model-HJB-041": {
+"sku": "HJB-041",
+"moq": 10,
+"materials": [
+"Tritan"
+],
+"capacities": [
+"360 ml / 12 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/9oz-stemless-pet-champagne-flute/#model-HJB-042": {
+"sku": "HJB-042",
+"moq": 10,
+"materials": [
+"PET"
+],
+"capacities": [
+"260 ml / 9 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/wholesale-plastic-stemless-wine-glass-12oz/#model-HJB-043": {
+"sku": "HJB-043",
+"moq": 10,
+"materials": [
+"PET"
+],
+"capacities": [
+"410 ml / 14 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/18-5oz-tritan-wine-glass/#model-HJB-045": {
+"sku": "HJB-045",
+"moq": 10,
+"materials": [
+"Tritan"
+],
+"capacities": [
+"455 ml / 16 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/18-5oz-tritan-wine-glass/#model-HJB-046": {
+"sku": "HJB-046",
+"moq": 10,
+"materials": [
+"Tritan"
+],
+"capacities": [
+"500 ml / 17.5 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/wholesale-standard-acrylic-wine-glass/#model-HJB-047": {
+"sku": "HJB-047",
+"moq": 10,
+"materials": [
+"AS"
+],
+"capacities": [
+"588 ml / 20.5 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/5-8oz-plastic-champagne-flute/#model-HJB-048": {
+"sku": "HJB-048",
+"moq": 10,
+"materials": [
+"PS"
+],
+"capacities": [
+"165 ml / 5.8 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/5-8oz-plastic-champagne-flute/#model-HJB-049": {
+"sku": "HJB-049",
+"moq": 10,
+"materials": [
+"PP",
+"PS"
+],
+"capacities": [
+"170 ml / 6 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/5-8oz-plastic-champagne-flute/#model-HJB-050": {
+"sku": "HJB-050",
+"moq": 10,
+"materials": [
+"PS"
+],
+"capacities": [
+"160 ml / 5.6 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/5-8oz-plastic-champagne-flute/#model-HJB-051": {
+"sku": "HJB-051",
+"moq": 10,
+"materials": [
+"PS"
+],
+"capacities": [
+"240 ml / 8.5 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/wholesale-standard-acrylic-wine-glass/#model-HJB-052": {
+"sku": "HJB-052",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"460 ml / 16 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/plastic-wine-glass-with-gold-rim/#model-HJB-053": {
+"sku": "HJB-053",
+"moq": 10,
+"materials": [],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/8oz-plastic-wine-glasses/#model-HJB-054": {
+"sku": "HJB-054",
+"moq": 10,
+"materials": [
+"PS"
+],
+"capacities": [
+"240 ml / 8 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/wholesale-standard-acrylic-wine-glass/#model-HJB-055": {
+"sku": "HJB-055",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"600 ml / 21 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/6-3oz-plastic-martini-glass/#model-HJB-056": {
+"sku": "HJB-056",
+"moq": 10,
+"materials": [
+"PS"
+],
+"capacities": [
+"180 ml / 6.3 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"UV print",
+"Colour-change ink"
+]
+},
+"/products/18-5oz-tritan-wine-glass/#model-HJB-057": {
+"sku": "HJB-057",
+"moq": 10,
+"materials": [
+"Tritan"
+],
+"capacities": [
+"530 ml / 18.5 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/5-8oz-plastic-champagne-flute/#model-HJB-058": {
+"sku": "HJB-058",
+"moq": 10,
+"materials": [
+"PS"
+],
+"capacities": [
+"165 ml / 5.5 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/5-8oz-plastic-champagne-flute/#model-HJB-059": {
+"sku": "HJB-059",
+"moq": 10,
+"materials": [
+"PS"
+],
+"capacities": [
+"150 ml / 5 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/10-5oz-ribbed-plastic-coupe-glasses/#model-HJB-060": {
+"sku": "HJB-060",
+"moq": 10,
+"materials": [
+"PS"
+],
+"capacities": [
+"300 ml / 10.5 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"UV print",
+"Colour-change ink"
+]
+},
+"/products/5-8oz-plastic-champagne-flute/#model-HJB-061": {
+"sku": "HJB-061",
+"moq": 10,
+"materials": [
+"PS"
+],
+"capacities": [
+"320 ml / 11 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/15oz-plastic-wine-goblet/#model-HJB-062": {
+"sku": "HJB-062",
+"moq": 10,
+"materials": [
+"PP"
+],
+"capacities": [
+"450 ml / 15 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/wholesale-standard-acrylic-wine-glass/#model-HJB-063": {
+"sku": "HJB-063",
+"moq": 10,
+"materials": [
+"PP",
+"PS"
+],
+"capacities": [
+"300 ml / 10.5 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/wholesale-standard-acrylic-wine-glass/#model-HJB-064": {
+"sku": "HJB-064",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"400 ml / 14 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/6-3oz-plastic-martini-glass/#model-HJB-065": {
+"sku": "HJB-065",
+"moq": 10,
+"materials": [
+"PS"
+],
+"capacities": [
+"300 ml / 10 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"UV print",
+"Colour-change ink"
+]
+},
+"/products/wholesale-plastic-flute-6oz-champagne/#model-HJB-066": {
+"sku": "HJB-066",
+"moq": 10,
+"materials": [
+"Tritan"
+],
+"capacities": [
+"150 ml / 5 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/wholesale-standard-acrylic-wine-glass/#model-HJB-067": {
+"sku": "HJB-067",
+"moq": 10,
+"materials": [
+"PS"
+],
+"capacities": [
+"210 ml / 7 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/5-8oz-plastic-champagne-flute/#model-HJB-068": {
+"sku": "HJB-068",
+"moq": 10,
+"materials": [
+"PS"
+],
+"capacities": [
+"240 ml / 8 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/4-5oz-plastic-champagne-flute-injected/#model-HJB-069": {
+"sku": "HJB-069",
+"moq": 10,
+"materials": [
+"PS"
+],
+"capacities": [
+"130 ml / 4.5 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/5-8oz-plastic-champagne-flute/#model-HJB-070": {
+"sku": "HJB-070",
+"moq": 10,
+"materials": [
+"PS"
+],
+"capacities": [
+"320 ml / 11 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/wholesale-standard-acrylic-wine-glass/#model-HJB-071": {
+"sku": "HJB-071",
+"moq": 10,
+"materials": [
+"PS"
+],
+"capacities": [
+"540 ml / 18 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/plastic-wine-goblet-with-gold-plating/#model-HJB-072": {
+"sku": "HJB-072",
+"moq": 10,
+"materials": [],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/7-5oz-plasic-iso-standard-wine/#model-HJB-073": {
+"sku": "HJB-073",
+"moq": 10,
+"materials": [
+"Tritan"
+],
+"capacities": [
+"220 ml / 7.5 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/15oz-plastic-margarita-glass/#model-HJB-074": {
+"sku": "HJB-074",
+"moq": 10,
+"materials": [
+"PS"
+],
+"capacities": [
+"440 ml / 15 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"UV print",
+"Colour-change ink"
+]
+},
+"/products/wholesale-standard-acrylic-wine-glass/#model-HJB-075": {
+"sku": "HJB-075",
+"moq": 10,
+"materials": [
+"PS"
+],
+"capacities": [
+"90 ml / 3 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/7oz-plastic-cocktail-glass/#model-HJB-076": {
+"sku": "HJB-076",
+"moq": 10,
+"materials": [
+"PS"
+],
+"capacities": [
+"200 ml / 7 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"UV print",
+"Colour-change ink"
+]
+},
+"/products/wholesale-standard-acrylic-wine-glass/#model-HJB-077": {
+"sku": "HJB-077",
+"moq": 10,
+"materials": [
+"PS"
+],
+"capacities": [
+"225 ml / 7.5 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/stackable-beer-stein/#model-MKB-001": {
+"sku": "MKB-001",
+"moq": 10,
+"materials": [
+"PP"
+],
+"capacities": [
+"14 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print",
+"Pad print"
+]
+},
+"/products/stackable-beer-stein/#model-MKB-002": {
+"sku": "MKB-002",
+"moq": 10,
+"materials": [
+"PP"
+],
+"capacities": [
+"14 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print",
+"Pad print"
+]
+},
+"/products/stackable-beer-stein/#model-MKB-003": {
+"sku": "MKB-003",
+"moq": 10,
+"materials": [
+"PP"
+],
+"capacities": [
+"20 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print",
+"Pad print"
+]
+},
+"/products/full-color-travel-tumbler/#model-MKB-017": {
+"sku": "MKB-017",
+"moq": 10,
+"materials": [
+"Acrylic",
+"PP"
+],
+"capacities": [
+"20 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print",
+"Laser engraving"
+]
+},
+"/products/burby-tumbler-with-straw/#model-MKB-018": {
+"sku": "MKB-018",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"20 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print",
+"Laser engraving"
+]
+},
+"/products/medical-mug/#model-MKB-019": {
+"sku": "MKB-019",
+"moq": 10,
+"materials": [
+"PP"
+],
+"capacities": [
+"32 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print"
+]
+},
+"/products/orbit-tumbler-mkb020/#model-MKB-020": {
+"sku": "MKB-020",
+"moq": 10,
+"materials": [
+"Acrylic",
+"PP"
+],
+"capacities": [
+"16 oz / 24 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print",
+"Laser engraving"
+]
+},
+"/products/16-oz-frosted-plastic-cup/#model-MSB-002": {
+"sku": "MSB-002",
+"moq": 10,
+"materials": [
+"PP"
+],
+"capacities": [
+"16 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"UV print",
+"Colour-change ink"
+]
+},
+"/products/frosted-detachable-stem-plastic-wine-glass/#model-MSB-006": {
+"sku": "MSB-006",
+"moq": 10,
+"materials": [
+"PET"
+],
+"capacities": [
+"14 oz / 400 ml"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"UV print",
+"Colour-change ink"
+]
+},
+"/products/promotional-bpa-free-plastic-mason-jar/#model-MSB-008": {
+"sku": "MSB-008",
+"moq": 10,
+"materials": [
+"PP",
+"PC"
+],
+"capacities": [
+"500 ml"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print",
+"Colour-change ink"
+]
+},
+"/products/16oz-matte-colored-plastic-cup-soda/#model-MSB-009": {
+"sku": "MSB-009",
+"moq": 10,
+"materials": [
+"PP"
+],
+"capacities": [
+"16 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print",
+"Colour-change ink"
+]
+},
+"/products/41140-footed-pilsner-x4-414ml/#model-PJB-001": {
+"sku": "PJB-001",
+"moq": 10,
+"materials": [
+"PC"
+],
+"capacities": [
+"285 ml / 9.5 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print",
+"Pad print"
+]
+},
+"/products/41140-footed-pilsner-x4-414ml/#model-PJB-002": {
+"sku": "PJB-002",
+"moq": 10,
+"materials": [
+"PC"
+],
+"capacities": [
+"414 ml / 14 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print",
+"Pad print"
+]
+},
+"/products/41140-footed-pilsner-x4-414ml/#model-PJB-003": {
+"sku": "PJB-003",
+"moq": 10,
+"materials": [
+"PC"
+],
+"capacities": [
+"473 ml / 16 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print",
+"Pad print"
+]
+},
+"/products/40350-beer-mug-x4-502ml/#model-PJB-004": {
+"sku": "PJB-004",
+"moq": 10,
+"materials": [
+"PC"
+],
+"capacities": [
+"443 ml / 15 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print",
+"Pad print"
+]
+},
+"/products/40350-beer-mug-x4-502ml/#model-PJB-005": {
+"sku": "PJB-005",
+"moq": 10,
+"materials": [
+"PC"
+],
+"capacities": [
+"502 ml / 17 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print",
+"Pad print"
+]
+},
+"/products/40020-mixing-glass-x4-591ml/#model-PJB-007": {
+"sku": "PJB-007",
+"moq": 10,
+"materials": [
+"PC"
+],
+"capacities": [
+"591 ml / 20 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print",
+"Colour-change ink"
+]
+},
+"/products/22oz-plastic-beer-mug/#model-PJB-008": {
+"sku": "PJB-008",
+"moq": 10,
+"materials": [
+"PP",
+"PS"
+],
+"capacities": [
+"650 ml / 22 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print",
+"Pad print"
+]
+},
+"/products/22oz-plastic-beer-mug/#model-PJB-009": {
+"sku": "PJB-009",
+"moq": 10,
+"materials": [
+"PS"
+],
+"capacities": [
+"350 ml / 12 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print",
+"Pad print"
+]
+},
+"/products/22oz-plastic-beer-mug/#model-PJB-010": {
+"sku": "PJB-010",
+"moq": 10,
+"materials": [
+"PS"
+],
+"capacities": [
+"800 ml / 27 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print",
+"Pad print"
+]
+},
+"/products/17oz-plastic-beer-glass/#model-PJB-011": {
+"sku": "PJB-011",
+"moq": 10,
+"materials": [
+"PS"
+],
+"capacities": [
+"500 ml / 17 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print",
+"Colour-change ink"
+]
+},
+"/products/beverage-beer-bat-cup/#model-PJB-013": {
+"sku": "PJB-013",
+"moq": 10,
+"materials": [
+"PP"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Hydro dip",
+"UV print",
+"Colour-change ink"
+]
+},
+"/products/12oz-plastic-stein-cups-with-1/#model-PJB-014": {
+"sku": "PJB-014",
+"moq": 10,
+"materials": [
+"PS"
+],
+"capacities": [
+"350 ml / 12 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print",
+"Pad print"
+]
+},
+"/products/beverage-beer-bat-cup/#model-PJB-015": {
+"sku": "PJB-015",
+"moq": 10,
+"materials": [
+"ABS",
+"PP"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Hydro dip",
+"UV print",
+"Colour-change ink"
+]
+},
+"/products/41140-footed-pilsner-x4-414ml/#model-PJB-016": {
+"sku": "PJB-016",
+"moq": 10,
+"materials": [
+"PS"
+],
+"capacities": [
+"570 ml / 19 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print",
+"Pad print"
+]
+},
+"/products/katerglass-plastic-pint-tumblers-22oz-lce/#model-PJB-018": {
+"sku": "PJB-018",
+"moq": 10,
+"materials": [
+"Tritan"
+],
+"capacities": [
+"22 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print",
+"Pad print"
+]
+},
+"/products/katerglass-plastic-pint-tumblers-22oz-lce/#model-PJB-019": {
+"sku": "PJB-019",
+"moq": 10,
+"materials": [
+"Tritan"
+],
+"capacities": [
+"568 ml / 20 oz / 285 ml / 10 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print",
+"Laser engraving"
+]
+},
+"/products/katerglass-plastic-pint-tumblers-22oz-lce/#model-PJB-020": {
+"sku": "PJB-020",
+"moq": 10,
+"materials": [
+"Tritan"
+],
+"capacities": [
+"568 ml / 20 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print",
+"Laser engraving"
+]
+},
+"/products/elite-nucleated-polycarbonate-pint-tumblers/#model-PJB-021": {
+"sku": "PJB-021",
+"moq": 10,
+"materials": [
+"Tritan"
+],
+"capacities": [
+"568 ml / 20 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print",
+"Pad print"
+]
+},
+"/products/elite-nucleated-polycarbonate-pint-tumblers/#model-PJB-022": {
+"sku": "PJB-022",
+"moq": 10,
+"materials": [
+"Tritan"
+],
+"capacities": [
+"568 ml / 20 oz / 285 ml / 10 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print",
+"Colour-change ink"
+]
+},
+"/products/elite-nucleated-polycarbonate-pint-tumblers/#model-PJB-023": {
+"sku": "PJB-023",
+"moq": 10,
+"materials": [
+"Tritan"
+],
+"capacities": [
+"568 ml / 20 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print",
+"Colour-change ink"
+]
+},
+"/products/regal-polycarbonate-pint-glasses/#model-PJB-024": {
+"sku": "PJB-024",
+"moq": 10,
+"materials": [
+"Tritan"
+],
+"capacities": [
+"568 ml / 20 oz / 380 ml / 13.4 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print",
+"Colour-change ink"
+]
+},
+"/products/elite-nucleated-polycarbonate-pint-tumblers/#model-PJB-025": {
+"sku": "PJB-025",
+"moq": 10,
+"materials": [
+"Tritan"
+],
+"capacities": [
+"568 ml / 20 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print",
+"Laser engraving"
+]
+},
+"/products/elite-nucleated-polycarbonate-pint-tumblers/#model-PJB-026": {
+"sku": "PJB-026",
+"moq": 10,
+"materials": [
+"Tritan"
+],
+"capacities": [
+"568 ml / 20 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print",
+"Laser engraving"
+]
+},
+"/products/elite-nucleated-polycarbonate-pint-tumblers/#model-PJB-028": {
+"sku": "PJB-028",
+"moq": 10,
+"materials": [
+"Tritan"
+],
+"capacities": [
+"285 ml / 10 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print",
+"Laser engraving"
+]
+},
+"/products/elite-nucleated-polycarbonate-pint-tumblers/#model-PJB-030": {
+"sku": "PJB-030",
+"moq": 10,
+"materials": [
+"Tritan"
+],
+"capacities": [
+"285 ml / 10 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print",
+"Laser engraving"
+]
+},
+"/products/katerglass-plastic-pint-tumblers-22oz-lce/#model-PJB-031": {
+"sku": "PJB-031",
+"moq": 10,
+"materials": [
+"Tritan"
+],
+"capacities": [
+"350 ml / 12 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print",
+"Laser engraving"
+]
+},
+"/products/elite-nucleated-polycarbonate-pint-tumblers/#model-PJB-032": {
+"sku": "PJB-032",
+"moq": 10,
+"materials": [
+"Tritan"
+],
+"capacities": [
+"285 ml / 10 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print",
+"Laser engraving"
+]
+},
+"/products/katerglass-plastic-pint-tumblers-22oz-lce/#model-PJB-033": {
+"sku": "PJB-033",
+"moq": 10,
+"materials": [
+"Tritan"
+],
+"capacities": [
+"12 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print",
+"Laser engraving"
+]
+},
+"/products/elite-nucleated-polycarbonate-pint-tumblers/#model-PJB-035": {
+"sku": "PJB-035",
+"moq": 10,
+"materials": [
+"Tritan"
+],
+"capacities": [
+"285 ml / 10 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print",
+"Laser engraving"
+]
+},
+"/products/elite-polycarbonate-2-pint-tulip-tumblers/#model-PJB-036": {
+"sku": "PJB-036",
+"moq": 10,
+"materials": [
+"Tritan"
+],
+"capacities": [
+"40 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print",
+"Laser engraving"
+]
+},
+"/products/elite-polycarbonate-2-pint-tulip-tumblers/#model-PJB-037": {
+"sku": "PJB-037",
+"moq": 10,
+"materials": [
+"Tritan"
+],
+"capacities": [
+"568 ml / 20 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print",
+"Colour-change ink"
+]
+},
+"/products/elite-nucleated-polycarbonate-pint-tumblers/#model-PJB-038": {
+"sku": "PJB-038",
+"moq": 10,
+"materials": [
+"Tritan"
+],
+"capacities": [
+"285 ml / 10 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print",
+"Laser engraving"
+]
+},
+"/products/elite-nucleated-polycarbonate-pint-tumblers/#model-PJB-039": {
+"sku": "PJB-039",
+"moq": 10,
+"materials": [
+"Tritan"
+],
+"capacities": [
+"568 ml / 20 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print",
+"Laser engraving"
+]
+},
+"/products/elite-nucleated-polycarbonate-pint-tumblers/#model-PJB-040": {
+"sku": "PJB-040",
+"moq": 10,
+"materials": [
+"Tritan"
+],
+"capacities": [
+"568 ml / 20 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print",
+"Laser engraving"
+]
+},
+"/products/katerglass-plastic-pint-tumblers-22oz-lce/#model-PJB-041": {
+"sku": "PJB-041",
+"moq": 10,
+"materials": [
+"Tritan"
+],
+"capacities": [
+"22 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print",
+"Laser engraving"
+]
+},
+"/products/elite-polycarbonate-2-pint-tulip-tumblers/#model-PJB-042": {
+"sku": "PJB-042",
+"moq": 10,
+"materials": [
+"Tritan"
+],
+"capacities": [
+"20 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print",
+"Colour-change ink"
+]
+},
+"/products/elite-polycarbonate-2-pint-tulip-tumblers/#model-PJB-043": {
+"sku": "PJB-043",
+"moq": 10,
+"materials": [
+"Tritan"
+],
+"capacities": [
+"568 ml / 20 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print",
+"Colour-change ink"
+]
+},
+"/products/katerglass-plastic-pint-tumblers-22oz-lce/#model-PJB-044": {
+"sku": "PJB-044",
+"moq": 10,
+"materials": [
+"Tritan"
+],
+"capacities": [
+"12 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print",
+"Laser engraving"
+]
+},
+"/products/elite-nucleated-polycarbonate-pint-tumblers/#model-PJB-045": {
+"sku": "PJB-045",
+"moq": 10,
+"materials": [
+"Tritan"
+],
+"capacities": [
+"285 ml / 10 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print",
+"Laser engraving"
+]
+},
+"/products/elite-nucleated-polycarbonate-pint-tumblers/#model-PJB-046": {
+"sku": "PJB-046",
+"moq": 10,
+"materials": [
+"Tritan"
+],
+"capacities": [
+"285 ml / 10 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print",
+"Laser engraving"
+]
+},
+"/products/elite-premium-polycarbonate-hiball-glasses-12oz/#model-PJB-047": {
+"sku": "PJB-047",
+"moq": 10,
+"materials": [
+"Tritan"
+],
+"capacities": [
+"12 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print",
+"Colour-change ink"
+]
+},
+"/products/plastic-double-wall-gel-mug-for/#model-PJB-048": {
+"sku": "PJB-048",
+"moq": 10,
+"materials": [
+"Tritan"
+],
+"capacities": [
+"580 ml"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print",
+"Pad print"
+]
+},
+"/products/plastic-double-wall-gel-mug-for/#model-PJB-049": {
+"sku": "PJB-049",
+"moq": 10,
+"materials": [
+"PS"
+],
+"capacities": [
+"1.3 litres total; serving line at 2 pints"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print",
+"Pad print"
+]
+},
+"/products/40350-beer-mug-x4-502ml/#model-PJB-050": {
+"sku": "PJB-050",
+"moq": 10,
+"materials": [
+"Tritan"
+],
+"capacities": [
+"502 ml / 17 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print",
+"Pad print"
+]
+},
+"/products/elite-polycarbonate-nonic-pint-tumblers/#model-PJB-051": {
+"sku": "PJB-051",
+"moq": 10,
+"materials": [
+"Tritan"
+],
+"capacities": [
+"568 ml / 20 oz / 280 ml / 10 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print",
+"Laser engraving"
+]
+},
+"/products/41140-footed-pilsner-x4-414ml/#model-PJB-053": {
+"sku": "PJB-053",
+"moq": 10,
+"materials": [
+"Tritan"
+],
+"capacities": [
+"473 ml / 16 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print",
+"Pad print"
+]
+},
+"/products/econ-polystyrene-conical-tumblers-7-5oz/#model-PJB-054": {
+"sku": "PJB-054",
+"moq": 10,
+"materials": [
+"Tritan"
+],
+"capacities": [
+"210 ml / 7.5 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print",
+"Laser engraving"
+]
+},
+"/products/reusable-plastic-party-cup/#model-SJB-006": {
+"sku": "SJB-006",
+"moq": 10,
+"materials": [
+"PP"
+],
+"capacities": [
+"17 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print"
+]
+},
+"/products/classic-tumbler-sjb012/#model-SJB-012": {
+"sku": "SJB-012",
+"moq": 10,
+"materials": [
+"Tritan",
+"PP"
+],
+"capacities": [
+"16 oz / 24 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print",
+"Laser engraving"
+]
+},
+"/products/21oz-plastic-juice-cup-with-lid/#model-SJB-013": {
+"sku": "SJB-013",
+"moq": 10,
+"materials": [
+"PC"
+],
+"capacities": [
+"600 ml / 21 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print",
+"Colour-change ink"
+]
+},
+"/products/20oz-plating-discoball-cup-with-straw/#model-SJB-014": {
+"sku": "SJB-014",
+"moq": 10,
+"materials": [
+"PS"
+],
+"capacities": [
+"580 ml / 20 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print",
+"Colour-change ink"
+]
+},
+"/products/12oz-plastic-hiball-tumbler/#model-SJB-015": {
+"sku": "SJB-015",
+"moq": 10,
+"materials": [
+"PS"
+],
+"capacities": [
+"350 ml / 12 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print",
+"Laser engraving"
+]
+},
+"/products/16-oz-double-wall-acrylic-tumbler-sjb016/#model-SJB-016": {
+"sku": "SJB-016",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"16 oz / 17 oz / 20 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print",
+"Laser engraving"
+]
+},
+"/products/16-oz-double-wall-acrylic-tumbler-sjb016/#model-SJB-017": {
+"sku": "SJB-017",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"16 oz / 17 oz / 20 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print",
+"Laser engraving"
+]
+},
+"/products/16-oz-double-wall-acrylic-tumbler-sjb016/#model-SJB-018": {
+"sku": "SJB-018",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"17 oz / 16 oz / 20 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print",
+"Laser engraving"
+]
+},
+"/products/16-oz-double-wall-acrylic-tumbler-sjb016/#model-SJB-019": {
+"sku": "SJB-019",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"20 oz / 16 oz / 17 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print",
+"Laser engraving"
+]
+},
+"/products/burby-tumbler-with-straw/#model-SJB-020": {
+"sku": "SJB-020",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"24 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print",
+"Laser engraving"
+]
+},
+"/products/burby-tumbler-with-straw/#model-SJB-021": {
+"sku": "SJB-021",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"22 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print",
+"Laser engraving"
+]
+},
+"/products/fiesta-mason-jar-with-straw/#model-SJB-022": {
+"sku": "SJB-022",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"22 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print",
+"Colour-change ink"
+]
+},
+"/products/bermuda-silicone-tumbler-with-straw-and/#model-SJB-023": {
+"sku": "SJB-023",
+"moq": 10,
+"materials": [
+"Acrylic",
+"Silicone"
+],
+"capacities": [
+"32 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print",
+"Laser engraving"
+]
+},
+"/products/oliver-acrylic-mug-with-straw/#model-SJB-024": {
+"sku": "SJB-024",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"40 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print"
+]
+},
+"/products/oliver-acrylic-mug-with-straw/#model-SJB-025": {
+"sku": "SJB-025",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"40 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print"
+]
+},
+"/products/reusable-plastic-party-cup/#model-SJB-026": {
+"sku": "SJB-026",
+"moq": 10,
+"materials": [
+"PP"
+],
+"capacities": [
+"10 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print"
+]
+},
+"/products/reusable-plastic-party-cup/#model-SJB-027": {
+"sku": "SJB-027",
+"moq": 10,
+"materials": [
+"PP"
+],
+"capacities": [
+"16 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print",
+"Colour-change ink"
+]
+},
+"/products/16-oz-color-changing-plastic-stadium-bsb002/#model-SJB-028": {
+"sku": "SJB-028",
+"moq": 10,
+"materials": [
+"PP"
+],
+"capacities": [
+"12 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print"
+]
+},
+"/products/16-oz-color-changing-plastic-stadium-bsb002/#model-SJB-029": {
+"sku": "SJB-029",
+"moq": 10,
+"materials": [
+"PP"
+],
+"capacities": [
+"16 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print"
+]
+},
+"/products/reusable-plastic-party-cup/#model-SJB-030": {
+"sku": "SJB-030",
+"moq": 10,
+"materials": [
+"PS"
+],
+"capacities": [
+"2 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print"
+]
+},
+"/products/reusable-plastic-party-cup/#model-SJB-031": {
+"sku": "SJB-031",
+"moq": 10,
+"materials": [
+"PS"
+],
+"capacities": [
+"2 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print"
+]
+},
+"/products/20oz-plating-discoball-cup-with-straw/#model-SJB-032": {
+"sku": "SJB-032",
+"moq": 10,
+"materials": [
+"PS"
+],
+"capacities": [
+"20 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print",
+"Colour-change ink"
+]
+},
+"/products/24oz-plastic-party-drinking-ball-cup/#model-SJB-033": {
+"sku": "SJB-033",
+"moq": 10,
+"materials": [
+"PS"
+],
+"capacities": [
+"24 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print",
+"Colour-change ink"
+]
+},
+"/products/plastic-double-wall-gel-mug-for/#model-SJB-034": {
+"sku": "SJB-034",
+"moq": 10,
+"materials": [
+"PS"
+],
+"capacities": [
+"15 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print",
+"Pad print"
+]
+},
+"/products/wholesale-plastic-flute-6oz-champagne/#model-SJB-035": {
+"sku": "SJB-035",
+"moq": 10,
+"materials": [
+"PS",
+"AS"
+],
+"capacities": [
+"6 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/16oz-cold-beverage-souvenir-cup/#model-SJB-038": {
+"sku": "SJB-038",
+"moq": 10,
+"materials": [],
+"capacities": [
+"10 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print"
+]
+},
+"/products/16oz-cold-beverage-souvenir-cup/#model-SJB-039": {
+"sku": "SJB-039",
+"moq": 10,
+"materials": [],
+"capacities": [],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print"
+]
+},
+"/products/full-printed-cold-cup-16oz/#model-SJB-041": {
+"sku": "SJB-041",
+"moq": 10,
+"materials": [],
+"capacities": [
+"10 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print",
+"Colour-change ink"
+]
+},
+"/products/burby-tumbler-with-straw/#model-SJB-042": {
+"sku": "SJB-042",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"20 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print",
+"Laser engraving"
+]
+},
+"/products/burby-tumbler-with-straw/#model-SJB-043": {
+"sku": "SJB-043",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"16 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print",
+"Laser engraving"
+]
+},
+"/products/burby-tumbler-with-straw/#model-SJB-044": {
+"sku": "SJB-044",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"16 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print",
+"Laser engraving"
+]
+},
+"/products/burby-tumbler-with-straw/#model-SJB-045": {
+"sku": "SJB-045",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"16 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print",
+"Laser engraving"
+]
+},
+"/products/dash-soft-touch-acrylic-tumbler-with/#model-SJB-046": {
+"sku": "SJB-046",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"17 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print",
+"Laser engraving"
+]
+},
+"/products/burby-tumbler-with-straw/#model-SJB-047": {
+"sku": "SJB-047",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"24 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print",
+"Laser engraving"
+]
+},
+"/products/burby-tumbler-with-straw/#model-SJB-048": {
+"sku": "SJB-048",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"16 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print",
+"Laser engraving"
+]
+},
+"/products/oliver-acrylic-mug-with-straw/#model-SJB-049": {
+"sku": "SJB-049",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"30 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print"
+]
+},
+"/products/burby-tumbler-with-straw/#model-SJB-050": {
+"sku": "SJB-050",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"26 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print",
+"Laser engraving"
+]
+},
+"/products/burby-tumbler-with-straw/#model-SJB-051": {
+"sku": "SJB-051",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"16 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print",
+"Laser engraving"
+]
+},
+"/products/burby-tumbler-with-straw/#model-SJB-052": {
+"sku": "SJB-052",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"16 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print",
+"Laser engraving"
+]
+},
+"/products/burby-tumbler-with-straw/#model-SJB-053": {
+"sku": "SJB-053",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"24 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print",
+"Laser engraving"
+]
+},
+"/products/burby-tumbler-with-straw/#model-SJB-054": {
+"sku": "SJB-054",
+"moq": 10,
+"materials": [
+"Acrylic",
+"PP"
+],
+"capacities": [
+"21 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print",
+"Laser engraving"
+]
+},
+"/products/burby-tumbler-with-straw/#model-SJB-055": {
+"sku": "SJB-055",
+"moq": 10,
+"materials": [
+"PS"
+],
+"capacities": [
+"24 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print",
+"Laser engraving"
+]
+},
+"/products/oliver-acrylic-mug-with-straw/#model-SJSB-001": {
+"sku": "SJSB-001",
+"moq": 10,
+"materials": [
+"Tritan",
+"PP",
+"Silicone"
+],
+"capacities": [
+"48 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print"
+]
+},
+"/products/everywhere-tritan-renew-tumbler-with/#model-SXB-001": {
+"sku": "SXB-001",
+"moq": 10,
+"materials": [
+"Tritan",
+"Silicone"
+],
+"capacities": [
+"16 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print",
+"Laser engraving"
+]
+},
+"/products/16-oz-slush-yard-cup-with/#model-SXB-002": {
+"sku": "SXB-002",
+"moq": 10,
+"materials": [
+"PET",
+"PP"
+],
+"capacities": [
+"16 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print",
+"Colour-change ink"
+]
+},
+"/products/16-oz-slush-yard-cup-with/#model-SXB-003": {
+"sku": "SXB-003",
+"moq": 10,
+"materials": [
+"PET",
+"PP"
+],
+"capacities": [
+"12 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print",
+"Colour-change ink"
+]
+},
+"/products/16-oz-slush-yard-cup-with/#model-SXB-004": {
+"sku": "SXB-004",
+"moq": 10,
+"materials": [
+"PET",
+"PP",
+"PE"
+],
+"capacities": [
+"12 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print",
+"Colour-change ink"
+]
+},
+"/products/16-oz-slush-yard-cup-with/#model-SXB-005": {
+"sku": "SXB-005",
+"moq": 10,
+"materials": [
+"PET",
+"PP",
+"PE"
+],
+"capacities": [
+"16 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print",
+"Colour-change ink"
+]
+},
+"/products/16-oz-double-wall-acrylic-tumbler-sjb016/#model-SXB-006": {
+"sku": "SXB-006",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"24 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print",
+"Laser engraving"
+]
+},
+"/products/16-oz-double-wall-acrylic-tumbler-sjb016/#model-SXB-007": {
+"sku": "SXB-007",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"24 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print",
+"Laser engraving"
+]
+},
+"/products/12-oz-double-wall-plastic-tumbler/#model-SXB-008": {
+"sku": "SXB-008",
+"moq": 10,
+"materials": [
+"PS"
+],
+"capacities": [
+"12 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print",
+"Laser engraving"
+]
+},
+"/products/12-oz-double-wall-plastic-tumbler/#model-SXB-009": {
+"sku": "SXB-009",
+"moq": 10,
+"materials": [
+"PS"
+],
+"capacities": [
+"12 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print",
+"Laser engraving"
+]
+},
+"/products/traveler-double-walled-wine-tumbler-by/#model-SXB-010": {
+"sku": "SXB-010",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"10 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/traveling-purple-wine-tumbler-adult-sippy/#model-SXB-011": {
+"sku": "SXB-011",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/acrylic-party-beer-tumbler/#model-SXB-012": {
+"sku": "SXB-012",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print",
+"Laser engraving"
+]
+},
+"/products/reusable-plastic-party-cup/#model-TYCB-001": {
+"sku": "TYCB-001",
+"moq": 10,
+"materials": [
+"PP",
+"PS"
+],
+"capacities": [
+"2 oz / 10 oz / 12 oz / 16 oz / 17 oz / 20 oz / 22 oz / 24 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print"
+]
+},
+"/products/reusable-plastic-party-cup/#model-TYCB-002": {
+"sku": "TYCB-002",
+"moq": 10,
+"materials": [
+"PP"
+],
+"capacities": [
+"22 oz / 32 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print"
+]
+},
+"/products/reusable-plastic-party-cup/#model-TYCB-003": {
+"sku": "TYCB-003",
+"moq": 10,
+"materials": [
+"PP"
+],
+"capacities": [
+"16 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print"
+]
+},
+"/products/reusable-plastic-party-cup/#model-TYCB-004": {
+"sku": "TYCB-004",
+"moq": 10,
+"materials": [
+"PP"
+],
+"capacities": [
+"24 oz / 20 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print"
+]
+},
+"/products/reusable-plastic-party-cup/#model-TYCB-005": {
+"sku": "TYCB-005",
+"moq": 10,
+"materials": [
+"PP"
+],
+"capacities": [
+"20 oz / 24 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print"
+]
+},
+"/products/reusable-plastic-party-cup/#model-TYCB-006": {
+"sku": "TYCB-006",
+"moq": 10,
+"materials": [
+"PP"
+],
+"capacities": [
+"16 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print"
+]
+},
+"/products/16-oz-frosted-plastic-cup/#model-TYCB-007": {
+"sku": "TYCB-007",
+"moq": 10,
+"materials": [
+"PP"
+],
+"capacities": [
+"16 oz / 10 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"UV print",
+"Colour-change ink"
+]
+},
+"/products/light-up-multicolor-led-pilsner-cup/#model-FGB-006": {
+"sku": "FGB-006",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"12 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"Colour-change ink",
+"UV print",
+"Pad print"
+]
+},
+"/products/light-up-multicolor-led-pilsner-cup/#model-FGB-007": {
+"sku": "FGB-007",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"12 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"Colour-change ink",
+"UV print",
+"Pad print"
+]
+},
+"/products/16-oz-led-light-up-drinking/#model-FGB-008": {
+"sku": "FGB-008",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"16 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print"
+]
+},
+"/products/led-light-up-cola-drinking-glass/#model-FGB-009": {
+"sku": "FGB-009",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"12 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print",
+"Colour-change ink"
+]
+},
+"/products/led-light-up-beer-mug/#model-FGB-010": {
+"sku": "FGB-010",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"28 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print",
+"Pad print"
+]
+},
+"/products/light-up-20oz-led-skull/#model-FGB-011": {
+"sku": "FGB-011",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"20 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print"
+]
+},
+"/products/light-up-beer-boot-mug-led/#model-FGB-012": {
+"sku": "FGB-012",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"16 oz (to brim)"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print",
+"Pad print"
+]
+},
+"/products/led-light-up-multicolor-whiskey-glass/#model-FGB-013": {
+"sku": "FGB-013",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"8 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"UV print",
+"Laser engraving"
+]
+},
+"/products/led-light-up-multicolor-whiskey-glass/#model-FGB-014": {
+"sku": "FGB-014",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"8 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"UV print",
+"Laser engraving"
+]
+},
+"/products/light-up-slow-change-led-shot/#model-FGB-016": {
+"sku": "FGB-016",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"2 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print"
+]
+},
+"/products/multicolor-light-up-spiral-stemmed-wine/#model-FGB-017": {
+"sku": "FGB-017",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"8 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/multicolor-light-up-spiral-stemmed-wine/#model-FGB-018": {
+"sku": "FGB-018",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"8 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/long-stem-led-light-up-champagne/#model-FGB-019": {
+"sku": "FGB-019",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"6 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/long-stem-led-light-up-champagne/#model-FGB-020": {
+"sku": "FGB-020",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"6 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/led-light-up-mini-champagne-glass/#model-FGB-021": {
+"sku": "FGB-021",
+"moq": 10,
+"materials": [],
+"capacities": [
+"5 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/long-stem-led-light-up-champagne/#model-FGB-022": {
+"sku": "FGB-022",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"6 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Laser engraving",
+"UV print",
+"Heat transfer"
+]
+},
+"/products/led-light-up-spiral-stem-martini/#model-FGB-023": {
+"sku": "FGB-023",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"8 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"UV print",
+"Colour-change ink"
+]
+},
+"/products/led-light-up-spiral-stem-martini/#model-FGB-024": {
+"sku": "FGB-024",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"8 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"UV print",
+"Colour-change ink"
+]
+},
+"/products/led-light-up-spiral-stem-martini/#model-FGB-025": {
+"sku": "FGB-025",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"10 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"UV print",
+"Colour-change ink"
+]
+},
+"/products/multicolor-light-up-spiral-stemmed-wine/#model-FGB-026": {
+"sku": "FGB-026",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"10 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"UV print",
+"Colour-change ink"
+]
+},
+"/products/multicolor-led-light-up-to-go/#model-FGB-027": {
+"sku": "FGB-027",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"16 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print",
+"Laser engraving"
+]
+},
+"/products/led-light-up-color-change-pint/#model-FGB-028": {
+"sku": "FGB-028",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"16 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"Colour-change ink",
+"UV print",
+"Pad print"
+]
+},
+"/products/multicolor-led-light-up-to-go/#model-FGB-029": {
+"sku": "FGB-029",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"18 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print",
+"Laser engraving"
+]
+},
+"/products/led-short-tumbler/#model-FGB-030": {
+"sku": "FGB-030",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"12 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print",
+"Laser engraving"
+]
+},
+"/products/led-disco-ball-tumbler-cups-deluxe/#model-FGB-031": {
+"sku": "FGB-031",
+"moq": 10,
+"materials": [],
+"capacities": [
+"20 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print",
+"Laser engraving"
+]
+},
+"/products/led-disco-ball-tumbler-cups-deluxe/#model-FGB-032": {
+"sku": "FGB-032",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"20 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print",
+"Laser engraving"
+]
+},
+"/products/iridescent-light-cup-led-tumbler-17/#model-FGB-033": {
+"sku": "FGB-033",
+"moq": 10,
+"materials": [
+"PS"
+],
+"capacities": [
+"17 oz"
+],
+"accessories": [
+"Lid",
+"Straw"
+],
+"processes": [
+"Heat transfer",
+"UV print",
+"Screen print",
+"Laser engraving"
+]
+},
+"/products/led-light-up-color-changing-glow/#model-FGB-034": {
+"sku": "FGB-034",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"16 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print",
+"Colour-change ink"
+]
+},
+"/products/led-mood-light-up-short-glass/#model-FGB-035": {
+"sku": "FGB-035",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"12 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print",
+"Colour-change ink"
+]
+},
+"/products/led-light-up-highball-glass/#model-FGB-036": {
+"sku": "FGB-036",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"14 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print",
+"Colour-change ink"
+]
+},
+"/products/multi-color-light-up-led-mason/#model-FGB-037": {
+"sku": "FGB-037",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"18 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print"
+]
+},
+"/products/light-up-disco-ball-light-projecting/#model-FGB-038": {
+"sku": "FGB-038",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"8 oz filled to the brim"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print",
+"Colour-change ink"
+]
+},
+"/products/purple-led-light-up-shot-glass/#model-JBPJ-101": {
+"sku": "JBPJ-101",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"1.5 oz"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print"
+]
+},
+"/products/light-up-beer-boot-mug-led/#model-MKB-004": {
+"sku": "MKB-004",
+"moq": 10,
+"materials": [],
+"capacities": [
+"16 oz"
+],
+"accessories": [
+"Lid"
+],
+"processes": [
+"Screen print",
+"Heat transfer",
+"UV print",
+"Pad print"
+]
+},
+"/products/irregular-shape-led-bottom-lit-ice/#model-BT-003": {
+"sku": "BT-003",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"8 L"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"UV print",
+"Hydro dip"
+]
+},
+"/products/8l-asymmetric-hollow-logo-designer-led/#model-BT-011": {
+"sku": "BT-011",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [
+"8 L"
+],
+"accessories": [],
+"processes": [
+"Screen print",
+"UV print",
+"Hydro dip"
+]
+},
+"/products/led-light-up-ice-bucket-with/#model-FGB-001": {
+"sku": "FGB-001",
+"moq": 10,
+"materials": [
+"Acrylic"
+],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Screen print",
+"UV print",
+"Hydro dip"
+]
+},
+"/products/white-led-light-up-ice-bucket/#model-FGB-002": {
+"sku": "FGB-002",
+"moq": 10,
+"materials": [],
+"capacities": [],
+"accessories": [],
+"processes": [
+"Screen print",
+"UV print",
+"Hydro dip"
+]
+}
+}

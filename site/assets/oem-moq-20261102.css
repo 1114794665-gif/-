@@ -1,0 +1,85 @@
+/* 三条路线卡上的起订量块 —— 2026-11-02
+   目的：客户看完「改什么」马上知道「最少订多少」；
+   01 印刷 10/250、02 换配件 1,000、03 新开模 3,000（模费另算） */
+
+.of-three .of-path .of-moq {
+  margin: 0 0 16px;
+  padding: 13px 15px 12px;
+  border: 1px solid #dde4dc;
+  border-left: 3px solid #a85f3c;
+  border-radius: 3px;
+  background: #f7f8f3;
+}
+
+.of-three .of-path.featured .of-moq {
+  border-color: rgba(255, 255, 255, 0.26);
+  border-left-color: #d8a97f;
+  background: rgba(255, 255, 255, 0.09);
+}
+
+.of-three .of-path .of-moq-k {
+  margin: 0 0 7px;
+  font-size: 9.5px;
+  font-weight: 800;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  line-height: 1.2;
+  color: #8a715f;
+}
+
+.of-three .of-path.featured .of-moq-k {
+  color: #e3d3b2;
+}
+
+.of-three .of-path .of-moq-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 3px 8px;
+  margin: 0 0 3px;
+  font-size: 12px;
+  line-height: 1.5;
+  color: #4e5f56;
+}
+
+.of-three .of-path.featured .of-moq-row {
+  color: #cfdfd5;
+}
+
+.of-three .of-path .of-moq-row:last-child {
+  margin-bottom: 0;
+}
+
+.of-three .of-path .of-moq-row b {
+  font-size: 16px;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  line-height: 1.2;
+  font-variant-numeric: tabular-nums;
+  color: #193f35;
+}
+
+.of-three .of-path.featured .of-moq-row b {
+  color: #fff;
+}
+
+.of-three .of-path .of-moq-note {
+  margin: 7px 0 0;
+  padding-top: 7px;
+  border-top: 1px dashed #d5ddd4;
+  font-size: 10.5px;
+  line-height: 1.5;
+  letter-spacing: 0.01em;
+  color: #6d7c72;
+}
+
+.of-three .of-path.featured .of-moq-note {
+  border-top-color: rgba(255, 255, 255, 0.22);
+  color: #b9cdc1;
+}
+
+@media (max-width: 760px) {
+  .of-three .of-path .of-moq-row b {
+    font-size: 15px;
+  }
+}

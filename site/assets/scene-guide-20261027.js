@@ -1,0 +1,260 @@
+/* 硅胶杯 / LED 杯具两个分类页的「按场景选 + 下单前核对 + 实景」模块（2026-10-27）
+   这两页的正文由前端渲染，所以本脚本在渲染完成后往真实 DOM 里插三块内容。
+   幂等：插过的不会再插；万一被重新渲染冲掉，MutationObserver 会补回来。 */
+(function () {
+  'use strict';
+
+  var PATH = location.pathname;
+  var isZh = /^\/zh\//.test(PATH);
+  var isSil = /custom-silicone-cups/.test(PATH);
+  var isLed = /led-light-up-cups/.test(PATH);
+  if (!isSil && !isLed) { return; }
+  if (window.__EVERCUP_SCENE_GUIDE__) { return; }
+  window.__EVERCUP_SCENE_GUIDE__ = 1;
+
+  var S = '/img/scene/';
+
+  var COPY = {
+    sil: {
+      en: {
+        kicker: 'Start here',
+        h2: 'Choose by where it gets used.',
+        lede: 'Silicone gets specified for one reason — it survives the places glass does not. Pick the venue first and the shortlist narrows to the moulds that already ship there.',
+        cards: [
+          { img: 'silicone-beach-day.jpg', title: 'Beach, pool & sand',
+            why: 'No glass on sand, no broken stem in the cooler. Drop it on pool tile and it comes back in one piece.',
+            link: 'See pints & tumblers', href: '#silicone-pint-cups' },
+          { img: 'silicone-yacht.jpg', title: 'Yacht & deck',
+            why: 'Wide base, no clink on fibreglass, nothing that rolls off a table once the boat is under way.',
+            link: 'See handled barrels', href: '#silicone-pint-cups' },
+          { img: 'silicone-camp.jpg', title: 'Camp, travel & collapsible',
+            why: 'Folds flat — 500 units store where 100 rigid cups would. The reason event crews keep them year after year.',
+            link: 'See collapsible', href: '#collapsible-cups' }
+        ],
+        checkH2: 'What a buyer checks before the PO.',
+        checkLede: 'This is what we get asked on the first call. Where a number matters for your tender, ask and it goes into the quote in writing against your order.',
+        cols: ['Silicone pints &amp; tumblers', 'Silicone wine &amp; rocks', 'Collapsible'],
+        rows: [
+          ['Body', 'Food-grade silicone over a rigid core', 'Same, moulded bowl', 'Silicone walls, PP lid'],
+          ['Heat range', '&minus;40&nbsp;&deg;C to 230&nbsp;&deg;C, oven and freezer safe', 'Same', '&minus;40&nbsp;&deg;C to 200&nbsp;&deg;C'],
+          ['Dishwasher', 'Top rack', 'Top rack', 'Top rack, lid removed'],
+          ['Printing', 'UV transfer, silk screen, moulded-in colour', 'Plus laser engraving', 'UV transfer, silk screen'],
+          ['MOQ &amp; lead time', '10 pcs from stock colours, 250 pcs for a custom colour. Lead time confirmed per order.', 'Same', 'Same']
+        ],
+        checkNote: 'Need a formal data pack for a tender? <a href="/contact/">Ask for it</a> — dimensions, carton ratio and carton weight per model.',
+        proofH2: 'How it looks in use.',
+        proof: [
+          ['silicone-beach-day.jpg', 'Beach service, full sun — silicone straw tumbler'],
+          ['silicone-yacht.jpg', 'Yacht deck, midday — silicone handled barrel'],
+          ['silicone-camp.jpg', 'Lake campsite — collapsible silicone cup']
+        ]
+      },
+      zh: {
+        kicker: '从这里开始',
+        h2: '先按「用在哪」选，再看杯型。',
+        lede: '硅胶被选中的理由只有一个：玻璃会出事的地方，它不会。先说场地，能选的模具自然就窄了。',
+        cards: [
+          { img: 'silicone-beach-day.jpg', title: '沙滩、泳池、沙地',
+            why: '沙地上没有玻璃，冰桶里没有断脚。掉在泳池砖上捡起来还是整只。',
+            link: '看品脱杯与随行杯', href: '#silicone-pint-cups' },
+          { img: 'silicone-yacht.jpg', title: '游艇与甲板',
+            why: '底盘宽、碰玻璃钢不响、船一开也不会滚下桌。',
+            link: '看带手柄桶杯', href: '#silicone-pint-cups' },
+          { img: 'silicone-camp.jpg', title: '露营、出行、折叠',
+            why: '压平就收。500 只占的地方，硬杯只放得下 100 只 —— 活动公司年年留着它们就是为这个。',
+            link: '看折叠杯', href: '#collapsible-cups' }
+        ],
+        checkH2: '下单前真正要核的几件事。',
+        checkLede: '下面是第一次通话必被问到的问题。哪个数字对你的标书要紧，说一声，我们写进报价里跟单。',
+        cols: ['硅胶品脱杯与随行杯', '硅胶酒杯与岩石杯', '折叠杯'],
+        rows: [
+          ['杯体', '食品级硅胶包刚性内芯', '同款，模压杯身', '硅胶杯壁 + PP 盖'],
+          ['耐温', '&minus;40&nbsp;&deg;C 到 230&nbsp;&deg;C，可烤可冻', '同左', '&minus;40&nbsp;&deg;C 到 200&nbsp;&deg;C'],
+          ['洗碗机', '上层', '上层', '上层，需取下盖子'],
+          ['印刷', 'UV 热转印、丝印、注塑本色', '另可激光雕刻', 'UV 热转印、丝印'],
+          ['起订与交期', '现货色 10 只起，定制色 250 只起。交期按单确认。', '同左', '同左']
+        ],
+        checkNote: '投标需要正式的资料包？<a href="/zh/contact/">找我们要</a> —— 尺寸、装箱率、每箱净重，按型号给。',
+        proofH2: '用在现场是什么样。',
+        proof: [
+          ['silicone-beach-day.jpg', '海滩白天 · 硅胶吸管随行杯'],
+          ['silicone-yacht.jpg', '游艇甲板正午 · 硅胶带手柄桶杯'],
+          ['silicone-camp.jpg', '湖畔营地 · 折叠硅胶杯']
+        ]
+      }
+    },
+    led: {
+      en: {
+        kicker: 'Start here',
+        h2: 'Choose by the night you are lighting.',
+        lede: 'LED cups are bought for two things: the photographs they end up in, and the room they light. Pick the venue first — the light mode and the base colour follow from it.',
+        cards: [
+          { img: 'led-bar-night.jpg', title: 'Nightclub &amp; terrace bar',
+            why: 'Steady or slow-fade modes that still read on camera without blowing out the faces around them. Black bases hide the battery door.',
+            link: 'See rocks &amp; whiskey cups', href: '#led-rocks-cups' },
+          { img: 'led-beach-night.jpg', title: 'Beach &amp; campsite after dark',
+            why: 'Sealed base, sits flat on sand and uneven picnic tables. This is the cup that ends up in every guest photo.',
+            link: 'See cups &amp; tumblers', href: '#led-cup-styles' },
+          { img: 'led-yacht-night.jpg', title: 'Wedding &amp; celebration',
+            why: 'Single-colour and warm-white options that stay inside a palette. Frosted bodies take a monogram cleanly.',
+            link: 'See stemware &amp; cocktail', href: '#led-stemware' },
+          { img: 'led-camp-night.jpg', title: 'Campsite &amp; festival night',
+            why: 'Stands up to a folding table, a fire pit and a 2 a.m. walk back to the tent. Logo on a lit body goes home with the guest.',
+            link: 'See shot cups', href: '#led-shot-cups' }
+        ],
+        checkH2: 'The six questions every LED order starts with.',
+        checkLede: 'LED is where quotes go wrong, because the cheap answer to each of these is always available. Here is what we commit to in writing.',
+        cols: ['What we specify'],
+        rows: [
+          ['Power', 'Button cells — CR2032 or LR44 depending on the model. Replaceable from the base, no tools.'],
+          ['Light modes', 'Steady, slow fade, fast flash, multicolour cycle. Fixed per model — tell us which one your event needs.'],
+          ['Run time', 'Quoted per model from our own bench test. We do not repeat catalogue hours we have not measured ourselves.'],
+          ['Liquid', 'Sealed base, hand wash only. No dishwasher, no soaking, no ice sitting directly on the light unit.'],
+          ['Certification', 'UN38.3 and MSDS for the cells, CE / RoHS on request. Air-freight paperwork is handled at our end.'],
+          ['Spares', 'Battery doors and light units sold separately, so a refill programme does not need a new cup order.']
+        ],
+        checkNote: 'Running a multi-night event? <a href="/contact/">Ask for the battery budget</a> — cells per cup per night, priced against your headcount.',
+        proofH2: 'How it looks after dark.',
+        proof: [
+          ['led-beach-night.jpg', 'Beach bar, full night — LED beer boot'],
+          ['led-yacht-night.jpg', 'Yacht stern, harbour lights — LED beer boot'],
+          ['led-camp-night.jpg', 'Campsite, firelight — LED beer boot']
+        ]
+      },
+      zh: {
+        kicker: '从这里开始',
+        h2: '先定「哪一晚」，再定杯子。',
+        lede: '买 LED 杯就看两件事：它会出现在什么照片里，它照亮的是什么场子。场地先定，发光模式和底座颜色跟着就定了。',
+        cards: [
+          { img: 'led-bar-night.jpg', title: '夜店与露台酒吧',
+            why: '常亮或慢变模式，镜头里清楚，又不会把周围人的脸打爆。黑色底座把电池仓藏住。',
+            link: '看岩石杯与威士忌杯', href: '#led-rocks-cups' },
+          { img: 'led-beach-night.jpg', title: '沙滩与营地夜场',
+            why: '底座密封，沙地和晃的野餐桌上都放得稳。客人照片里出现最多的就是这一只。',
+            link: '看杯与随行杯', href: '#led-cup-styles' },
+          { img: 'led-yacht-night.jpg', title: '婚礼与庆典',
+            why: '单色和暖白可选，不会跳出布置色系。磨砂杯身上打字母标很干净。',
+            link: '看高脚与鸡尾酒杯', href: '#led-stemware' },
+          { img: 'led-camp-night.jpg', title: '营地与音乐节夜场',
+            why: '折叠桌、篝火边、半夜走回帐篷都扛得住。杯身会亮，标就跟着亮，撤场之后杯子还在客人家里接着用。',
+            link: '看一口杯', href: '#led-shot-cups' }
+        ],
+        checkH2: 'LED 单子开场必问的六件事。',
+        checkLede: 'LED 最容易在报价上出错，因为每个问题的「便宜答案」永远都有。下面是我们愿意写进合同的答案。',
+        cols: ['我们的口径'],
+        rows: [
+          ['电池', '纽扣电池，CR2032 或 LR44 按型号。从底座换，不用工具。'],
+          ['发光模式', '常亮、慢变、快闪、多彩循环四种，按型号固定。说清活动要哪种。'],
+          ['续航', '按型号给我们自己台架实测的数。没测过的目录数不往上报。'],
+          ['接触液体', '底座密封，只能手洗。不进洗碗机、不浸泡、冰块不直接压在灯板上。'],
+          ['认证', '电芯有 UN38.3 和 MSDS，CE / RoHS 可出。空运资料我们这边办。'],
+          ['备件', '电池盖和灯组可单卖，做续杯计划不用重新订整批杯子。']
+        ],
+        checkNote: '连办几晚的活动？<a href="/zh/contact/">找我们要电池预算</a> —— 每只每晚耗几颗、按人数算总价。',
+        proofH2: '入夜之后是什么样。',
+        proof: [
+          ['led-beach-night.jpg', '海滩酒吧夜场 · LED 靴形啤酒杯'],
+          ['led-yacht-night.jpg', '游艇船尾，港灯 · LED 靴形啤酒杯'],
+          ['led-camp-night.jpg', '营地篝火边 · LED 靴形啤酒杯']
+        ]
+      }
+    }
+  };
+
+  var C = (isSil ? COPY.sil : COPY.led)[isZh ? 'zh' : 'en'];
+
+  function sceneSection() {
+    var sec = document.createElement('section');
+    sec.className = 'bx-wrap bx-section bx-scene-guide';
+    sec.id = 'choose-by-scene';
+    var cards = C.cards.map(function (c) {
+      return '<a class="bx-scene-card" href="' + c.href + '">' +
+        '<figure class="bx-scene-figure"><img src="' + S + c.img + '" alt="' + c.title +
+        '" loading="lazy" width="1536" height="1024"></figure>' +
+        '<div class="bx-scene-body"><h3 class="bx-scene-title">' + c.title + '</h3>' +
+        '<p class="bx-scene-why">' + c.why + '</p>' +
+        '<span class="bx-scene-link">' + c.link + ' &rarr;</span></div></a>';
+    }).join('');
+    sec.innerHTML =
+      '<p class="bx-scene-kicker">' + C.kicker + '</p>' +
+      '<h2 class="bx-scene-h2">' + C.h2 + '</h2>' +
+      '<p class="bx-scene-lede">' + C.lede + '</p>' +
+      '<div class="bx-scene-grid' + (C.cards.length > 3 ? ' is-four' : '') + '">' + cards + '</div>';
+    return sec;
+  }
+
+  function checkSection() {
+    var sec = document.createElement('section');
+    sec.className = 'bx-wrap bx-section bx-buyer-check';
+    sec.id = 'buyer-checklist';
+    var head = '<tr><th scope="col"></th>' +
+      C.cols.map(function (c) { return '<th scope="col">' + c + '</th>'; }).join('') + '</tr>';
+    var body = C.rows.map(function (r) {
+      var tds = r.slice(1).map(function (v) {
+        return '<td data-col="' + r[0].replace(/&amp;/g, '&') + '">' + v + '</td>';
+      }).join('');
+      return '<tr><th scope="row">' + r[0] + '</th>' + tds + '</tr>';
+    }).join('');
+    sec.innerHTML =
+      '<h2 class="bx-check-h2">' + C.checkH2 + '</h2>' +
+      '<p class="bx-check-lede">' + C.checkLede + '</p>' +
+      '<table class="bx-check-table"><thead>' + head + '</thead><tbody>' + body + '</tbody></table>' +
+      '<p class="bx-check-note">' + C.checkNote + '</p>';
+    return sec;
+  }
+
+  function proofSection() {
+    var sec = document.createElement('section');
+    sec.className = 'bx-wrap bx-section bx-scene-proof';
+    sec.id = 'in-use';
+    sec.innerHTML =
+      '<h2 class="bx-check-h2">' + C.proofH2 + '</h2>' +
+      '<div class="bx-proof-grid">' +
+      C.proof.map(function (p) {
+        return '<figure><img src="' + S + p[0] + '" alt="' + p[1] +
+          '" loading="lazy" width="1536" height="1024"><figcaption>' + p[1] + '</figcaption></figure>';
+      }).join('') + '</div>';
+    return sec;
+  }
+
+  function place() {
+    var n = 0;
+    var hero = document.querySelector('.bx-collection-hero');
+    if (hero && hero.parentNode && !document.getElementById('choose-by-scene')) {
+      hero.parentNode.insertBefore(sceneSection(), hero.nextSibling);
+      n++;
+    }
+    var anchor = document.getElementById('model-selector') ||
+                 document.querySelector('.bx-model-select');
+    if (anchor && anchor.parentNode && !document.getElementById('buyer-checklist')) {
+      var after = anchor.nextSibling;
+      var c1 = checkSection();
+      anchor.parentNode.insertBefore(c1, after);
+      var p1 = proofSection();
+      anchor.parentNode.insertBefore(p1, c1.nextSibling);
+      n += 2;
+    }
+    return n;
+  }
+
+  function boot() {
+    place();
+    if (typeof MutationObserver !== 'function') { return; }
+    var tries = 0;
+    var mo = new MutationObserver(function () {
+      if (tries++ > 24) { mo.disconnect(); return; }
+      if (!document.getElementById('choose-by-scene') ||
+          !document.getElementById('buyer-checklist')) {
+        try { place(); } catch (e) {}
+      }
+    });
+    mo.observe(document.body, { childList: true, subtree: true });
+    setTimeout(function () { mo.disconnect(); }, 12000);
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', boot);
+  } else {
+    boot();
+  }
+})();

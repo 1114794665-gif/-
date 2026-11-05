@@ -1,0 +1,386 @@
+/* 快速打样（Fast sampling）标注与样品栏 — 2026-10-31 / v2
+ *
+ * 三处用途：
+ *   1. 产品页标题下的横条（.fs-flag）+ 款式缩略图绿点（.bx-opt-sw.is-fs）
+ *   2. 上新页卡片角标与小字（.fs-tag / .fs-card-line）
+ *   3. 上新页顶部「快速打样样品」栏（.fs-samples）
+ *
+ * 只认 .fs-* 前缀与两个明确修饰类，不碰站点其它样式。
+ */
+
+:root {
+  --fs-forest: #233f35;
+  --fs-forest-deep: #1a302a;
+  --fs-paper: #fbfaf7;
+  --fs-line: #dfe5dd;
+  --fs-accent: #b9603c;
+  --fs-soft: #eef3ee;
+}
+
+/* ── 1. 产品页：标题下的横条 ─────────────────────── */
+.fs-flag {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px 14px;
+  margin: 14px 0 2px;
+  padding: 11px 14px;
+  border: 1px solid var(--fs-line);
+  border-left: 3px solid var(--fs-accent);
+  border-radius: 10px;
+  background: var(--fs-paper);
+}
+
+.fs-flag.is-hint {
+  border-left-color: #b9c7bd;
+  background: #f7f8f5;
+}
+
+.fs-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  flex: 0 0 auto;
+  padding: 5px 10px 5px 8px;
+  border-radius: 999px;
+  background: var(--fs-forest);
+  color: #fff;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 10px;
+  font-weight: 600;
+  line-height: 1.1;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+.fs-pill::before {
+  content: '';
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: #e7b06a;
+  box-shadow: 0 0 0 3px rgba(231, 176, 106, 0.22);
+}
+
+.fs-flag.is-hint .fs-pill {
+  background: #5d7568;
+}
+
+.fs-flag.is-hint .fs-pill::before {
+  background: #eceae2;
+  box-shadow: 0 0 0 3px rgba(255, 255, 255, 0.28);
+}
+
+.fs-promise {
+  margin: 0;
+  color: #52625a;
+  font-size: 12.5px;
+  line-height: 1.55;
+}
+
+.fs-promise b {
+  color: var(--fs-forest);
+  font-weight: 600;
+}
+
+.fs-promise .fs-note {
+  margin-left: 6px;
+  color: #86948b;
+  font-weight: 400;
+}
+
+.fs-promise .fs-sep {
+  display: inline-block;
+  width: 20px;
+  text-align: center;
+  color: #a8b3ab;
+}
+
+/* 款式缩略图上的自供款绿点 */
+#product-options .bx-opt-sw {
+  position: relative;
+}
+
+#product-options .bx-opt-sw.is-fs::after {
+  content: '';
+  position: absolute;
+  top: 3px;
+  right: 3px;
+  z-index: 3;
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: #3f7a5c;
+  box-shadow: 0 0 0 2px #fff;
+  pointer-events: none;
+}
+
+/* ── 2. 上新页：卡片角标与小字 ───────────────────── */
+.fs-tag {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  z-index: 2;
+  padding: 5px 7px;
+  border-radius: 4px;
+  background: var(--fs-forest);
+  color: #fff;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 9px;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+.ec-library-image-link.na-img {
+  position: relative;
+}
+
+.fs-card-line {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  margin: 5px 0 0;
+  color: #4d6b5a;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 10px;
+  font-weight: 500;
+  line-height: 1.4;
+  letter-spacing: 0.02em;
+}
+
+.fs-card-line::before {
+  content: '';
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: #6f9c7f;
+}
+
+/* ── 3. 上新页：快速打样样品栏 ───────────────────── */
+.fs-samples {
+  margin: 40px 0 8px;
+  padding: 26px 26px 24px;
+  border: 1px solid var(--fs-line);
+  border-radius: 18px;
+  background: linear-gradient(180deg, #f6f4ee 0%, var(--fs-paper) 42%);
+}
+
+.fs-samples-head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 6px 14px;
+}
+
+.fs-samples-head h2 {
+  margin: 0;
+  color: var(--fs-forest);
+  font-family: Fraunces, Georgia, serif;
+  font-size: 26px;
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: -0.01em;
+}
+
+.fs-samples-head span {
+  color: #7b877f;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.fs-samples-lede {
+  max-width: 70ch;
+  margin: 8px 0 0;
+  color: #55655c;
+  font-size: 13px;
+  line-height: 1.6;
+}
+
+.fs-terms {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 10px;
+  margin: 18px 0 22px;
+  padding: 0;
+  list-style: none;
+}
+
+.fs-terms li {
+  padding: 12px 14px;
+  border-radius: 11px;
+  background: var(--fs-forest);
+  color: #fff;
+}
+
+.fs-terms b {
+  display: block;
+  margin-bottom: 3px;
+  color: #f0c98a;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+.fs-terms span {
+  display: block;
+  color: rgba(255, 255, 255, 0.86);
+  font-size: 11.5px;
+  line-height: 1.45;
+}
+
+.fs-grid {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 14px;
+}
+
+.fs-card {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid var(--fs-line);
+  border-radius: 12px;
+  background: #fff;
+  overflow: hidden;
+  transition: border-color 0.18s ease, box-shadow 0.18s ease, transform 0.18s ease;
+}
+
+.fs-card:hover {
+  border-color: #b9c7bd;
+  box-shadow: 0 10px 24px rgba(35, 63, 53, 0.1);
+  transform: translateY(-2px);
+}
+
+.fs-card-img {
+  position: relative;
+  display: block;
+  aspect-ratio: 1 / 1;
+  background: #f4f5f2;
+}
+
+.fs-card-img img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  padding: 10px;
+}
+
+.fs-card-img .fs-tag {
+  top: 8px;
+  right: 8px;
+  font-size: 8.5px;
+  letter-spacing: 0.1em;
+}
+
+.fs-card-body {
+  display: flex;
+  flex: 1 1 auto;
+  flex-direction: column;
+  gap: 3px;
+  padding: 11px 12px 13px;
+}
+
+.fs-line-tag {
+  align-self: flex-start;
+  margin-bottom: 2px;
+  padding: 3px 6px;
+  border-radius: 3px;
+  background: var(--fs-soft);
+  color: #46654f;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 8.5px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.fs-card-model {
+  margin: 0;
+  color: #8d9a91;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 9.5px;
+  letter-spacing: 0.06em;
+}
+
+.fs-card-name {
+  margin: 0;
+  color: var(--fs-forest);
+  font-family: Fraunces, Georgia, serif;
+  font-size: 13.5px;
+  font-weight: 600;
+  line-height: 1.32;
+}
+
+.fs-card-name a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.fs-card-name a:hover {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.fs-card-facts {
+  margin: 0;
+  color: #6d7b72;
+  font-size: 10.5px;
+  line-height: 1.4;
+}
+
+.fs-card-cta {
+  margin-top: auto;
+  padding-top: 7px;
+  color: var(--fs-accent);
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  text-decoration: none;
+}
+
+.fs-cta-short { display: none; }
+
+.fs-card-cta:hover {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+/* ── 响应式 ─────────────────────────────────── */
+@media (max-width: 1180px) {
+  .fs-grid { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+}
+
+@media (max-width: 960px) {
+  .fs-samples { padding: 22px 18px 20px; border-radius: 14px; }
+  .fs-samples-head h2 { font-size: 22px; }
+  .fs-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; }
+}
+
+@media (max-width: 720px) {
+  .fs-terms { grid-template-columns: 1fr; gap: 8px; }
+  .fs-terms li { padding: 10px 12px; }
+  .fs-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .fs-card-name { font-size: 12.5px; }
+
+  .fs-flag { gap: 8px; padding: 10px 12px; }
+  .fs-promise { font-size: 12px; }
+  .fs-promise .fs-sep { width: 14px; }
+  .fs-promise b { display: inline-block; }
+
+  .fs-cta-full { display: none; }
+  .fs-cta-short { display: inline; }
+  .fs-card-cta { white-space: nowrap; }
+}
+
+@media (max-width: 420px) {
+  .fs-samples { padding: 18px 12px 16px; }
+  .fs-grid { gap: 10px; }
+}

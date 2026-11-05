@@ -1,0 +1,8 @@
+private-data/**
+!private-data/enquiries/
+!private-data/enquiries/.gitkeep
+.env*
+*.log
+node_modules/
+*.tar.gz
+*.zip

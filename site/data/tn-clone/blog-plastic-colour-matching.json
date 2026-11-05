@@ -1,0 +1,396 @@
+{
+ "path": "blog/plastic-colour-matching",
+ "title": "Why Your Cup Colour Doesn't Match the Pantone Chip | EVERCUP",
+ "description": "One Pantone number renders four different ways. What ΔE measures, how to approve colour, and seven things that shift it without a formula change.",
+ "crumb": "Blog",
+ "art": {
+  "kicker": "Materials & Decoration",
+  "h1": "Why Your Cup Colour Doesn't Match the Pantone Chip — and How to Approve It Properly",
+  "meta": "Published 29 October 2026 · 12 min read · BYF engineering team, Shenzhen",
+  "date": "2026-10-29",
+  "hero": "/img/archive-real-20261103/084-771efa29cf.webp",
+  "body": [
+   {
+    "t": "h2",
+    "x": "Quick Answer"
+   },
+   {
+    "t": "p",
+    "x": "A Pantone number describes <strong>ink printed on paper</strong>. Your cup is pigment dispersed in plastic, moulded into a shape, with a surface texture and a gloss level. The chip and the cup are two different materials doing two different things with the same reference — so a small difference is normal, not a mistake."
+   },
+   {
+    "t": "p",
+    "x": "<strong>What you can control is the size of the difference and whether it repeats.</strong> Approve a physical master sample (not a screen preview), check it under the light your customer will actually use, write a tolerance into the order, and keep a signed reference piece on both sides. Do those four things and colour stops being a recurring argument."
+   },
+   {
+    "t": "p",
+    "x": "Below: where the difference comes from, what ΔE numbers mean in practice, which colour system to specify, the seven production variables that shift colour without anyone changing the formula, and a triage procedure for a batch that arrives wrong."
+   },
+   {
+    "t": "h2",
+    "x": "Where Does the Difference Come From?"
+   },
+   {
+    "t": "p",
+    "x": "One number passes through four rendering stages before it reaches your customer. Each stage can move it."
+   },
+   {
+    "t": "table",
+    "cols": [
+     "Stage",
+     "What it is physically",
+     "Typical drift",
+     "Who controls it"
+    ],
+    "rows": [
+     [
+      "1. The Pantone chip",
+      "Ink on coated or uncoated paper, viewed under a specific illuminant",
+      "The reference itself differs between coated and uncoated books",
+      "You, when you choose which book"
+     ],
+     [
+      "2. The colour concentrate",
+      "Pigment dispersed in a carrier resin, matched to the chip",
+      "Very close — this is the step where a lab can hit ΔE under 1.0",
+      "Supplier, at matching stage"
+     ],
+     [
+      "3. The moulded part",
+      "Pigment in your actual resin, after heat, flow, texture and gloss",
+      "This is where most of the visible drift appears",
+      "Both sides — material, texture and process"
+     ],
+     [
+      "4. The printed logo",
+      "A second ink layer sitting on top of the plastic",
+      "Often the largest single mismatch on the finished product",
+      "Supplier, at print proof stage"
+     ]
+    ]
+   },
+   {
+    "t": "note",
+    "label": "The usual argument",
+    "x": [
+     "The buyer holds the chip against the cup under office lighting and says it is too dark. The factory holds the same cup under a daylight lamp and says it matches the master. <strong>Both are telling the truth.</strong> The disagreement is about light and surface, not about the formula."
+    ]
+   },
+   {
+    "t": "h2",
+    "x": "Why Does the Same Number Look Different on Plastic and on Paper?"
+   },
+   {
+    "t": "p",
+    "x": "Four physical reasons, in order of how much they matter:"
+   },
+   {
+    "t": "ul",
+    "items": [
+     "<strong>Surface gloss.</strong> A gloss surface reflects a hard highlight and reads darker and more saturated; a matte surface scatters light and reads lighter and flatter. Same pigment, visibly different cup.",
+     "<strong>Opacity.</strong> Paper is opaque. Plastic can be opaque, translucent or clear. A translucent colour shows the wall behind it, so the cup reads darker where the wall is thick and lighter at the rim.",
+     "<strong>Texture.</strong> A moulded texture (sandblast, leather grain, fine matte) changes how light leaves the surface. Moving from smooth to textured on the same colour will read as a half-step lighter, sometimes more.",
+     "<strong>Material.</strong> PP, ABS, PET, Tritan and silicone each render pigment slightly differently. A colour approved on an ABS lid will not automatically match on a PP body."
+    ]
+   },
+   {
+    "t": "p",
+    "x": "There is also a formal name for the lighting problem: <em>metamerism</em>. Two colours can match under daylight and diverge under warm shop lighting or under LED. If your product is sold in a retail environment with a specific light, the approval has to happen under that light — or at least be checked under it before you sign."
+   },
+   {
+    "t": "h2",
+    "x": "Should You Specify Pantone, RAL or a Physical Sample?"
+   },
+   {
+    "t": "p",
+    "x": "Use all three, in this order of authority. Most colour disputes start with a buyer sending only a number."
+   },
+   {
+    "t": "table",
+    "cols": [
+     "What you send",
+     "What it is good for",
+     "What it cannot do"
+    ],
+    "rows": [
+     [
+      "Pantone number (C or U)",
+      "A shared starting point everyone can look up",
+      "Does not describe plastic surface, gloss or opacity"
+     ],
+     [
+      "Pantone Plastics chip (PQ)",
+      "A reference already made in plastic rather than ink",
+      "Still not your material, your texture or your gloss"
+     ],
+     [
+      "A physical sample you already own",
+      "The most reliable reference — it is the real thing",
+      "Needs to be posted, and it ages"
+     ],
+     [
+      "A measured value (L*a*b*)",
+      "Removes opinion from the discussion",
+      "Useless without the same instrument and geometry on both sides"
+     ]
+    ]
+   },
+   {
+    "t": "p",
+    "x": "The strongest brief is a number plus a physical sample plus a sentence about the surface: <em>“match this Pantone to this sample, on a matte textured body, gloss level 5–8, opaque.”</em> That sentence removes three of the four variables before the first sample is made."
+   },
+   {
+    "t": "h2",
+    "x": "What Does ΔE Actually Tell You?"
+   },
+   {
+    "t": "p",
+    "x": "ΔE is a single number for the distance between two colours in a standard colour space. It turns a subjective argument into a measurement — with one caveat: ΔE is only comparable when both readings come from the same instrument type and the same measurement geometry. A supplier quoting ΔE from a different device is quoting a different ruler."
+   },
+   {
+    "t": "table",
+    "cols": [
+     "ΔE",
+     "What a person sees",
+     "Sensible use"
+    ],
+    "rows": [
+     [
+      "0 – 1.0",
+      "Not distinguishable, even side by side",
+      "Adjacent parts that must look like one object: body and lid, cup and coaster"
+     ],
+     [
+      "1.0 – 2.0",
+      "A trained eye sees it side by side, not across a room",
+      "Brand-critical solids, gift sets"
+     ],
+     [
+      "2.0 – 3.5",
+      "Visible at a glance when two pieces are held together",
+      "General drinkware, promotional orders"
+     ],
+     [
+      "3.5 – 5.0",
+      "Reads as a different shade, not a slightly different batch",
+      "Only acceptable for deliberately varied ranges"
+     ],
+     [
+      "Above 5.0",
+      "A different colour",
+      "Not a match"
+     ]
+    ],
+    "note": "Textured and matte surfaces measure less consistently than gloss ones. On a heavy texture, add roughly 0.5 to whatever tolerance you would otherwise accept, and lean more on visual approval."
+   },
+   {
+    "t": "p",
+    "x": "Two practical rules. First, agree the tolerance <strong>before</strong> the sample is made, not after it arrives. Second, never accept a ΔE figure alone — ask for it together with a photograph and a physical sample, because ΔE cannot see a patchy surface, a flow line or a colour that is even but wrong."
+   },
+   {
+    "t": "h2",
+    "x": "How Should You Approve a Colour So It Sticks?"
+   },
+   {
+    "t": "h3",
+    "x": "What If You Cannot Post a Physical Sample?"
+   },
+   {
+    "t": "p",
+    "x": "Send the number, then ask the factory to courier <strong>three</strong> moulded chips in the intended material and finish, and keep one of them as the reference. A photo of a chip on a white desk is not a reference: the camera white balance, the screen and the room light each move the colour more than the tolerance you are arguing about."
+   },
+   {
+    "t": "p",
+    "x": "If the product must match something you already own — an existing cup, a printed carton, a brand guideline printed on paper — send that object, not its description. Matching to a physical article is faster and cheaper than matching to a number that has already been interpreted once."
+   },
+   {
+    "t": "p",
+    "x": "This is the part that decides whether your second order matches your first. Seven steps, and the whole thing takes about a week."
+   },
+   {
+    "t": "ol",
+    "items": [
+     "<strong>Send a reference, not a screenshot.</strong> A number, a physical sample, or both. Screens render colour unpredictably and are not a reference.",
+     "<strong>Say where it will be seen.</strong> Retail shelf under warm light, outdoor event in daylight, or a photo studio. This decides the illuminant you approve under.",
+     "<strong>Get a physical master sample.</strong> Not a colour card, not a digital mockup — a moulded part in the intended material, texture and gloss.",
+     "<strong>Check it under at least two light sources.</strong> Daylight (D65, roughly 6500K) first, then the light your customer will actually use — warm indoor, or cool LED retail. If it holds in both, it is a robust match.",
+     "<strong>Sign and date the sample.</strong> Three pieces: one retained by the buyer, one by the factory, one sealed and stored. The sealed one is what settles a dispute a year later.",
+     "<strong>Write the tolerance into the order.</strong> One line: the approved reference, the ΔE limit, the light source used for approval, and “no change to pigment, material or texture without written approval”.",
+     "<strong>Photograph the approved piece in fixed conditions.</strong> A photo is not the reference, but it catches gross errors on incoming batches faster than anything else."
+    ]
+   },
+   {
+    "t": "note",
+    "label": "Copy this into your PO",
+    "x": [
+     "“Colour to be matched to approved master sample dated [date], ΔE ≤ 2.0 measured on [instrument], checked under D65. Material, pigment supplier, texture and gloss to remain unchanged for the life of the order. Any change to be notified and re-approved in writing before production.”"
+    ]
+   },
+   {
+    "t": "h2",
+    "x": "Which Colour System Should You Use — Masterbatch, Pre-compound or Dry Blend?"
+   },
+   {
+    "t": "p",
+    "x": "The same colour can be delivered three ways, with very different consistency. This is the single most under-specified item in colour briefs."
+   },
+   {
+    "t": "table",
+    "cols": [
+     "System",
+     "How it works",
+     "Consistency",
+     "Best for"
+    ],
+    "rows": [
+     [
+      "Pre-compounded colour",
+      "The resin arrives already coloured from the compounder",
+      "Highest — the whole batch is one lot",
+      "Brand colours, repeat programmes, large volumes"
+     ],
+     [
+      "Masterbatch",
+      "A concentrated colour pellet is let down into natural resin at the machine",
+      "Good, if the let-down ratio is fixed and weighed",
+      "Most custom work; economical at mid volume"
+     ],
+     [
+      "Dry blend",
+      "Pigment powder blended into resin before moulding",
+      "Lowest — separation and dusting cause drift",
+      "Short runs, internal parts, prototyping"
+     ]
+    ]
+   },
+   {
+    "t": "p",
+    "x": "Ask which one you are being quoted. A price difference between two suppliers on the same colour is often this, and nothing else. If the answer is masterbatch, ask for the let-down ratio in writing — a ratio that drifts from 2% to 2.2% is a visible colour change on light shades."
+   },
+   {
+    "t": "h2",
+    "x": "What Shifts Colour Without Anyone Touching the Formula?"
+   },
+   {
+    "t": "p",
+    "x": "Seven production variables. All of them are normal process variation, none of them require a new colour, and every one of them has produced an angry email."
+   },
+   {
+    "t": "table",
+    "cols": [
+     "Variable",
+     "What happens",
+     "How to control it"
+    ],
+    "rows": [
+     [
+      "Regrind content",
+      "Ground scrap mixed back in darkens and dulls the shade, most visibly on light colours and pastels",
+      "Cap regrind at an agreed percentage, keep it out of light shades entirely"
+     ],
+     [
+      "Melt temperature",
+      "Some pigments shift hue or fade above a threshold; too cool leaves unmelted specks",
+      "Fix the temperature window in the process sheet"
+     ],
+     [
+      "Residence time",
+      "Long dwell in the barrel degrades heat-sensitive pigments",
+      "Control shot size and machine stop time"
+     ],
+     [
+      "Wall thickness",
+      "Translucent colours read darker where the wall is thicker",
+      "Approve the sample on the thickest section of the part"
+     ],
+     [
+      "Mould texture",
+      "A new texture or a polished band changes perceived lightness",
+      "Texture is part of the colour approval, not a separate decision"
+     ],
+     [
+      "Gloss level",
+      "Same pigment, different gloss, different appearance",
+      "Specify a gloss range (GU) with the colour"
+     ],
+     [
+      "Print ink",
+      "The logo ink is a separate material with its own gloss",
+      "Approve the printed piece, not the blank, as the final reference"
+     ]
+    ]
+   },
+   {
+    "t": "p",
+    "x": "There is an eighth that is not a variable at all: <strong>a different mould</strong>. If your supplier runs the same colour in a second cavity set or a second machine, expect a small difference. For a multi-part product, insist that body and lid come off the same colour lot — mixing lots is exactly how a two-tone set happens by accident."
+   },
+   {
+    "t": "h2",
+    "x": "How Do You Stop Colour Drifting on Repeat Orders?"
+   },
+   {
+    "t": "ul",
+    "items": [
+     "<strong>Keep the sealed reference.</strong> Not a chip, not a photo — the physical approved piece, stored away from light and heat. Plastic yellows and ink fades, so replace the working reference every 12–18 months against the sealed one.",
+     "<strong>Fix the recipe to a single compounder.</strong> Two suppliers matching the same Pantone number will produce two different plastics. Colour is a supply-chain commitment, not a specification.",
+     "<strong>Order colour in one lot where possible.</strong> A single 500 kg pre-compound lot covers a large order and removes lot-to-lot drift entirely.",
+     "<strong>Re-approve after any material change.</strong> Recycled content, a new resin grade or a formulation update from the compounder all reset the colour. Ask to be told before the change, not after.",
+     "<strong>Re-approve after any tooling change.</strong> New texture, re-polished cavity, new gate — all change appearance."
+    ]
+   },
+   {
+    "t": "h2",
+    "x": "What Do You Do When a Batch Arrives Off-Colour?"
+   },
+   {
+    "t": "p",
+    "x": "Work in this order. Most disputes are settled at step 3, and the ones that are not usually turn out to be a reference problem rather than a production problem."
+   },
+   {
+    "t": "ol",
+    "items": [
+     "<strong>Put the batch next to the approved master, in the same light.</strong> Not a photo, not a chip, not memory. Daylight or the agreed light source.",
+     "<strong>Check whether the whole batch is off, or only part of it.</strong> A patchy difference points to masterbatch dispersion or mixed lots; a uniform difference points to the reference or the pigment lot.",
+     "<strong>Measure it.</strong> A ΔE reading from the same instrument type decides whether you are inside the agreed tolerance.",
+     "<strong>Compare against the retained reference, not the last shipment.</strong> If the last shipment was already drifting, you have been comparing to the wrong thing.",
+     "<strong>Decide: accept, sort, or remake.</strong> Inside tolerance and the product still works — accept with a note. Outside tolerance but usable at a discount — agree in writing. Outside tolerance and brand-critical — remake the affected quantity, and fix the process cause before the next run."
+    ]
+   },
+   {
+    "t": "p",
+    "x": "Whatever the outcome, write down the cause. A colour complaint that is not traced to a variable will happen again on the next order, and the second conversation is always less friendly than the first. If you are still at the stage of choosing a supplier, the questions in <a href=\"/blog/what-aql-inspection-tells-you\">what an AQL inspection tells you</a> are the ones to ask about incoming colour lots."
+   }
+  ],
+  "related": [
+   {
+    "href": "/blog/mould-or-no-mould",
+    "title": "Does Your Custom Cup Need a New Mould?",
+    "text": "The arithmetic that decides whether to pay for tooling, and what actually moves a mould price.",
+    "image": "/img/archive-real-20261103/081-56ed5ab019.webp",
+    "alt": "Injection moulding equipment in the factory workshop"
+   },
+   {
+    "href": "/blog/what-aql-inspection-tells-you",
+    "title": "What an AQL Inspection Actually Tells You",
+    "text": "What the percentages mean, how many pieces get checked, and six things an inspection cannot see.",
+    "image": "/img/alibaba-factory-20261031/qc-checking.jpg",
+    "alt": "Quality inspection bench at the BYF factory"
+   },
+   {
+    "href": "/customization/",
+    "title": "Customization Guide",
+    "text": "The four layers you can change — colour and surface, logo, lid and accessories, packaging — and what each one costs in volume.",
+    "image": "/img/alibaba-factory-20261031/packing.jpg",
+    "alt": "Packing station at the BYF factory"
+   }
+  ],
+  "cta": {
+   "h2": "Send a colour, get a moulded sample",
+   "text": "Send the Pantone number, the surface finish and where the product will be seen. You get a moulded sample in the intended material and texture, not a printed card.",
+   "href": "/contact/",
+   "label": "Request a colour sample"
+  },
+  "heroAlt": "Yellow stemmed glass compared with a physical colour swatch",
+  "heroDisclosure": "Photography from our factory archive is used where relevant. Images labelled AI illustration are conceptual and are not production or inspection records."
+ }
+}

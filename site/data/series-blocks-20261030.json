@@ -1,0 +1,510 @@
+{
+ "/products/16-oz-color-changing-plastic-stadium-bsb002/": {
+  "axes": {
+   "kicker": "WHAT YOU CAN CUSTOMIZE",
+   "h2": "Five specification axes across the series",
+   "role": "Each axis is confirmed per model and per order",
+   "cards": [
+    [
+     "Material: PP or PS",
+     "Every model in this series can be produced in PP or PS. Confirm which one suits your volume and reuse plan in the quote."
+    ],
+    [
+     "Capacity: 12 oz to 22 oz",
+     "12 oz, 16 oz, 17 oz and 22 oz are recorded options. Any other capacity is reviewed as a custom mold project."
+    ],
+    [
+     "Color and color-change effect",
+     "Base color, printed pattern and the color the cup turns once cold liquid - or sunlight, on the sun-altering version - reaches it are all set per order. Send reference colors or a Pantone number."
+    ],
+    [
+     "Lid and straw",
+     "A lid and straw can be added as a configured option. Fit depends on the rim diameter, so it is confirmed per model and capacity."
+    ],
+    [
+     "UV hard-print logo",
+     "UV hard print is the standard decoration for this series. Screen print is reviewed for artwork with large solid areas; the usable print area is confirmed per model."
+    ]
+   ]
+  },
+  "ref": {
+   "h2": "Full series reference",
+   "heads": [
+    "Model",
+    "Product",
+    "Capacity",
+    "Material",
+    "Color-change effect",
+    "Lid & straw"
+   ],
+   "rows": [
+    [
+     "BSB-001",
+     "Color-changing plastic stadium cup",
+     "12 oz",
+     "PP or PS",
+     "Cold-activated",
+     "Optional"
+    ],
+    [
+     "BSB-004",
+     "Color-changing stadium cup",
+     "12 oz",
+     "PP or PS",
+     "Color change",
+     "Optional"
+    ],
+    [
+     "BSB-002",
+     "Cold-activated color-changing plastic cup",
+     "16 oz",
+     "PP or PS",
+     "Cold-activated",
+     "Optional"
+    ],
+    [
+     "BSB-010",
+     "Sun-altering stadium cup, full color",
+     "17 oz",
+     "PP or PS",
+     "Sun altering (UV)",
+     "Optional"
+    ],
+    [
+     "BSB-013",
+     "Color-changing splatter cup",
+     "17 oz",
+     "PP or PS",
+     "Splatter pattern",
+     "Optional"
+    ],
+    [
+     "BSB-003",
+     "Color-changing plastic stadium cup",
+     "22 oz",
+     "PP or PS",
+     "Cold-activated",
+     "Optional"
+    ],
+    [
+     "BSB-005",
+     "Tournament mood stadium cup",
+     "22 oz",
+     "PP or PS",
+     "Tournament mood",
+     "Optional"
+    ],
+    [
+     "BSB-006",
+     "Color-changing stadium cup",
+     "22 oz",
+     "PP or PS",
+     "Color change",
+     "Optional"
+    ]
+   ],
+   "note": "Rows run from the smallest capacity to the largest. Every row is a separately quotable style; lid and straw are an add-on option on every row, fit confirmed per model and capacity when quoting."
+  }
+ },
+ "/zh/products/16-oz-color-changing-plastic-stadium-bsb002/": {
+  "axes": {
+   "kicker": "可定制的范围",
+   "h2": "五样东西按单定制",
+   "role": "每一项都按型号、按订单确认",
+   "cards": [
+    [
+     "材质：PP 或 PS",
+     "这一族每一款都能做 PP 或 PS。用哪一种、是否要反复复用，报价时一起确认。"
+    ],
+    [
+     "容量：12 oz 到 22 oz",
+     "现有 12 / 16 / 17 / 22 oz 四个记录在册的容量。其他容量要开模，按开模项目谈。"
+    ],
+    [
+     "颜色与变色效果",
+     "底色、印什么图案、遇冷（或日照款遇太阳）之后变成什么颜色，全部按单定。给参考色或潘通号即可。"
+    ],
+    [
+     "杯盖与吸管",
+     "可以加杯盖和吸管，但要按杯口直径配，所以具体到哪一款、哪个容量，报价时确认。"
+    ],
+    [
+     "UV 硬刷 logo",
+     "这一族默认 UV 硬刷。大面积实色可以谈丝印；可印区域按型号确认。"
+    ]
+   ]
+  },
+  "ref": {
+   "h2": "全系列对照表",
+   "heads": [
+    "型号",
+    "品名",
+    "容量",
+    "材质",
+    "变色效果",
+    "杯盖与吸管"
+   ],
+   "rows": [
+    [
+     "BSB-001",
+     "遇冷变色体育场杯",
+     "12 oz",
+     "PP 或 PS",
+     "遇冷显色",
+     "可加配"
+    ],
+    [
+     "BSB-004",
+     "变色体育场杯",
+     "12 oz",
+     "PP 或 PS",
+     "变色",
+     "可加配"
+    ],
+    [
+     "BSB-002",
+     "遇冷变色塑胶杯",
+     "16 oz",
+     "PP 或 PS",
+     "遇冷显色",
+     "可加配"
+    ],
+    [
+     "BSB-010",
+     "日照变色体育场杯（全彩）",
+     "17 oz",
+     "PP 或 PS",
+     "日照变色",
+     "可加配"
+    ],
+    [
+     "BSB-013",
+     "泼墨变色杯",
+     "17 oz",
+     "PP 或 PS",
+     "泼墨图案",
+     "可加配"
+    ],
+    [
+     "BSB-003",
+     "遇冷变色体育场杯",
+     "22 oz",
+     "PP 或 PS",
+     "遇冷显色",
+     "可加配"
+    ],
+    [
+     "BSB-005",
+     "赛事情绪变色杯",
+     "22 oz",
+     "PP 或 PS",
+     "赛事款变色",
+     "可加配"
+    ],
+    [
+     "BSB-006",
+     "变色体育场杯",
+     "22 oz",
+     "PP 或 PS",
+     "变色",
+     "可加配"
+    ]
+   ],
+   "note": "表里按容量从小到大排。每一行都是一个能单独报价的款；杯盖与吸管是加配项，具体到哪一款、哪个容量能不能配，报价时确认。"
+  }
+ },
+ "/products/16-oz-stadium-cup-smooth/": {
+  "axes": {
+   "kicker": "WHAT YOU CAN CUSTOMIZE",
+   "h2": "Five specification axes across the series",
+   "role": "Each axis is confirmed per style and per order",
+   "cards": [
+    [
+     "Finish: plain, red, translucent or full color",
+     "The recorded styles cover plain cups, red party cups, translucent cups and full color printing. Pick the finish first, then the capacity."
+    ],
+    [
+     "Capacity: 2 oz to 24 oz",
+     "2 oz, 10 oz, 12 oz, 16 oz, 17 oz, 20 oz, 22 oz and 24 oz are recorded. Any other capacity is reviewed as a custom mold project."
+    ],
+    [
+     "Lid and straw",
+     "Two styles already ship as a lid and straw version (12 oz and 20 oz). On the other styles a lid and straw can be added as a configured option, subject to rim diameter."
+    ],
+    [
+     "Material: PP or PS",
+     "PP covers the reusable stadium cups. The 2 oz party cups are recorded in PS. Confirm the material with the quote if you need one material across the whole order."
+    ],
+    [
+     "Custom print and logo",
+     "Full color print is recorded on three styles; the rest are quoted for screen print or UV hard print. Usable print area is confirmed per model."
+    ]
+   ]
+  },
+  "ref": {
+   "h2": "Full series reference",
+   "heads": [
+    "Model",
+    "Product",
+    "Capacity",
+    "Material",
+    "Finish",
+    "Lid & straw"
+   ],
+   "rows": [
+    [
+     "TYCB-001",
+     "Stadium cup, smooth",
+     "16 oz",
+     "PP",
+     "Smooth / full color",
+     "Optional"
+    ],
+    [
+     "SJB-029",
+     "Reusable stadium cup, translucent",
+     "16 oz",
+     "PP",
+     "Translucent",
+     "Optional"
+    ],
+    [
+     "TYCB-006",
+     "Reusable party cup",
+     "16 oz",
+     "PP",
+     "Plain",
+     "Optional"
+    ],
+    [
+     "SJB-027",
+     "Red plastic party cup",
+     "16 oz",
+     "PP",
+     "Red",
+     "Optional"
+    ],
+    [
+     "SJB-026",
+     "Red plastic party cup",
+     "10 oz",
+     "PP",
+     "Red",
+     "Optional"
+    ],
+    [
+     "TYCB-003",
+     "Full color stadium cup",
+     "16 oz",
+     "PP",
+     "Full color",
+     "Optional"
+    ],
+    [
+     "SJB-006",
+     "Full color stadium cup",
+     "17 oz",
+     "PP",
+     "Full color",
+     "Optional"
+    ],
+    [
+     "TYCB-002",
+     "Full color stadium cup",
+     "22 oz",
+     "PP",
+     "Full color",
+     "Optional"
+    ],
+    [
+     "SJB-028",
+     "Stadium cup with lid and straw",
+     "12 oz",
+     "PP",
+     "Plain",
+     "Included"
+    ],
+    [
+     "TYCB-005",
+     "Event stadium cup with lid and straw",
+     "20 oz",
+     "PP",
+     "Plain",
+     "Included"
+    ],
+    [
+     "TYCB-004",
+     "Event stadium cup",
+     "24 oz",
+     "PP",
+     "Plain",
+     "Optional"
+    ],
+    [
+     "SJB-031",
+     "Party cup with handle",
+     "2 oz",
+     "PS",
+     "Plain",
+     "No"
+    ],
+    [
+     "SJB-030",
+     "Party cup",
+     "2 oz",
+     "PS",
+     "Plain",
+     "No"
+    ]
+   ],
+   "note": "Every row is a separately quotable style. Lid and straw are included on the two styles listed as such, and available as an add-on on the rest; fit is confirmed per model and capacity when quoting."
+  }
+ },
+ "/zh/products/16-oz-stadium-cup-smooth/": {
+  "axes": {
+   "kicker": "可定制的范围",
+   "h2": "五样东西按单定制",
+   "role": "每一项都按款式、按订单确认",
+   "cards": [
+    [
+     "表面：素色、红色、半透明、全彩",
+     "记录在册的款式覆盖素色杯、红色派对杯、半透明杯和全彩印刷。先定表面，再定容量。"
+    ],
+    [
+     "容量：2 oz 到 24 oz",
+     "现有 2 / 10 / 12 / 16 / 17 / 20 / 22 / 24 oz 八个记录在册的容量。其他容量要开模，按开模项目谈。"
+    ],
+    [
+     "杯盖与吸管",
+     "有两款本身就是带盖吸管款（12 oz 与 20 oz）。其余款可以加配，能不能配要看杯口直径。"
+    ],
+    [
+     "材质：PP 或 PS",
+     "PP 覆盖可复用的体育场杯；2 oz 派对杯记录的是 PS。如果整单要统一一种材质，报价时说明。"
+    ],
+    [
+     "印刷与 logo",
+     "有三款记录的是全彩印刷；其余款按丝印或 UV 硬刷报价。可印区域按型号确认。"
+    ]
+   ]
+  },
+  "ref": {
+   "h2": "全系列对照表",
+   "heads": [
+    "型号",
+    "品名",
+    "容量",
+    "材质",
+    "表面",
+    "杯盖与吸管"
+   ],
+   "rows": [
+    [
+     "TYCB-001",
+     "光面体育场杯",
+     "16 oz",
+     "PP",
+     "光面／全彩",
+     "可选配"
+    ],
+    [
+     "SJB-029",
+     "半透明可复用体育场杯",
+     "16 oz",
+     "PP",
+     "半透明",
+     "可选配"
+    ],
+    [
+     "TYCB-006",
+     "可复用派对杯",
+     "16 oz",
+     "PP",
+     "素色",
+     "可选配"
+    ],
+    [
+     "SJB-027",
+     "红色塑料派对杯",
+     "16 oz",
+     "PP",
+     "红色",
+     "可选配"
+    ],
+    [
+     "SJB-026",
+     "红色塑料派对杯",
+     "10 oz",
+     "PP",
+     "红色",
+     "可选配"
+    ],
+    [
+     "TYCB-003",
+     "全彩体育场杯",
+     "16 oz",
+     "PP",
+     "全彩",
+     "可选配"
+    ],
+    [
+     "SJB-006",
+     "全彩体育场杯",
+     "17 oz",
+     "PP",
+     "全彩",
+     "可选配"
+    ],
+    [
+     "TYCB-002",
+     "全彩体育场杯",
+     "22 oz",
+     "PP",
+     "全彩",
+     "可选配"
+    ],
+    [
+     "SJB-028",
+     "带盖吸管体育场杯",
+     "12 oz",
+     "PP",
+     "素色",
+     "含"
+    ],
+    [
+     "TYCB-005",
+     "赛事体育场杯（带盖吸管）",
+     "20 oz",
+     "PP",
+     "素色",
+     "含"
+    ],
+    [
+     "TYCB-004",
+     "赛事体育场杯",
+     "24 oz",
+     "PP",
+     "素色",
+     "可选配"
+    ],
+    [
+     "SJB-031",
+     "带把手派对杯",
+     "2 oz",
+     "PS",
+     "素色",
+     "不配"
+    ],
+    [
+     "SJB-030",
+     "派对杯",
+     "2 oz",
+     "PS",
+     "素色",
+     "不配"
+    ]
+   ],
+   "note": "表里每一行都是一个能单独报价的款。标「含」的两款本身带盖和吸管，其余可以加配，具体按型号和容量确认。"
+  }
+ }
+}

@@ -1,0 +1,64 @@
+# EVERCUP
+
+> EVERCUP is the brand of Shenzhen Baoyuanfeng Precision Machining Co., Ltd., a factory in Shenzhen, China, running injection moulding and silicone compression moulding in house since 2013. The site lists drinkware and barware models with capacity, material and decoration options, and takes custom, private-label and OEM/ODM projects.
+
+Key facts:
+
+- Founded: 2013
+- Plant: 10,000 sqm, Shenzhen
+- Equipment: 20+ injection moulding machines, 20+ silicone compression presses
+- Quality: 10 full-time QC staff, AQL sampling (under 500 pcs 5%, 500-2000 pcs 3%, over 2000 pcs 1%)
+- Materials: plastic (PP, Tritan, AS, PS) and silicone; metal parts are sourced from vetted suppliers
+- Terms: T/T 30% deposit and 70% against copy of B/L, FOB Shenzhen; PayPal for samples only
+
+## Product lines
+
+- [Custom plastic and Tritan cups](https://www.boomdrinkware.com/custom-plastic-cups/)
+- [Custom silicone cups](https://www.boomdrinkware.com/custom-silicone-cups/)
+- [LED light-up cups](https://www.boomdrinkware.com/led-light-up-cups/)
+- [Custom ice buckets](https://www.boomdrinkware.com/custom-ice-buckets/)
+- [Bar accessories and tools](https://www.boomdrinkware.com/bar-accessories/)
+
+## Company
+
+- [Factory](https://www.boomdrinkware.com/factory/): plant, equipment, mould making, QC and shipping terms
+- [Our service](https://www.boomdrinkware.com/our-service/): what we do from artwork to delivery
+- [Certificates](https://www.boomdrinkware.com/certificates/): test reports and compliance documents
+- [Case studies](https://www.boomdrinkware.com/case-studies/): projects by channel
+- [Contact](https://www.boomdrinkware.com/contact/): request a quote or a sample
+
+## How we work
+
+- [How to work with us](https://www.boomdrinkware.com/how-to-work-with-us/): six order steps, shipping methods with transit times, door-to-door options and payment terms
+- [Manufacturing process](https://www.boomdrinkware.com/manufacturing-process/): eight production steps, machine capacity and what drives the 25-30 day lead time
+- [Quality control](https://www.boomdrinkware.com/quality-control/): pre-production, in-process and pre-shipment checks, six tests on finished cups, AQL sampling table
+- [Custom tooling and mould cost](https://www.boomdrinkware.com/tooling/): three tooling routes, what moves the cost, MOQ behind a new mould
+- [Product development](https://www.boomdrinkware.com/product-development/): customize, modify or develop, plus cost and timeline drivers
+- [Customization guide](https://www.boomdrinkware.com/customization/): colour, logo methods, lids and packing, and where the minimum order changes
+- [Custom packaging](https://www.boomdrinkware.com/packaging/): box types, inserts, labels, master carton and FBA requirements
+- [Buying FAQ](https://www.boomdrinkware.com/faq/): minimums, samples, tooling, materials, inspection, shipping and payment
+
+## Guides
+
+- [How many custom cups should you order?](https://www.boomdrinkware.com/blog/how-many-custom-cups-to-order/): the three minimums behind one MOQ number (per order, per colour, per mould), where 10 / 250 / 1,000 / 3,000 pieces come from, setup-per-piece arithmetic, the break-even quantity formula, spares percentage by event type, how splitting colours multiplies setup, when ordering more costs more
+- [Sampling and production lead times](https://www.boomdrinkware.com/blog/custom-cup-lead-times/): day-by-day anatomy of the 7-12 day sample window, sample types compared, where days disappear, the eight production stages behind 25-30 days, Chinese holiday calendar table, sea vs rail vs air transit days, what a delivery date cannot promise
+- [Silicone vs plastic cups](https://www.boomdrinkware.com/blog/silicone-vs-plastic-cups/): rigid vs flexible behaviour, spec table (temperature, clarity, weight, wall, entry quantity), print method compatibility on each surface, freight arithmetic for 500 cups by weight and carton volume, ageing behaviour, five recurring buying mistakes
+- [Does a custom cup need a new mould?](https://www.boomdrinkware.com/blog/mould-or-no-mould/): the three levels of existing tooling, the arithmetic that decides when a new mould pays for itself, the six factors that move a mould price, cavity-count output table, bridge vs production steel, six stages from drawing to shippable cup
+- [Why a cup colour does not match the Pantone chip](https://www.boomdrinkware.com/blog/plastic-colour-matching/): the four rendering stages, Pantone vs Pantone Plastics vs physical sample, what ΔE values mean in practice, masterbatch vs pre-compound, seven process variables that shift colour, colour approval checklist and repeat-order controls
+- [What an AQL inspection actually tells you](https://www.boomdrinkware.com/blog/what-aql-inspection-tells-you/): ISO 2859-1 sample-size table for common lot sizes, why a passing lot is not a defect-free lot, AQL levels by defect class, a drinkware defect list with test methods, six things inspection cannot see, how to read a report and what to do when a lot fails
+
+## 中文指南（Chinese guides）
+
+- [起订量怎么算](https://www.boomdrinkware.com/zh/blog/how-many-custom-cups-to-order/)：三个起订量（整单/单色/单副模具）、10/250/1000/3000 的来源、盈亏量算式、备品比例、拆色加价
+- [打样与生产周期](https://www.boomdrinkware.com/zh/blog/custom-cup-lead-times/)：7–12 天打样逐日拆解、三种样品、25–30 天八道工序、假期表、海运/铁路/空运天数
+- [硅胶还是塑料](https://www.boomdrinkware.com/zh/blog/silicone-vs-plastic-cups/)：刚性 vs 弹性、逐项规格、印刷适配、500 只重量与体积、老化方式
+- [要不要开模](https://www.boomdrinkware.com/zh/blog/mould-or-no-mould/)：三条路径、回本算式、模具费六个变量、腔数产能、六个阶段
+- [颜色为什么对不上](https://www.boomdrinkware.com/zh/blog/plastic-colour-matching/)：四种上色做法、ΔE 含义、三种光源确认、返单偏色五个原因
+- [验货能看出什么](https://www.boomdrinkware.com/zh/blog/what-aql-inspection-tells-you/)：ISO 2859-1 抽样表、三级缺陷、报告看不到的五件事
+
+## Notes
+
+- Model pages live under /products/<slug>/, for example https://www.boomdrinkware.com/products/
+- Every model page lists capacity, material, decoration methods and packing options
+- Chinese mirror of the whole site: https://www.boomdrinkware.com/zh/
+- Chinese guide index: https://www.boomdrinkware.com/zh/blog/

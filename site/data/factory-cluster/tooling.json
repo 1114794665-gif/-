@@ -1,0 +1,268 @@
+{
+  "title": "Custom Tooling & Mould Cost: What Commits You to 10,000 pcs | EVERCUP",
+  "description": "How a drinkware mould is quoted: number of mould sets, cavity count, steel and slides, trial rounds, and the MOQ behind each decision.",
+  "crumb": "Custom Tooling & Mould Cost",
+  "blocks": [
+    {
+      "type": "hero",
+      "kicker": "BAOYUANFENG / TOOLING · MOULD · TRIAL",
+      "h1": "What a New Mould Costs, and What It Commits You To",
+      "lead": "We support mould development, in the same building where the cups are moulded. That is why we can tell you before you commit what a design really needs — and when a product you like does not need a new mould at all.",
+      "cta": {
+        "href": "/contact/?models=Tooling%20and%20mould%20review",
+        "label": "Send a Drawing for Tooling Review"
+      },
+      "cta2": {
+        "href": "/oem-manufacturer/",
+        "label": "OEM / ODM Scope"
+      },
+      "image": "/img/archive-real-20261103/070-bf8b50e360.webp",
+      "image700": "/img/archive-real-20261103/070-bf8b50e360.webp",
+      "image_alt": "Factory tooling workshop and CNC machining equipment",
+      "caption": "Our own tooling shop: moulds are cut, fitted, trialled and repaired in-house."
+    },
+    {
+      "type": "stats",
+      "items": [
+        [
+          "Mould sets",
+          "1–4<em>per product</em>",
+          "Body, lid, parts"
+        ],
+        [
+          "Tooling lead",
+          "25–35<em>days</em>",
+          "Drawing to first trial"
+        ],
+        [
+          "First sample",
+          "30–40<em>days</em>",
+          "Including trial rounds"
+        ],
+        [
+          "Production MOQ",
+          "10,000<em>pcs</em>",
+          "On a new mould"
+        ],
+        [
+          "Trial rounds",
+          "2–3<em>typical</em>",
+          "Before approval"
+        ]
+      ]
+    },
+    {
+      "type": "section",
+      "kicker": "FIRST, THE DECISION",
+      "h2": "Most branded cups do not need a new mould.",
+      "intro": "Three different things get called “custom”. Only one of them requires tooling, and the difference decides both the cost and the minimum order.",
+      "blocks": [
+        {
+          "type": "choices",
+          "items": [
+            {
+              "title": "Use our existing mould",
+              "text": "Pick a model from the library and change colour, print, finish or packing. No tooling cost and the lowest minimum — 10 pieces on eligible configurations.",
+              "meta": "No tooling · from 10 pcs"
+            },
+            {
+              "title": "Change one part",
+              "text": "A new lid, a new insert, a different rim or a custom base on a body we already mould. One small mould instead of a full set, so the commitment stays small.",
+              "meta": "1 mould · from 3,000–5,000 pcs"
+            },
+            {
+              "title": "Cut a new product",
+              "text": "A body or structure that does not exist yet. 2–4 mould sets, dimensional review, trial rounds and a production MOQ of 10,000 pieces to carry the tooling.",
+              "meta": "2–4 moulds · 10,000 pcs"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "text": "If a customer brings a drawing of something we can already make, we say so. Quoting a new mould for an existing shape is the fastest way to lose a repeat account."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "tint": true,
+      "kicker": "WHAT MOVES THE NUMBER",
+      "h2": "Five things decide what a mould costs — not the size of the cup.",
+      "intro": "Tooling is quoted per drawing, because two cups that look alike can differ threefold once you open the drawing. These are the five drivers, and what they do to your cost and your MOQ.",
+      "blocks": [
+        {
+          "type": "table",
+          "head": [
+            "Driver",
+            "What it changes",
+            "Effect on cost",
+            "Effect on MOQ"
+          ],
+          "rows": [
+            [
+              "Number of mould sets",
+              "A body, a lid, a straw, a base — each separate part needs its own tooling",
+              "<strong>High</strong> — the main multiplier",
+              "Rises with each part"
+            ],
+            [
+              "Cavity count",
+              "1 cavity for a slow, thick part; 4–8 cavities for a high-volume thin-wall cup",
+              "Higher upfront, lower unit cost",
+              "Higher, because output must absorb it"
+            ],
+            [
+              "Steel and hardness",
+              "P20 for tens of thousands of shots; hardened steel for a programme of millions",
+              "<strong>Medium</strong>",
+              "Higher for hardened tooling"
+            ],
+            [
+              "Slides, unscrews and threads",
+              "Undercuts, handles, threaded lids and hollow bases need side actions",
+              "<strong>High</strong> — often the surprise line",
+              "Higher, tooling is more fragile"
+            ],
+            [
+              "Surface and texture",
+              "Etched grain, high-polish optical surfaces, in-mould labelling",
+              "Medium to high",
+              "Neutral"
+            ]
+          ]
+        },
+        {
+          "type": "qa",
+          "items": [
+            [
+              "Can you tell me the tooling cost from a photo?",
+              "Not reliably. A photo can tell us the family the product belongs to and roughly how many parts it has, which is enough for a budget range. The firm number comes after a dimensioned drawing or a 3D file."
+            ],
+            [
+              "Is the mould mine or yours?",
+              "Agreed at quotation. Either the tooling is charged to you and stays yours for the life of the programme, or it is amortised into the unit price. Which one is used, and who holds the tool, is written into the order — never left verbal."
+            ],
+            [
+              "What if the first trial parts are not right?",
+              "Trial rounds are part of the tooling, not an extra. Two to three rounds are typical: T1 checks dimensions and fill, T2 fixes what the first round showed, T3 is the sample we send for approval. Extra rounds caused by a design change after T1 are quoted separately."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "kicker": "THE PATH",
+      "h2": "Six steps from a drawing to a moulded part.",
+      "intro": "Each step ends with something you approve. Nothing is cut until the previous step is signed off, because steel is faster to agree with than to change.",
+      "blocks": [
+        {
+          "type": "steps",
+          "items": [
+            {
+              "title": "Drawing and use review",
+              "text": "You send a 3D file, a dimensioned drawing or a sample to copy. We check wall thickness, draft, gate position, shrinkage and how the part will be decorated."
+            },
+            {
+              "title": "DFM feedback",
+              "text": "A written review of what will be difficult: thin sections, sharp internal corners, undercuts, tolerance stack-up between lid and body. This is where cost is still negotiable."
+            },
+            {
+              "title": "Tooling quotation",
+              "text": "Number of sets, cavity count, steel, slides, trial rounds and the production MOQ behind the tool — stated as separate lines, so you can see what removing a feature would save."
+            },
+            {
+              "title": "Mould making",
+              "text": "Machining, fitting and polishing in our own shop, 25–35 days. Progress photographs at the milestones you ask for."
+            },
+            {
+              "title": "Trial and sample approval",
+              "text": "T1 parts are measured against the drawing and sent to you. Dimensions, fit, leak performance and surface are checked before the tool is accepted."
+            },
+            {
+              "title": "Mass production",
+              "text": "Once the sample is approved, production runs on the approved tool at the agreed MOQ — 25–30 days to ship, with the first-off parts retained as the reference."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "tint": true,
+      "kicker": "WHAT WE NEED TO QUOTE",
+      "h2": "What to send, so the tooling number is real.",
+      "intro": "Missing one of these usually turns a firm quote into a range, and a range is not something a buyer can take to their manager.",
+      "blocks": [
+        {
+          "type": "checklist",
+          "items": [
+            {
+              "title": "A 3D file or dimensioned drawing",
+              "text": "STEP, IGES or a drawing with wall thickness, capacity, height and thread details. A physical sample is also fine — we measure it."
+            },
+            {
+              "title": "Material and expected use",
+              "text": "PP, AS, PC, Tritan or silicone, hot or cold drink, single use or a programme of several seasons."
+            },
+            {
+              "title": "Tolerance-critical features",
+              "text": "Anything that must fit another part — a lid thread, a stackable rim, a machine interface — with the tolerance you can accept."
+            },
+            {
+              "title": "Decoration plan",
+              "text": "Print area, wrap or 360°, laser, label or in-mould label. Decoration changes the surface the mould must produce."
+            },
+            {
+              "title": "Annual volume",
+              "text": "First order and likely annual repeat. This decides cavity count, and cavity count decides the unit price."
+            },
+            {
+              "title": "Target unit price",
+              "text": "If you have one, say it. It is faster to redesign a wall section than to argue about a number after the tool is cut."
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "text": "We quote tooling as a separate line from the product. A quotation that folds tooling into the piece price hides the decision, and makes it impossible to compare two suppliers fairly."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "kicker": "CONTINUE YOUR PROJECT",
+      "h2": "The next useful pages.",
+      "blocks": [
+        {
+          "type": "related",
+          "items": [
+            {
+              "href": "/manufacturing-process/",
+              "title": "Manufacturing Process",
+              "text": "What happens to the pellets after the mould is finished — eight steps to a sealed carton."
+            },
+            {
+              "href": "/product-development/",
+              "title": "Product Development",
+              "text": "Three development routes, what each costs, and the timeline from concept to mass production."
+            },
+            {
+              "href": "/oem-manufacturer/",
+              "title": "OEM & ODM Scope",
+              "text": "Where our work stops and yours starts, on an existing model and on a new one."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brief",
+      "kicker": "YOUR NEXT STEP",
+      "h2": "Send the drawing. Get a DFM review before a price.",
+      "text": "A 3D file, a dimensioned drawing or a sample to copy — plus the annual volume you expect. We reply with what is difficult and what it would cost.",
+      "label": "Send a Drawing for Tooling Review",
+      "href": "/contact/?models=Tooling%20and%20mould%20review"
+    }
+  ]
+}

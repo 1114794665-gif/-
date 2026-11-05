@@ -1,0 +1,246 @@
+{
+  "title": "What You Can Customize on a Drinkware Order | EVERCUP",
+  "description": "Colour, finish, logo method, lid and components, packing — what can be changed on an existing model, how each decoration method behaves, and where the minimum order changes.",
+  "crumb": "Customization Guide",
+  "blocks": [
+    {
+      "type": "hero",
+      "kicker": "BAOYUANFENG / CUSTOMIZATION",
+      "h1": "What You Can Actually Change",
+      "lead": "Customization is not one decision. Colour, surface, logo method, lid, components and packing each carry their own minimum, cost and risk — and one of them usually decides whether the project is viable at your quantity.",
+      "cta": {
+        "href": "/contact/?models=Customization%20guide",
+        "label": "Send Artwork for Review"
+      },
+      "cta2": {
+        "href": "/oem-manufacturer/",
+        "label": "OEM / ODM Scope"
+      },
+      "image": "/img/archive-real-20261103/081-56ed5ab019.webp",
+      "image700": "/img/archive-real-20261103/081-56ed5ab019.webp",
+      "image_alt": "Injection moulding equipment in the factory workshop",
+      "caption": "Decoration is planned before moulding — the surface a part needs depends on what happens to it next."
+    },
+    {
+      "type": "stats",
+      "items": [
+        [
+          "Entry minimum",
+          "10<em>pcs</em>",
+          "Existing model + print"
+        ],
+        [
+          "Custom colour",
+          "250<em>pcs</em>",
+          "Colour-matched run"
+        ],
+        [
+          "New mould",
+          "10,000<em>pcs</em>",
+          "Tooling on the buyer"
+        ],
+        [
+          "Logo methods",
+          "5",
+          "Print, laser, transfer, dip, decal"
+        ],
+        [
+          "Artwork to sample",
+          "5–7<em>days</em>",
+          "Decorated sample"
+        ]
+      ]
+    },
+    {
+      "type": "section",
+      "kicker": "THE FOUR LAYERS",
+      "h2": "Four layers of customization, from cheapest to deepest.",
+      "intro": "Buyers often ask for everything at once. The order below is the order in which cost rises — and the order in which each layer changes what the next one can do.",
+      "blocks": [
+        {
+          "type": "choices",
+          "items": [
+            {
+              "title": "Colour and surface",
+              "text": "Match a Pantone on the body, or choose from the standard colour chips. Gloss, frosted, matte or soft-touch. A custom colour needs a run of its own — 250 pieces is the practical floor, and the chip has to be approved under the light it will be seen in.",
+              "meta": "From 250 pcs for a matched colour"
+            },
+            {
+              "title": "Logo and artwork",
+              "text": "Screen print, UV print, heat transfer, laser or hydro dip. One colour of print is a different project from a full wrap: colour count, print area, curvature and the surface under the ink all change the price.",
+              "meta": "From 10 pcs · one to eight colours"
+            },
+            {
+              "title": "Lid and components",
+              "text": "Swap to another lid in the library, add a straw, plug, coaster or sleeve. A component we already tool is a configuration change; a component that does not exist is a new mould.",
+              "meta": "Existing parts · or 3,000+ for new"
+            },
+            {
+              "title": "Packing and presentation",
+              "text": "Poly bag, white box, printed sleeve, gift box, insert, hangtag or barcode. Packing is where a promotional cup becomes a retail product, and it carries its own minimums.",
+              "meta": "See the packaging page"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "tint": true,
+      "kicker": "CHOOSING THE METHOD",
+      "h2": "Five ways to put a logo on a cup.",
+      "intro": "The right method is decided by the artwork, the surface, the quantity and how long the product has to look good. This is the short version; each method has its own page with the details.",
+      "blocks": [
+        {
+          "type": "table",
+          "head": [
+            "Method",
+            "Best for",
+            "Watch out for",
+            "Detail"
+          ],
+          "rows": [
+            [
+              "Screen print",
+              "Bold flat colours, high volume, the lowest cost per print",
+              "Photographic images and gradients; each colour is a pass",
+              "<a href=\"/screen-printing/\">Screen printing →</a>"
+            ],
+            [
+              "UV print",
+              "Multi-colour artwork, gradients, white underbase on dark cups",
+              "Adhesion on some surfaces needs a primer; silicone behaves differently from rigid plastic",
+              "<a href=\"/uv-printing/\">UV printing →</a>"
+            ],
+            [
+              "Heat transfer",
+              "Photographic graphics and full wraps",
+              "Heat response differs by material; registration and transfer edges must be checked on a sample",
+              "<a href=\"/heat-transfer-printing/\">Heat transfer →</a>"
+            ],
+            [
+              "Laser marking",
+              "Permanent, tonal or textured marks that do not wear off",
+              "Material-dependent result; not every colour shows a contrast",
+              "<a href=\"/laser-engraving/\">Laser decoration →</a>"
+            ],
+            [
+              "Hydro dip",
+              "All-over patterns and camouflage effects that wrap complex curves",
+              "Pattern placement is not repeatable piece to piece; film choice decides the look",
+              "<a href=\"/hydro-dipping/\">Hydro dipping →</a>"
+            ],
+            [
+              "Colour-change coating",
+              "A cup that reacts to cold liquid — a giveaway that gets photographed",
+              "Activation temperature and response time need sample approval; UV exposure shortens life",
+              "<a href=\"/color-changing-ink/\">Colour-change ink →</a>"
+            ]
+          ],
+          "note": "Every method above is confirmed on a physical sample. A screen proof tells you the file is right; only a decorated sample tells you the cup is right."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "kicker": "WHERE THE MINIMUM MOVES",
+      "h2": "Why the same cup has three different minimums.",
+      "intro": "The minimum is not a policy — it is what the setup costs. A print screen, a colour match and a mould are three completely different investments.",
+      "blocks": [
+        {
+          "type": "table",
+          "head": [
+            "What you change",
+            "Typical minimum",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Existing model, plain or one-colour print",
+              "10 pcs",
+              "No setup beyond the screen; the model already runs"
+            ],
+            [
+              "Multi-colour print or a full wrap",
+              "250–500 pcs",
+              "Each colour is a pass; setup has to be absorbed"
+            ],
+            [
+              "Custom body colour",
+              "250 pcs",
+              "The press runs a dedicated colour batch"
+            ],
+            [
+              "Custom lid or component on an existing body",
+              "3,000–5,000 pcs",
+              "One new mould, but a small one"
+            ],
+            [
+              "New product",
+              "10,000 pcs",
+              "2–4 mould sets have to be paid for"
+            ]
+          ],
+          "note": "Where a buyer needs fewer pieces than the minimum, the honest options are: pick a different configuration, accept a higher unit price for a short run, or pay the setup separately. We quote all three when asked."
+        },
+        {
+          "type": "qa",
+          "items": [
+            [
+              "Can I mix designs in one order to reach the minimum?",
+              "Yes on print — several artwork versions can share one production run if the model and colour are the same. They cannot share a tooling investment, so a mixed order does not unlock a lower MOQ on a new mould."
+            ],
+            [
+              "Can you match a Pantone colour exactly?",
+              "We match to a chip you approve under an agreed light source. Plastic, ink and coating each render a colour slightly differently, so an exact match across body and print is confirmed on a sample, not on a screen."
+            ],
+            [
+              "Do you print on silicone?",
+              "Silicone is a different surface and needs its own validation — pad printing or laser rather than a standard screen pass. Ask before you build artwork around it."
+            ],
+            [
+              "Can artwork be changed after the sample is approved?",
+              "Yes, before the press starts. After that, the change is a new run — which is why the approval email is treated as the production reference."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "tint": true,
+      "kicker": "CONTINUE YOUR PROJECT",
+      "h2": "The next useful pages.",
+      "blocks": [
+        {
+          "type": "related",
+          "items": [
+            {
+              "href": "/packaging/",
+              "title": "Custom Packaging",
+              "text": "Boxes, inserts, labels and the carton rules your sales channel will enforce."
+            },
+            {
+              "href": "/product-development/",
+              "title": "Product Development",
+              "text": "When customization is not enough and the product itself has to change."
+            },
+            {
+              "href": "/low-moq-custom-cups/",
+              "title": "Low MOQ Custom Cups",
+              "text": "Which configurations actually start at 10 pieces, and which do not."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brief",
+      "kicker": "YOUR NEXT STEP",
+      "h2": "Send the artwork and the model. We will tell you which layer it needs.",
+      "text": "Artwork file or a description, the model, the quantity per version and where the product is sold.",
+      "label": "Send Artwork for Review",
+      "href": "/contact/?models=Customization%20guide"
+    }
+  ]
+}
