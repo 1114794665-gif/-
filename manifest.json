@@ -18,58 +18,58 @@
     },
     {
       "path": "admin/certificates/index.html",
-      "bytes": 1629,
-      "sha256": "aa1d607867a6c32d5cc4cc66fe631ab2cdba201a9a372af7f9e3809c2b7b4aa4"
+      "bytes": 1678,
+      "sha256": "f9c3f791649b21a85c625471a05e5af3ba439ff52a6e9c2f34197ffedafa9f05"
     },
     {
       "path": "admin/dashboard/index.html",
-      "bytes": 1629,
-      "sha256": "aa1d607867a6c32d5cc4cc66fe631ab2cdba201a9a372af7f9e3809c2b7b4aa4"
+      "bytes": 1678,
+      "sha256": "f9c3f791649b21a85c625471a05e5af3ba439ff52a6e9c2f34197ffedafa9f05"
     },
     {
       "path": "admin/factory-photos/index.html",
-      "bytes": 1629,
-      "sha256": "aa1d607867a6c32d5cc4cc66fe631ab2cdba201a9a372af7f9e3809c2b7b4aa4"
+      "bytes": 1678,
+      "sha256": "f9c3f791649b21a85c625471a05e5af3ba439ff52a6e9c2f34197ffedafa9f05"
     },
     {
       "path": "admin/index.html",
-      "bytes": 1629,
-      "sha256": "aa1d607867a6c32d5cc4cc66fe631ab2cdba201a9a372af7f9e3809c2b7b4aa4"
+      "bytes": 1678,
+      "sha256": "f9c3f791649b21a85c625471a05e5af3ba439ff52a6e9c2f34197ffedafa9f05"
     },
     {
       "path": "admin/inquiries/index.html",
-      "bytes": 1629,
-      "sha256": "aa1d607867a6c32d5cc4cc66fe631ab2cdba201a9a372af7f9e3809c2b7b4aa4"
+      "bytes": 1678,
+      "sha256": "f9c3f791649b21a85c625471a05e5af3ba439ff52a6e9c2f34197ffedafa9f05"
     },
     {
       "path": "admin/kits/index.html",
-      "bytes": 1629,
-      "sha256": "aa1d607867a6c32d5cc4cc66fe631ab2cdba201a9a372af7f9e3809c2b7b4aa4"
+      "bytes": 1678,
+      "sha256": "f9c3f791649b21a85c625471a05e5af3ba439ff52a6e9c2f34197ffedafa9f05"
     },
     {
       "path": "admin/products/index.html",
-      "bytes": 1629,
-      "sha256": "aa1d607867a6c32d5cc4cc66fe631ab2cdba201a9a372af7f9e3809c2b7b4aa4"
+      "bytes": 1678,
+      "sha256": "f9c3f791649b21a85c625471a05e5af3ba439ff52a6e9c2f34197ffedafa9f05"
     },
     {
       "path": "admin/seo/index.html",
-      "bytes": 1629,
-      "sha256": "aa1d607867a6c32d5cc4cc66fe631ab2cdba201a9a372af7f9e3809c2b7b4aa4"
+      "bytes": 1678,
+      "sha256": "f9c3f791649b21a85c625471a05e5af3ba439ff52a6e9c2f34197ffedafa9f05"
     },
     {
       "path": "admin/settings/index.html",
-      "bytes": 1629,
-      "sha256": "aa1d607867a6c32d5cc4cc66fe631ab2cdba201a9a372af7f9e3809c2b7b4aa4"
+      "bytes": 1678,
+      "sha256": "f9c3f791649b21a85c625471a05e5af3ba439ff52a6e9c2f34197ffedafa9f05"
     },
     {
       "path": "admin/users/index.html",
-      "bytes": 1629,
-      "sha256": "aa1d607867a6c32d5cc4cc66fe631ab2cdba201a9a372af7f9e3809c2b7b4aa4"
+      "bytes": 1678,
+      "sha256": "f9c3f791649b21a85c625471a05e5af3ba439ff52a6e9c2f34197ffedafa9f05"
     },
     {
       "path": "admin/videos/index.html",
-      "bytes": 1629,
-      "sha256": "aa1d607867a6c32d5cc4cc66fe631ab2cdba201a9a372af7f9e3809c2b7b4aa4"
+      "bytes": 1678,
+      "sha256": "f9c3f791649b21a85c625471a05e5af3ba439ff52a6e9c2f34197ffedafa9f05"
     },
     {
       "path": "assets/acc-family-20261027.js",
@@ -20778,8 +20778,8 @@
     },
     {
       "path": "robots.txt",
-      "bytes": 111,
-      "sha256": "97e35dd866cfc1e0ffc29f2f38ae5040cf2231bd322d5f4827409886a6403038"
+      "bytes": 93,
+      "sha256": "f6ac87688b0fe8f353c213dd53b86ff7dfaf6cc6fbfe722ad3e5ca9c17179983"
     },
     {
       "path": "rush-production/index.html",
@@ -22135,6 +22135,11 @@
       "path": "zoom-photos.png",
       "bytes": 21173,
       "sha256": "72463fdecacf270abfba5a004cbda27a5477da585058aaa27912653db0469280"
+    },
+    {
+      "path": "_headers",
+      "bytes": 289,
+      "sha256": "4e1e4a94be84c5c74f2b145e234bc366443cf0a6356fba22f909f8c035ff6beb"
     }
   ]
 }
