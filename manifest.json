@@ -3,8 +3,8 @@
   "files": [
     {
       "path": "16-oz-custom-cups/index.html",
-      "bytes": 178978,
-      "sha256": "3a99175cfdd1cf13d85a12cbdab7ba226c15d28ff5288757d6e13927cbfd09e6"
+      "bytes": 178972,
+      "sha256": "9608f530b79b844ae2449c8c544cf2b027b7a6fb6472688ac373a1d6cb8040c7"
     },
     {
       "path": "404/index.html",
@@ -13,8 +13,8 @@
     },
     {
       "path": "acrylic-drinkware/index.html",
-      "bytes": 215894,
-      "sha256": "1673b8f8027af409678a5262df17e51b6b6b2340035f2b6e59d6be0a70cb0417"
+      "bytes": 215888,
+      "sha256": "8f84e620fffab8f148f80af89a2fbff6b8ffd9fa63fa6e69eee2586cb32ae68a"
     },
     {
       "path": "admin/certificates/index.html",
@@ -333,8 +333,8 @@
     },
     {
       "path": "assets/floating-enquiry-20261023.js",
-      "bytes": 18199,
-      "sha256": "637fae6306661363b755497f88924f2076ef0c486b242c7871ffdc4551c8a541"
+      "bytes": 19868,
+      "sha256": "0976c9ad51b6b08f1644e4ed0dd9c4a082043858f9411854c8353648927f368b"
     },
     {
       "path": "assets/fonts/fraunces-latin-64671.woff2",
@@ -813,218 +813,218 @@
     },
     {
       "path": "bachelorette-party-cups/index.html",
-      "bytes": 163167,
-      "sha256": "9180f8478abbe2907783a3c5923cff535138e4a5ed565c6c4433393f98ef1ff2"
+      "bytes": 163161,
+      "sha256": "f319faac48cc09966ee703c3410e953ec3eb00e1c65017cd776dd8ea2182aefe"
     },
     {
       "path": "backyard-bbq-cups/index.html",
-      "bytes": 163744,
-      "sha256": "ae5ba11f70eed931df5adb20348da06eb003d1ef76384a76367bc36b05c3cf02"
+      "bytes": 163738,
+      "sha256": "1880db7eb7466002627fdb957abcc91b649cc6943771b37bd2142d70f0b02f78"
     },
     {
       "path": "bar-accessories/index.html",
-      "bytes": 252255,
-      "sha256": "4b4c855fad558c8301a460ffffcf7b7815a820bdd13d77b3b5e93d4156cefb33"
+      "bytes": 252252,
+      "sha256": "6cc8a2e9d10f8ab4e0ad2f4c37d803ecfb78f894ddad420aa4076bc5894212c5"
     },
     {
       "path": "beach-party-cups/index.html",
-      "bytes": 164845,
-      "sha256": "42ec73e4e9c026c41c2fda18d9452a051453e27356d380202b81af1bbcf03515"
+      "bytes": 164839,
+      "sha256": "8a2d930fab50409076fffb89e626d0f4cb3c4ccb8cc4de040312e54a71b0318f"
     },
     {
       "path": "birthday-party-cups/index.html",
-      "bytes": 163207,
-      "sha256": "fda84eafb65c707b060082c2773431427c208d0e8b7c0fe9c468dfa7d57cef67"
+      "bytes": 163201,
+      "sha256": "03aa58422e35ca41b3e642252465c25c9a0ed675c2d08f686d0d40ad46a15c63"
     },
     {
       "path": "blank-drinkware/index.html",
-      "bytes": 286897,
-      "sha256": "9fb67bf26246489485791566405c36cb3a623a84600431b315c5f9ecaeea22f1"
+      "bytes": 286891,
+      "sha256": "27bf0dc646aca6c82339f519276b6b57abe5cf1e21eb3d62441d60aaf085284d"
     },
     {
       "path": "blog/custom-cup-lead-times/index.html",
-      "bytes": 44756,
-      "sha256": "7f244adb4d8327e59ca187a58cca8a40817c93315d28605d720fb00e53da3fe4"
+      "bytes": 44750,
+      "sha256": "2c52f376ecf73c0bac228b4875498656d9dead5e75b63b19d7c88fad9b023c34"
     },
     {
       "path": "blog/how-many-custom-cups-to-order/index.html",
-      "bytes": 45897,
-      "sha256": "f887a025022e3870a04dd04264e4f236765f478a3dd51898f63de976e54be19f"
+      "bytes": 45891,
+      "sha256": "f466ed4f0b376c0ff94d942e3348fce4286ebce56a4b228f33d952013efde623"
     },
     {
       "path": "blog/index.html",
-      "bytes": 30087,
-      "sha256": "0315d06af93baf5b27343f15a6523ace5cfed25fae8a6fa2943762c8b425d41e"
+      "bytes": 30331,
+      "sha256": "bf75cfc61328a3e49e4c95108601ca55b6766b9ddaee733ab6c88d20e9c76816"
     },
     {
       "path": "blog/mould-or-no-mould/index.html",
-      "bytes": 43228,
-      "sha256": "e8669d57578f560ac918869b2a24edd24568207c5ec522dc36107cb0ad296c0e"
+      "bytes": 43222,
+      "sha256": "c95a3dbc3b414f2ef8d3c5b0b5fb1cce02b013bbcfc99c382c477a46dbda7c78"
     },
     {
       "path": "blog/plastic-colour-matching/index.html",
-      "bytes": 43540,
-      "sha256": "1028feb53da3862c3c8db2f524381a0b9adaaf76a0446f36ffe2abd4f265a9f2"
+      "bytes": 43534,
+      "sha256": "0c13dfc484b70a7214d53fef07b2b2fbd9c92370a701abdfb12a2361cff4a503"
     },
     {
       "path": "blog/silicone-vs-plastic-cups/index.html",
-      "bytes": 45693,
-      "sha256": "3af7374ba2a55ba8480da0eddb2acdd0b689053a72dbfb328ab53fa4104cb091"
+      "bytes": 46012,
+      "sha256": "0141be2800f8d326c8cc4d02084ccd25c0b0680785daa7220da509471220a2d0"
     },
     {
       "path": "blog/what-aql-inspection-tells-you/index.html",
-      "bytes": 44542,
-      "sha256": "60061029311c7fcf7f04148feaf220e52d744f4173b4ea464c1a3bdcc9eff7d2"
+      "bytes": 44536,
+      "sha256": "31ecf9344447c27af7f3af76026dde1db80563a1c19563e142202d759ede3cf4"
     },
     {
       "path": "bulk-drinkware/index.html",
-      "bytes": 286756,
-      "sha256": "77d3f74f4fffb56e151ab28288a2459793a1c9a3bceb5d774f208a892da6a3b7"
+      "bytes": 286750,
+      "sha256": "b581ba69091e252217f04769c1594412cb8f331bd5968d68aa0d5d5500ea887e"
     },
     {
       "path": "byf-own-products-20261031.html",
-      "bytes": 84596,
-      "sha256": "fd786899e5a15ad6efce31a711f0e4d5e60b6fc8cfbfd0239b141018cef60649"
+      "bytes": 84612,
+      "sha256": "ac40467f16532070e667e79a94468578814ffccee75bc5885ba15b341c8c3700"
     },
     {
       "path": "camping-drinkware/index.html",
-      "bytes": 163846,
-      "sha256": "e6ca9fd81d866e31e4526f279284bea9a7f59ae2eab1182e6cefec8b3fde8d60"
+      "bytes": 163840,
+      "sha256": "b32efbfdaf824fafc2526396b504302c9e1bf940f3c3b645bc83c9266060e277"
     },
     {
       "path": "case-studies/index.html",
-      "bytes": 157465,
-      "sha256": "2d2fdba52f3d4438d9cac010d752a7ed514b44070e3e3aa09eac5fb17e899511"
+      "bytes": 157462,
+      "sha256": "5b78334b5543d024caeb1342e22a9749edc2a2267cce2c5814affce3bc4dde79"
     },
     {
       "path": "catalog-download/index.html",
-      "bytes": 157514,
-      "sha256": "2533eba2ba18f40d20c2abb7fbd72dccf2b1b7d469eab1071bf925ebe7c5e2bf"
+      "bytes": 157511,
+      "sha256": "9d81c6b246bb86720f1f1753f8e1b51651232351eadfb3d956e879758100c162"
     },
     {
       "path": "certificates/index.html",
-      "bytes": 175911,
-      "sha256": "04b1a81473328ad6f9c5a780a93b68ad147812947b8efec4f6c300ce63ab5cb8"
+      "bytes": 175905,
+      "sha256": "9beab5e73d081fa59448324089df87105b947f1f45b8c648c99cac9ece375ed4"
     },
     {
       "path": "clear-plastic-cups/index.html",
-      "bytes": 158707,
-      "sha256": "675a6f2b275838e0a7722dfde7629f109da5660b05d9a3bd463d8372971e98bf"
+      "bytes": 158701,
+      "sha256": "85bccf1c51c1604b5396c8f9e2cf71087c595159a090f6d3bd8c9ae6b9b8fa37"
     },
     {
       "path": "collapsible-cups/index.html",
-      "bytes": 169136,
-      "sha256": "39f446f0a46551c278b45e6d45f0276820fda9778e489ddbaf4eddec92565095"
+      "bytes": 169133,
+      "sha256": "1c59687d41c240dc4393a8bc4e27dcc3120bfe06f58d04ffee9c6079878dc652"
     },
     {
       "path": "collapsible-travel-cups/index.html",
-      "bytes": 159074,
-      "sha256": "494ecfdd0b4ae721d2466a125443a664e0d40ea24436fd5efda708a231ab034c"
+      "bytes": 159068,
+      "sha256": "80f819a23e74a5772b49ce1f9fd8ca7a3867e5970a03a1205c574d97ac55ba79"
     },
     {
       "path": "color-changing-cups/index.html",
-      "bytes": 159710,
-      "sha256": "1a0f99c8f0ce42c383426081fe7c19b4880b58bc45d870b46e60b52d6c9a6bbb"
+      "bytes": 159704,
+      "sha256": "9e69b146f31821af0dd7b485c39ba5b0861f4c6a0f6be31b30d23fbfba12527f"
     },
     {
       "path": "color-changing-ink/index.html",
-      "bytes": 168694,
-      "sha256": "eead7817f21a94c882c82539ec3151bb573058bb902c0cb5d3e71a065fce0d71"
+      "bytes": 168980,
+      "sha256": "c0676a38c283d53cf1d3363200a269a7999f3cf94c8212817bb4e71f72814f81"
     },
     {
       "path": "compliance/index.html",
-      "bytes": 2404,
-      "sha256": "ad684106e774217395cd5b62a3448015b4bc4f45a2026f8ade259b028e3bad92"
+      "bytes": 2398,
+      "sha256": "ecb03d1a57b1897b140809a3715287f48a03f11e22da869af0ce78872d534467"
     },
     {
       "path": "contact/index.html",
-      "bytes": 156979,
-      "sha256": "56779f90ba70669fc5129ecd0f09a9d6a4070c44a319da1ab54024611f6396a0"
+      "bytes": 156973,
+      "sha256": "9f701113ee1941d04850b930fa2d083fb6b207ef1d02c3da133d78b3d05a62cb"
     },
     {
       "path": "cup-materials-guide/index.html",
-      "bytes": 156635,
-      "sha256": "33b6f9cc9e73b92069cf3ef45f80f60dfb1f55481dfd5861ca96635e38b5e485"
+      "bytes": 156632,
+      "sha256": "a5887ac54d3c899cc1607aac2c88c114066185a748cf1ac4958f781d0fc83a54"
     },
     {
       "path": "custom-bar-mats/index.html",
-      "bytes": 156455,
-      "sha256": "ddc77685ad289c89fb7f9fb7c41367d49915d1c9cc9913cfd70c1482ad7baeba"
+      "bytes": 156449,
+      "sha256": "4254c792fc33a177c5efe8106c45785e91a712774cdbcb49ee42c1226c3d5bf5"
     },
     {
       "path": "custom-beer-mugs/index.html",
-      "bytes": 165944,
-      "sha256": "394bd0175847be70b7a5965462bf96cd4c0043ed2e6c2e08341f6b1ff1ebed63"
+      "bytes": 165938,
+      "sha256": "213075e68a505954c2440eb282b54dd8deac7a77e601e422b42bae5d4b0fd90d"
     },
     {
       "path": "custom-bottle-openers/index.html",
-      "bytes": 185146,
-      "sha256": "f27c09f7508a98f7e64fcb028d8dcb87c902ed844f1a44fd6b71587a87a4128c"
+      "bytes": 185143,
+      "sha256": "ecdfe52d9d39dd9bfde1b4a1cd41c72aad5e4acb33bdcd4929217699307e945d"
     },
     {
       "path": "custom-champagne-flutes/index.html",
-      "bytes": 175536,
-      "sha256": "32f42af3c3313f1905691c82753038b217babf9bbf936f5db2f1ec135f1da8a2"
+      "bytes": 175530,
+      "sha256": "ffb6e68ecbf256d12d1062b1452dc529a74044c1dd6a35725ca664e89ff1337f"
     },
     {
       "path": "custom-coasters/index.html",
-      "bytes": 169812,
-      "sha256": "5b59d2dff517512d277cbb42902753a87fbe9782f42bb98feecc65c32cbf49ae"
+      "bytes": 169809,
+      "sha256": "d4b9db5780c459c21d04f0be40fd54d3e253bfbaf3eb6a1fa6e9d1c46695a6e3"
     },
     {
       "path": "custom-drinkware-decals/index.html",
-      "bytes": 153575,
-      "sha256": "224239b29dbd6f7a328f6c5622d3eb4db69ad16572c5e0e229ab8963ed9993a7"
+      "bytes": 153572,
+      "sha256": "215d3f77f751e99dc15f056ea8a0755b7212f2ddf0553f2b862920c8880b7b48"
     },
     {
       "path": "custom-ice-buckets/index.html",
-      "bytes": 162611,
-      "sha256": "b4baeb7d6a163fbb1b5e02d693b26140cbee66b49d4ccc14eb8df2a9f535d67c"
+      "bytes": 162608,
+      "sha256": "a665295fe81905628f6ac7133ac47a6429cb400420cfcc324ce22827411cdf26"
     },
     {
       "path": "custom-led-drinkware/index.html",
-      "bytes": 206919,
-      "sha256": "ed723a839d9ff7c663106f5d6b6ac7b32037f34f5e6e32b59c0c8ba01f23594e"
+      "bytes": 206916,
+      "sha256": "8d755ae06da729d50475bddaf11ffc3995414f4886c22a84b629512263d309fd"
     },
     {
       "path": "custom-plastic-cups/index.html",
-      "bytes": 197579,
-      "sha256": "c0e63df8123320c0ac7e073c1baab6204791f192f71fd27a8d6746f3ff4c7ebe"
+      "bytes": 197576,
+      "sha256": "59fac583d5138187c894deb36629d8874eff5f6334af57ac772ce35197ac15e9"
     },
     {
       "path": "custom-reusable-straws/index.html",
-      "bytes": 156737,
-      "sha256": "81e07b8afb66d184b733ba9cecbb302bd5ce07af1d061a98afded91d15ceeb63"
+      "bytes": 156731,
+      "sha256": "d780c269805726751e3d15dd2033867b31161ecd378b27724acdb26628c73f6e"
     },
     {
       "path": "custom-shot-glasses/index.html",
-      "bytes": 156462,
-      "sha256": "e6232ded469af2a986bb4563ff149ea5787be7090f7cb488db095de551098967"
+      "bytes": 156456,
+      "sha256": "60694917a0dd27e64d966e7c6323a306eb9936282ed95049cd6ec0c53e796840"
     },
     {
       "path": "custom-silicone-cups/index.html",
-      "bytes": 182929,
-      "sha256": "19477390d776fd9c0abcdb42cff763f13cd586fdec95ddb41b0cba5b4b995b0e"
+      "bytes": 182926,
+      "sha256": "a58e19e4cdac25e38841ee9bafa24f09d7484376fb9ab373377a5b49f500bcc9"
     },
     {
       "path": "custom-stadium-cups/index.html",
-      "bytes": 156852,
-      "sha256": "e804169c748d9cb3e3b95be333a67574a2043c20f1bbc0e4173e0967781006f0"
+      "bytes": 156846,
+      "sha256": "e149e184ffcc8a21affaf90e2d7b2e12dbca4cdd3496673150d26c13facd1f2c"
     },
     {
       "path": "custom-tumblers/index.html",
-      "bytes": 202919,
-      "sha256": "a4a3affb2051e4ad608d485e4600249461abd33f4c5f1d18f32c84720d0b5b90"
+      "bytes": 202913,
+      "sha256": "ef21dbd36525586076208adf7aea7694a207e1e25732e72b739e7dfdd78d7da9"
     },
     {
       "path": "custom-wine-glasses/index.html",
-      "bytes": 204429,
-      "sha256": "61ccce5375fc18ba1b80de77ae3f7f1c2a2eef803fb26bc34e942527b76ddded"
+      "bytes": 204423,
+      "sha256": "fb6fe041c6dd8eeb12cd6c7f7492d33e2a903b10154b88aa58f982e1599a333f"
     },
     {
       "path": "customization/index.html",
-      "bytes": 32617,
-      "sha256": "626bb5f1f9006b1d95af8cc703777215598e4c8fa271d9729df6890a4a7a74bf"
+      "bytes": 32888,
+      "sha256": "21008407ed3cc410365c587191c313b447c932fdc0f6b8fddbb8d040bb8f22aa"
     },
     {
       "path": "data/api-products-snapshot.json",
@@ -6323,73 +6323,73 @@
     },
     {
       "path": "distributor-program/index.html",
-      "bytes": 157592,
-      "sha256": "47ba0e1c2f9c1c46700362201f3f236708bf62edf6d087b3f64ebce92f9f3295"
+      "bytes": 157589,
+      "sha256": "faad181dc4f95e3c54c61711a60c80ec64f93bc0d3a1b6fc1e0c2391cc6e55ef"
     },
     {
       "path": "factory/about/index.html",
-      "bytes": 27609,
-      "sha256": "74d6041422d2850a234683f1285a60cf34890dc16c576c47641b884f82d15caf"
+      "bytes": 27603,
+      "sha256": "942b2b2d9469ca4902c702eb59552c4f404a1f5015a1ab55378334d56b6d7f17"
     },
     {
       "path": "factory/index.html",
-      "bytes": 167184,
-      "sha256": "bb7780046fc7ec75fcefe04909429a713c39f49c2eb230a5219a8b77a7b1f7a2"
+      "bytes": 167178,
+      "sha256": "c745a8d989851ce1c5154092ccb5b24bb2c30e87f871398a0ce00953c5a6e60a"
     },
     {
       "path": "factory/quality-control/index.html",
-      "bytes": 23615,
-      "sha256": "58560d0c266cfb2d2819729b0bb85d9db5a6919798478d03da4b3d0e8c9cea6d"
+      "bytes": 23609,
+      "sha256": "531ed39814c261111871bc368ca8a0e8c4e816a7f9b60ad7326361fd093c03bd"
     },
     {
       "path": "factory/testing/index.html",
-      "bytes": 25451,
-      "sha256": "dea73c46c3a719130df59e27a47d30a96c24befbce5bcb6f4a5eb0346650c27e"
+      "bytes": 25442,
+      "sha256": "24cf3a4b4441555d20410ec711962630ca9a636288655dbe94ba0283c57b05d0"
     },
     {
       "path": "family-event-cups/index.html",
-      "bytes": 162955,
-      "sha256": "2e41db27737f2171ea6a2e48b86780ab9d958fad6b34e4a31559df85e8c1507b"
+      "bytes": 162949,
+      "sha256": "bca91228b4079a65517475451a5599977c486eb81950477f00ab8ee97b8c74ba"
     },
     {
       "path": "faq/index.html",
-      "bytes": 54937,
-      "sha256": "3995eee9603aba7fb3105c4b5abcfb05c808bf6df9c9672d9d9a695992f02ba7"
+      "bytes": 55178,
+      "sha256": "3a312e997173d0dc5fed48e2a740f960b64360df362e8cd4466976920d2c814e"
     },
     {
       "path": "free-samples/index.html",
-      "bytes": 157791,
-      "sha256": "f525e362c09955bf77c11d852cbc99a0d30144bd2ad31f5b11aeddbeddb8e2ad"
+      "bytes": 157788,
+      "sha256": "3a6fcff4964bac7b1292b2e3f3b3a9fd4a387e15bc325b13b003319e5c252e75"
     },
     {
       "path": "glow-in-the-dark-cups/index.html",
-      "bytes": 159433,
-      "sha256": "d6242731c4e3592103592c9673043bb77efb8ede162fab6a672e84fef0e727e8"
+      "bytes": 159427,
+      "sha256": "9f075e4215bda63603c3050643e4db84ab4bf321ee36f662b25dac776ea49e1f"
     },
     {
       "path": "graduation-party-cups/index.html",
-      "bytes": 162886,
-      "sha256": "828d23b72a209c098113498d7db7dfa40bbd5d0c851dde5d3b0c76f9b9e228e2"
+      "bytes": 162880,
+      "sha256": "7b56f3bcf5467e93d22b8f107e53b91cacd3442745586f53df1cb0a48c6b9b5e"
     },
     {
       "path": "heat-transfer-printing/index.html",
-      "bytes": 183083,
-      "sha256": "a037b81b50219bc2d5eb933a8be7975fb4401581be95dd804f40bfce57e4979a"
+      "bytes": 183080,
+      "sha256": "1de2b7e8619567b5a2b8b762db3df1deb06e0a7358433c468f5dd46a1af3f4d1"
     },
     {
       "path": "holiday-party-cups/index.html",
-      "bytes": 163926,
-      "sha256": "c3531ef5db0726ad2e9318971270b26c2b04f5c31050114354a1c7db7e9e722c"
+      "bytes": 163920,
+      "sha256": "507c561e03b9496ed076a3eff577b962998f8fbe16c95540918a6ea2afd08e00"
     },
     {
       "path": "how-to-work-with-us/index.html",
-      "bytes": 36882,
-      "sha256": "5d6c7226d09e88122116a9a33135941e26212c9aa726961d4b4512a79dadd651"
+      "bytes": 36876,
+      "sha256": "e21a165312dd3c7c965cf3e456352ff8c938ea98bac018f5ac85931e8f419a54"
     },
     {
       "path": "hydro-dipping/index.html",
-      "bytes": 1342,
-      "sha256": "4c24bf55aceb9c3d471b6e9588a05d784bf5a2e4b742ce753e775f2bc3731ba8"
+      "bytes": 1336,
+      "sha256": "12869f808fba8ae857599e910274801d30312c20ad547765c06a0eec218063b0"
     },
     {
       "path": "img/accessory-corrections-20261031/jbpj-006-original.jpeg",
@@ -19748,18 +19748,18 @@
     },
     {
       "path": "index.html",
-      "bytes": 182710,
-      "sha256": "65946798216e60a54cf6a667f17442142b4aeb920bbcdc9cee80cc6ff54b98b3"
+      "bytes": 182680,
+      "sha256": "a2be33a8711e2d0a79201536c72314dc1421afd98dff6c343f41b82f393fc6e5"
     },
     {
       "path": "laser-engraving/index.html",
-      "bytes": 184690,
-      "sha256": "476d443645811c702b60d773096f5181f0621e928e1d5bf455771f372e22d46d"
+      "bytes": 184687,
+      "sha256": "1899416448d8752d8c2d0443be61aa452edd6939a19a081aa83169ff9ef2ea21"
     },
     {
       "path": "led-light-up-cups/index.html",
-      "bytes": 183427,
-      "sha256": "9abab074a318f066c4e16d3b2f36942223c8f85256c8143d143771498d8f3c7e"
+      "bytes": 183424,
+      "sha256": "7cc49ba8defbe3003528585fe1f308215c639703a716321c31a7aed335565be4"
     },
     {
       "path": "llms.txt",
@@ -19778,23 +19778,23 @@
     },
     {
       "path": "low-moq-custom-cups/index.html",
-      "bytes": 157928,
-      "sha256": "6d5b717c8e5c5d3c691da2e1b74d5c5c5eea9f57b26bfcd674faed6d03212715"
+      "bytes": 157925,
+      "sha256": "75fdfe62fcbf0cf931dd6ec1e0fb0999767feeb2c4ba83749758bb91f23ca51e"
     },
     {
       "path": "manufacturing-process/index.html",
-      "bytes": 32823,
-      "sha256": "d8486f33507015aacbb6b3ea7858d77544bfdb8756cde4e0f43113def96c704e"
+      "bytes": 32817,
+      "sha256": "fb39a498414b722c4170e276fca042adcaedd69927f06cb8b71b4364597def72"
     },
     {
       "path": "new-arrivals/index.html",
-      "bytes": 173428,
-      "sha256": "ed6fc73df9dc923962c8f55c05e42f1540fa50926a8873f62322a01d2953a853"
+      "bytes": 173425,
+      "sha256": "a2a3c73a387bc51925343da9b78c0c6c077850759b1e34b84177ed7a0be120b7"
     },
     {
       "path": "no-minimum-custom-cups/index.html",
-      "bytes": 155860,
-      "sha256": "af67dddcdc2574e26cbc415c39bad3da616f36904709ba804a58d238217cf6f1"
+      "bytes": 155854,
+      "sha256": "d5ce4baaa8cafef177c4627de7e4c8c3a58400fc4d6e2219a95aedb27773c910"
     },
     {
       "path": "occ-bachelorette.webp",
@@ -19858,908 +19858,908 @@
     },
     {
       "path": "oem-manufacturer/index.html",
-      "bytes": 181853,
-      "sha256": "d8d9daf9befbf3ba606f8d7018df2f920b6912394d5629b72c07ae133c35d38b"
+      "bytes": 181850,
+      "sha256": "fcf0cec58dd02e90a7d2e7cb087a4d8392cdeeac553ec5a70059eff3eace9327"
     },
     {
       "path": "open-air-nightclub/index.html",
-      "bytes": 163139,
-      "sha256": "e9328b26fe9886cba3bc413e8b3caea2119e34844774c1f60010ceda58a2331b"
+      "bytes": 163133,
+      "sha256": "e8072d007ea556ce8f65d1ecf8cda123b83d83996645be926d09565b7aa480c1"
     },
     {
       "path": "our-service/index.html",
-      "bytes": 160809,
-      "sha256": "5073670d8ad039a5c68e9f834d94f808c8dce10f476cb347d769e2819491a7f1"
+      "bytes": 160806,
+      "sha256": "8e36556249ed6b09c071de3770afbd8ebebcd7dc5b5ccd1cdf189fefe0ef9684"
     },
     {
       "path": "own-models-20261031.html",
-      "bytes": 107971,
-      "sha256": "d57cc701ff2c81f574723e30b145e5819b1d7b1a02e7259b3ca9425200673370"
+      "bytes": 107987,
+      "sha256": "41267c6106c81414419cdd2bc25f0bcd8f030ab30b85b9aa8b720afabda80e75"
     },
     {
       "path": "packaging/index.html",
-      "bytes": 32832,
-      "sha256": "9c8631ede66cc215dc840198e53f31a5dc046d654bb32945cd2d8e425bfd554b"
+      "bytes": 32826,
+      "sha256": "78089a06aab3d5334f6e292dd90ffd809f55d1167a1b7b2000e223fca3358690"
     },
     {
       "path": "personalized-drinkware/index.html",
-      "bytes": 286902,
-      "sha256": "88f491b5ea42326ad3d54cd226b601e6349271531883a584aca7a4b811def81b"
+      "bytes": 286896,
+      "sha256": "61219708ccba3827b92c1672f26eb7f5837fb9cfbe6c602eddefa80091ff288a"
     },
     {
       "path": "pet-plastic-cups/index.html",
-      "bytes": 160072,
-      "sha256": "929be096052fcf923f0366ad73a06239645c582ae1cf829166f4cb84560d06aa"
+      "bytes": 160066,
+      "sha256": "2a0145ab480a964f6efd3c4ac1cb498b2cfb46532966f1b991db48a4ca524c1f"
     },
     {
       "path": "pool-party-cups/index.html",
-      "bytes": 163753,
-      "sha256": "d66148e4cb3c3c9b75fa47f8f6214f032217e6e88f7dbdaca770655120dfd354"
+      "bytes": 163747,
+      "sha256": "975dc04cba1931f3a2be7a0ece31449b34fe5adc2ce5025204ce2b82cc6cfad2"
     },
     {
       "path": "privacy/index.html",
-      "bytes": 153674,
-      "sha256": "d3227ea374c3595ab9130a6f9f2791e3516b943a10de67ed7e786a0858568246"
+      "bytes": 153668,
+      "sha256": "aa4117b2b81e404e335a25a169c7b56a11f25f91e3adc93f44b7cec348f29e46"
     },
     {
       "path": "private-label-drinkware/index.html",
-      "bytes": 160233,
-      "sha256": "ac85e75be580aa894f9a01c3676a1f5f072087e37ef36653f6312728132093c1"
+      "bytes": 160227,
+      "sha256": "c7ea1dcc3242e48b02ac5884d4739d969414acbcd9e65b23e630a01de1c45336"
     },
     {
       "path": "product-development/index.html",
-      "bytes": 33586,
-      "sha256": "6441c76cc6fd40d03dc76bf353595c5f5c837cc021ce120d8a1d9bb5a7635a43"
+      "bytes": 33580,
+      "sha256": "a917fd8e6271b5fc9d15c5cf07237a2e163f1fe111e13b4e4be425d3e45a9dc0"
     },
     {
       "path": "products/1-4l-1-5l-plastic-beer/index.html",
-      "bytes": 169341,
-      "sha256": "231c58075f46ff2e61af75b6967a70ae9411ba1b8467b0409823ca1c8b6b33f5"
+      "bytes": 169338,
+      "sha256": "ef3bdb94873ac162d800a336f2d721f58f73e536346ff4bc27807e7b3c98ac62"
     },
     {
       "path": "products/1-5oz-blue-uv-reactive/index.html",
-      "bytes": 1528,
-      "sha256": "b4bfe514a09a4918c96da59d0244dd75c4aa8a4adc1bf82df5912542da94bffe"
+      "bytes": 1522,
+      "sha256": "6b442f63364b9e67b22c46ba945cba8badf0a8c3bf644c1f07576315281c69c6"
     },
     {
       "path": "products/10-5oz-ribbed-plastic-coupe-glasses/index.html",
-      "bytes": 169459,
-      "sha256": "699b2498fc03c88c671189064dbd00ebe0fb9b05162b12f952faef1545727de0"
+      "bytes": 169456,
+      "sha256": "fce2bf6c980fb43add992117a521b880eb6177e141e58c1920ab35480139f990"
     },
     {
       "path": "products/12-oz-double-wall-plastic-tumbler/index.html",
-      "bytes": 169597,
-      "sha256": "f9354c308db9c00fe2a6419d771d072ac7d9476edd59d91a4832726fba005d4a"
+      "bytes": 169594,
+      "sha256": "47c66e892ed7aa106879289d74df461787d988be9d3ba5cba7d4823a43c076a1"
     },
     {
       "path": "products/12oz-plastic-stein-cups-with-1/index.html",
-      "bytes": 170457,
-      "sha256": "79d698f929d237c56e8f34267384e1ecdaa28691965735d8174e355f6b8b3d41"
+      "bytes": 170454,
+      "sha256": "a39572efd7580cdca85d2c54ca26248c31b25aabe74ed351c4d79162308ce1d9"
     },
     {
       "path": "products/12oz-stemless-wine-glass-gold-rim-hjb040/index.html",
-      "bytes": 167739,
-      "sha256": "5e368fd7748467f84b2039f1565d17fb8fe35bc8c88ad1a8f085d8f20f561404"
+      "bytes": 167736,
+      "sha256": "be3ef043b8aff55b26a339369b55824c6d5e0959c50d9e14645697f6bc967d12"
     },
     {
       "path": "products/15oz-plastic-margarita-glass/index.html",
-      "bytes": 169197,
-      "sha256": "8dc3d2d943a998ea81be8d9e2107b1388ba35743d1a642b7bb927a7ad5cbc8e8"
+      "bytes": 169194,
+      "sha256": "e477af621671e86e0a61f1cb85720983c7aaea500d934257d38cab7d6033c454"
     },
     {
       "path": "products/16-oz-color-changing-plastic-stadium-bsb002/index.html",
-      "bytes": 171630,
-      "sha256": "ad700f3208ef6daf2a2435365c2901a4b0259391d957a1021d84a7481aa27de2"
+      "bytes": 171627,
+      "sha256": "ae588a6cfb7739f2f3eef10501323fd2228b5f9b9faed3bb39faf524e398a3f3"
     },
     {
       "path": "products/16-oz-light-up-acrylic-shaker/index.html",
-      "bytes": 165329,
-      "sha256": "a58a9aa17de6c3928b633e1641b0aa94974d2e899bdfde8ccc00b0c83b253091"
+      "bytes": 165326,
+      "sha256": "d03880341f7f59a5e67e66d5856d15cec5539a1be42d14996a24cd8378c2c34e"
     },
     {
       "path": "products/16-oz-stadium-cup-smooth/index.html",
-      "bytes": 170528,
-      "sha256": "6baef5eed8b1c5e17b52c8e7c1c94f0def6dce45f768298a1086e23b46690fd9"
+      "bytes": 170525,
+      "sha256": "1a443a798086d02e79f8f28a01423d81def202aa247d1eb76061d64513c17fb8"
     },
     {
       "path": "products/16oz-cold-beverage-souvenir-cup/index.html",
-      "bytes": 1510,
-      "sha256": "731acf4ae56709c511433429f1ce848316aa20f99da5bf88cbfa03ac68f4f673"
+      "bytes": 1504,
+      "sha256": "445e5a89bea2b89427270b1aac1a61aa96d5021b20e7b9689371dbe42de74e21"
     },
     {
       "path": "products/18-5oz-tritan-wine-glass/index.html",
-      "bytes": 170227,
-      "sha256": "7017c171f023b4224791fd0fd1d26f5266b1c02775e8d7684890b47b2ad052fa"
+      "bytes": 170224,
+      "sha256": "232c638ae2ffc504a01016f2e120821a9234c2fb05acedd34b2e4f164a290b6d"
     },
     {
       "path": "products/22oz-plastic-beer-mug/index.html",
-      "bytes": 170812,
-      "sha256": "b2876dd9c05b8e6c63c41aefc8e166c7445a65148c8167e54056528683ff37c0"
+      "bytes": 170809,
+      "sha256": "55ca7938a5f07b7ecd92dc04795a4f9aa9665180f443600b053927e8d03a2738"
     },
     {
       "path": "products/24-oz-acrylic-cocktail-mixer-3/index.html",
-      "bytes": 167751,
-      "sha256": "582a20129edb36ee883e9698bce0a7b14487d0722197ffdf43258e41054579a7"
+      "bytes": 167748,
+      "sha256": "524c7a66cbce5ae6722820b38a75bd4fcf4c3f59b5954dc8991dd258074d8865"
     },
     {
       "path": "products/3-7l/index.html",
-      "bytes": 167361,
-      "sha256": "f0d2908b77bf43dc31dd7ec60ebac4d81cb42a025fd2e6a2e1469ac391b9c92d"
+      "bytes": 167358,
+      "sha256": "9e941949c04fe019fae8b567c2a398aff97a80ec27cbc30a90ff5eae1f3dbb9d"
     },
     {
       "path": "products/32-oz-plastic-ice-scoop/index.html",
-      "bytes": 168275,
-      "sha256": "fe0403850234338d518994cfecd3ffbc1229fb71c1c1f73530ff5ccac552c518"
+      "bytes": 168272,
+      "sha256": "8fd826ddaa244b1018b8eb87c40e3d7e16ffec9f8de6739c2ce1d124259cc360"
     },
     {
       "path": "products/34oz-ice-bucket/index.html",
-      "bytes": 167596,
-      "sha256": "fee30050add4512c022b36e5dc727e629d6e2988f1c4eef1a1d17219b47c1164"
+      "bytes": 167593,
+      "sha256": "4d0bad31892a6164e3b1ff972e09abd2c791d7b698754a05f28245bc48488185"
     },
     {
       "path": "products/37-oz-acrylic-pitcher/index.html",
-      "bytes": 168629,
-      "sha256": "e2ad9c927ae44bbf311dee831e2b39340c5f92aacbd8745d80c06413f6aaaae4"
+      "bytes": 168626,
+      "sha256": "60f11987e4cf045b514a54b831c396fcee5bc6991a498af7efa2b1144b9a4cd9"
     },
     {
       "path": "products/4-5oz-plastic-champagne-flute-injected/index.html",
-      "bytes": 169441,
-      "sha256": "9f0e7b62ffeaf4c2138baf7309830dc8e63f489abc3ca0d67e960577a987956b"
+      "bytes": 169438,
+      "sha256": "1ee28b9b3cee9160785b27ef0b952b683d90aabc685e5c500a42ac8c586c9514"
     },
     {
       "path": "products/41140-footed-pilsner-x4-414ml/index.html",
-      "bytes": 168907,
-      "sha256": "ecd2adc875e733505219ff5b81743b9adf03513c9ee91f74b5b3d3adae2e17c4"
+      "bytes": 168904,
+      "sha256": "6232ed0c89c1aa19593458147c90d31191cee7a4ae3a12f33fcf8bb4d6fdfa67"
     },
     {
       "path": "products/4in1-multipurpose-cocktail-mortar/index.html",
-      "bytes": 165418,
-      "sha256": "e07140bf6b859143a54452cf600fcf21192ad42ae4f75504814caf16877532d4"
+      "bytes": 165415,
+      "sha256": "d83b7a71ec50b4dede86cb5d4857c3521367e6f3f3cc67bcbd9012b49b2ea3d5"
     },
     {
       "path": "products/4l-8l-12l-ice-bucket/index.html",
-      "bytes": 167705,
-      "sha256": "12c8ec3c284976022f32bc580571f71b5b2e43daaf807a30b9df50bda1a1a049"
+      "bytes": 167702,
+      "sha256": "bdb87c9762038ab15de77a7ae7f2b853f5b00a5e0bfe9adbe03e8b1fa4d42890"
     },
     {
       "path": "products/5-8oz-plastic-champagne-flute/index.html",
-      "bytes": 173141,
-      "sha256": "f8e2afd2cf0bd1e08884e81cd8c0313c8916f48b362aa951846ccc3e7c44db63"
+      "bytes": 173138,
+      "sha256": "09c8fc37ee89073898d21e3e7ce33c3142105db0a7afec934643657f1e5af590"
     },
     {
       "path": "products/56-oz-acrylic-square-juice-pitcher/index.html",
-      "bytes": 168926,
-      "sha256": "92eec3e7afa46dbad90627e6fbd882c3dcb74ab2a27832b0690b62348dfa7ec5"
+      "bytes": 168923,
+      "sha256": "28279f6fbba1246046696335fa74cff832e3766227a95b9febe8e31041f993a7"
     },
     {
       "path": "products/5l-boat-shape-ice-bucket/index.html",
-      "bytes": 167754,
-      "sha256": "adf92bec845a18867ec5f5b5c01ffec2ffef42549b61132a199b5b8bf9473433"
+      "bytes": 167751,
+      "sha256": "124d2f601be3593fc69dd8223e34da8ba1f326940e346f54ac5622e2d4721d84"
     },
     {
       "path": "products/6-3oz-plastic-martini-glass/index.html",
-      "bytes": 169633,
-      "sha256": "b6492487769da2b6b105af6b691d3435dd636a5bee46f3f2f5f79da1c58bc8c7"
+      "bytes": 169630,
+      "sha256": "56154a5dec331fff336734c8525b5bace521d1905129a083d4caf6feabf8cd02"
     },
     {
       "path": "products/64-oz-plug-lid-acrylic-pitcher/index.html",
-      "bytes": 168832,
-      "sha256": "dceeb6bfc5059fa274b406b85d6ec299d715d5320e085bff91e06593338c4862"
+      "bytes": 168829,
+      "sha256": "d24da9bc0d9d56cd7a8435f670a2c4db13594daae2de20dc47f7db581dac99cf"
     },
     {
       "path": "products/7-5oz-plasic-iso-standard-wine/index.html",
-      "bytes": 169340,
-      "sha256": "c182d010d41d76bc829ca1d77af00554f54aae548929bf5a280384ba4c716709"
+      "bytes": 169337,
+      "sha256": "53f711c8a2d161e558c0dd9c7b76da517b447ebd3d93803648573b26855495fc"
     },
     {
       "path": "products/7oz-plastic-cocktail-glass/index.html",
-      "bytes": 169140,
-      "sha256": "03d30b0ab7bc90dca7afe8a74bdeb2e60a9a38eee6fbcaf95d46381e8ef2147e"
+      "bytes": 169137,
+      "sha256": "45a8623d8c197ea87bf5e9c14ee72dfccda50f465da5b357e6a493a605eaa2c8"
     },
     {
       "path": "products/8l-asymmetric-hollow-logo-designer-led/index.html",
-      "bytes": 168239,
-      "sha256": "50cd3ad923f0e8b776e1fc4e926691a218f76c1271793bdf952ebf3cdb4e8fda"
+      "bytes": 168236,
+      "sha256": "ebf231d06bb7be3770f0bf49434931e1122209df581763bab592b9b45f85b168"
     },
     {
       "path": "products/8oz-plastic-wine-glasses/index.html",
-      "bytes": 169067,
-      "sha256": "86d2fbb9de5d6c1e0e1f0d8c687b219eaf0052192c9442ab59c7af7b454a5654"
+      "bytes": 169064,
+      "sha256": "42c5288cf9a9fb402be7b4b63354047fd136756e0b0d9abc2c9bbd10480d3dd5"
     },
     {
       "path": "products/9oz-stemless-pet-champagne-flute/index.html",
-      "bytes": 170377,
-      "sha256": "bb81709683b39f34c79f3b1c874ed9600ac9c46d4b6d484bbdab5923d9fbd8d0"
+      "bytes": 170374,
+      "sha256": "cb98a97387c03cc9079ea9460c5266ca7773966cb3ad6af0b0019c092ee120f8"
     },
     {
       "path": "products/acrylic-beverage-carafe/index.html",
-      "bytes": 168750,
-      "sha256": "ef7950801c3b699065adfaccc76d0bb0f43e72d7520027ea51d8303f608bc080"
+      "bytes": 168747,
+      "sha256": "a68ebfa600563c54792e78158010ea5e96bb3a3a9de30dd3c74000c99ba3d931"
     },
     {
       "path": "products/acrylic-party-beer-tumbler/index.html",
-      "bytes": 169029,
-      "sha256": "f88854c8348030fd0902eade67468966d2115bfab910aecdbcc5da6e2a1d89eb"
+      "bytes": 169026,
+      "sha256": "2c7ddf8e457b0048d8a7b958e7919f70e49bae1fd79dbc5e5c4105d38e7010ba"
     },
     {
       "path": "products/acrylic-pyramid-jiggers-multi-colored/index.html",
-      "bytes": 166346,
-      "sha256": "34b87ded7fd2eeaf73fa62b130792da931baae330827b5eb991b93ea04420edc"
+      "bytes": 166343,
+      "sha256": "f2662986d0e65036482d7e31f729571b3683d5b036b5ec5e5307deff5e630c11"
     },
     {
       "path": "products/aqua-kaleidoscope-double-sided-jigger-1oz/index.html",
-      "bytes": 166339,
-      "sha256": "ac2aa1e3796dde87debe69a62f9816f554a4b29b46dba0b4fc6d42273700709c"
+      "bytes": 166336,
+      "sha256": "bf06b33c34aac523a74ceb20026b9a975b60d56bd8ef509799c35e97d3d3ff22"
     },
     {
       "path": "products/bar-beer-plastic-pitcher-jug/index.html",
-      "bytes": 168723,
-      "sha256": "0a23fc4838b0b51737c884d0f8a6643795e70748e696226b24b5164c7f7885c0"
+      "bytes": 168720,
+      "sha256": "f6ec5d496cc64a0f3a7eefabdab03b6dc491f1f2fd15fc63276d57672b580f04"
     },
     {
       "path": "products/bar-mats/index.html",
-      "bytes": 167743,
-      "sha256": "45765c7a50b3845f771ecbd70ff9bd094c0764ac3bc2e7975b85ccc8ed35c8aa"
+      "bytes": 167740,
+      "sha256": "285681efd6412a13ad3c15618f86b60c091ff4e95a5f58864b96d1911c7f5b13"
     },
     {
       "path": "products/bar-salt-glass-rimmer-3-tier/index.html",
-      "bytes": 167773,
-      "sha256": "b6f820765bca1df3294806731d1c12bb754c76952d60adc8c3fdf0b277abee60"
+      "bytes": 167770,
+      "sha256": "70f6ad04820246123cef736af6509f7df14d0eec08ce90987afc9e796d69d7d8"
     },
     {
       "path": "products/beverage-beer-bat-cup/index.html",
-      "bytes": 167366,
-      "sha256": "4a98f94d65ea225a8c9275309e3dfa5dba5dd6925ec48e452077b6e5f1769de7"
+      "bytes": 167363,
+      "sha256": "9fbfa18e85616dd32e34c62574fd6fb8070a12a8df6f9db31549b96fcd1ab610"
     },
     {
       "path": "products/black-plastic-ice-scoop-with-drain/index.html",
-      "bytes": 167876,
-      "sha256": "c2e146066cb51f7545033cb1f17c2796afbc9ac51c9b95e54be905315cd9bff6"
+      "bytes": 167873,
+      "sha256": "479ec3738d5619956aced77b649f5d76244c2b618739226ebe5a30a2bcfd1204"
     },
     {
       "path": "products/boston-shaker-kit/index.html",
-      "bytes": 165246,
-      "sha256": "abb1f80e2b1043ca094867833cb74adbe9477c34add5369a4cfa7e7f90d65c8d"
+      "bytes": 165243,
+      "sha256": "1216626eb681aa7d6644a9aa0865913c0865053775a3d73071eff93f28045c36"
     },
     {
       "path": "products/bottle-pourer/index.html",
-      "bytes": 167886,
-      "sha256": "7fdaf48b17c3ef0bfe2578ebfa5ee36a25f9af72a164bdbae3c8bc3e4dbf004c"
+      "bytes": 167883,
+      "sha256": "de3afd0b7063a4a3c779c96cc1dbfe3169aa01daefff95964462ade2bc6dac30"
     },
     {
       "path": "products/bottle-pourer-tulip-shape/index.html",
-      "bytes": 168184,
-      "sha256": "8c352031b277eccbd83a5b009f8733d94f20e09d44498e69c93cd331d7526457"
+      "bytes": 168181,
+      "sha256": "e6e27a654b8679974a3303c23750b049d0d1068fe361437eb1af0131172256c6"
     },
     {
       "path": "products/bottle-rack-for-6-bottles/index.html",
-      "bytes": 167742,
-      "sha256": "b4067de45ac1357fc5892a1f8fa75047c337f524940283f8e3aa82037fccd613"
+      "bytes": 167739,
+      "sha256": "6f7f032ab65b7dd235d25cbb657802caae680327ebcee6c8038674e061929713"
     },
     {
       "path": "products/bottle-stopper-and-wine-charm-2/index.html",
-      "bytes": 168187,
-      "sha256": "dca9ba1e0c9260bb27ffb3b02dd6553edce28c5ad284c14e2f61d3edc8d69185"
+      "bytes": 168184,
+      "sha256": "d8bf5206c4302dcbb2e6ba11ab82753615a69eb6685a4bb1663a692410d60d4b"
     },
     {
       "path": "products/bottle-stopper-funny-design/index.html",
-      "bytes": 167943,
-      "sha256": "c2ddbfcc97c63cc28c625aaa0ee20aed625dd24e11d299a420a25fb215297935"
+      "bytes": 167940,
+      "sha256": "c7fdd1b1803837c8b63bf234f90686c407ebe13864c8cef26f359c555cc2694c"
     },
     {
       "path": "products/burby-tumbler-with-straw/index.html",
-      "bytes": 175743,
-      "sha256": "ee9657e7894c13c711d5ca87e19be9080240abb47809a2911f05dda355fd6ddf"
+      "bytes": 175740,
+      "sha256": "63039035074a785c92822886d7d58de1ebb41241b71f45835b1e3504cba782cc"
     },
     {
       "path": "products/champagne-sipper-for-16-1-mm/index.html",
-      "bytes": 168161,
-      "sha256": "e24f61a325a01d8964c219eb71656cafbdae2e5e351087e758f9540d18140b82"
+      "bytes": 168158,
+      "sha256": "6d923f33bcfa87146eef16d9d2922699be57f0c34f1d5f6c872ef8acefee060f"
     },
     {
       "path": "products/champagne-stopper/index.html",
-      "bytes": 167844,
-      "sha256": "2818b2a02f0dc03f23f2bc78f09328e2b7cce43f7eb7f6abb892b07d4cbe23da"
+      "bytes": 167841,
+      "sha256": "09a274f968ea4eaf240dfc3838379aa26727330b723faf97619408eea68a6921"
     },
     {
       "path": "products/champagne-stopper-for-17-5/index.html",
-      "bytes": 168080,
-      "sha256": "360f141793b1b40de13d14bc61cd7865818724d28a687ea9485c31026c851448"
+      "bytes": 168077,
+      "sha256": "f2dcd3ec3d2e1468d381b22248820266a89dc61435743b517cd925932cdfc35c"
     },
     {
       "path": "products/champagne-stopper-with-plating-painting/index.html",
-      "bytes": 168334,
-      "sha256": "e6d4492faad7dacbb95c5472fccafa3b5ff09efd63cfc95e685a05ac08982b42"
+      "bytes": 168331,
+      "sha256": "5e82680fedb11004bf3b5ae3d2cd5918fa89a85d6b90f5c369031f3e79d8f1eb"
     },
     {
       "path": "products/christmas-silicone-bottle-cap-opener/index.html",
-      "bytes": 169084,
-      "sha256": "f2ebc9774d3cc2221ce6a015e55cb85099046c0c13ee3ee4e90a6f0e07992c35"
+      "bytes": 169081,
+      "sha256": "b9ebb4686589d645151aa12c921cc7f93f73f61d5cf0fda225e46d39e5aca9eb"
     },
     {
       "path": "products/collapsible-mug/index.html",
-      "bytes": 171038,
-      "sha256": "29091b051d879a17ceaeaefb96ce9073f40f9211277c3c5657faefb91459012a"
+      "bytes": 171035,
+      "sha256": "19ea2abea000908385d168d2a5758cf22c6ae9c28080a32fc30f570d3df09f9c"
     },
     {
       "path": "products/composite-muddler-12/index.html",
-      "bytes": 165025,
-      "sha256": "887adbb544823b6647ffdd3ae46ee7bf3e206d51d2fe0d947820ae8f8485ad53"
+      "bytes": 165022,
+      "sha256": "509961a1021bfac965ff801adba9bd5a0bd1f4f609a7218b8e723bd47d1d3f9b"
     },
     {
       "path": "products/corona-margarita-clip-straight-version/index.html",
-      "bytes": 168518,
-      "sha256": "46429c961d95addee71773966d11434589fa684a3f153be2d7d1f440abb72908"
+      "bytes": 168515,
+      "sha256": "b034f1139fd85e01c2673b8a4d789fd976123b3533e71fa4c6ed4da74e036faf"
     },
     {
       "path": "products/crystal-clear-high-gloss-acrylic-promotional/index.html",
-      "bytes": 168418,
-      "sha256": "82b84c88791899cb7a4263590f759c1aae5e5647005f60325bc551df1b9e50e4"
+      "bytes": 168415,
+      "sha256": "6082a6fed1f2fdf0ecb2de16270bb68fb472457f5244534e376891639fbbaeae"
     },
     {
       "path": "products/custom-led-light-up-coasters/index.html",
-      "bytes": 168442,
-      "sha256": "65ced94ea0693c1ecc9cd66599ab86ea24fc19edfc33134666ab8c21204815ae"
+      "bytes": 168439,
+      "sha256": "c8d13239f2c5a9dff4f32261aaac2c7d84e62477a78a1180f0a14673bd39762b"
     },
     {
       "path": "products/custom-molded-cocktail-pick/index.html",
-      "bytes": 166290,
-      "sha256": "705afa5e854a8f6ae313b3e44c7f2d32c26aec58afdbc173bc680cbd64d77536"
+      "bytes": 166287,
+      "sha256": "6c77d235e394248e047c5f2e482576ea1d01f085cff53023f265f8e096085bd1"
     },
     {
       "path": "products/custom-neoprene-pint-glass-sleeve/index.html",
-      "bytes": 166422,
-      "sha256": "3a9270a1ef019c788279de04b20793b4d8647905ea67b504db1105cc1c6b21e4"
+      "bytes": 166419,
+      "sha256": "8f303662e627b2655e176fcd263697ef014d7027e6c16c6690ec319610fd70b9"
     },
     {
       "path": "products/custom-plastic-shot-glass-2oz/index.html",
-      "bytes": 1536,
-      "sha256": "042099b9d5491986055cc75fd45779b08cdf89b77bb46ded0f0206c751750bec"
+      "bytes": 1530,
+      "sha256": "a214c21755f90e56db2450498e1f0359db783f46433a9cfed54346a004c50f25"
     },
     {
       "path": "products/custom-silicone-grip-bottle-opener/index.html",
-      "bytes": 168898,
-      "sha256": "f8556ab6850667df45e0ab8db919fb746269d3bb38498d8bf689eed093eb8d1d"
+      "bytes": 168895,
+      "sha256": "e4f2e4c5d175a82eba1cd8f208e38ccdc4025b9ccf15e03dbf8bbdb5061dc56c"
     },
     {
       "path": "products/customized-silicone-12oz-wine-gjb008/index.html",
-      "bytes": 169194,
-      "sha256": "829a25a929b048030a85e364fde15a201751ffa76754a24dab13d05332e3faf3"
+      "bytes": 169191,
+      "sha256": "3e57f96a69d88b16a5f9178c6fdc033f39b9531e051f2eecaa21e1f11be7fb5b"
     },
     {
       "path": "products/customized-silicone-16oz-straw/index.html",
-      "bytes": 171877,
-      "sha256": "2504d86c54f4d267990d1722f72b7593feeb25b2f6bb7d2a7a95334857f4b104"
+      "bytes": 171874,
+      "sha256": "9aca71b150878493d83e7bce644e39454c2e18f48103083d53b6b7be2875dd7d"
     },
     {
       "path": "products/diner-plastic-food-drinks-trays-410/index.html",
-      "bytes": 167193,
-      "sha256": "d5bbc0cb0729d057036210a06d085e1e6e0125c9697457285249fabada3d2d01"
+      "bytes": 167190,
+      "sha256": "e2691f025b5aab3fd78626d814b1c3e5f9e9df6d4e6781160e6f4a1f3fc1b5cb"
     },
     {
       "path": "products/eco-friendly-premium-molded-acrylic-ice/index.html",
-      "bytes": 168394,
-      "sha256": "926f09d45c722cd7521fdcb4175c475d7be7218cbf2363dd1957de0b1b68b421"
+      "bytes": 168391,
+      "sha256": "9f13702969c3f2016090a4fa17e5930d2f2224d598969e6117d46ea010a8e517"
     },
     {
       "path": "products/electric-wine-opener-s-2/index.html",
-      "bytes": 169043,
-      "sha256": "cd90248b8f874dc1a3c6ff6e0626f27f16bd8b3c7f219299f92a563ef730057c"
+      "bytes": 169040,
+      "sha256": "f81b75804fc58700699343500b3c55e98c8b0de4213f16bfeecc3fb4f1ff949c"
     },
     {
       "path": "products/elite-nucleated-polycarbonate-pint-tumblers/index.html",
-      "bytes": 171952,
-      "sha256": "98c3d91e270e1526089baae11457be4888817481a455525b7f2c4d0d4899f1a4"
+      "bytes": 171949,
+      "sha256": "ae02dc611d0d5d529a39d28a6f5671e5d38fbe737052b950e1fa4afacd109a21"
     },
     {
       "path": "products/engraved-wine-bottle-opener/index.html",
-      "bytes": 168836,
-      "sha256": "fb9185b59e99119da13120e540d0fb88c57c0331e9590fcd569d2e232cad5994"
+      "bytes": 168833,
+      "sha256": "25daaddac4223fcb7db32ed223ccfce67410cb06037156298138c2445ba8ffb5"
     },
     {
       "path": "products/full-color-collapsible-foam-can-cooler/index.html",
-      "bytes": 167453,
-      "sha256": "f758679481277319ee551fcf497d9f1fd2e8707a0854770330ad040f9bcb7776"
+      "bytes": 167450,
+      "sha256": "7eed6ca82b31ce29fc944f9ebd4f46d750ddc02b1a00abe818ddab7e2125dd55"
     },
     {
       "path": "products/full-printed-cold-cup-16oz/index.html",
-      "bytes": 1500,
-      "sha256": "e2e737353c76ab95bac56faa992ae5e087c2ab9dc2595986c245a1648f14b8e6"
+      "bytes": 1494,
+      "sha256": "aa7a320820a902b4f87f6b9463b1393af6ce3551e967e8f6bc7149a4630ecf88"
     },
     {
       "path": "products/goose-head-manual-wine-opener/index.html",
-      "bytes": 168120,
-      "sha256": "dfc94168452cb3217126b8fa596862fde135adc07ff8d2ca7139eb51d79b03d4"
+      "bytes": 168117,
+      "sha256": "c0e0643fee02f05b1c38f8d0db9653a2c81f5584fff30e26d2c0e062e7367cc1"
     },
     {
       "path": "products/hawk-wine-aerator-pourer/index.html",
-      "bytes": 166304,
-      "sha256": "55f1a425d2b7aa0dfd6f866fc32bb549be0f514f1ae589927c9f74cc22e74b0a"
+      "bytes": 166301,
+      "sha256": "e9ae81e6ef91194ee6f4c174ec4d4c34b596f4dc0ea34b3521c2de60d3bbc330"
     },
     {
       "path": "products/high-capacity-acrylic-ice-bucket-with/index.html",
-      "bytes": 168196,
-      "sha256": "05d8218bb5a3c7b3fd024c1e8c90603a16911378733a5a5b2df35b6138b3d82a"
+      "bytes": 168193,
+      "sha256": "5f646ccf289ae3cb88b0f73a5279dcaf787dfce9bbe377f8680ce2ee5b5d4c7a"
     },
     {
       "path": "products/high-transparency-round-acrylic-ice-bucket/index.html",
-      "bytes": 168441,
-      "sha256": "ef1f21c09d40a94317be917e048d8694364274d337377035d40152ee8c5836c3"
+      "bytes": 168438,
+      "sha256": "ffc29c7f235d7a06b0d9dee958c3caf948a7dcaab08be1830f67d654aa915bf7"
     },
     {
       "path": "products/hydaway-collapsible-pint/index.html",
-      "bytes": 171488,
-      "sha256": "89b79042aee9105fd2c61974944ca6713249fc1b876d85f045da883fa07446b7"
+      "bytes": 171485,
+      "sha256": "a8771839434695649ff55bdc0719f37080082e0b6edc9e169a41c00a9c852853"
     },
     {
       "path": "products/hydaway-collapsible-tumbler-with-lid/index.html",
-      "bytes": 172252,
-      "sha256": "c1667fc61fe8ae0bd009e26f6b33b6d609c9e52f29d859776a1f1a6e355f3b6f"
+      "bytes": 172249,
+      "sha256": "884944ce6604186f907e0a4bf59cff58ba2170dcfda64d117075481a5c98c82c"
     },
     {
       "path": "products/ibiza-round-non-slip-drinks-tray/index.html",
-      "bytes": 167175,
-      "sha256": "7f1f70d11d35b3ba8b710d286e41a2da5fc5d69ff3b09e8dc63d7a25c375a810"
+      "bytes": 167172,
+      "sha256": "ea2f5a8f4373ed4361209dd01d39aa37b1d8e8db96b665683f602536d65bc984"
     },
     {
       "path": "products/ice-tong/index.html",
-      "bytes": 167178,
-      "sha256": "5493755670ac4891e84c99359c75fb664b19752e6588c3505e5708e92ba2e82f"
+      "bytes": 167175,
+      "sha256": "57abd88669324b1888b4cf683a9053db3a78cecc98ba2eb4556e9137d060d689"
     },
     {
       "path": "products/index.html",
-      "bytes": 156063,
-      "sha256": "6a8f82b39a230e1c08395841e36faecfb9ea77551e2b98cf146a74f781aa8571"
+      "bytes": 156060,
+      "sha256": "239761566e6b3d6255aec1598466ef6c211728510c5f6c6ab91097857e0a769d"
     },
     {
       "path": "products/interlocking-12-x-8-glass/index.html",
-      "bytes": 168023,
-      "sha256": "9543339eea57ac99e2ada6a0e2862c047977c409c923a9d807bcbf2a317dae07"
+      "bytes": 168020,
+      "sha256": "1cb0633f65d4b1a24f1eb498f436f789e84e6b06f15e6a674c6713ff2b4603a9"
     },
     {
       "path": "products/iridescent-light-cup-led-tumbler-17/index.html",
-      "bytes": 169387,
-      "sha256": "c9da1f672eefd59e7e2593cb7547a38329311e54f92ad4ce68020c8812eed7a4"
+      "bytes": 169384,
+      "sha256": "28d748f6a728c469bdc298bd7b5533425a15688416acc826cd704901160b8910"
     },
     {
       "path": "products/irregular-shape-led-bottom-lit-ice/index.html",
-      "bytes": 168166,
-      "sha256": "1133173993ea756822eed5f32620015678fa9951818a7c1ad2270ec04e65e0f0"
+      "bytes": 168163,
+      "sha256": "bf7d895a162f216c5ba8ea38bb8dd4c04d2fbcbdf5fb176ecfed323fa5778ce9"
     },
     {
       "path": "products/katerglass-plastic-pint-tumblers-22oz-lce/index.html",
-      "bytes": 171410,
-      "sha256": "0c0ec61d30df7131618b5da47708a2323ff40aee1b08ff88e7dcc9c13b44b02c"
+      "bytes": 171407,
+      "sha256": "2cc7a57a168794d7b3b03f09b338029069a6255510bb057baf495ed6ddd99c83"
     },
     {
       "path": "products/keychain-bottle-opener/index.html",
-      "bytes": 170485,
-      "sha256": "ec218a5457dff608d19d425ccf9cc6034820cd9b84c187451e8d745cad856507"
+      "bytes": 170482,
+      "sha256": "31bf8504ccb7b9da1bcb06397a756b8d69596856b5da767b807489ceeb371086"
     },
     {
       "path": "products/koala-shaped-silicone-wine-glass-charms/index.html",
-      "bytes": 168163,
-      "sha256": "6329d206e4e47b78432416c4a4154132c5e45df916761ce41a07823845c1387a"
+      "bytes": 168160,
+      "sha256": "112e618741cafcfdfdd83ac770411d37d4e55d136b4fa0397a66a3a2f557e077"
     },
     {
       "path": "products/large-capacity-acrylic-ice-bucket/index.html",
-      "bytes": 168096,
-      "sha256": "433e40754b670a4ed873fdc589e324291884a80de205b96aa65462bd6e76cc32"
+      "bytes": 168093,
+      "sha256": "e4e754289220b5d5132f009bf442cedc050cec56898d28998a0b8769611d6b7d"
     },
     {
       "path": "products/led-disco-ball-tumbler-cups-deluxe/index.html",
-      "bytes": 169915,
-      "sha256": "b6114210acfdfbcdf7167c1d6499c3b4194e516c71eb854254f59d5da28681a5"
+      "bytes": 169912,
+      "sha256": "c81cca07a08d07f9adffd041090406d467ac34db5a06855e32b9b282a700fa8b"
     },
     {
       "path": "products/led-light-up-beer-mug/index.html",
-      "bytes": 169738,
-      "sha256": "c42317c2428eb0c08aa62e61d09eae0db2bb588e6a94f2b7504066b9c2989c7e"
+      "bytes": 169735,
+      "sha256": "8aa60133663cb0622c5d3ed4ced2ea8e15171d61e99bf6a8d0628a09ca1fecd6"
     },
     {
       "path": "products/led-light-up-color-changing-glow/index.html",
-      "bytes": 169244,
-      "sha256": "a346ea6ce6019bc88bbe0ea74afe8e2cdb88c0891ec71b2af77a8014a4afd808"
+      "bytes": 169241,
+      "sha256": "abcbc2f2a0e2ef6378981d0f98fe186150454b2fc776e1afaf3fd84632f0600f"
     },
     {
       "path": "products/led-light-up-ice-bucket-with/index.html",
-      "bytes": 168441,
-      "sha256": "5cf8bf4724ea3379658e420f95ce9cfec1b1d21387eb5447ee372e6757a09905"
+      "bytes": 168438,
+      "sha256": "b6d1dace4814adaee6db6ad90bd647804d0f3e242e81bfa6b3aa73dea5346c13"
     },
     {
       "path": "products/led-light-up-multicolor-whiskey-glass/index.html",
-      "bytes": 166259,
-      "sha256": "015fd6c1708d9d8b4bbfcc20d0bb427041184d235261a9a30bcbeb6c9afbd206"
+      "bytes": 166256,
+      "sha256": "62aecf7eaddeddcc0c793dd462732e4f242472c2a90809bf8f513c6cf60befaa"
     },
     {
       "path": "products/led-light-up-spiral-stem-martini/index.html",
-      "bytes": 170098,
-      "sha256": "fb6b6ae8f741a0e8b5540b7fa149d21a060064f85175b292466020c82979e027"
+      "bytes": 170095,
+      "sha256": "52aebcc3e2f3bde9f8241c0bcd41020fcdd13c9af85accdcf4e64946a4580f99"
     },
     {
       "path": "products/led-short-tumbler/index.html",
-      "bytes": 168995,
-      "sha256": "6b66230e25b9e4fb2d1e730ac845d3d8cf5a4b37e70de1a5c4f935a06540db6c"
+      "bytes": 168992,
+      "sha256": "82a4280661f372d97ed39c68e957954e4f38a8a3a0d586cc2fb762b7f922567b"
     },
     {
       "path": "products/light-up-beer-boot-mug-led/index.html",
-      "bytes": 169700,
-      "sha256": "b6f61ad04bfdefe4fbc68f04f6ff7f19120fd808425e1bd0b18f8c23d812aaed"
+      "bytes": 169697,
+      "sha256": "a22f4d4c723027f8d82b1ad63b27d0f8e4224f59ccf741572420ee1feb7d2751"
     },
     {
       "path": "products/light-up-disco-ball-light-projecting/index.html",
-      "bytes": 169500,
-      "sha256": "f68db6fd3c04c4d4f97863a6f594d1d7d6220330043d3d1e55159113cd3e106c"
+      "bytes": 169497,
+      "sha256": "5bee79fa9b25cf441c9cdbc3af68f56f6e4b5fb61eba53f16d84ae088513db10"
     },
     {
       "path": "products/light-up-multicolor-led-pilsner-cup/index.html",
-      "bytes": 169771,
-      "sha256": "19ba500f4ce6a85ed6099f3bca21adac10b3ef2d65f8899c06b9459b32311ecc"
+      "bytes": 169768,
+      "sha256": "6d4c5f1c3a49fa59ecf29bff3d966e17ca00d875cbe06c3195d60b7cd4be767c"
     },
     {
       "path": "products/light-up-slow-change-led-shot/index.html",
-      "bytes": 166662,
-      "sha256": "f007314c5b93c8667ea283a797984398d148e6a3368d3c8ea8f530c79f3ab552"
+      "bytes": 166659,
+      "sha256": "42d1321cde0dc32b9f1f339a06688f1d40199d709a06434286ae8ccbb2f604ef"
     },
     {
       "path": "products/long-stem-led-light-up-champagne/index.html",
-      "bytes": 169446,
-      "sha256": "56d56a17dabdcff2893f8d784995989710332ca15ec3403c0d5b616822cbba0c"
+      "bytes": 169443,
+      "sha256": "6c17b08824651c6b4c85be11a5210de8b8fe439705e295546e3f7506959e3f8e"
     },
     {
       "path": "products/long-trail-70oz-plastic-pitcher/index.html",
-      "bytes": 168819,
-      "sha256": "926a7834bbfb896e440605a747bb8a6e4711833a4101975dc3e791d17407a8d9"
+      "bytes": 168816,
+      "sha256": "3e33c108a28d06d45ef461148aa9d201a94e34d5cc714e66ddce3eacc69d4b84"
     },
     {
       "path": "products/manual-wine-opener-kit-s-4/index.html",
-      "bytes": 168297,
-      "sha256": "f6ea3efa6aab0e450a361d222a5389e990283186b9358f462a61acfe12716465"
+      "bytes": 168294,
+      "sha256": "31759379be77f4ca392b68272701eac42e654496c863bc6de5482eeb44459a3c"
     },
     {
       "path": "products/margarita-cocktail-drink-pitcher/index.html",
-      "bytes": 168865,
-      "sha256": "9ffa5609a46e65b68bc271b141fa1a21a0c5bd24b6b6129ae865d1ffcae1e0cc"
+      "bytes": 168862,
+      "sha256": "ff2637091b48fc4a831a9551862ac2c8deb7bd5a21d6e2bf488b1fd7be896350"
     },
     {
       "path": "products/metal-beer-opener/index.html",
-      "bytes": 168500,
-      "sha256": "012517ef73bd4b20a3c92a5fd7931fd11e223ebdde058c9b4f4a69cdb9b4d955"
+      "bytes": 168497,
+      "sha256": "203fd48e1eced99f12fe97c83c7f949e872574bee3f0318f2e1cffdbad0eeff3"
     },
     {
       "path": "products/metal-pocket-bottle-opener/index.html",
-      "bytes": 168721,
-      "sha256": "66295fd854f6d31e30320ef85f9083f98cb107672c637c01aed852079bdd2d9c"
+      "bytes": 168718,
+      "sha256": "22b6ed27a09fa02004c65983ceaf5a3a2b1dd718c01a2153d693af427ccf1d0d"
     },
     {
       "path": "products/metallic-lustre-touch-asymmetric-acrylic-led/index.html",
-      "bytes": 168351,
-      "sha256": "2a7f7076eefffcc0044f00a3174a3a92b0c81ec15e027672f2ac3df5c824ae44"
+      "bytes": 168348,
+      "sha256": "f6a630c2af5589bdd18ccb3c33863277677ae7d1138c28714baa69a486e538f6"
     },
     {
       "path": "products/moet-champagne-ice-bucket/index.html",
-      "bytes": 167948,
-      "sha256": "6833c744f6dfb9ddb5b8ee58aa3e9e7b85d38a326b13bf3e0a37578e12d9fbf7"
+      "bytes": 167945,
+      "sha256": "041a5d76565f84bbe8d1f5bffc8b5a084bea8802eada2159491afee6836c3959"
     },
     {
       "path": "products/moet-sipper-with-moet-logo/index.html",
-      "bytes": 167954,
-      "sha256": "321d2daca9907a612cfcd084b7571177410b92aee4dd0a103981e1696e814622"
+      "bytes": 167951,
+      "sha256": "cb9795fc0eca182b42b8064866c7cb03da91dbb648dd96b9819e38edf1f3672b"
     },
     {
       "path": "products/molded-swizzle-sticks/index.html",
-      "bytes": 165220,
-      "sha256": "261da7e9cfa083b7b42c2d88b9d59df4d764260550a25a6a08e90a0f6a11cc1e"
+      "bytes": 165217,
+      "sha256": "f9eb2438799365601cca629ac91535ae23919cf01c79b17cb753453bfb22364c"
     },
     {
       "path": "products/multi-color-light-up-led-mason/index.html",
-      "bytes": 169326,
-      "sha256": "e177778574e4ecdaf14631f32e4ffaa1023b6a7edc871e358377cd1f87c9eef3"
+      "bytes": 169323,
+      "sha256": "97b15a6374047436b1338df47942dd8b6b945d77b319668c16df05d805262e79"
     },
     {
       "path": "products/multi-purpose-cocktail-spoon/index.html",
-      "bytes": 165179,
-      "sha256": "85c30a14eec31ff54bb2d2f8ad23b452650b88fb7ecf0cca69243e2c6c23cef5"
+      "bytes": 165176,
+      "sha256": "1463624b1e3c3517435d394f568b553f18653c94f161511cffbb601f58c825f6"
     },
     {
       "path": "products/multicolor-led-light-up-ice-cubes/index.html",
-      "bytes": 168043,
-      "sha256": "9f96ab79e6c67ee475088bf96a7f4df54fc239792ae2ded9c233d06bd8d538d5"
+      "bytes": 168040,
+      "sha256": "1140abd946771aca80b9c84d9aefdf27733616cd1e38598f900e725afb8c4878"
     },
     {
       "path": "products/multicolor-led-light-up-to-go/index.html",
-      "bytes": 169746,
-      "sha256": "86124cdf36b2874e45e0a83909c0d9ed4b6752fe47424990de21677b44a75295"
+      "bytes": 169743,
+      "sha256": "6343025bb00b7c6a16f547d3b6b51404e72a3cdf6a6c42907471548095c07d80"
     },
     {
       "path": "products/multicolor-light-up-spiral-stemmed-wine/index.html",
-      "bytes": 169352,
-      "sha256": "e436bacb360fd8d73079dbd36cf3f4a8761a49e2ab35fe75c25ab3f3092052af"
+      "bytes": 169349,
+      "sha256": "707c4cdafc29ea98aed28d86298c620c865d9b202aade906e7ca03fc83453cbb"
     },
     {
       "path": "products/neoprene-zippered-bottle-cooler/index.html",
-      "bytes": 167976,
-      "sha256": "236652efa603e60633f383e4e9fba678e9014dc5c395ea4e6751e7d706606fc9"
+      "bytes": 167973,
+      "sha256": "a16a8dd2ad750bcd38f9957891b52e99ccf3d87c87af1409e61961b337f1d2d8"
     },
     {
       "path": "products/novelty-ice-trays/index.html",
-      "bytes": 167561,
-      "sha256": "d428bf68f23427c239e5ec7cbbd94cb1ddd8baa4f642fdbfcbb8197fb79309bf"
+      "bytes": 167558,
+      "sha256": "f03895550a56fda330b361652c340f7219c10a88e4b3278d46b86779cec2946c"
     },
     {
       "path": "products/oliver-acrylic-mug-with-straw/index.html",
-      "bytes": 167470,
-      "sha256": "ba1a7f9782b76a789b1ae400b0dc397f5ea4553445ca1584c6bc2428a8cbb128"
+      "bytes": 167467,
+      "sha256": "abe9cab067611ce02d5165069f025fbcaef8b0e837e6b739121b623e4a6f118a"
     },
     {
       "path": "products/plastic-beer-opener/index.html",
-      "bytes": 168598,
-      "sha256": "cdb971df5424b2e1dde4bdf4b41a0e107952b3ef3a81adbaa43cd920d442b7ae"
+      "bytes": 168595,
+      "sha256": "c9749447bfe1fbfde44911756e0f0cb86bb9d536ea03a9c271458d58532c5334"
     },
     {
       "path": "products/plastic-ice-bucket/index.html",
-      "bytes": 167779,
-      "sha256": "88050770e99e2e5d8b28a7936fb52b4af761530ca8c5d59fb7c683f97b546618"
+      "bytes": 167776,
+      "sha256": "62a6adcb5767a6d049221e1ca5efc3781dd53b5fad4e3cd470d9e466fc6ca2a5"
     },
     {
       "path": "products/plastic-jiggers-with-measuring-lines/index.html",
-      "bytes": 166389,
-      "sha256": "4b5975f4af8efeec140a47b39c271eef228891bae03644b82c51c55e1c6332f1"
+      "bytes": 166386,
+      "sha256": "d17426a322b1c2139b5c36cdb7c1d27bfc0449961ebda6eb625514b622219005"
     },
     {
       "path": "products/plastic-wine-glass-with-gold-rim/index.html",
-      "bytes": 169440,
-      "sha256": "609988e6c85f304ca664f8c28d6ce7a527355426285925ba716640747d6f556f"
+      "bytes": 169437,
+      "sha256": "624f68a6298f1975dd1d96bb1ea19b9d895fb89f6b268ab4d59e1305c9c6a048"
     },
     {
       "path": "products/plastic-wine-goblet-with-gold-plating/index.html",
-      "bytes": 169557,
-      "sha256": "dd3330557bdf267a76f2e691b44281e180bc514311de43bb503ed40b48aaf049"
+      "bytes": 169554,
+      "sha256": "3ab1c64fc61f3fe3ad6c8967fb73faab552811ec1e6c40afaad0b22bfb7ca5a0"
     },
     {
       "path": "products/poker-card-bottle-opener/index.html",
-      "bytes": 168701,
-      "sha256": "fa61f8102eedc5b0a003bf45ac5bfbff09d65d8b6f2894fa5359ee7496509359"
+      "bytes": 168698,
+      "sha256": "a7accf85fb66f3bf60cd07da7bc56550af607509622503ee6a5291f069b60fd7"
     },
     {
       "path": "products/purple-led-light-up-shot-glass/index.html",
-      "bytes": 166787,
-      "sha256": "21c62d6e3526261bc4c1a46895c324626a392123df921ad245a2c5db0a5e9bdf"
+      "bytes": 166784,
+      "sha256": "33c17de39fb0768e3fae19090ad0508c662f46fd13c9308d97cb4d6cb7b82e4f"
     },
     {
       "path": "products/rechargeable-wine-aerator-dispenser/index.html",
-      "bytes": 166424,
-      "sha256": "6e1d680519144294e34a2dec528ab9b30c0167a7f640cc4686f3852e40d04a51"
+      "bytes": 166421,
+      "sha256": "fdc817be9c53806d3fb16ac37d43d8f4a4143272c3e985a0aaca4adac119cc53"
     },
     {
       "path": "products/rechargeable-wine-opener/index.html",
-      "bytes": 170567,
-      "sha256": "ed30551c06134c70d74dc5798ce679dde70039fd6f1f33299d8dad809c01bdce"
+      "bytes": 170564,
+      "sha256": "187ad284d2cd413af810fb15630a5b3a6b442382cc3c51cb5fac46a560f2e6cb"
     },
     {
       "path": "products/roll-on-silicone-bottle-beer-rubber/index.html",
-      "bytes": 168104,
-      "sha256": "e08ce51ba86cfd3c36c6f331beb76e6948893eebce1449e8190feec64420a484"
+      "bytes": 168101,
+      "sha256": "0f13e5913c858b99d5b42a5cb956cae7c9bc4eb1d8cc5a5b0c855ac24f910685"
     },
     {
       "path": "products/silicone-1-5oz-ljb001/index.html",
-      "bytes": 170992,
-      "sha256": "4a665b76428ac3794c98306565118425e7fa339c8806bce10d4ee83bdfc4b3a8"
+      "bytes": 170989,
+      "sha256": "00ff8d9b899da4c43d85352c1f4490679affa4f079427e4e468d1405befa6129"
     },
     {
       "path": "products/silicone-16oz-siliparty-party/index.html",
-      "bytes": 170123,
-      "sha256": "bac46436a8dd9b4bac5eeb4af0e10fd0acb8f8cd3232dd40024518ec4c0091c5"
+      "bytes": 170120,
+      "sha256": "36643eeed65042192d33c1a34e2e9a04f07b45f12b016f2f63aa2c9ee8e1ebb2"
     },
     {
       "path": "products/silicone-20oz-pint-glass/index.html",
-      "bytes": 171630,
-      "sha256": "e75f6861cd74d86b62d78775893d8d2ce431015833f5c8154f86b7af86fbc63c"
+      "bytes": 171627,
+      "sha256": "cdb86336a1b4e40cc4052fd2eb322683699ea6ff0b92f1fab14855b1ebc54a28"
     },
     {
       "path": "products/silicone-25oz-handled-barrel-bpjj005/index.html",
-      "bytes": 171387,
-      "sha256": "acc3eb3204d80138b4538466796ce3018f643694e7ee6ba04720f0d5a2757f4b"
+      "bytes": 171384,
+      "sha256": "0c511e387b96a066cd8944d3c4efc07261dfaa7f895dd830c17277c5f28a9dcd"
     },
     {
       "path": "products/silicone-28oz-beer-stein-gjb016/index.html",
-      "bytes": 170938,
-      "sha256": "6a02e7f78de116e734fdb8bbe504d64a73f56da69eaa48e37267c0e9b991d495"
+      "bytes": 170935,
+      "sha256": "4fe7d93ea0be26db598221808799918b5aba9125fa95fd2f0ed870f4722434f7"
     },
     {
       "path": "products/silicone-2oz-shumbler-shot-ljb002/index.html",
-      "bytes": 171491,
-      "sha256": "5cb7f221c3cd1c833f6b4dec9e28b85f097ed14ea1dae333e205fa4f0bc0cc90"
+      "bytes": 171488,
+      "sha256": "4745c6df355f70e4d72e0007acd6c9eebf700761cd43afd46aac6569cad2a955"
     },
     {
       "path": "products/silicone-32oz-bomber-cup/index.html",
-      "bytes": 169965,
-      "sha256": "9bfcad72bd9fb72097f75b857db3c8aa98e10ef8f90e20747ab0cf9aac3b3576"
+      "bytes": 169962,
+      "sha256": "0641ef8983350ee055087fb2736e573148c338c33059beff43e09a779abf3ab6"
     },
     {
       "path": "products/silicone-6oz-flight-taster/index.html",
-      "bytes": 170043,
-      "sha256": "692d08876c7dc20ff040db16be6136e419e8044bd6d7e3d9db99246cdb694f23"
+      "bytes": 170040,
+      "sha256": "8145cfbc9ef1da25cbcc4f4959ad33351be839cdedf8a1d9ae1e00f21ae79501"
     },
     {
       "path": "products/silicone-coaster-gummy/index.html",
-      "bytes": 170041,
-      "sha256": "855d4b6712865a883ae96823e89aa8db2165fadcc4fb7c5eabf00438a5c45f13"
+      "bytes": 170038,
+      "sha256": "c921dea8b448b6b9abf3fadb511600ee201278b1db2291dcfe155c71064c0081"
     },
     {
       "path": "products/silicone-coaster-jelly/index.html",
-      "bytes": 169384,
-      "sha256": "df17403891b1ed4cec60f798651ad0f7948ab8af7650e5982a4b4c7b6f3ed863"
+      "bytes": 169381,
+      "sha256": "c155d2c5433f29459fb7b205bcf650680e24eea586a66ac63cc6d3b61dacda32"
     },
     {
       "path": "products/silicone-drying-mat-black-12x16/index.html",
-      "bytes": 168141,
-      "sha256": "2c696940e4f091b9914e2f121cab5303ae62cf816d6cb26824032969e7ea4393"
+      "bytes": 168138,
+      "sha256": "07965a0c50cb59cd1c67089bd47f928b633bd28aacec8831bfb9d61e4c4d2d3f"
     },
     {
       "path": "products/silicone-lid-for-ice-tray/index.html",
-      "bytes": 167702,
-      "sha256": "9a1a20397099768c9eb74ba0e73183008ef0ac62550b0f625076731fe6cd8b5a"
+      "bytes": 167699,
+      "sha256": "7048039cf814d3cd873700b1d2f7feb72e5bce7ef0510f157e0933d64839e92e"
     },
     {
       "path": "products/silicone-sili-straw/index.html",
-      "bytes": 166723,
-      "sha256": "5e1a929cf6b2d0714728b3240849833d938d313271e69582a9dee2bb874c6e64"
+      "bytes": 166720,
+      "sha256": "ca89af9f44fb4d400c44a1b74ebfd7061b5d77dd5c5979a8f8bf72447e0f2c4d"
     },
     {
       "path": "products/sipper-pourer-universal-ver-for-16/index.html",
-      "bytes": 168556,
-      "sha256": "fe69bb040fa32fffe9b8424348a750e640cd9b538e77c9bee2c1c052b5de65fc"
+      "bytes": 168553,
+      "sha256": "36e52565fb8595eeb0ddc186526d21a08ff316fb75c08c2fbd9de89c4cdcdba7"
     },
     {
       "path": "products/sipper-pourer-universal-version-for-16/index.html",
-      "bytes": 168554,
-      "sha256": "fbd12041319a431e157d6e6d4690889747fe67425fce17ec6a8579eabe153a8d"
+      "bytes": 168551,
+      "sha256": "2eeb47be3016d41786c5b8bbe7abdbcc595d74b68f7fe9e194307e22dda2d94f"
     },
     {
       "path": "products/slim-can-silicone-sleeve/index.html",
-      "bytes": 167284,
-      "sha256": "eae65210344eaec8f8994b6c660c63a77f068c13c64dcaa7d3ec0ab3855877d6"
+      "bytes": 167281,
+      "sha256": "f29c4374cc8bfb6ce064f05c1c8ba8b920e773d7eb28b39495c2acd362af6841"
     },
     {
       "path": "products/sports-ball-cocktail-pick/index.html",
-      "bytes": 166563,
-      "sha256": "e1dd70e624bec3c1ba45abc31f687fc9164661d4de61961c7177056f3c22facc"
+      "bytes": 166560,
+      "sha256": "a76e7baa686e1af3ee22e4d8f63a5cc780dbfb056eb642bf113ff65842ddd8be"
     },
     {
       "path": "products/square-acrylic-ice-bucket-with-lid/index.html",
-      "bytes": 168119,
-      "sha256": "a0c64f84f2d40ff1337852f4e0637f31c41fd64950603132cf2180d30c49dbc8"
+      "bytes": 168116,
+      "sha256": "191db4b28ba1aec763d3bc416fb5be49f00b6e162c2a771a9f52dce086e1ee3b"
     },
     {
       "path": "products/stackable-beer-stein/index.html",
-      "bytes": 167529,
-      "sha256": "6967c0b9e17afdd6b513a9128b9160abfd3b5cbd7e3103f619eeb29f34cc313a"
+      "bytes": 167526,
+      "sha256": "f7cd688173c4ca2c8b322b709d9308f01d1e9b15301e9d58d7908b7b90d3e8ac"
     },
     {
       "path": "products/stackable-plastic-pitcher/index.html",
-      "bytes": 168690,
-      "sha256": "a660b1fa9bc85e19910502864fb71e378f29032d0c663b6ae15c72de3286ca89"
+      "bytes": 168687,
+      "sha256": "0facf917b43bbc540f5f2575135ce3e5eda069e564942ac1a1732a0afaca900f"
     },
     {
       "path": "products/stainless-steel-credit-card-bottle-opener/index.html",
-      "bytes": 169130,
-      "sha256": "1769e78f8108bc5f8fa4a6a2801874255f6164d40b14368ca1b31a9eaca865b8"
+      "bytes": 169127,
+      "sha256": "5da5e79287dfbca6e50daf5508a2fa0686d634b9824791d62622ff46beaf2b75"
     },
     {
       "path": "products/stopper-pourer-2-in-1-with/index.html",
-      "bytes": 168377,
-      "sha256": "6e97d638f5d6f064d53dabc0692e57010edffdfb4a6c29f3a8c4a84dc91c1c0f"
+      "bytes": 168374,
+      "sha256": "d18ea06915e2dc4ea1852cd2ecaef73332a1ab922d75d1360aa4cb3dadeb006d"
     },
     {
       "path": "products/translucent-frosted-effect-acrylic-ice-bucket/index.html",
-      "bytes": 168384,
-      "sha256": "a04c9d61e0d549f2e7c4e7c6373485d0bfd36be28e91760b18d91a89acfafbea"
+      "bytes": 168381,
+      "sha256": "ecad0fcd10ba58af9f3a088ad266ba0b55493020b6205d5109a3a24e6a692912"
     },
     {
       "path": "products/traveler-double-walled-wine-tumbler-by/index.html",
-      "bytes": 169918,
-      "sha256": "8fe3486d52c0db5c0dba0b2b979acc74708d43a9afdaace3fa7237c8dd0488ad"
+      "bytes": 169915,
+      "sha256": "0c89ceaa764f5c76bb29c63a8b91bb73d4c15d9540394bc5aea8ac5f0ccf388e"
     },
     {
       "path": "products/vacuum-pump-4x-stopper-s-5/index.html",
-      "bytes": 168021,
-      "sha256": "5d73ceca2a5ddefa8a69c80d5ba8f1ba7237f4d520e6c25845b1790056b1e06b"
+      "bytes": 168018,
+      "sha256": "d0db70e49c7d61df02f85c97413be410cfb21878b10831a9bb29dac76f09a8e0"
     },
     {
       "path": "products/vacuum-soda-stopper-pump-air-in/index.html",
-      "bytes": 168093,
-      "sha256": "5f1f82a122138e6dcf4e4c2c2a6ec9d9e2e74509a724657534b047dab5cb716a"
+      "bytes": 168090,
+      "sha256": "819694ce2114cd84154dfdbe50c5b1243508d07461efcdc72ccf4ca49b530e3d"
     },
     {
       "path": "products/vacuum-wine-stopper-keep-fresh-7days/index.html",
-      "bytes": 168145,
-      "sha256": "4af29699896e847ab17f6e3ec0a23cd4018535477109bc2c943c83171e28e4f0"
+      "bytes": 168142,
+      "sha256": "67a018e0e264caf0398d391a5fc2dd8fd151655ad1774c2be5ae12524e0f923b"
     },
     {
       "path": "products/vacuum-wine-stopper-with-31-date/index.html",
-      "bytes": 168077,
-      "sha256": "7cc00dbb9797dc84a33ecdb1e91c42732ba643a24b2dd76a1b6e6f5d34bea777"
+      "bytes": 168074,
+      "sha256": "563d8a262dbba2b1b75ff31d21a6fd3da42fbba329e10c3c955733da2c25a7e6"
     },
     {
       "path": "products/white-led-light-up-ice-bucket/index.html",
-      "bytes": 168435,
-      "sha256": "c62c889ca5c26eadced32f951263f28e0e59d914a31b06cf1b370fcedd4bd621"
+      "bytes": 168432,
+      "sha256": "971429fecd50f14d45e3caaf8973a26c0ab6244451f212fc8e7252eaa97d3033"
     },
     {
       "path": "products/wholesale-acrylic-martini-glass-8-5oz/index.html",
-      "bytes": 170878,
-      "sha256": "a16c24e89b30a457ff83910192084b8ba032abb662ba75f20144b82fde119a57"
+      "bytes": 170875,
+      "sha256": "49173a78ef72c84427d8342af1db4a627fd4ccce26a1efe4b28e45e1fd078984"
     },
     {
       "path": "products/wholesale-bar-service-mat/index.html",
-      "bytes": 168027,
-      "sha256": "e61f981d39aacf62febf9a5cecf5b0d039d4fdd057c4e72cbef4e4aea3593c9a"
+      "bytes": 168024,
+      "sha256": "8a86d817d50a11d63388fb1c727d470e6921460d09760119d649e7a822cf11fa"
     },
     {
       "path": "products/wholesale-go-anywhere-red-wine/index.html",
-      "bytes": 169272,
-      "sha256": "557a11b4eaa7166de77e2286079c955cbf87a299b1916cfc417677b94f245c1a"
+      "bytes": 169269,
+      "sha256": "00f1c71e2676c7a2ef785e06800f3d99f93e8edb12ec1405fd6f366d4e883102"
     },
     {
       "path": "products/wholesale-outdoor-red-wine-glass-22oz/index.html",
-      "bytes": 169489,
-      "sha256": "a2ffe411f72f22683d6e509d626ed1285128dd745437a72ae93b6b3751797501"
+      "bytes": 169486,
+      "sha256": "df289d720d591ebd77c4eb60e9ab2ed24a472fea7b66dfea7a5e7bb1f2cb3849"
     },
     {
       "path": "products/wholesale-plastic-flute-6oz-champagne/index.html",
-      "bytes": 171529,
-      "sha256": "ea496e23a363327a54e539a0f1c599a601eecbec68c2077f7cdf2a04f8c226a5"
+      "bytes": 171526,
+      "sha256": "7ebf90954eae3853fdc7d7b85b0d7d0c56c55aa61f5be703a032b91c224476f9"
     },
     {
       "path": "products/wholesale-plastic-stemless-wine-glass-12oz/index.html",
-      "bytes": 169310,
-      "sha256": "046bb88ce66ab2dc874a683732fb308f77abaac8410786c8209e76f52580c337"
+      "bytes": 169307,
+      "sha256": "87f064b32a2991b7f752727486a5c45b7c417e30765265a842a618a44cfd2e82"
     },
     {
       "path": "products/wholesale-standard-acrylic-wine-glass/index.html",
-      "bytes": 175341,
-      "sha256": "9fba0f62c7ed464a35ec360622ede30249c60e5dbf4447a746808e01bcb5234e"
+      "bytes": 175338,
+      "sha256": "07e1ac18ecf6c1e20076acc1aebcd85da3610b79040dbceac09f4cd9ea855f3e"
     },
     {
       "path": "products/wholesale-tritan-martini-glass-9oz/index.html",
-      "bytes": 170309,
-      "sha256": "00e4f8adcc65a6b6d0eaaf6fcfd04b304fc6da577807d7f98253130c99edccdd"
+      "bytes": 170306,
+      "sha256": "a00023ec539f6583ee6787735dbbcdf560d94bab1311727bf61b2ef1dc3d060c"
     },
     {
       "path": "products/wine-aerator-pourer/index.html",
-      "bytes": 166195,
-      "sha256": "3729b32d10f7e91154ce3f709adc0fc298f1a2a317f106cdf64cf00b602660b9"
+      "bytes": 166192,
+      "sha256": "3b248ffb65d00b5fb061ce2d5be75539e295ccf3fbf8df8fd006752b76586d14"
     },
     {
       "path": "products/wine-glass-fish-bowl/index.html",
-      "bytes": 1488,
-      "sha256": "905aee9df1844e0f06f4b78d4003a4253c17ac48663b58f3a947d89d8d72e4ed"
+      "bytes": 1482,
+      "sha256": "da3767427383d0d385526740b7a70aea8253846abc2d1d2ce99c04618ea6faf9"
     },
     {
       "path": "products/wine-pourer-and-stopper-2-in/index.html",
-      "bytes": 169026,
-      "sha256": "b7d2311df98d0eaadfe49a2ea158b6f8375ab2cedd9954b923d16b13aa35dfe6"
+      "bytes": 169023,
+      "sha256": "01f7a7c20f8293ff32977739d9597c15ea6be1f522ccf2607f3ca20f592daacb"
     },
     {
       "path": "products/wing-corkscrew/index.html",
-      "bytes": 167771,
-      "sha256": "d2330f2d9736bd85836dc205911e9d8a3af0b35e7dd481a15044c01b7caa4d09"
+      "bytes": 167768,
+      "sha256": "b907653f99bb8986a4606137e13761286e9a9313f292013260252b4a77bc1639"
     },
     {
       "path": "products/your-letter-clear-ice-maker/index.html",
-      "bytes": 167830,
-      "sha256": "a4f67ceadecc5120da430990e4fa1c51598e3b985360ee9c45280756d1347bfc"
+      "bytes": 167827,
+      "sha256": "39f3e2bad24303729d857133b3e5e6fafedef72f637f1e3d719501927bd0f330"
     },
     {
       "path": "promotional-drinkware-supplier/index.html",
-      "bytes": 160192,
-      "sha256": "6dc8a7e8f30a83a4a4a93ad395f5a51a562172ba194e5d43a5d75c0c28efde50"
+      "bytes": 160186,
+      "sha256": "8748c7a991d8a28e4e7675aad8bb854465be4577086308f0aa68c9b1b92dc512"
     },
     {
       "path": "quality-control/index.html",
-      "bytes": 38433,
-      "sha256": "00f19d167600f9951989eec9d29746909bd88d165d94601320b564cc5a6ac0f1"
+      "bytes": 38427,
+      "sha256": "d5bc1d0664dbf8ca11be98274ba1f3ccdbca178d72a3989cb3f7addcce67b14f"
     },
     {
       "path": "robots.txt",
@@ -20768,23 +20768,23 @@
     },
     {
       "path": "rush-production/index.html",
-      "bytes": 157984,
-      "sha256": "ed7737b25506071d3c8cdd93013c193ceccf40b0d7d532cf070a6b7093fd8aa1"
+      "bytes": 157981,
+      "sha256": "5a962c54795e076d1c57ef0d8b77c5df55e00e0f38de9e168907e4c8f2273908"
     },
     {
       "path": "screen-printing/index.html",
-      "bytes": 174911,
-      "sha256": "1108c25f4693e3464b3f8268490e375aa4a078d73ca111dcb517600bf365d703"
+      "bytes": 174908,
+      "sha256": "df02a8e807ed6a44b995f050800b102e543a6cf8bd92335f7bcb14dee15eb537"
     },
     {
       "path": "sitemap.xml",
-      "bytes": 183512,
-      "sha256": "06a62bad86ecbccdd6ba43266aab873292393f270a4f70798f9359bb65d65fef"
+      "bytes": 182186,
+      "sha256": "b8ad7d5dfa5b35f74de02b2cc06f1e01f697e6bc94e0f80774814f6b0b0f1bd9"
     },
     {
       "path": "sports-team-cups/index.html",
-      "bytes": 161803,
-      "sha256": "785759267db29389900c382d353cdb9a61c291b9190e6d12f6233b18a8865c0c"
+      "bytes": 161797,
+      "sha256": "8a81a254f4890fb5bd824d92585125e850a3576812a938e9e4213640b5c6d564"
     },
     {
       "path": "svc-factory.webp",
@@ -20793,33 +20793,33 @@
     },
     {
       "path": "tailgate-party-cups/index.html",
-      "bytes": 163987,
-      "sha256": "80e57d0ccdc62fd80f429e98ee848d6c80a14d8c100e75b28ac6aa1e2830c48b"
+      "bytes": 163981,
+      "sha256": "4adb9a2ed5e816ae4f5d52c3a46af5ea6b9663d5ff4b8092d003ac85dab992a9"
     },
     {
       "path": "tasting-events-drinkware/index.html",
-      "bytes": 163306,
-      "sha256": "64b6b715c5cb133649e8004315c5f07c3c31c6968ce5834f0187c99bc08e73ac"
+      "bytes": 163300,
+      "sha256": "6725cb96fc0e0556e3a5e9e8cf8795217ca4f0ea248ee01514112f0f1ba65d41"
     },
     {
       "path": "tooling/index.html",
-      "bytes": 33585,
-      "sha256": "51c4175016d3ba1239bd86c2ba42e6a0f4731d106e7a1bbb3aa20233560381fd"
+      "bytes": 33579,
+      "sha256": "ebbef32f9eced5e3b0ddf38ed2ee73b3112f74468f1391d3804ad3098c0305fc"
     },
     {
       "path": "tritan-drinkware/index.html",
-      "bytes": 181428,
-      "sha256": "ce474cfcd789a47995f91fa9b2bec067f5c8d5dd1283e9ea777ac6bb9eff9c10"
+      "bytes": 181422,
+      "sha256": "0155bffcdc32fcc8cc9bb64bce64d9e41285f6734113e9ea1fb59f6e27b89781"
     },
     {
       "path": "unbreakable-drinkware/index.html",
-      "bytes": 265412,
-      "sha256": "d5785ae4d79ea26081e55399f6fdbf6e87032bf2bd432901c2231812dad3a088"
+      "bytes": 265406,
+      "sha256": "9891cacf57bacb55bfa6e1055d2ce3b91a89318f3d89d94c90e04b43c5ddc953"
     },
     {
       "path": "uv-printing/index.html",
-      "bytes": 185196,
-      "sha256": "136a4d9fd28a27676b188d59bbbe996aa7a1d4f9fd94d588b891256a8add3022"
+      "bytes": 185193,
+      "sha256": "348da22529a34564c7bd6bf16b0c1ece5ec58a24bdbe90f9fc325b4989b6dd20"
     },
     {
       "path": "videos/factory-tour.mp4",
@@ -20828,8 +20828,8 @@
     },
     {
       "path": "videos/index.html",
-      "bytes": 158237,
-      "sha256": "c30a05a825a14276a763fb64a5e43e9b8e36673ab5da384585fd0e7533bff2bf"
+      "bytes": 158231,
+      "sha256": "33f6d195cb9627a9e2597a5a18e0eda31a4a6f7ac57ba978d978bd0ebcff94a8"
     },
     {
       "path": "videos/led-modes.mp4",
@@ -20848,308 +20848,308 @@
     },
     {
       "path": "wedding-cups/index.html",
-      "bytes": 162342,
-      "sha256": "9dfe7e22922a31d9e5c659ab6ca72c796956e652a71de579b83accd6e136c4b5"
+      "bytes": 162336,
+      "sha256": "c263b20f96ced471a17f649a81815cdc777d015a9765c12f6528b41aaa61af67"
     },
     {
       "path": "yacht-party-cups/index.html",
-      "bytes": 164187,
-      "sha256": "d33201290822f5adf151830d03f54b9670e4f174031c68788876ae61d87b1697"
+      "bytes": 164181,
+      "sha256": "af686df64f36c86b7ffcfc4f9a97e39302954bd83a08fa016f0544c338252e46"
     },
     {
       "path": "zh/16-oz-custom-cups/index.html",
-      "bytes": 179492,
-      "sha256": "64f55d7ba6d40168ca380817c2335f77aca8d1fcde7f7ea2be3f0369255f034e"
+      "bytes": 179486,
+      "sha256": "599666b383fe861119b90c3ddfc6dd628854d6841e3fd6e8247f3d9cf6cf7791"
     },
     {
       "path": "zh/acrylic-drinkware/index.html",
-      "bytes": 215719,
-      "sha256": "cf7ec9acb2f57b523f41f91a79da607d97dab931c5fb7ebedfe0e3ccb99f451f"
+      "bytes": 215713,
+      "sha256": "48eb7ff128617b0340a0072945c66a73d77f058fcc490ea9550afa36d0fd2b5c"
     },
     {
       "path": "zh/bachelorette-party-cups/index.html",
-      "bytes": 164347,
-      "sha256": "bdaef17c4b42d065d227892120e4b6525bbe635c6405501c57f313a812990d3e"
+      "bytes": 164341,
+      "sha256": "5633f655d3fb84a0c943fda174f396866e7c6df801aa0a7ee1659de40dde90f6"
     },
     {
       "path": "zh/backyard-bbq-cups/index.html",
-      "bytes": 164898,
-      "sha256": "e12c7da393d74f1697192046158269c223afeaa993bb7a589fd611e514dc6021"
+      "bytes": 164892,
+      "sha256": "b7b8f4d048b8e159b23154d3027d21701e51999f653cc011766db3daab136f62"
     },
     {
       "path": "zh/bar-accessories/index.html",
-      "bytes": 246454,
-      "sha256": "1a67cc4fd1753b78c17a5615685774c8f2c56098161958de46dddffb0aacb79a"
+      "bytes": 246451,
+      "sha256": "ad1dde7e62553ca3adf7a1be53dbc430eb0ffaea3ff196f93b090657466bbd4c"
     },
     {
       "path": "zh/beach-party-cups/index.html",
-      "bytes": 165481,
-      "sha256": "6db56b11caaba4daf51566421da8c9459b2b27499d45d8e25f949cc8782a1ddd"
+      "bytes": 165475,
+      "sha256": "446765c0abbf1eb6a951e347d4c760f2a7009da71149d0bf53f19644b81c5fed"
     },
     {
       "path": "zh/birthday-party-cups/index.html",
-      "bytes": 164157,
-      "sha256": "93ec3ef22d67aa3aca5acbfdb46a860306a5874837e719d146d3a7f36781bb0f"
+      "bytes": 164151,
+      "sha256": "6a60d8c33d7ebf076ee14ce5ebbb9ab70bd0e43b39023b71b0ada68e637bab7a"
     },
     {
       "path": "zh/blank-drinkware/index.html",
-      "bytes": 282757,
-      "sha256": "f50190a40b583d0a495fdc4399f8c11f59157447a7ba0285c746361aa9616ee4"
+      "bytes": 282751,
+      "sha256": "b3b46b75f09db8832ec14df7ceb9f10bf0a150807d0f2488c43beee807ef62ff"
     },
     {
       "path": "zh/blog/custom-cup-lead-times/index.html",
-      "bytes": 39515,
-      "sha256": "c9625d83a7bfbf4418438a7e0a1fda0fb7c225700cf72f88548e38db2868fd21"
+      "bytes": 39509,
+      "sha256": "df3d370e4f3a4437d96154f9442e6004c0e2dabc1e2851a19d752f11b844d4a2"
     },
     {
       "path": "zh/blog/how-many-custom-cups-to-order/index.html",
-      "bytes": 42717,
-      "sha256": "9be94b36b79ded875e2c5921c74e31c2b19b997463de1cf4a28352c1487501aa"
+      "bytes": 42711,
+      "sha256": "9d40196914f29ff07811a03ea7c0cba77d0cd0199a8aaebca52a4c2546c43f44"
     },
     {
       "path": "zh/blog/index.html",
-      "bytes": 12570,
-      "sha256": "8855ec3ac7f5f2139cf59bf86ef4abe16b998a6cd5365350a1ea28f2ea24f506"
+      "bytes": 12564,
+      "sha256": "7311fb237f915488ddaf469aa039ae15d378c8e6c76ec928153924e2d0f4240b"
     },
     {
       "path": "zh/blog/mould-or-no-mould/index.html",
-      "bytes": 38127,
-      "sha256": "903c5fb6946422f0a6f2d84c41728eccbc976856f1ec98ab8079e76010b76704"
+      "bytes": 38121,
+      "sha256": "cce22d70ef084709cb901b856c7bd060f0ffbf5f5f71d7974b28a4e43e12c560"
     },
     {
       "path": "zh/blog/plastic-colour-matching/index.html",
-      "bytes": 38207,
-      "sha256": "858f35bce13c3cd0b3d6520ca7cd1c7a1754b38f8d95df6ec453507564976a84"
+      "bytes": 38201,
+      "sha256": "7cd23b0254f7cc741efa82e373f4f4da4a2a76fbfac25290f66d5463672f12dc"
     },
     {
       "path": "zh/blog/silicone-vs-plastic-cups/index.html",
-      "bytes": 41099,
-      "sha256": "45006b35a4b337cdd9ebeb766c4eae31b4305bb7dd981afaad66c3a786a0cc9a"
+      "bytes": 41093,
+      "sha256": "3764a0c1bb55f3b8470103ab736f162016df71e75ee8b32789e8fc8693d7de3f"
     },
     {
       "path": "zh/blog/what-aql-inspection-tells-you/index.html",
-      "bytes": 35689,
-      "sha256": "69d8aed1b4846316cc7dce33212923462cdf4d96697edb05ac2e0256ccefc796"
+      "bytes": 35683,
+      "sha256": "f767a7addbbad2f5aad8faf9027ad8c1e5e2c4aa016cc031f6f2881f87516c44"
     },
     {
       "path": "zh/bulk-drinkware/index.html",
-      "bytes": 282737,
-      "sha256": "0699926b2feb30577574afa27179682a9e42f3d8182d7596679574aeb28e7ec5"
+      "bytes": 282731,
+      "sha256": "7cae00f3aaa0f599438ec1d4bdf47435702a7216c7e21898e1b32dea455331af"
     },
     {
       "path": "zh/camping-drinkware/index.html",
-      "bytes": 164717,
-      "sha256": "50c6f4cb26a100905689a352d2bba63a2b724d45281f7c7c2f95f7d5e504b2f6"
+      "bytes": 164711,
+      "sha256": "4a4f016fc89e4fdec3c29f667888e5365dfa35629e5daca0c41470323544424f"
     },
     {
       "path": "zh/case-studies/index.html",
-      "bytes": 158495,
-      "sha256": "bea56bebd0ccef9ed70a70b26a56190e7fc21e81ebf18186df5070a8d32d5446"
+      "bytes": 158492,
+      "sha256": "21b838e329f5026d82b875ba7e4b8885db7f25ba089f1d24f99f7fbfc1965ab5"
     },
     {
       "path": "zh/catalog-download/index.html",
-      "bytes": 158537,
-      "sha256": "fef3eea196de2feee7f312475c7b749bcda81655d252093ac52b6cf2f7c7023a"
+      "bytes": 158534,
+      "sha256": "af326590df58554660c513155105f4396c45fbf0402a324b754db99f2fc35cc2"
     },
     {
       "path": "zh/certificates/index.html",
-      "bytes": 175386,
-      "sha256": "e531f53b059925ce59a713472af9ed9cb0ac1d942a48b4dc5535e070c1637fcf"
+      "bytes": 175380,
+      "sha256": "a1837700c747e574c65701184296f8ca1a05b587962412ce0278b2feeca5ca9e"
     },
     {
       "path": "zh/clear-plastic-cups/index.html",
-      "bytes": 159872,
-      "sha256": "f31b3b9c3ea683b1995d0137de190b08b1c2f9b739f4bac34f0edd11062c7afb"
+      "bytes": 159866,
+      "sha256": "0a25773bdb38474217bc1c1464b1fc5a2096fbc10329c6f6735b5adad33de105"
     },
     {
       "path": "zh/collapsible-cups/index.html",
-      "bytes": 168617,
-      "sha256": "792fdbbff7acdbaeed8f72a9099a8156d673084d80b28e1c46ea1de43b85b9ff"
+      "bytes": 168614,
+      "sha256": "07cebc23e0b2ac85a6d851d4fc57408de0188e8850750bd880cf5e08e1a6cd72"
     },
     {
       "path": "zh/collapsible-travel-cups/index.html",
-      "bytes": 160219,
-      "sha256": "d820a9d55de18a7112ccaf6dd609b65662c2edf7f672a99653c6c0837ee71f83"
+      "bytes": 160213,
+      "sha256": "74ff1598db8a1c976a58f112f0688f4da81242029106d08984dff2ff19e03fe5"
     },
     {
       "path": "zh/color-changing-cups/index.html",
-      "bytes": 160730,
-      "sha256": "4c54d2d3231def0e7759d66f46cb8cd5c22f244fc10a0a25e5c0580ac63e378d"
+      "bytes": 160724,
+      "sha256": "a91bf63b2ea27ccb0b7db5b43130d4e718e14a76adf6a37ca76e2afd359082f9"
     },
     {
       "path": "zh/color-changing-ink/index.html",
-      "bytes": 169275,
-      "sha256": "e6d064fd111d4de52f863ab701252e3b74e7d58956ce2c62c28e278042a9762b"
+      "bytes": 169697,
+      "sha256": "45d32959bbf0681a6e71f399be5cef502cbacc28c67081b81cc3c9b162385d1a"
     },
     {
       "path": "zh/contact/index.html",
-      "bytes": 158286,
-      "sha256": "574d44cd45539fe54949d2f0b8f2c03274e1324b5d0006b755616444d8dce1d0"
+      "bytes": 158280,
+      "sha256": "fbc449a4ec4ca0acf614fee25d4e81a757c502729d554e860cee85281c6ff8bb"
     },
     {
       "path": "zh/cup-materials-guide/index.html",
-      "bytes": 157662,
-      "sha256": "b819d0b6024b3392089c54e5c7abe73ce40074e8f911b10937b46b588ef32eeb"
+      "bytes": 157659,
+      "sha256": "8bda19a9dfd7309ca3afe9cf4455a0be37f25cca978e7f2368bf5793f74d50bf"
     },
     {
       "path": "zh/custom-bar-mats/index.html",
-      "bytes": 157755,
-      "sha256": "e6c756e736bfb342ff36f83f5bb5b449d82fad67cc934b06d5ddd409b0a7766a"
+      "bytes": 157749,
+      "sha256": "a9b80de6c8c8ee07bff3dbccdb7a59764d695ea3bdd479edc8b4c5697b59c230"
     },
     {
       "path": "zh/custom-beer-mugs/index.html",
-      "bytes": 167022,
-      "sha256": "ca6e42cee8d28262d986f677b8b1a9be394e6a454801ea1312a6d617ba31600a"
+      "bytes": 167016,
+      "sha256": "c77b3b05e1e9de0c2ae4388e3d6dbcb5d09d00b7636d98f3c0c486d20ccee486"
     },
     {
       "path": "zh/custom-bottle-openers/index.html",
-      "bytes": 184450,
-      "sha256": "7906fd170a82c860d0e547a75634762fbe98051d28deadee2e35161c19c5b7a3"
+      "bytes": 184447,
+      "sha256": "d207dbbb5299add9b009e4a7e0848c34c127c3cb78f018b484859749428f28bc"
     },
     {
       "path": "zh/custom-champagne-flutes/index.html",
-      "bytes": 175970,
-      "sha256": "b523be4b9215e49b0c11119c7a9938f62194867120eb1737c374860962aa19d0"
+      "bytes": 175964,
+      "sha256": "c4374083c4cec54d858cacc97153ef3f78c0f6b66c4e57d9cb046ed989dd0cc3"
     },
     {
       "path": "zh/custom-coasters/index.html",
-      "bytes": 169186,
-      "sha256": "7f84dc23553967ea1bcb72dc02d48696dcb104cef858cccecbfb817b8768951a"
+      "bytes": 169183,
+      "sha256": "06e8ccde1a4054c7a61ab7a7683825308108376d564d3747033b360decd0e54e"
     },
     {
       "path": "zh/custom-drinkware-decals/index.html",
-      "bytes": 154999,
-      "sha256": "743fc4aa5a06e886177ad1bfa9f368288909a92f4b5bfed700a07160aeacfa9f"
+      "bytes": 154996,
+      "sha256": "52f6c9561ecd3f80496aa8109033db61ba977084bf685775f7a61b63c3570ddb"
     },
     {
       "path": "zh/custom-ice-buckets/index.html",
-      "bytes": 161483,
-      "sha256": "0b31b62bafe8adc1432ecb2b37122995306c207f958dddef80dfd2abd946649f"
+      "bytes": 161480,
+      "sha256": "edf738fc8fb4ff8e4731e74d02bca46de60a447d456b09ef82315158dcaa7f4f"
     },
     {
       "path": "zh/custom-led-drinkware/index.html",
-      "bytes": 206150,
-      "sha256": "720f4e37cc6822203cfb1d4fb65fa5416fe30e614917f2cdabc90970f5d9ba23"
+      "bytes": 206147,
+      "sha256": "14792345b484040041bfd0dea98b7cfffc9d1d5ed1680dc1d90a13d4ced5bf40"
     },
     {
       "path": "zh/custom-plastic-cups/index.html",
-      "bytes": 190432,
-      "sha256": "a459d5e53a70db267f24a7273655ca6df5dfc92eacda3248e0319e2d84aea673"
+      "bytes": 190429,
+      "sha256": "2ded9ea7f967544833d00e26f92ea554ce6be7d6f444aa16aefea515db95398c"
     },
     {
       "path": "zh/custom-reusable-straws/index.html",
-      "bytes": 158127,
-      "sha256": "98498dea80fedb165accfe12281d734a6662f847813aac02e6dba7564adaae88"
+      "bytes": 158121,
+      "sha256": "6fc623d43bb56896e52a5583fb06cb49b9158766104290b088f103e6d4fee8dc"
     },
     {
       "path": "zh/custom-shot-glasses/index.html",
-      "bytes": 157736,
-      "sha256": "05d2c8a07f8b825b110decbff329edf37feb41ee9d63868b49e65376a5505a28"
+      "bytes": 157730,
+      "sha256": "40629b2f9df267a2a7858ba71d623daa67de4e52043b2e761263bdfb6fcc1bd0"
     },
     {
       "path": "zh/custom-silicone-cups/index.html",
-      "bytes": 178361,
-      "sha256": "633874c8d68de3cc4180a1eb2b3000764124548c1d43a7a9a6f9b12298a2c171"
+      "bytes": 178358,
+      "sha256": "454c2e92193b6b590e7f8e7e0bd166a25b1928144996decf295615cef2b62a49"
     },
     {
       "path": "zh/custom-stadium-cups/index.html",
-      "bytes": 158135,
-      "sha256": "a1e36f52b1698a68816c8a0e0d9e2661395cdb1788ed4c5ea0695915dd27a965"
+      "bytes": 158129,
+      "sha256": "5d0e63fc37690424ccbb4a74c377b2c34a583ca5be3bfc78b4b9f470402bf6b7"
     },
     {
       "path": "zh/custom-tumblers/index.html",
-      "bytes": 201779,
-      "sha256": "2f131856566a96cfd10c36799a39451cbbab55b9e6022472b3d4ca864a6cf31d"
+      "bytes": 201773,
+      "sha256": "07183d832976c347d5caab8fff2c616ec66cdb4af88889e7db8fd1087d74bd28"
     },
     {
       "path": "zh/custom-wine-glasses/index.html",
-      "bytes": 204128,
-      "sha256": "2dacec7ba0c4a526a9dfa2eed73257b0ed355c83ad9c65b2922e7d80f3f97f2f"
+      "bytes": 204122,
+      "sha256": "70857783da8a0fc78c5bc9ad13917a950a72a5819e8983ffab848522ce14c255"
     },
     {
       "path": "zh/customization/index.html",
-      "bytes": 155696,
-      "sha256": "f63b93fa073a31d025c6ed8bd213a6432e6d6910487723a618e5e4ee193caf77"
+      "bytes": 155693,
+      "sha256": "c27a8bc2aead0f686079f68970bd4ce9c5f8d40db69d65f9c83d33600536e50a"
     },
     {
       "path": "zh/distributor-program/index.html",
-      "bytes": 158593,
-      "sha256": "bc0df254a3a513f28c2e1691c0b37c13dc0c17cc041b95633a4e453693ca94e5"
+      "bytes": 158590,
+      "sha256": "b105031603bff9d8daa9b5cf752a85667621d255a2a82b474bd36612eef745bf"
     },
     {
       "path": "zh/factory/about/index.html",
-      "bytes": 26379,
-      "sha256": "2767e66bb924f33306e25f3fdb108372900993028964ea438bc1a6f239e59c64"
+      "bytes": 26373,
+      "sha256": "b499856ba766325fd51352053732800ecd25fde3fa4a3d8a3583ddcf021f45c2"
     },
     {
       "path": "zh/factory/index.html",
-      "bytes": 167031,
-      "sha256": "bef6a2d9b186e3874971d14d34efeef51188d8d8f9556bce5d70577645abe124"
+      "bytes": 167025,
+      "sha256": "b808b549a389fb11e3f2e1e2688298dd286ccb9fb4066edef069f343064c471d"
     },
     {
       "path": "zh/factory/quality-control/index.html",
-      "bytes": 22530,
-      "sha256": "20c11c628075c23146480f54269c14324f061e7d77e877181eb0e21f79c4b1ba"
+      "bytes": 22524,
+      "sha256": "fbe620be222368745bfdc7a07eff81d74b200ab004fca39640c157e6d3df5e55"
     },
     {
       "path": "zh/factory/testing/index.html",
-      "bytes": 24685,
-      "sha256": "0023f3d8348d55e8c9b1b0a338c8a5a83fb6dea2cf368f81440eb70ec0ce7f1a"
+      "bytes": 24679,
+      "sha256": "42900310db6a2e9d9d9dbcd1dd2b74172f838524fb631430d92f72ce7f252774"
     },
     {
       "path": "zh/family-event-cups/index.html",
-      "bytes": 163863,
-      "sha256": "8eeeaa8a0531f992e210a7708663eb836b7bd761bc993672f3d868f78b00b1b5"
+      "bytes": 163857,
+      "sha256": "a8abd220ddc6e8f50f5500caee0a43dd0098635edfa52cdaaf0e20f8d5962a13"
     },
     {
       "path": "zh/faq/index.html",
-      "bytes": 157398,
-      "sha256": "b870cede933edf72fead2aacdb10750fc7bfa309151db54e62b680fd594e3385"
+      "bytes": 157392,
+      "sha256": "505f7cefb838f062f6a41a8d011e9231690a536b812adc4b3460566ab9d4d11f"
     },
     {
       "path": "zh/free-samples/index.html",
-      "bytes": 158744,
-      "sha256": "12d5eac67f2630216997383e3926bb8568f95c2f9b37a0ef55277c2afaa94e33"
+      "bytes": 158741,
+      "sha256": "c668a54baee6b129a6d5b7bf25c9fb1e85e051fdf88a7f19d45ade3301c21c3e"
     },
     {
       "path": "zh/glow-in-the-dark-cups/index.html",
-      "bytes": 160250,
-      "sha256": "d19523251a8f3f98cd093abcc820d69563b1c5e6e9cbd989366ff597a60e296a"
+      "bytes": 160244,
+      "sha256": "a315c0f7459f8fbd999483d49a6434dd9978f779971f00d512fe83975bb30f33"
     },
     {
       "path": "zh/graduation-party-cups/index.html",
-      "bytes": 163820,
-      "sha256": "537c37ee918400d76b3eae8dee2098fb1d907292d2d1e8a9aa5f3d8271d84c2f"
+      "bytes": 163814,
+      "sha256": "35c92d6fb0603a669aeed54c66505220f5a32fbf34bccb43da9d24ed149b96e3"
     },
     {
       "path": "zh/heat-transfer-printing/index.html",
-      "bytes": 180904,
-      "sha256": "c63f5503f974a0b65e471567ac3d8e4adca44773d11eac53d412998f13ba9929"
+      "bytes": 180901,
+      "sha256": "6bb85112cb32ca9ba83ef2ef49ec37de27684f4e77b19550360fbd73cf4fe066"
     },
     {
       "path": "zh/holiday-party-cups/index.html",
-      "bytes": 164764,
-      "sha256": "fae30fd8a85e7f6a3c5d9b5505bdfffcc06c0adc444a82ac970cf63950807982"
+      "bytes": 164758,
+      "sha256": "f5e31e557e54d88b08262a005503b7dfbe3d5d7fc562b7b5493042d56dca84ce"
     },
     {
       "path": "zh/hydro-dipping/index.html",
-      "bytes": 1472,
-      "sha256": "23cae572d41cc2a5702369616b2fd7884ae3b541a33e7794593b1919c3bc83ce"
+      "bytes": 1466,
+      "sha256": "ab66d2bedb9d20f2b509fb8f1aa1dfedb034054871b9bd900d472125d848b005"
     },
     {
       "path": "zh/index.html",
-      "bytes": 178867,
-      "sha256": "9622a90053c1277617dee125e6fb3193b447fbc6ad64b8ae8c54538d4a8be42b"
+      "bytes": 178864,
+      "sha256": "f39cb4e233d7aa4072bc810f47ee0b785f8f3f8d6c786b4d6db9c529c99f4565"
     },
     {
       "path": "zh/laser-engraving/index.html",
-      "bytes": 182374,
-      "sha256": "bc230f99595be574ea236aaf65e7264e7d6f7b0e50a17faf9439e77bfc32b51d"
+      "bytes": 182371,
+      "sha256": "27bcee8abb590d8de21cb1a730a9c1f11f7edd1002aabdedf6ee84c5be4780a0"
     },
     {
       "path": "zh/led-light-up-cups/index.html",
-      "bytes": 179127,
-      "sha256": "a27f4e41f9bb8b42f9607ae187e60fd7c6d8015b5de5a1aaa578336a693150f6"
+      "bytes": 179124,
+      "sha256": "936b6ac0331dcd99c770901afc25cea58c1bd354af8bca6ec7188e09299a984b"
     },
     {
       "path": "zh/login/index.html",
@@ -21158,958 +21158,958 @@
     },
     {
       "path": "zh/low-moq-custom-cups/index.html",
-      "bytes": 159008,
-      "sha256": "816e30aea15735b78d4bee46a74f5acdffd008e31e60860b8914c96a037988e9"
+      "bytes": 159005,
+      "sha256": "c6ab78fd446cb074d93e23bf56c4ba2991be84d3c254d0f5b6ce222c9465f793"
     },
     {
       "path": "zh/new-arrivals/index.html",
-      "bytes": 174640,
-      "sha256": "cc5d9aa360381afc275b3c273aa6c699138ec3ce51ebbb52902c6dbcbacd0332"
+      "bytes": 174634,
+      "sha256": "822194d4abafa8c95b7d241de75b0b592673fc909e47ca97ae449c57923ae24f"
     },
     {
       "path": "zh/no-minimum-custom-cups/index.html",
-      "bytes": 157040,
-      "sha256": "f867a06834dd0a28a178389f4858ea2a31bb01f96af6a1c79db44ae57e0d2469"
+      "bytes": 157034,
+      "sha256": "9ea2c578f4c91f8c07f3f516020e9711cdaed2bacd314ebd5362bb25a7ed4058"
     },
     {
       "path": "zh/oem-manufacturer/index.html",
-      "bytes": 180978,
-      "sha256": "54ccc0a6ded71162c005fc2d5f7e488263c86a25a0095e9e2e1699816c6e6439"
+      "bytes": 180975,
+      "sha256": "f15fcd440177dc02cea0e427bafecbb8479ba8272bdca3a553ff456988c65da8"
     },
     {
       "path": "zh/open-air-nightclub/index.html",
-      "bytes": 164266,
-      "sha256": "ef810003cad74e9f3bf85478d86aba79fdaf6bef2b46eb6f2f8bbc72e342dd6f"
+      "bytes": 164260,
+      "sha256": "fa46ba2bfa227d687363dcdeee92198c939a49f99d784ad8fb632952901fbf43"
     },
     {
       "path": "zh/our-service/index.html",
-      "bytes": 161207,
-      "sha256": "b3fc7360ca5d8c71e97f0a31c5a71834b34d82b6be6564f479564c2938ef7cb0"
+      "bytes": 161204,
+      "sha256": "0253eb487465620e179d483287b7258ca3c79fe63e9ffe790eaee254dde40d4e"
     },
     {
       "path": "zh/personalized-drinkware/index.html",
-      "bytes": 282878,
-      "sha256": "d80cd1585163e04023c4316dbbeb848dbd612501e07c722fb544e5c57add2294"
+      "bytes": 282872,
+      "sha256": "0cecdbee99f26cc260ab280b7e8cc15eed0e7d9c13324396109e622dd0e0f873"
     },
     {
       "path": "zh/pet-plastic-cups/index.html",
-      "bytes": 161248,
-      "sha256": "89f61604cd6eed0cd5253332152f9bb16a4a248baab160b519bd65d5e85eddbb"
+      "bytes": 161242,
+      "sha256": "e2b120667134964d01956d726cd126b63110b375d5826cb12cef72f0e572f038"
     },
     {
       "path": "zh/pool-party-cups/index.html",
-      "bytes": 164746,
-      "sha256": "fefa5700d1a41fdba6ebc05d2d661bf8c0b53706b324bff70f7c07d90bfbb381"
+      "bytes": 164740,
+      "sha256": "20374ce4a91788f296aa527f6337a6c3eeecf8a376b13084802a881cf9b4ac49"
     },
     {
       "path": "zh/privacy/index.html",
-      "bytes": 154935,
-      "sha256": "46ea8775a968d09b6dcf4d10d4c37f2ba8cddf61ec635343207092b698e1498e"
+      "bytes": 154929,
+      "sha256": "1a676be1d039bed654c979873b1d45fabd00460c04efc3199e5519a99ccd99db"
     },
     {
       "path": "zh/private-label-drinkware/index.html",
-      "bytes": 161089,
-      "sha256": "f8a355afd5908faa3cd4118366e535eaaa825264826d6a02727109cb76638360"
+      "bytes": 161083,
+      "sha256": "223f22519894ab2706c21845e08ac1b251b7f10120360b39f2deab370f40811e"
     },
     {
       "path": "zh/products/1-4l-1-5l-plastic-beer/index.html",
-      "bytes": 168971,
-      "sha256": "7913f5d8fbc1fa25dccc947470e8e317ebbc183be06c047d73c83f1f32bb3f54"
+      "bytes": 168968,
+      "sha256": "397971dcb47d0998330e23292f871816e2e0bd3fbe6bb4a004f9925395cf8fc3"
     },
     {
       "path": "zh/products/1-5oz-blue-uv-reactive/index.html",
-      "bytes": 1377,
-      "sha256": "be9aa197c4178881debf957bd4701260c7a5b4f1af10a47f3654c4dcad8a4465"
+      "bytes": 1371,
+      "sha256": "78a9601a150824fff6f781d7d1df69b1903c1bc6d127f11a227568d10737695d"
     },
     {
       "path": "zh/products/10-5oz-ribbed-plastic-coupe-glasses/index.html",
-      "bytes": 168915,
-      "sha256": "4ba608773842548b4fd85a42ee881502cad06bc0f003e9a256bd85c21b180910"
+      "bytes": 168912,
+      "sha256": "be1d35c5dabcf2e4c3134e82a8fd128e83c87eddb0fa5e38cf70e2aa2b3af2aa"
     },
     {
       "path": "zh/products/12-oz-double-wall-plastic-tumbler/index.html",
-      "bytes": 168949,
-      "sha256": "9a02cc0b4cc866a51d8c83721925ef4594f470a0b9a7aca1ca0c8cab5ba1c7e6"
+      "bytes": 168946,
+      "sha256": "a62a77532962c9c3a76d15197a6e97799da82ffd7e9a5ccc98935a9516e900cd"
     },
     {
       "path": "zh/products/12oz-plastic-stein-cups-with-1/index.html",
-      "bytes": 169795,
-      "sha256": "b5a76af74482fb182ea46447746d86df124f9991ad149f05d932080823d1f60c"
+      "bytes": 169792,
+      "sha256": "71da12c3a822b9a7c5a81adf155b2f6888993f71fe58750fc52d0a0aff384320"
     },
     {
       "path": "zh/products/12oz-stemless-wine-glass-gold-rim-hjb040/index.html",
-      "bytes": 166954,
-      "sha256": "b2c1db265200ae6c765abd50395e101d61ff0cd3e9c8c2cdae34c5fad38b081d"
+      "bytes": 166951,
+      "sha256": "dd12c6a5b9239f91e75632e6f77b8cfd3c917d95ecea016141360e1dc578f15e"
     },
     {
       "path": "zh/products/15oz-plastic-margarita-glass/index.html",
-      "bytes": 168619,
-      "sha256": "db39c70697b66aabef5a984071098f65e45091aa6c8ba7714ee3a561e338b1a6"
+      "bytes": 168616,
+      "sha256": "34b0837f2dde6c776151afcee1e3b2974f707f16fd9fff411153098a38085379"
     },
     {
       "path": "zh/products/16-oz-color-changing-plastic-stadium-bsb002/index.html",
-      "bytes": 170423,
-      "sha256": "b7329056a15c005c22c51c7a17019d2e193130285cb643680f071606e0dce0f3"
+      "bytes": 170420,
+      "sha256": "fec44ff32e808770592216be1535b0fe22437314dc7af5a0cc14b441087363b5"
     },
     {
       "path": "zh/products/16-oz-light-up-acrylic-shaker/index.html",
-      "bytes": 164947,
-      "sha256": "79678ac876ddb56e5c020c621bbd91f13a06f4406c6e59ba88d0a331917e9d15"
+      "bytes": 164944,
+      "sha256": "54163c6af862f281c79f6c00fd7e079bf05f8fbb4c7d5aefa6c1f2404f38690b"
     },
     {
       "path": "zh/products/16-oz-stadium-cup-smooth/index.html",
-      "bytes": 169410,
-      "sha256": "770515bab0365fb303c449749c2ec780ee03e6509c8d41b1d65e1c1a3f331f08"
+      "bytes": 169407,
+      "sha256": "6deab34b2ae73b2f6fe5c052bddc0ce3a55165baec597ee9c16efe9018858cc1"
     },
     {
       "path": "zh/products/16oz-cold-beverage-souvenir-cup/index.html",
-      "bytes": 1397,
-      "sha256": "0fb79c07226397e1faf8162ad3589ab22b5ff59ebc63bf11a284a0f3e8f268b4"
+      "bytes": 1391,
+      "sha256": "0299d1e5213328c5c0738c24fefacef7839cffb53d659a4e2969ef0f920d4841"
     },
     {
       "path": "zh/products/18-5oz-tritan-wine-glass/index.html",
-      "bytes": 169776,
-      "sha256": "ad045844f1f12bb6cf0472635a412926c807b00aa1cecb7133abf2ca4e54c51c"
+      "bytes": 169773,
+      "sha256": "f612033a888514f29614ef6668362d1e8a83c9fa849f0928f37242e6f4ecacef"
     },
     {
       "path": "zh/products/22oz-plastic-beer-mug/index.html",
-      "bytes": 170356,
-      "sha256": "d1d7b35922803d087582e70c06767c0017dfdab4e8a6a3f703abce656b9ec77c"
+      "bytes": 170353,
+      "sha256": "e0a3292a4f101d26a1d97931c7011e3989f777bdf3c34a6cd2dcaffa771ab6db"
     },
     {
       "path": "zh/products/24-oz-acrylic-cocktail-mixer-3/index.html",
-      "bytes": 167296,
-      "sha256": "00575c229a12508f358ffcc1fe6a634d182364fb6c9248fcc7e0ff0bbcd8340c"
+      "bytes": 167293,
+      "sha256": "dad1347f063d0c7b1d6830faa53f66bfe0cfe1cd183e3a02735634f2ca1dda84"
     },
     {
       "path": "zh/products/3-7l/index.html",
-      "bytes": 166864,
-      "sha256": "34fd643a0806e63a0c5fee9d452007ec8d4cd2d475e2deebb24ae481bd0a6403"
+      "bytes": 166861,
+      "sha256": "f29cb7239ba50f5d576adf5fd1966270b3973097e7b2689e8d07cf97c08c4fe4"
     },
     {
       "path": "zh/products/32-oz-plastic-ice-scoop/index.html",
-      "bytes": 167685,
-      "sha256": "998243efa5fe1c59a3f881f73c1bd40ee003b07eda4abdd3416e27af00bcf72f"
+      "bytes": 167682,
+      "sha256": "acc1fac7272b1f5f3060a8fd93dd188760ddc3da78f7a9cce06b9354fe7a82f1"
     },
     {
       "path": "zh/products/34oz-ice-bucket/index.html",
-      "bytes": 167039,
-      "sha256": "d40dacd95621784e6be17b99dcc03563f1bfef267c8d943d0686043fe25ad005"
+      "bytes": 167036,
+      "sha256": "d7722f737918f45e22557f14fa122d3524edae23d37a684ebe7dba43ab949cc3"
     },
     {
       "path": "zh/products/37-oz-acrylic-pitcher/index.html",
-      "bytes": 168531,
-      "sha256": "76e23a327235afb589357c302b8a610d17957f8035a722cd1443241a3ccb3ef3"
+      "bytes": 168528,
+      "sha256": "de2211f02c93da213136038bca5e8a7c1cd2ba4268b36b89afc0b58cce8ba023"
     },
     {
       "path": "zh/products/4-5oz-plastic-champagne-flute-injected/index.html",
-      "bytes": 168879,
-      "sha256": "b8fe30010b4763cf5eca6f7263d84e1d54e4d1f28952c682993fe3cf1a5ccb95"
+      "bytes": 168876,
+      "sha256": "c3ab632bf071ed51990b79eeedd0d0020e065e84b709a916611fc3811fad9c27"
     },
     {
       "path": "zh/products/41140-footed-pilsner-x4-414ml/index.html",
-      "bytes": 168445,
-      "sha256": "0979141733797ed9cb403fffe662beaacff923d7769ab43a21935eceaa0e27fc"
+      "bytes": 168442,
+      "sha256": "6b91558c3c0467510e4d6e08ba38f63e9b6974e36e2b6ebb79b8c69765ee82f6"
     },
     {
       "path": "zh/products/4in1-multipurpose-cocktail-mortar/index.html",
-      "bytes": 164665,
-      "sha256": "4f90bc57278a2a7eeeaed1c5bfbc6e48c20b3934488471a61d4bdc9e2fcf53a3"
+      "bytes": 164662,
+      "sha256": "6288a4b06e63366ccf56b046ec8fd4e44324cace28c872d14edacad05c86e578"
     },
     {
       "path": "zh/products/4l-8l-12l-ice-bucket/index.html",
-      "bytes": 167251,
-      "sha256": "a50a8b452bc923f62e4ed2fe40a28bda80d5f310f38d8ebf350f04c45100950c"
+      "bytes": 167248,
+      "sha256": "47f624f1d2176b78c44cf478a20803c120ab6964a22268c6ffc0ddf3391ee3eb"
     },
     {
       "path": "zh/products/5-8oz-plastic-champagne-flute/index.html",
-      "bytes": 172392,
-      "sha256": "cdf397725f0a0b64e785d23ca37a0743671bf42407eda191c4d22ac76eb128cf"
+      "bytes": 172389,
+      "sha256": "f0af4f23f29687f272c3fc5b4a32fff67b563af22a8a5c31c987d06701cd9562"
     },
     {
       "path": "zh/products/56-oz-acrylic-square-juice-pitcher/index.html",
-      "bytes": 168778,
-      "sha256": "ce2f06288aae72b1534b34fd861b03e66beba5c5af28f1b33f6ec30cf74a30d4"
+      "bytes": 168775,
+      "sha256": "591286384cc413b1155d699406fdb539f88701473790804a72e66ecf5dabcc5f"
     },
     {
       "path": "zh/products/5l-boat-shape-ice-bucket/index.html",
-      "bytes": 167171,
-      "sha256": "65af5f7247d689034cc0b773a77744bba61cc0a09555960c7b4d814b7ca113fa"
+      "bytes": 167168,
+      "sha256": "0b7493fd166976a18ec43a449fcab4ddca27c4e7246ba72d24c81069c238b8d6"
     },
     {
       "path": "zh/products/6-3oz-plastic-martini-glass/index.html",
-      "bytes": 169148,
-      "sha256": "7a1969adec2414328a6c7e811e393ace1121c0263e3f6f00271ff725353c8a0a"
+      "bytes": 169145,
+      "sha256": "189b21b7f335fde5fef5afabe340fe2c9ef3a8c3b2d5aa842ccaee9ba516f74f"
     },
     {
       "path": "zh/products/64-oz-plug-lid-acrylic-pitcher/index.html",
-      "bytes": 168646,
-      "sha256": "2d70c633eaed1bd12a351e540d3fe0b1916174d034669ae7e3d04cc6183960e5"
+      "bytes": 168643,
+      "sha256": "ebebe7753ec4518e866e188d8d4e43ceced9729a779c786aef6964d2a165bd1a"
     },
     {
       "path": "zh/products/7-5oz-plasic-iso-standard-wine/index.html",
-      "bytes": 168731,
-      "sha256": "c75233e95fedfb2b17db5132d111bd17d6aadb71a43d697e08f8d699bd941298"
+      "bytes": 168728,
+      "sha256": "3db0b5f919a11ad862a150c826f3aab87ed78fd30e142c84cb4f5a7aaac99766"
     },
     {
       "path": "zh/products/7oz-plastic-cocktail-glass/index.html",
-      "bytes": 168560,
-      "sha256": "a084513529de88b6b60f12aac186bb5446f88019a96b7476187384b3a0d01796"
+      "bytes": 168557,
+      "sha256": "1461962e8f0f21d49ce020edff9857192d84f69fcc75a06fc109b2c61fb8dab0"
     },
     {
       "path": "zh/products/8l-asymmetric-hollow-logo-designer-led/index.html",
-      "bytes": 167761,
-      "sha256": "4498ceb1eea07a34fef084d43cad5221b820272b547b84a480ad813264fdaac1"
+      "bytes": 167758,
+      "sha256": "d8fb1fca3371f5bd61740bdef8d7647121a866f8a1856448d4048af7ef8d5200"
     },
     {
       "path": "zh/products/8oz-plastic-wine-glasses/index.html",
-      "bytes": 168477,
-      "sha256": "e1ea73d9b5984472a57a487b96a60224ba66575e749e22974b9561955cc1aa76"
+      "bytes": 168474,
+      "sha256": "e2f96edfc032f8add94b19bfa3d7d14a947ec8bb573e95208faebe497ebb116c"
     },
     {
       "path": "zh/products/9oz-stemless-pet-champagne-flute/index.html",
-      "bytes": 169811,
-      "sha256": "4a314d696b34aaad68ad1e64a0e678ff29ab54e5de4a68534453c89d48d6450b"
+      "bytes": 169808,
+      "sha256": "cee75e07b5031c5f29a3b166d1ca3e43597a9d67e61eefd53949d8493ab2038a"
     },
     {
       "path": "zh/products/acrylic-beverage-carafe/index.html",
-      "bytes": 168616,
-      "sha256": "3359cd763e1d9127123e3ae69caa4f06603420c9bb2993806f03b60877a26979"
+      "bytes": 168613,
+      "sha256": "8cca3b5ccb15ffb3f6577d566786a1eefad6ef89e8fa77f7905edf6fb509802d"
     },
     {
       "path": "zh/products/acrylic-party-beer-tumbler/index.html",
-      "bytes": 168399,
-      "sha256": "1687b88f8110e3f526da8465ac42ad32b9b0428c4f12bd7db02efa4f5286542c"
+      "bytes": 168396,
+      "sha256": "e387ce9485c3d1bdf2dbf9cc1f880a298227577a7167baabc6453ec72dfc4de6"
     },
     {
       "path": "zh/products/acrylic-pyramid-jiggers-multi-colored/index.html",
-      "bytes": 165751,
-      "sha256": "2a1999b0381f5d2d520b3ec3995f116f7b6e435f2ea3fea56a594d6a17f974bb"
+      "bytes": 165748,
+      "sha256": "df0c59d49be3fa3228385d22811cc8eac4367e4b944afba67776bdf021e6d77d"
     },
     {
       "path": "zh/products/aqua-kaleidoscope-double-sided-jigger-1oz/index.html",
-      "bytes": 165714,
-      "sha256": "92b13d293cc906a591945366e88e9dc2035be6e6abaf313a150fec27752f5c6c"
+      "bytes": 165711,
+      "sha256": "dfd4698faacfca95fa6a7c2c5830645fb307a9083e55e8ff42a3bc77949bdbeb"
     },
     {
       "path": "zh/products/bar-beer-plastic-pitcher-jug/index.html",
-      "bytes": 168502,
-      "sha256": "3f8bcda8a10b651e5922a79d6ce2f290ed100d1abc01629f68e39442e2ef4a54"
+      "bytes": 168499,
+      "sha256": "de37627ebd06d98c883642cfc5fa8902cde7df44a5d447d17bcafee7b6b5e575"
     },
     {
       "path": "zh/products/bar-mats/index.html",
-      "bytes": 167001,
-      "sha256": "2f18c87dfe66974951860a914e6f62eabc2861510835ede7486ff9c2afd7c02f"
+      "bytes": 166998,
+      "sha256": "3979c4d17349edb6fa6d88717657102a19a3369560dbb0f5bf60085b86a286f3"
     },
     {
       "path": "zh/products/bar-salt-glass-rimmer-3-tier/index.html",
-      "bytes": 166962,
-      "sha256": "c862712046289ac64b9185db446a8ce4acada5a48839479f5c5af227e01a50bb"
+      "bytes": 166959,
+      "sha256": "e9ec4f1224e03c4cc1fc9f701688d25d8f8dd24b4df5cb91def671fa0db7f1fb"
     },
     {
       "path": "zh/products/beverage-beer-bat-cup/index.html",
-      "bytes": 167044,
-      "sha256": "5d264ccfa71910f25b1049c10178dcf85176b0402231f2de3e887b0215257cc6"
+      "bytes": 167041,
+      "sha256": "e67f367313dde67b1febdd710666aeeb675920e8c896d1fccf66444bf14b6546"
     },
     {
       "path": "zh/products/black-plastic-ice-scoop-with-drain/index.html",
-      "bytes": 167244,
-      "sha256": "1cd27b15f76d6156cf03d82a150fd2358046ed34896a7f0824e6d494b5d794ad"
+      "bytes": 167241,
+      "sha256": "216b993e6e28da7139400a47f2b252718ce1f3e4cb9a33d72f9f75d90eae370f"
     },
     {
       "path": "zh/products/boston-shaker-kit/index.html",
-      "bytes": 164880,
-      "sha256": "52772809dd932e848c8bbf185cd1589a84210e2d375ae0b1521b4d8d2eda0d00"
+      "bytes": 164877,
+      "sha256": "55a8dab884d51a6a4493aa247e8ff9b3c83deffa41fad8c06428d6fd6b5786d3"
     },
     {
       "path": "zh/products/bottle-pourer/index.html",
-      "bytes": 167202,
-      "sha256": "69e01c069270caba972b7f9dd48dfa8ef496b2aa835e9df4157c6f2d105d83ec"
+      "bytes": 167199,
+      "sha256": "ccf110eec2873553e42727c7541f2612d8a1621f0839ecccc2925edc553b0cd8"
     },
     {
       "path": "zh/products/bottle-pourer-tulip-shape/index.html",
-      "bytes": 167442,
-      "sha256": "4dc061e9af152070f887e9a26b5770afacaf46285be723fbf611c1bca25d4609"
+      "bytes": 167439,
+      "sha256": "96de3ca73fac504360bc831513b1779bfeb6e0799e4bb9099a401fb23d51bd79"
     },
     {
       "path": "zh/products/bottle-rack-for-6-bottles/index.html",
-      "bytes": 166934,
-      "sha256": "65a822e80eb95e854739d375a46d702cb742175510eb1cbed6df203687fd77bd"
+      "bytes": 166931,
+      "sha256": "5aa5e2122b9323529643acf72c54257654f87c1ace336bb3cbcac6597148ebb5"
     },
     {
       "path": "zh/products/bottle-stopper-and-wine-charm-2/index.html",
-      "bytes": 167507,
-      "sha256": "18e39c0ef892cb709dde79b22a8e02681aa0bf7eda362a875c201ab00ecf65c6"
+      "bytes": 167504,
+      "sha256": "e03ebd9cde1753777c82b3131effafb91f9be8520e0a5501634e135e68f5b278"
     },
     {
       "path": "zh/products/bottle-stopper-funny-design/index.html",
-      "bytes": 167196,
-      "sha256": "77c986fd6f47ee0c5d8c720cc27bb48ad334b752a8a33f13f8534b7bcac170cd"
+      "bytes": 167193,
+      "sha256": "7d691cf36f80fc4dee87939321ca292db94d0f645736dfed9e4df80aff40fc19"
     },
     {
       "path": "zh/products/burby-tumbler-with-straw/index.html",
-      "bytes": 174743,
-      "sha256": "42e2108d97a827fb4bf23e5b6237a3f1fb0289c17b7352823087e92b1b43d9f6"
+      "bytes": 174740,
+      "sha256": "492c4a8057f05b09f6d17ac22e27b877f9f9e4d42282b5c0735377d58bea8dae"
     },
     {
       "path": "zh/products/champagne-sipper-for-16-1-mm/index.html",
-      "bytes": 167431,
-      "sha256": "38187da7e4ba9d9bfd39b2db942393ca13cf17584cc011a995a17845fd3569bc"
+      "bytes": 167428,
+      "sha256": "c6cc00b98d34ca0acc42c257719d3d4c5d87ad96faaa07f7c4824237c6442df4"
     },
     {
       "path": "zh/products/champagne-stopper/index.html",
-      "bytes": 167058,
-      "sha256": "a731d6e11d7dd3b46ad0c8f41b3aaec9557050576f59292595173225689192b5"
+      "bytes": 167055,
+      "sha256": "15afb00190871d47a5ea4bc0585cf43f7fd469bd02a3640512a386dce705c3fc"
     },
     {
       "path": "zh/products/champagne-stopper-for-17-5/index.html",
-      "bytes": 167427,
-      "sha256": "9354d22e444fa10fcbf48a7b22e904d48137b93192c4da981e401462cb0c9421"
+      "bytes": 167424,
+      "sha256": "d58f6bc0e551c5b21de8e8dd0887b514300ca1bbe042d2a8534d7f4970ef1e96"
     },
     {
       "path": "zh/products/champagne-stopper-with-plating-painting/index.html",
-      "bytes": 167511,
-      "sha256": "ab31641f8a2e298cb5156a7f24d513c4925d775aa163771aaead2bc9a9d77dad"
+      "bytes": 167508,
+      "sha256": "d159cc84d92a5c04e31bac5a6e9b7613b933c0f38f12c2a86861c6930c0d06c2"
     },
     {
       "path": "zh/products/christmas-silicone-bottle-cap-opener/index.html",
-      "bytes": 168731,
-      "sha256": "d93edbafbe96469bb8f729b4866051a7b4c6b1a2658e8ad4779fef340d4226d0"
+      "bytes": 168728,
+      "sha256": "9c78339ac91578edac4f3d2930fe2fb8b3acc512febf37b4c82aa82fabfbcf02"
     },
     {
       "path": "zh/products/collapsible-mug/index.html",
-      "bytes": 170094,
-      "sha256": "3aacfad728600052d9610410a34cc87e6f30ff730c11744deb078cc6ae4be5a2"
+      "bytes": 170091,
+      "sha256": "0e8c72e77d08f7a7d1ccc939ab56acfd06ce218b28b49f5fb93aeb368bb41266"
     },
     {
       "path": "zh/products/composite-muddler-12/index.html",
-      "bytes": 164381,
-      "sha256": "808709cc72235f121481e77acbb26c339326c848983a8464238e7d654c623af3"
+      "bytes": 164378,
+      "sha256": "229cfb7fe365cbd70d42d332cf14d3e271f0a20a40db85fc0375ec39a9523536"
     },
     {
       "path": "zh/products/corona-margarita-clip-straight-version/index.html",
-      "bytes": 167766,
-      "sha256": "9cdc30b409a45776484388393f1c9f4bc8f402e7d3bbedb2fcb6bb1851ceb4c0"
+      "bytes": 167763,
+      "sha256": "4e7c7a493183fe02c876f2f43683795c3de4dcda2fb0691696d258ab79577dee"
     },
     {
       "path": "zh/products/crystal-clear-high-gloss-acrylic-promotional/index.html",
-      "bytes": 167972,
-      "sha256": "3f8d0ec3f94e34b22058fa67d1a3ae8235047ca047ff912cdbffcb56fc36581c"
+      "bytes": 167969,
+      "sha256": "a841646128998a284f5927b488e41e52a4a6ffe318278baa3831dde1ef76b9cc"
     },
     {
       "path": "zh/products/custom-led-light-up-coasters/index.html",
-      "bytes": 167739,
-      "sha256": "753dcd83f22a8e84980a306d4e6e6964fb20c690d5449661d2c57616d2fda010"
+      "bytes": 167736,
+      "sha256": "c438902d6abc0e8c01d39b54637c01a8a07a668fef331ddacb999bb258e42f30"
     },
     {
       "path": "zh/products/custom-molded-cocktail-pick/index.html",
-      "bytes": 165590,
-      "sha256": "a1696b2b91db27c46dfd8b656affc280eb09f764f13a732d0787d0cf7f783067"
+      "bytes": 165587,
+      "sha256": "13a7c880ec2274d1967dbcab85e3bbbf642e3e027788a816d4d4057983a2930e"
     },
     {
       "path": "zh/products/custom-neoprene-pint-glass-sleeve/index.html",
-      "bytes": 165983,
-      "sha256": "4a092c60f28b5218022ecce7f92346dea7063a1d2c7d888bcaee739f629e894b"
+      "bytes": 165980,
+      "sha256": "530388e6d9e9fde9dd73be31b20b4e2a2b6a265a24574a01d6e7eeb18961ec62"
     },
     {
       "path": "zh/products/custom-plastic-shot-glass-2oz/index.html",
-      "bytes": 1411,
-      "sha256": "e6564e6f0492d5ba9136f0cb62a974851a6460fd0c081852cff1ea0fa0361fbb"
+      "bytes": 1405,
+      "sha256": "26827061d5bb5a854e7082b8d6e3e53bf70b5a9972e0755916440842de4c53a3"
     },
     {
       "path": "zh/products/custom-silicone-grip-bottle-opener/index.html",
-      "bytes": 168518,
-      "sha256": "0dc28ce15b183f581d52851d2fc1fb40c656dc709c4ca99b94bce10c84a261a7"
+      "bytes": 168515,
+      "sha256": "a54b9df126625f87ea9bb6b133a95b24fc05508284aff1c624640660ed199a9f"
     },
     {
       "path": "zh/products/customized-silicone-12oz-wine-gjb008/index.html",
-      "bytes": 168242,
-      "sha256": "20306e6fd9108ddfc53ee450fc86cf840165034b9160c07407b02dabb2533ed5"
+      "bytes": 168239,
+      "sha256": "4569b16853dbb387683ce93bb096d73762be00dbac7aeb1a60d9ef63883a4d74"
     },
     {
       "path": "zh/products/customized-silicone-16oz-straw/index.html",
-      "bytes": 171011,
-      "sha256": "2edd832fc9e1530540e55691b7d359aa76f00eea1715d30bd8e0110a7f86ffb3"
+      "bytes": 171008,
+      "sha256": "0957e55f1419ce0d487133f5ddcf7c685f8bd8c6a21ab3b850e95a36eea284f0"
     },
     {
       "path": "zh/products/diner-plastic-food-drinks-trays-410/index.html",
-      "bytes": 166860,
-      "sha256": "fa05334b930a27e3c6725462fbd8656f873e03c2607843f804799be9924e0198"
+      "bytes": 166857,
+      "sha256": "dcf9f05fb2e73414b612206cb51fe01ab7bcddb44ce05f049107aaea2b99fc8b"
     },
     {
       "path": "zh/products/eco-friendly-premium-molded-acrylic-ice/index.html",
-      "bytes": 167919,
-      "sha256": "6c3919100bb8bdf0f96fcdd6d9b6ebbbb176ee6d87f3409fe13ff2a20c4b2333"
+      "bytes": 167916,
+      "sha256": "bef2cce23bf9830ef539afb3bb98d85cb0b3fdffb5fc018481c5a24608075e70"
     },
     {
       "path": "zh/products/electric-wine-opener-s-2/index.html",
-      "bytes": 168154,
-      "sha256": "e562f3e41257bc9921261803d7ca9675fc91d426cc8ac6419bbdcf904ac32e12"
+      "bytes": 168151,
+      "sha256": "5ed7b03963bf5187c527aa64e4c60542e56bd2be5ebf7c9c3225fe14adc59026"
     },
     {
       "path": "zh/products/elite-nucleated-polycarbonate-pint-tumblers/index.html",
-      "bytes": 170783,
-      "sha256": "6de7254100cbccb203f8addbb08193b547fcdf9b1ae5a9bb99cbe6fadb28957d"
+      "bytes": 170780,
+      "sha256": "2dede9cffe4e3e6eb8fec458eac28d410f9b2da3e867c1174c45421adc20fe5e"
     },
     {
       "path": "zh/products/engraved-wine-bottle-opener/index.html",
-      "bytes": 168360,
-      "sha256": "fbb442a30cd6df7b9d372ce7b76b6203ec48a84067e53909219f25cb5dc43fe4"
+      "bytes": 168357,
+      "sha256": "d5a5bcc871e51138d6f69af5f4fba13c93af5b72eba7d75510e54056a1af0655"
     },
     {
       "path": "zh/products/full-color-collapsible-foam-can-cooler/index.html",
-      "bytes": 166958,
-      "sha256": "ca2499aad723136a09aa668a8015228a4c61fe0adb15d00c01220fb01b84e187"
+      "bytes": 166955,
+      "sha256": "7a373e3edabf1c2e0ba84caf5a9fc2a95e79c7e226e1e668ff2db49a6689b481"
     },
     {
       "path": "zh/products/full-printed-cold-cup-16oz/index.html",
-      "bytes": 1363,
-      "sha256": "f8b289376370684937e4b0d39648ce602708f52133b7ac68523bdd12df5b5eb1"
+      "bytes": 1357,
+      "sha256": "026f046852b46207e47cb443f1db7235c450cf33aba7111ac776cb592c645a25"
     },
     {
       "path": "zh/products/goose-head-manual-wine-opener/index.html",
-      "bytes": 167430,
-      "sha256": "1faed5dec65df6fb25903254dc13975a55f388a905bba92ca108f2c852f1e0a4"
+      "bytes": 167427,
+      "sha256": "81328a4fd7067163a44700845eb290ba60c5f209005fee8237ac0066a93e8d86"
     },
     {
       "path": "zh/products/hawk-wine-aerator-pourer/index.html",
-      "bytes": 165658,
-      "sha256": "c161fb21a89134524c72bcd2c2d2bfaa1dbde89d0fa4d0903cbde9b9e2c6d2db"
+      "bytes": 165655,
+      "sha256": "cebe837b481e8b10af266c37cdb3f2ff04d3154d64f112ba34ed41cda7726d85"
     },
     {
       "path": "zh/products/high-capacity-acrylic-ice-bucket-with/index.html",
-      "bytes": 167540,
-      "sha256": "de605facb42adc9c3c6fb2a188ef518d46e32c2c1ee6f592026e361e4d983769"
+      "bytes": 167537,
+      "sha256": "f53532d8668890566dedf92a7f04015b8f7d4cbb837e3f32a598666fe50f925f"
     },
     {
       "path": "zh/products/high-transparency-round-acrylic-ice-bucket/index.html",
-      "bytes": 167979,
-      "sha256": "e6e8bf4a4995a66cca4a1319986daefbd58fc123605e5b03287e58642e1d2c9f"
+      "bytes": 167976,
+      "sha256": "aed1517cd14413a4745469af862cd12225f2d1fea3aae3c16d603eb299195554"
     },
     {
       "path": "zh/products/hydaway-collapsible-pint/index.html",
-      "bytes": 170607,
-      "sha256": "696944efe5a3bdfdc3cd5b64ddafd9d2bdcb7ce5f8bb1bbb58a814cb6cfbee6b"
+      "bytes": 170604,
+      "sha256": "e797408b53b0d01fdc219a0bf8a991d4f411e3cdb407549e80b8e1fc77b49c72"
     },
     {
       "path": "zh/products/hydaway-collapsible-tumbler-with-lid/index.html",
-      "bytes": 171350,
-      "sha256": "27428c8c82bed6601258b873f106f4385d87a277c126726150aebc0c28fe4015"
+      "bytes": 171347,
+      "sha256": "ea14fe39191c6661e6599f6d02b6d019ecb7265895bfabf5f96fa7f61a988287"
     },
     {
       "path": "zh/products/ibiza-round-non-slip-drinks-tray/index.html",
-      "bytes": 166707,
-      "sha256": "3072526d33a413317f15f574175be01dea636415dbebd93dcebcae473e67ccfb"
+      "bytes": 166704,
+      "sha256": "8a66240f3ec6b2fa9ca6d3112fda9635f977f9ec28aea18535a464220ef05e9b"
     },
     {
       "path": "zh/products/ice-tong/index.html",
-      "bytes": 166529,
-      "sha256": "806b4001759219bc858bf271e74acaabb6fb605cb7215ff78ba9dcec38dcc8a3"
+      "bytes": 166526,
+      "sha256": "8325d6d0f981de8d60677772e22e72c4bccc0017e773395e2f45ae00aa041967"
     },
     {
       "path": "zh/products/index.html",
-      "bytes": 157386,
-      "sha256": "de835b2957f6669bc5355b8227b2caa4d0102d66548be66706cf690644d37152"
+      "bytes": 157383,
+      "sha256": "86bb9e6ce312a502bd43158e363de122ed7751e473e84a1aa516e534b14c0cbb"
     },
     {
       "path": "zh/products/interlocking-12-x-8-glass/index.html",
-      "bytes": 167257,
-      "sha256": "c5faf29d5bfff83d247ea29f8dc0b4e548ae08dd5ad955eb98771234b2063b89"
+      "bytes": 167254,
+      "sha256": "8c1b8faa429a27a48e6ec14b81c4cf5d41d4de965b9b68e09b4b99cbca6ccaf0"
     },
     {
       "path": "zh/products/iridescent-light-cup-led-tumbler-17/index.html",
-      "bytes": 168591,
-      "sha256": "7de797a235cc24e789fb580a337e952fd7b44ce1bef4c48f0699c54b16b270ad"
+      "bytes": 168588,
+      "sha256": "d93fbabcc58a952f37a3e793ec63a50fc7bab39bb2bde132867036f3d3f8dcc4"
     },
     {
       "path": "zh/products/irregular-shape-led-bottom-lit-ice/index.html",
-      "bytes": 167645,
-      "sha256": "99f480d2514b345f5277a36b277f1f66b3e871b3757fc402c6b14afff18e255f"
+      "bytes": 167642,
+      "sha256": "219f518bc7b5d7cd99e453cc92f9776f8754c253abd29a31ae664d9435a7268e"
     },
     {
       "path": "zh/products/katerglass-plastic-pint-tumblers-22oz-lce/index.html",
-      "bytes": 170373,
-      "sha256": "2fafbedf5460d780745ac969912de581f61b885cb933d929270e5a667151f5f5"
+      "bytes": 170370,
+      "sha256": "3fce7029098c11a783d7616bbd48156b4e65d509427b0d6583077a7c1501bc25"
     },
     {
       "path": "zh/products/keychain-bottle-opener/index.html",
-      "bytes": 170192,
-      "sha256": "0bf3ae340692e2de51f050a379783caa37dd8c1f437b06606bacc2642f6ff59a"
+      "bytes": 170189,
+      "sha256": "d80b989ab92e50a49c67a2cf3977919108c80cd12dd62e0eb9996f4a1d43c94a"
     },
     {
       "path": "zh/products/koala-shaped-silicone-wine-glass-charms/index.html",
-      "bytes": 167549,
-      "sha256": "2499c43727a00bbfd1fb9cf14f061016442b337720942754644edcf8f2f4ffe8"
+      "bytes": 167546,
+      "sha256": "3dfe5aa1a3f1ee0d35b52642c391d638a5ae55734303485567a66b40fb0bde61"
     },
     {
       "path": "zh/products/large-capacity-acrylic-ice-bucket/index.html",
-      "bytes": 167647,
-      "sha256": "b7da2c92d549b4bd8771d1b00108d0a3324ff5cee0fe5ded1f9bbba8a4d93f29"
+      "bytes": 167644,
+      "sha256": "9c1e2c3d8e05a530fc020dc0f05a5f7e79b0654ebac6e70b7efe6be8c854b88f"
     },
     {
       "path": "zh/products/led-disco-ball-tumbler-cups-deluxe/index.html",
-      "bytes": 169226,
-      "sha256": "3d304cd644c369b0785dc0cd40c7dd27377693b74a1795e0d5752b0839825e09"
+      "bytes": 169223,
+      "sha256": "a96678e3b2da022b8134dc66766ea505872e7e8a6168fa0c5e483a737f8295ed"
     },
     {
       "path": "zh/products/led-light-up-beer-mug/index.html",
-      "bytes": 169032,
-      "sha256": "0b0473dea7d4d1cfe6d1bc458473c80aa70321d80161bcd59b3ed86f55ff8c36"
+      "bytes": 169029,
+      "sha256": "407753710a7da1aeb93128cfd1dcf5ff5aa6ecf374908799f28cc538c0c915a4"
     },
     {
       "path": "zh/products/led-light-up-color-changing-glow/index.html",
-      "bytes": 168639,
-      "sha256": "6ce8dd4b078750ca85323da734e4de542390455fc476f3fe8f59fbd31891c966"
+      "bytes": 168636,
+      "sha256": "e1fc9d4c178fd8122b25e4352b3015cf2a9e097982e387a26f75750581a0cc02"
     },
     {
       "path": "zh/products/led-light-up-ice-bucket-with/index.html",
-      "bytes": 167837,
-      "sha256": "d9e9b6e7b76ce09fa8f03529dd36bd876249fed141ad58e4258ad7820789304b"
+      "bytes": 167834,
+      "sha256": "6cedb2c0608468c4a27f06b2dd0ea776c72af820d9a2f69586614ba6260e7223"
     },
     {
       "path": "zh/products/led-light-up-multicolor-whiskey-glass/index.html",
-      "bytes": 165554,
-      "sha256": "7786e240e0a9058da5112603d8a51c0d0eb6dd0a5bd94ffa770d473bed7db7ef"
+      "bytes": 165551,
+      "sha256": "0fb0bb9753b554a5e424120a23c21bcf10d9847d23ed6875e7055400b8bc8fc2"
     },
     {
       "path": "zh/products/led-light-up-spiral-stem-martini/index.html",
-      "bytes": 169319,
-      "sha256": "068478026ce34d80fb51d29e5366b712847e6e14a2d7bbb98a9d94b3b4eecef1"
+      "bytes": 169316,
+      "sha256": "1991325d9894375729e8e29dcddcf8475ced1ef0393b009c0e0427016e67c637"
     },
     {
       "path": "zh/products/led-short-tumbler/index.html",
-      "bytes": 168247,
-      "sha256": "df016de99ea52bcb1c9944b7245647a64673591d13af4358c71aa9457255d975"
+      "bytes": 168244,
+      "sha256": "2889edb70c83c5f22d960ab732b9a888dce80bdd3d9dce1fce596b6a6fee0970"
     },
     {
       "path": "zh/products/light-up-beer-boot-mug-led/index.html",
-      "bytes": 169128,
-      "sha256": "43c6a8dec4443b3bb79c1e16c154493c1d46117fa0ac8ac863f75ea988ce6cbb"
+      "bytes": 169125,
+      "sha256": "5abef43fe8b4c927a523d7585d1339ab9e85a5d3457dfd3eb31a0b6f829792d3"
     },
     {
       "path": "zh/products/light-up-disco-ball-light-projecting/index.html",
-      "bytes": 168808,
-      "sha256": "37054e80cff77a5fe4e808a645a1246527914b2fce450817d53794b170d97327"
+      "bytes": 168805,
+      "sha256": "09a73fdb8f735978c455d0edcf67a2570070f82ddf59553008d2d1f4883aedea"
     },
     {
       "path": "zh/products/light-up-multicolor-led-pilsner-cup/index.html",
-      "bytes": 168930,
-      "sha256": "24c2878c70eca38b8a0cb09d53aa8d1c013fa142a28a2e0ed48dfbcf89d22491"
+      "bytes": 168927,
+      "sha256": "0a195dcbeb51a8c80f3543ce4a5b1ac3d8b23e999fbbf1aec557ba8336a72185"
     },
     {
       "path": "zh/products/light-up-slow-change-led-shot/index.html",
-      "bytes": 165865,
-      "sha256": "a55a65c4faae19c05c682880e8544704f586b4fe6ed066132431a79c59795a2f"
+      "bytes": 165862,
+      "sha256": "d73ded07cd1770b4eb44d2c23bce4cdeca8c85a1c8c01b7639fcf6398ff11681"
     },
     {
       "path": "zh/products/long-stem-led-light-up-champagne/index.html",
-      "bytes": 169453,
-      "sha256": "b5657991215817f4f3020038f07e3acb4e3750d0bf5f3f0d022d27b658e055e1"
+      "bytes": 169450,
+      "sha256": "477d54f202ff293e067f0991be3f7966b21a7369dbc747a069c8ffe342b40267"
     },
     {
       "path": "zh/products/long-trail-70oz-plastic-pitcher/index.html",
-      "bytes": 168560,
-      "sha256": "953360d397ed3e4fbd3e2d0b8252d2dc3e74a8ff6ee366c9132feb9744e553b9"
+      "bytes": 168557,
+      "sha256": "a3d0d444b9536a567d0f16fa1072bb86626e95b935174eb363c0fdc904bf1054"
     },
     {
       "path": "zh/products/manual-wine-opener-kit-s-4/index.html",
-      "bytes": 167622,
-      "sha256": "e0bf97b1682f458e79d1e17ddb89ac373f3ed088c01a72bfade671e707c303b0"
+      "bytes": 167619,
+      "sha256": "f929e7c86ed074f364c1621d4b5d13f1e51274a9299b6127f1d003941204dd54"
     },
     {
       "path": "zh/products/margarita-cocktail-drink-pitcher/index.html",
-      "bytes": 168577,
-      "sha256": "1d6676d24d1f81ee82d93604ea00dbcbe13119a94cf7142c6c20577357b00574"
+      "bytes": 168574,
+      "sha256": "bdb7dbdc7b278892607826ae4bea7bf630f941797c4fac10476b326ab71143a9"
     },
     {
       "path": "zh/products/metal-beer-opener/index.html",
-      "bytes": 168140,
-      "sha256": "64e72cf9dde4be9804ebb79b27d01a12aaf855261961c8507da69aa51fbd5218"
+      "bytes": 168137,
+      "sha256": "b21344c9b639d38a058bb672d0a100e01fcc4bfcf5f11dd4747465b86fbb2bfc"
     },
     {
       "path": "zh/products/metal-pocket-bottle-opener/index.html",
-      "bytes": 168328,
-      "sha256": "21fa1087e43c4ed18eb5a93f465579a3c4361050d0f29a67d54a6f30c5dedb51"
+      "bytes": 168325,
+      "sha256": "7b53a6992d8ed9885918738a4421d1e10e0d44a72bae49452b37a3d9954756c4"
     },
     {
       "path": "zh/products/metallic-lustre-touch-asymmetric-acrylic-led/index.html",
-      "bytes": 167969,
-      "sha256": "2c0120e1ea060729b68679c0a87ff31ef8ef2236ca972cf4b4dcdb1c634aeb34"
+      "bytes": 167966,
+      "sha256": "2b908f32ff32253e2485272969bdf91077eaba3132f76143ba7aebf8d6c17efb"
     },
     {
       "path": "zh/products/moet-champagne-ice-bucket/index.html",
-      "bytes": 167224,
-      "sha256": "e18d5f882c75228da208bdf1b2fc7f4108db127545bf74e5cb040a83fff5912b"
+      "bytes": 167221,
+      "sha256": "341495a78fdf4aca6fad570c71481adc065ca1daf4dc48427985f394b5f7de95"
     },
     {
       "path": "zh/products/moet-sipper-with-moet-logo/index.html",
-      "bytes": 167237,
-      "sha256": "22fd73644d90d6a2fe2cd65c0a583ee0d66e221e3a427046afca2f8acf34c75f"
+      "bytes": 167234,
+      "sha256": "df30c963a329deb786dbf4aeb17efbc4bcf9af498958e027781e0e27d254f99d"
     },
     {
       "path": "zh/products/molded-swizzle-sticks/index.html",
-      "bytes": 164379,
-      "sha256": "0e5480a683b2425fa0815babaca7f6dfbe12b3d54ef070492d857e29d84b9a03"
+      "bytes": 164376,
+      "sha256": "a694b8e6b0851c289079e2bf7c93d9636f8c1c1a998dd4155501c7ae2baeee23"
     },
     {
       "path": "zh/products/multi-color-light-up-led-mason/index.html",
-      "bytes": 168676,
-      "sha256": "db99ae7bb9ed32cb68bc638c4f923e6f31ff4335dabdc67db4fdb0acf314d6f0"
+      "bytes": 168673,
+      "sha256": "0ba2ddde961b0a7b32bee8868b11eab1a6a61e3ebea555724ff4d936ae1d5f26"
     },
     {
       "path": "zh/products/multi-purpose-cocktail-spoon/index.html",
-      "bytes": 164418,
-      "sha256": "e50f97ca23fa4a9e26ca8bb73ad15ab08a837ec32edcff767b2ce6a6dcbae861"
+      "bytes": 164415,
+      "sha256": "5ce768fc2f5c033ca1a865c1f9a23c3fc724d79c455fd3bf228983fbcc6897c7"
     },
     {
       "path": "zh/products/multicolor-led-light-up-ice-cubes/index.html",
-      "bytes": 167433,
-      "sha256": "80bfaa7fbfb42a16e21968b093d670c941f84b69ea07fa189084643eb03f0fc0"
+      "bytes": 167430,
+      "sha256": "d5c4779d775e6d199eaa132c639041cc95437788790a1cb8cda949df8c233853"
     },
     {
       "path": "zh/products/multicolor-led-light-up-to-go/index.html",
-      "bytes": 169087,
-      "sha256": "6782b1f1380062a545f293f3f588f3a9c87d005b2de80dde9ae039e556e57b36"
+      "bytes": 169084,
+      "sha256": "993d6e329ef61941f2ffbbd1d0cc2c02873e560cd8dc75747dd8d09179b37226"
     },
     {
       "path": "zh/products/multicolor-light-up-spiral-stemmed-wine/index.html",
-      "bytes": 169413,
-      "sha256": "066d894ae08c37b3d669b3553bac68bb82a355119adcebe88a8806c41531e370"
+      "bytes": 169410,
+      "sha256": "971bffd0567ed8202bccb83861d5a61df6b8a2952507f174ec182816b492a005"
     },
     {
       "path": "zh/products/neoprene-zippered-bottle-cooler/index.html",
-      "bytes": 167494,
-      "sha256": "a0dede3dad28107ec8650c3f76767728c3cd6efc31c77829f5cc744068c55a44"
+      "bytes": 167491,
+      "sha256": "543658e47b216f983e458b886d7aefc17e322df93cc17f5d98d090aeb8db104a"
     },
     {
       "path": "zh/products/novelty-ice-trays/index.html",
-      "bytes": 166883,
-      "sha256": "de838bd7c54be337d35b2b526a3d5b0417ce19d850f76159c43ddd474ddfa80c"
+      "bytes": 166880,
+      "sha256": "614193fdf180048d4764a855fba2ffc27eca4a62676c8f295818e8ef08ea4873"
     },
     {
       "path": "zh/products/oliver-acrylic-mug-with-straw/index.html",
-      "bytes": 166912,
-      "sha256": "db5dfe2aa85bd810857e71a8950e874ee0acfffa131916132953a996be1beba1"
+      "bytes": 166909,
+      "sha256": "73e42163f95fa9c7d8e3c786bde24434866f6001c3a01312016f3d1113d79914"
     },
     {
       "path": "zh/products/plastic-beer-opener/index.html",
-      "bytes": 168074,
-      "sha256": "3a2b15a3dfd8cfba444a6826c386fed3463f231b0d7cdcdbebc60f26172d980f"
+      "bytes": 168071,
+      "sha256": "3e11ea820cdd31001a9b8227aa276a0505246605baaec9fbcbbc157f487cd389"
     },
     {
       "path": "zh/products/plastic-ice-bucket/index.html",
-      "bytes": 167122,
-      "sha256": "e00c2b5f103f5ac7881943521ba34174ec4e4445d68ab4c8c3aa2e9350264a37"
+      "bytes": 167119,
+      "sha256": "6a00164cd401bc584353ac672928e6dbf0aa182de8a684f9b6c2fc4a521dd5f8"
     },
     {
       "path": "zh/products/plastic-jiggers-with-measuring-lines/index.html",
-      "bytes": 165658,
-      "sha256": "b9d8c9eddd72415d78fe50db395464a5b289bb56b0f9b43473ff8d39d7a55246"
+      "bytes": 165655,
+      "sha256": "a3363b75a8a3a647ce450d46b88b995b92c19d9f78929d45ec546549b74b9459"
     },
     {
       "path": "zh/products/plastic-wine-glass-with-gold-rim/index.html",
-      "bytes": 168774,
-      "sha256": "534f66feb4a1dfd1ce4695c8efb41fc4390e11a6d32c6b954639c474b482b03d"
+      "bytes": 168771,
+      "sha256": "6b5baf88a8503ad908433022bf13f1666676cd7d59af10225bababedfc900d80"
     },
     {
       "path": "zh/products/plastic-wine-goblet-with-gold-plating/index.html",
-      "bytes": 168878,
-      "sha256": "bc9866689ff5ffea87a6c4f132d844ab350a20426a5784f0bb7a2ba15e96d9bb"
+      "bytes": 168875,
+      "sha256": "498944f94829e1751f18c32e780a9f263c4e1e46938441c760b3963477679ac0"
     },
     {
       "path": "zh/products/poker-card-bottle-opener/index.html",
-      "bytes": 168264,
-      "sha256": "e7c400eeacc5e63d950b11369987c555479c7807966c2084c5aa5f624da44967"
+      "bytes": 168261,
+      "sha256": "96ee63e41f8d7d9a8171d7c6f395ece9a4f4828437bd6ab4e873c59b848fa60d"
     },
     {
       "path": "zh/products/purple-led-light-up-shot-glass/index.html",
-      "bytes": 166078,
-      "sha256": "c582015b11431b20a3732831f4e5f5998502052f4c3ed843cb20c6cce87f6c5a"
+      "bytes": 166075,
+      "sha256": "ad15b38957ac8dab96c921c16ce675959f0a6b564ddfa97a630746138c8424ad"
     },
     {
       "path": "zh/products/rechargeable-wine-aerator-dispenser/index.html",
-      "bytes": 165847,
-      "sha256": "a17d996d031795fbb3e278e20496d61b91c27855332241a2f27e7b042753cc52"
+      "bytes": 165844,
+      "sha256": "7e5be842bf7aa37c4c99e6d4a3bd379cdeb2261601ff4b80cd774765c93dfe9e"
     },
     {
       "path": "zh/products/rechargeable-wine-opener/index.html",
-      "bytes": 169556,
-      "sha256": "896199362aa6c5300a5cb3dbb9ebeef17299b9e99aaa9a62ee5867e8bae2072c"
+      "bytes": 169553,
+      "sha256": "b5e0f925dc4da1ace56cf0c4fd9a40d5c434688e4572d0f93decc9d7191669fd"
     },
     {
       "path": "zh/products/roll-on-silicone-bottle-beer-rubber/index.html",
-      "bytes": 167525,
-      "sha256": "11b8db9b68cd76ec8fbb4d6097685a7cb0e0a0c7a20363f8e407c80ba91de26a"
+      "bytes": 167522,
+      "sha256": "4c5b91488d4d0c26d65f2228c5e4ed0ab6d74c3a76f95bd681b0d05927d94c19"
     },
     {
       "path": "zh/products/silicone-1-5oz-ljb001/index.html",
-      "bytes": 170001,
-      "sha256": "504c33698ba7f8ecd131f9224f0af3deffe2bfd0968b16e7a0475986ddd320ba"
+      "bytes": 169998,
+      "sha256": "1b0620f5c8f2813f917100b9c6cc332fd341e28f2a5ab1d69369b8b1d5acf2ba"
     },
     {
       "path": "zh/products/silicone-16oz-siliparty-party/index.html",
-      "bytes": 169418,
-      "sha256": "3a2034ebf952e331e91a074e487a275cf5a1700048e6b9d52a375b890ee1a2ba"
+      "bytes": 169415,
+      "sha256": "8b475601f5b0b733a66905ac9878ac5c0f09b3d1425d9c2863a93794f3c8d2d1"
     },
     {
       "path": "zh/products/silicone-20oz-pint-glass/index.html",
-      "bytes": 170837,
-      "sha256": "34b792138f92b8c9d057629b0275ab14ee8f3d4edc538fc123018bde2d83c9a9"
+      "bytes": 170834,
+      "sha256": "c951921ea77a3822087096dc436bb119bf7fa2f864a918b14b2966b472db6e68"
     },
     {
       "path": "zh/products/silicone-25oz-handled-barrel-bpjj005/index.html",
-      "bytes": 170745,
-      "sha256": "5b352f7d1b4d9ee44413feff2db3dd9f2e75f5d36a9c4095b3917684ed83b562"
+      "bytes": 170742,
+      "sha256": "e90c78668447ac895e425450187c0b5a50a7c3f66d46cc4b4291dfe5884e1a0a"
     },
     {
       "path": "zh/products/silicone-28oz-beer-stein-gjb016/index.html",
-      "bytes": 170024,
-      "sha256": "d0b6e76b1a9ec279cf78827cc3a525f89f17e73668b31083f3b806df0303c60a"
+      "bytes": 170021,
+      "sha256": "f7b4f8729122ccfcd107059248ca2df1377ba62c3f4dd398b11dd39f6b86ed1b"
     },
     {
       "path": "zh/products/silicone-2oz-shumbler-shot-ljb002/index.html",
-      "bytes": 170619,
-      "sha256": "9b8ff0001416950f41bb1396dc855c6e90f9231aa99efddbc1c9fac0b32232ee"
+      "bytes": 170616,
+      "sha256": "80e7aed593875f437f8357704f26883b4aafd8f4c04b8906f5e8f3152632dfb3"
     },
     {
       "path": "zh/products/silicone-32oz-bomber-cup/index.html",
-      "bytes": 169323,
-      "sha256": "8bd27ebea1aeddd21fd0f40dc6f59469c0668dfda0d4a2f2065b89be63e405da"
+      "bytes": 169320,
+      "sha256": "b84a248cf271d9d322ed5ff393cc97a23ca7123b3d3e8a138781b030ecca4e58"
     },
     {
       "path": "zh/products/silicone-6oz-flight-taster/index.html",
-      "bytes": 169368,
-      "sha256": "c9f746352079d6281e750dfabb0878bd4bf378f8104f8fbc7fb30de888fa96b3"
+      "bytes": 169365,
+      "sha256": "2690d0fc9602952ecf3b116ae3e7687edcad89275928bce2c9c1eb529428a21b"
     },
     {
       "path": "zh/products/silicone-coaster-gummy/index.html",
-      "bytes": 168568,
-      "sha256": "fa45ad68013439089c3f546648101a52b452ba86ef9f8b4d05b2ccade60922b9"
+      "bytes": 168565,
+      "sha256": "5327d790014ace709ff1c49ca4ccb46106310b0aa9b5409f8f36ffca6f9aa74a"
     },
     {
       "path": "zh/products/silicone-coaster-jelly/index.html",
-      "bytes": 168582,
-      "sha256": "746eb0302c51dd3798805555f994e1fe88dc0a3a0f92b74d9e080d48f9bd2a50"
+      "bytes": 168579,
+      "sha256": "14cfa16e56aca31cfa266440f6113273bad3ccc2b630caaf61337dc0e22bb9fa"
     },
     {
       "path": "zh/products/silicone-drying-mat-black-12x16/index.html",
-      "bytes": 167383,
-      "sha256": "fad6117757cd8bac210bea33206869102eb24befda00d4db329b4ca8b9e7f3b5"
+      "bytes": 167380,
+      "sha256": "354d506f828bd5ad411e299e308e462a4db315e0fb8a86b82c7364582a4cd78d"
     },
     {
       "path": "zh/products/silicone-lid-for-ice-tray/index.html",
-      "bytes": 167033,
-      "sha256": "4807bf77214fa30e671397a5abc9951926b67988a7d15f992dc21560b3206ed0"
+      "bytes": 167030,
+      "sha256": "fa46fae8b62c3ca4c2e373f82588509191f0f5b58092da985b67e3b1b09f06e0"
     },
     {
       "path": "zh/products/silicone-sili-straw/index.html",
-      "bytes": 165771,
-      "sha256": "92da81a57592f92734a1150bc9ad91db4a8be8e1b1209fde15e227cbe834140a"
+      "bytes": 165768,
+      "sha256": "8f57f970011de19bd1451eddb5db28d152ebef6dbb9f4857ec614e71d23e308b"
     },
     {
       "path": "zh/products/sipper-pourer-universal-ver-for-16/index.html",
-      "bytes": 167788,
-      "sha256": "a268aab4571addc31c18e286f4686ebf4e9e4269ea6fee3fad3f66d73dc26e96"
+      "bytes": 167785,
+      "sha256": "1d4f338115c07eecf9b75816b490a3a6a5cc457ddb0b1caadca1dbd61d848e24"
     },
     {
       "path": "zh/products/sipper-pourer-universal-version-for-16/index.html",
-      "bytes": 167779,
-      "sha256": "28cb1903b48bc9632e0cf670c27ab06d7a7521f1824b2a77ac2378910d345775"
+      "bytes": 167776,
+      "sha256": "04198db93c32d97b359ae06d6709d89be523ceb0cc13e90e7bfe763029beb0be"
     },
     {
       "path": "zh/products/slim-can-silicone-sleeve/index.html",
-      "bytes": 166742,
-      "sha256": "a0dfc922c50ba5f9c0a0c2b1b8830991f6cd2a650293d999ec6f171386eca16c"
+      "bytes": 166739,
+      "sha256": "d1840344016a929eaf7368d2ad3c45c4fc51e92653903c588c3ec19b5d803063"
     },
     {
       "path": "zh/products/sports-ball-cocktail-pick/index.html",
-      "bytes": 165822,
-      "sha256": "a3a86d7ec19d158e56cf4ab5fbb6873ada9cf5f3b4eca3876123735adf8a8ac3"
+      "bytes": 165819,
+      "sha256": "248006d856e6dba961eeb32d59bd6a6d7d08326fa254fc40e7257d521a252677"
     },
     {
       "path": "zh/products/square-acrylic-ice-bucket-with-lid/index.html",
-      "bytes": 167655,
-      "sha256": "8f945cabc1c6ca8624c1a993f98942b94154add7f9c5cb59f665a63ec4ffb178"
+      "bytes": 167652,
+      "sha256": "7da9e1bd0d77e4c1f247edbba2da961eb6a89fe7cbecfdf8725a7274f1853ad3"
     },
     {
       "path": "zh/products/stackable-beer-stein/index.html",
-      "bytes": 167051,
-      "sha256": "19575a70235252ac8f858d341b641db60ba130c1e7a2788d82ab9b5f77c27933"
+      "bytes": 167048,
+      "sha256": "b3237cd0e307600bd91d6d714a5dee1133ef061ca4d041e3f3367ef05c0ce441"
     },
     {
       "path": "zh/products/stackable-plastic-pitcher/index.html",
-      "bytes": 168500,
-      "sha256": "eea05a92d8eaa8036d4411863e499ee5a91692bb2cf56e7693616f9c7bd9390f"
+      "bytes": 168497,
+      "sha256": "8299ba894a0554974136803d4b80de65b368f92fc30b8d34b3cf2241b0308bbe"
     },
     {
       "path": "zh/products/stainless-steel-credit-card-bottle-opener/index.html",
-      "bytes": 168715,
-      "sha256": "564cb4ce7e584b4d3f5db2379f1e5e618fb9144549c11666a7a921f1b818834d"
+      "bytes": 168712,
+      "sha256": "de53895a9f3bf16f605e37db194453e7972fb9c769ae7187fece369d8179cb91"
     },
     {
       "path": "zh/products/stopper-pourer-2-in-1-with/index.html",
-      "bytes": 167481,
-      "sha256": "a0d4ac14c324728eb4e31301f1c1121c481704d575423b6301a51c039a4359c7"
+      "bytes": 167478,
+      "sha256": "762d2d71feef2f9b73360bea374934d42e99d5c39fd72117c1ae53dda89e8fd9"
     },
     {
       "path": "zh/products/translucent-frosted-effect-acrylic-ice-bucket/index.html",
-      "bytes": 167838,
-      "sha256": "82daa5c863227a0ec8a27a981c55a8579593b3578bf9b239f5bfd0b300e03944"
+      "bytes": 167835,
+      "sha256": "7dc0269011ba3f1c7c47404a4c687d16883b8b3e9857311cf44b2d0649b4c6de"
     },
     {
       "path": "zh/products/traveler-double-walled-wine-tumbler-by/index.html",
-      "bytes": 169390,
-      "sha256": "cf9ba6d20b545a925bea64643bfd5afe53bd00121eacd5e035b01c57ec045195"
+      "bytes": 169387,
+      "sha256": "913fbbc5b5f52d7a64a6e915acc5694897cb460fb07b1b98e13163742f3542e1"
     },
     {
       "path": "zh/products/vacuum-pump-4x-stopper-s-5/index.html",
-      "bytes": 167415,
-      "sha256": "c21dcad538b71a25b7fadd330d7ae0065e344668da9e540ec24986d3af902a14"
+      "bytes": 167412,
+      "sha256": "a187744ab66907ee4e4b400cf9213c0753aa45d013b710a3d4e0e1dd67957a6b"
     },
     {
       "path": "zh/products/vacuum-soda-stopper-pump-air-in/index.html",
-      "bytes": 167343,
-      "sha256": "afb804c5f42a81d93978aca61c3109e3f94df6e54de8cd0dd195236ea3a11a23"
+      "bytes": 167340,
+      "sha256": "0f09e01bfbf12fb71238fae99c5e1794b062561b53694645e9d0f9987bb1fb20"
     },
     {
       "path": "zh/products/vacuum-wine-stopper-keep-fresh-7days/index.html",
-      "bytes": 167356,
-      "sha256": "69d31e448386d8cf0c44443c478cbcc1e00078c06b5c697238eed7d074cfdead"
+      "bytes": 167353,
+      "sha256": "e432e3411eb7f38342236d54d9479f7879cf6bcac18116faa588e46e905221a6"
     },
     {
       "path": "zh/products/vacuum-wine-stopper-with-31-date/index.html",
-      "bytes": 167358,
-      "sha256": "67b56e482e796176b7e7f1c9f340ca0c931466b0c355323971d2ec9bed377406"
+      "bytes": 167355,
+      "sha256": "7ed4819a76d52d9294497cb3666e7f62e0e5e3cc6997f8ce01132b3bffe26e47"
     },
     {
       "path": "zh/products/white-led-light-up-ice-bucket/index.html",
-      "bytes": 167713,
-      "sha256": "95df82eb9cdfc60b0a371b69fb429eee608ea49919b9e07f6b1fcb943d59fb5d"
+      "bytes": 167710,
+      "sha256": "fa4b00e7704c3f201c563b4d7e40f6b4eeb74c012d9219159993116eb6e74580"
     },
     {
       "path": "zh/products/wholesale-acrylic-martini-glass-8-5oz/index.html",
-      "bytes": 170583,
-      "sha256": "11b2311a10f081e2d8347075326079ebaaed09d076883064acca9c9cf7040d24"
+      "bytes": 170580,
+      "sha256": "d508c573ec971c3497af2d27d37e279fdd91e6ee54b3a41f900b439a7ebbc384"
     },
     {
       "path": "zh/products/wholesale-bar-service-mat/index.html",
-      "bytes": 167177,
-      "sha256": "ba2d5e53e5bc7c84c1e9340235b1ecd899c101ae673f75b1afe6c380f71e1c47"
+      "bytes": 167174,
+      "sha256": "0c4dab9ae1f47be2ba4daf4f14649fa9f50066d8fb520217fde255e6e3328fd3"
     },
     {
       "path": "zh/products/wholesale-go-anywhere-red-wine/index.html",
-      "bytes": 168979,
-      "sha256": "1a4eea09180db4d714a4bd5cb6236344bc012b5cae1424c478b54c948c22576e"
+      "bytes": 168976,
+      "sha256": "2a85f275b12d233ee47a596c0a2153aeeaead97b669e93d85c8ebd7e3c6fbc54"
     },
     {
       "path": "zh/products/wholesale-outdoor-red-wine-glass-22oz/index.html",
-      "bytes": 169057,
-      "sha256": "e7c60df019bf541d73df77a0435112499558d51b6a6cfb4c27cac95021e43ff0"
+      "bytes": 169054,
+      "sha256": "12def2655b56904467af64832f9c20c64dd60e9849cda5d6cb056994a1aecf5e"
     },
     {
       "path": "zh/products/wholesale-plastic-flute-6oz-champagne/index.html",
-      "bytes": 171382,
-      "sha256": "bc47f130c4ed5a8cb15f9f6cd84961043f003c370b98d0bf842aca4bc5e9238b"
+      "bytes": 171379,
+      "sha256": "f349047706bb3bcb3be1ec818564bb08ef66aa154b9da81962c278b9c66c7c82"
     },
     {
       "path": "zh/products/wholesale-plastic-stemless-wine-glass-12oz/index.html",
-      "bytes": 168885,
-      "sha256": "006222a6ea4593bb6a134c3524f8e280cc373b1bfbddbf0387061df61e5502a4"
+      "bytes": 168882,
+      "sha256": "226be9016003ee851f19164145bc06319963ea19445477f8134319dc06e09dd3"
     },
     {
       "path": "zh/products/wholesale-standard-acrylic-wine-glass/index.html",
-      "bytes": 174699,
-      "sha256": "e2cd791663db0e0ff0f042d139eafdc8bd139dbd4613c7102ea7c3d00e3edd9b"
+      "bytes": 174696,
+      "sha256": "c8364ed2c3d99d040e8e45bec43374cd9497d197e574fabc20f4ce44759305ff"
     },
     {
       "path": "zh/products/wholesale-tritan-martini-glass-9oz/index.html",
-      "bytes": 170047,
-      "sha256": "5abbc966febffed4a5cba65d0eebe261efd4e5adf7bb21e12739bcc56bf37a6a"
+      "bytes": 170044,
+      "sha256": "7f8e5a688379b3ec9c140bf5b55b618579ca872a137d45a2f819caf2b04609a1"
     },
     {
       "path": "zh/products/wine-aerator-pourer/index.html",
-      "bytes": 165535,
-      "sha256": "9c921d2ee0952fa1fcb43d354ece762f07fdb78f325b759eb7512277dc1100bc"
+      "bytes": 165532,
+      "sha256": "eb6392f83358c46a1dadc8e3c107d38e97f2435992278f77ba8783cffdc5bfaa"
     },
     {
       "path": "zh/products/wine-glass-fish-bowl/index.html",
-      "bytes": 1341,
-      "sha256": "e13c6cce6aeb9942a442c17028667344bca570b88358a43a3090d2bc564d8f25"
+      "bytes": 1335,
+      "sha256": "7de9e55ca89113c7c5283a0cdf2e32354832a8a2c3e378060e72b00232e43e47"
     },
     {
       "path": "zh/products/wine-pourer-and-stopper-2-in/index.html",
-      "bytes": 168390,
-      "sha256": "d24720704765826fdab28fada0af5fad30fd4431bc05989be57b118da570d4ef"
+      "bytes": 168387,
+      "sha256": "086c9d2441447a91396e9cc196d94477bbee8084a13423cd33a167145fa36a0e"
     },
     {
       "path": "zh/products/wing-corkscrew/index.html",
-      "bytes": 167064,
-      "sha256": "7542a7e2eeddc6234f8974e1a5a8d87de4583ddf66a4e004d9fe8aa0e9ef4b05"
+      "bytes": 167061,
+      "sha256": "194bf88e12fa17556760745cafefd7ac59a356071d6bc0e8d3d9a52501c051cc"
     },
     {
       "path": "zh/products/your-letter-clear-ice-maker/index.html",
-      "bytes": 167130,
-      "sha256": "0fe11a6937137cfdfc3037616cf58089b71285e3678dbb5f1cc665842fdf8368"
+      "bytes": 167127,
+      "sha256": "e9df41ed73153a7108d909dc92f67d81886c12214d1606067a5399b58ad061cd"
     },
     {
       "path": "zh/promotional-drinkware-supplier/index.html",
-      "bytes": 161214,
-      "sha256": "cbb16dcee7ad7e093c4a7089816a96ec10fcfe4ebb8b658c999cba8ff6a53895"
+      "bytes": 161208,
+      "sha256": "ac33bda47351441218e3088d712e17f2c5352e7d0b5638cd284f737be5b59c64"
     },
     {
       "path": "zh/rush-production/index.html",
-      "bytes": 158922,
-      "sha256": "96caf5cc82c616aa4dd4e22fe1f7560dead74196de9e160039625c41372cf1b6"
+      "bytes": 158919,
+      "sha256": "5b2e7ccdcec2d3cfb737444d109401e756edc6c853564b098cb94d0b29c4a563"
     },
     {
       "path": "zh/screen-printing/index.html",
-      "bytes": 175095,
-      "sha256": "402f25d604201387ce7b0c73615442734fa0754922f594ac2307232fdbc9252c"
+      "bytes": 175092,
+      "sha256": "3ba889c47b9ebd8f5161e8f6248a3b7c41824cd081b0264cb87c6176f6fcc182"
     },
     {
       "path": "zh/sports-team-cups/index.html",
-      "bytes": 162870,
-      "sha256": "8d0a9ae72fc14c51ae35258cc9975921c83212f4f7f05d1f606eb78228829c01"
+      "bytes": 162864,
+      "sha256": "5e34c7900fe03e9355ca269d817b37696ee5a3b91f3421b2b73a2ca32be27a5c"
     },
     {
       "path": "zh/tailgate-party-cups/index.html",
-      "bytes": 165126,
-      "sha256": "6f4f71c4e0b1f82e5798eb338fbc4ba5b4f623abdbca7963c9d0d85658394499"
+      "bytes": 165120,
+      "sha256": "56f58680ac520f5678f1e15b47187a713910aa261c73e0e8beddc7b98481b82b"
     },
     {
       "path": "zh/tasting-events-drinkware/index.html",
-      "bytes": 164403,
-      "sha256": "c6f95a3af406bb46f306073b0814f3d81b68c09439ae6dce3cceed3b39d85ca7"
+      "bytes": 164397,
+      "sha256": "3a0f3d750bd84db848ed58fc7e0c7aa7737571653f2b945792a98d41bd207b96"
     },
     {
       "path": "zh/tritan-drinkware/index.html",
-      "bytes": 181430,
-      "sha256": "a0a08bce0e4c15cb1d9032a2afde87fbe65b0c04447218e1373f53e4754e6774"
+      "bytes": 181424,
+      "sha256": "b93843dc789d751832822ebd15f52482d2da3a9fd20cdfc745d311586e30b645"
     },
     {
       "path": "zh/unbreakable-drinkware/index.html",
-      "bytes": 262313,
-      "sha256": "1870b87a1e9f992765b680cce2fe5efbb229010e9a8a694c355b529a5ad6abef"
+      "bytes": 262307,
+      "sha256": "22d99273fd537ac76c2a2fb8478f182610e04c2c5e417306869b8eee16d7a638"
     },
     {
       "path": "zh/uv-printing/index.html",
-      "bytes": 182877,
-      "sha256": "5b438bb1e9b97bb1c31476709cf1dc60c97177e33411259d23915285f633970e"
+      "bytes": 182874,
+      "sha256": "8f98d620b26641d1b19d51cce74d921d6007fd95b93223196ed430db0664b323"
     },
     {
       "path": "zh/videos/index.html",
-      "bytes": 157813,
-      "sha256": "c71e2331858f456e46f2922317e2a7aca1ace0719e0e0b6bb06ce660061f512e"
+      "bytes": 157807,
+      "sha256": "da265c9a9eaeb3fd1d6f30a63feb4c5d5542a76191a07395feeee3bd3217da47"
     },
     {
       "path": "zh/wedding-cups/index.html",
-      "bytes": 163523,
-      "sha256": "3f37ba27a6ff02b185cbb0ff7d786a9b7edb07f69696f7b1ec469f9ff2d00fa4"
+      "bytes": 163517,
+      "sha256": "15483fe81c61cc626a75ecdbff1828a60663287293076bbfd69663c7ccbea98b"
     },
     {
       "path": "zh/yacht-party-cups/index.html",
-      "bytes": 165209,
-      "sha256": "d60abfe4bb5231acc8e4d8466b6f9407f0b23282ce25cbd0b9195265683ef66b"
+      "bytes": 165203,
+      "sha256": "3528224f24fd6c7222dd65ad6aca1b372b4ba159775ec3ab5e152b099467a577"
     },
     {
       "path": "zoom-logos.png",
