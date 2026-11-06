@@ -1,709 +1,709 @@
 {
- "updated": "2026-10-31",
- "version": "20261031d",
- "note": "快速打样（Fast sampling）配置 v2。ownSkus = 桌面产品库里公司名称为 BYF 的 103 个自供型号；pages = 产品页 slug 到该页自供型号的映射；samples = 上新页顶部样品栏，五个品类各两款，全部自供。",
- "promise": {
-  "en": {
-   "moq": "MOQ 10 pcs",
-   "sample": "Sample in 1 day",
-   "ship": "7–10 days door to door once the order is confirmed",
-   "pill": "Fast sampling",
-   "card": "MOQ 10 · 1-day sample",
-   "shipShort": "7–10 days door to door",
-   "shipNote": "after the order is confirmed",
-   "other": "Plus {n} more styles in this range are made in-house — open a green-dotted one to see the fast-sampling terms.",
-   "dotTitle": "Fast sampling · MOQ 10 · 1-day sample"
+  "updated": "2026-11-06",
+  "version": "20261106-terms1",
+  "note": "快速打样（Fast sampling）配置 v2。ownSkus = 桌面产品库里公司名称为 BYF 的 103 个自供型号；pages = 产品页 slug 到该页自供型号的映射；samples = 上新页顶部样品栏，五个品类各两款，全部自供。",
+  "promise": {
+    "en": {
+      "moq": "MOQ 10 pcs",
+      "sample": "Samples are usually completed 3–5 days after drawing approval.",
+      "ship": "7–10 days door to door once the order is confirmed",
+      "pill": "Fast sampling",
+      "card": "MOQ 10 · Sample usually completed 3–5 days after drawing approval",
+      "shipShort": "7–10 days door to door",
+      "shipNote": "after the order is confirmed",
+      "other": "Plus {n} more styles in this range are made in-house — open a green-dotted one to see the fast-sampling terms.",
+      "dotTitle": "Fast sampling · MOQ 10 · Sample usually completed 3–5 days after drawing approval"
+    },
+    "zh": {
+      "moq": "10 件起订",
+      "sample": "图纸确认后通常3–5天完成样品",
+      "ship": "确认订单后 7–10 天门到门",
+      "pill": "快速打样",
+      "card": "10 件起 · 图纸确认后通常3–5天完成样品",
+      "shipShort": "7–10 天门到门",
+      "shipNote": "（确认订单后）",
+      "other": "该系列另有 {n} 款同属自家模具，点开带绿点的款式即可看到快速打样条款。",
+      "dotTitle": "快速打样 · 10 件起 · 图纸确认后通常3–5天完成样品"
+    }
   },
-  "zh": {
-   "moq": "10 件起订",
-   "sample": "1 天出样",
-   "ship": "确认订单后 7–10 天门到门",
-   "pill": "快速打样",
-   "card": "10 件起 · 1 天出样",
-   "shipShort": "7–10 天门到门",
-   "shipNote": "（确认订单后）",
-   "other": "该系列另有 {n} 款同属自家模具，点开带绿点的款式即可看到快速打样条款。",
-   "dotTitle": "快速打样 · 10 件起 · 1 天出样"
-  }
- },
- "lines": [
-  {
-   "key": "wine",
-   "en": "Wine & Stemless Glasses",
-   "zh": "葡萄酒杯",
-   "shortEn": "Wine",
-   "shortZh": "酒杯"
-  },
-  {
-   "key": "champagne",
-   "en": "Champagne Flutes",
-   "zh": "香槟杯",
-   "shortEn": "Flutes",
-   "shortZh": "香槟"
-  },
-  {
-   "key": "beer",
-   "en": "Beer Mugs & Pitchers",
-   "zh": "啤酒杯 / 扎壶",
-   "shortEn": "Beer",
-   "shortZh": "啤酒"
-  },
-  {
-   "key": "bucket",
-   "en": "Ice Buckets",
-   "zh": "冰桶",
-   "shortEn": "Buckets",
-   "shortZh": "冰桶"
-  },
-  {
-   "key": "tools",
-   "en": "Bar Tools",
-   "zh": "酒具配件",
-   "shortEn": "Bar tools",
-   "shortZh": "配件"
-  }
- ],
- "samples": [
-  {
-   "line": "wine",
-   "sku": "HJB-057",
-   "en": "18.5oz Tritan Wine Glass",
-   "zh": "18.5 oz Tritan 红酒杯",
-   "factsEn": "Tritan · 530 ml / 18.5 oz",
-   "factsZh": "Tritan · 530 毫升 / 18.5 oz",
-   "hrefEn": "/products/18-5oz-tritan-wine-glass/",
-   "hrefZh": "/zh/products/18-5oz-tritan-wine-glass/",
-   "img": "/img/v88-20261023/hjb-057-73ffd22167.webp"
-  },
-  {
-   "line": "wine",
-   "sku": "HJB-040",
-   "en": "12oz Stemless Wine Glass + Gold Rim",
-   "zh": "12 oz PET 无柄红酒杯金边",
-   "factsEn": "PET · 350 ml / 12 oz",
-   "factsZh": "PET · 350 毫升 / 12 oz",
-   "hrefEn": "/products/12oz-stemless-wine-glass-gold-rim-hjb040/",
-   "hrefZh": "/zh/products/12oz-stemless-wine-glass-gold-rim-hjb040/",
-   "img": "/img/v88-20261023/hjb-040-cc3e1617d3.webp"
-  },
-  {
-   "line": "champagne",
-   "sku": "HJB-051",
-   "en": "8.5oz Plastic Champagne Flute",
-   "zh": "8.5 oz PS 香槟杯",
-   "factsEn": "PS · 240 ml / 8.5 oz",
-   "factsZh": "PS · 240 毫升 / 8.5 oz",
-   "hrefEn": "/products/5-8oz-plastic-champagne-flute/",
-   "hrefZh": "/zh/products/5-8oz-plastic-champagne-flute/",
-   "img": "/img/v88-20261023/hjb-051-c44626381c.webp"
-  },
-  {
-   "line": "champagne",
-   "sku": "HJB-042",
-   "en": "9oz Stemless PET Champagne Flute - Plain / Gold Rim",
-   "zh": "9 oz PET 无柄香槟杯",
-   "factsEn": "PET · 260 ml / 9 oz",
-   "factsZh": "PET · 260 毫升 / 9 oz",
-   "hrefEn": "/products/9oz-stemless-pet-champagne-flute/",
-   "hrefZh": "/zh/products/9oz-stemless-pet-champagne-flute/",
-   "img": "/img/v88-20261023/hjb-042-0afa81186f.webp"
-  },
-  {
-   "line": "beer",
-   "sku": "PJB-010",
-   "en": "27oz Plastic Beer Mug",
-   "zh": "27 oz PS 啤酒杯",
-   "factsEn": "PS · 800 ml / 27 oz",
-   "factsZh": "PS · 800 毫升 / 27 oz",
-   "hrefEn": "/products/22oz-plastic-beer-mug/",
-   "hrefZh": "/zh/products/22oz-plastic-beer-mug/",
-   "img": "/img/v88-20261023/pjb-010-e8e3a862ca.webp"
-  },
-  {
-   "line": "beer",
-   "sku": "PJB-016",
-   "en": "19oz Plastic Tulip Pint Tumbler /Pilsner Glasses",
-   "zh": "19 oz PS 郁金香品脱杯",
-   "factsEn": "PS · 570 ml / 19 oz",
-   "factsZh": "PS · 570 毫升 / 19 oz",
-   "hrefEn": "/products/elite-nucleated-polycarbonate-pint-tumblers/",
-   "hrefZh": "/zh/products/elite-nucleated-polycarbonate-pint-tumblers/",
-   "img": "/img/v88-20261023/pjb-016-25ddd7a3c9.webp"
-  },
-  {
-   "line": "bucket",
-   "sku": "BT-012",
-   "en": "34oz ICE Bucket",
-   "zh": "34 oz PS 冰桶",
-   "factsEn": "PS · 1L / 34 oz",
-   "factsZh": "PS · 1L / 34 oz",
-   "hrefEn": "/products/34oz-ice-bucket/",
-   "hrefZh": "/zh/products/34oz-ice-bucket/",
-   "img": "/img/v88-20261023/bt-012-d50dbf00d0.webp"
-  },
-  {
-   "line": "bucket",
-   "sku": "BT-014",
-   "en": "4L / 8L / 12L Ice bucket",
-   "zh": "PS 冰桶（4 L / 8 L / 12 L）",
-   "factsEn": "PS · 4 / 8 / 12 L",
-   "factsZh": "PS · 4 / 8 / 12 L",
-   "hrefEn": "/products/4l-8l-12l-ice-bucket/",
-   "hrefZh": "/zh/products/4l-8l-12l-ice-bucket/",
-   "img": "/img/v88-20261023/bt-014-c84997a594.webp"
-  },
-  {
-   "line": "tools",
-   "sku": "JBPJ-065",
-   "en": "Bottle Pourer - Tulip shape",
-   "zh": "亚克力+TPE 倒酒器",
-   "factsEn": "Acrylic+TPE · 5.3 × 4 × 9.5 cm",
-   "factsZh": "亚克力+TPE · 5.3 × 4 × 9.5 cm",
-   "hrefEn": "/products/bottle-pourer-tulip-shape/",
-   "hrefZh": "/zh/products/bottle-pourer-tulip-shape/",
-   "img": "/img/v88-20261023/jbpj-065-6380782092.webp"
-  },
-  {
-   "line": "tools",
-   "sku": "JS-033",
-   "en": "Vacuum Wine Stopper-Keep fresh 7days for wine",
-   "zh": "PC+TPE 真空酒塞",
-   "factsEn": "PC+TPE · 3.1 × 9 cm",
-   "factsZh": "PC+TPE · 3.1 × 9 cm",
-   "hrefEn": "/products/vacuum-wine-stopper-keep-fresh-7days/",
-   "hrefZh": "/zh/products/vacuum-wine-stopper-keep-fresh-7days/",
-   "img": "/img/v88-20261023/js-033-04a33e4209.webp"
-  }
- ],
- "ownSkus": [
-  "BT-012",
-  "BT-013",
-  "BT-014",
-  "BT-015",
-  "BT-016",
-  "BT-017",
-  "HJB-037",
-  "HJB-039",
-  "HJB-040",
-  "HJB-041",
-  "HJB-042",
-  "HJB-043",
-  "HJB-045",
-  "HJB-046",
-  "HJB-047",
-  "HJB-048",
-  "HJB-049",
-  "HJB-050",
-  "HJB-051",
-  "HJB-052",
-  "HJB-053",
-  "HJB-054",
-  "HJB-055",
-  "HJB-056",
-  "HJB-057",
-  "HJB-058",
-  "HJB-059",
-  "HJB-060",
-  "HJB-061",
-  "HJB-062",
-  "HJB-063",
-  "HJB-064",
-  "HJB-065",
-  "HJB-066",
-  "HJB-067",
-  "HJB-068",
-  "HJB-069",
-  "HJB-070",
-  "HJB-071",
-  "HJB-072",
-  "HJB-073",
-  "HJB-074",
-  "HJB-075",
-  "HJB-076",
-  "HJB-077",
-  "JBPJ-039",
-  "JBPJ-040",
-  "JBPJ-041",
-  "JBPJ-042",
-  "JBPJ-043",
-  "JBPJ-044",
-  "JBPJ-045",
-  "JBPJ-046",
-  "JBPJ-047",
-  "JBPJ-048",
-  "JBPJ-049",
-  "JBPJ-050",
-  "JBPJ-051",
-  "JBPJ-064",
-  "JBPJ-065",
-  "JBPJ-066",
-  "JBPJ-067",
-  "JBPJ-068",
-  "JBPJ-072",
-  "JBPJ-073",
-  "JS-031",
-  "JS-033",
-  "JS-034",
-  "JS-037",
-  "JS-038",
-  "JS-039",
-  "JS-040",
-  "JS-042",
-  "KPQ-005",
-  "KPQ-006",
-  "KPQ-007",
-  "KPQ-008",
-  "KPQ-009",
-  "KPQ-010",
-  "KPQ-011",
-  "KPQ-012",
-  "KPQ-013",
-  "KPQ-014",
-  "KPQ-015",
-  "KPQ-016",
-  "KPQ-017",
-  "KPQ-018",
-  "KPQ-019",
-  "KPQ-020",
-  "KPQ-021",
-  "PJB-008",
-  "PJB-009",
-  "PJB-010",
-  "PJB-011",
-  "PJB-012",
-  "PJB-013",
-  "PJB-014",
-  "PJB-015",
-  "PJB-016",
-  "PJB-017",
-  "SJB-013",
-  "SJB-014",
-  "SJB-015"
- ],
- "pages": {
-  "1-4l-1-5l-plastic-beer": {
-   "main": "PJB-012",
-   "own": [
-    "PJB-012",
-    "PJB-017"
-   ]
-  },
-  "10-5oz-ribbed-plastic-coupe-glasses": {
-   "main": "HJB-060",
-   "own": [
-    "HJB-060"
-   ]
-  },
-  "12oz-plastic-stein-cups-with-1": {
-   "main": "PJB-014",
-   "own": [
-    "PJB-014"
-   ]
-  },
-  "12oz-stemless-wine-glass-gold-rim-hjb040": {
-   "main": "HJB-040",
-   "own": [
-    "HJB-040"
-   ]
-  },
-  "15oz-plastic-margarita-glass": {
-   "main": "HJB-074",
-   "own": [
-    "HJB-074"
-   ]
-  },
-  "18-5oz-tritan-wine-glass": {
-   "main": "HJB-057",
-   "own": [
+  "lines": [
+    {
+      "key": "wine",
+      "en": "Wine & Stemless Glasses",
+      "zh": "葡萄酒杯",
+      "shortEn": "Wine",
+      "shortZh": "酒杯"
+    },
+    {
+      "key": "champagne",
+      "en": "Champagne Flutes",
+      "zh": "香槟杯",
+      "shortEn": "Flutes",
+      "shortZh": "香槟"
+    },
+    {
+      "key": "beer",
+      "en": "Beer Mugs & Pitchers",
+      "zh": "啤酒杯 / 扎壶",
+      "shortEn": "Beer",
+      "shortZh": "啤酒"
+    },
+    {
+      "key": "bucket",
+      "en": "Ice Buckets",
+      "zh": "冰桶",
+      "shortEn": "Buckets",
+      "shortZh": "冰桶"
+    },
+    {
+      "key": "tools",
+      "en": "Bar Tools",
+      "zh": "酒具配件",
+      "shortEn": "Bar tools",
+      "shortZh": "配件"
+    }
+  ],
+  "samples": [
+    {
+      "line": "wine",
+      "sku": "HJB-057",
+      "en": "18.5oz Tritan Wine Glass",
+      "zh": "18.5 oz Tritan 红酒杯",
+      "factsEn": "Tritan · 530 ml / 18.5 oz",
+      "factsZh": "Tritan · 530 毫升 / 18.5 oz",
+      "hrefEn": "/products/18-5oz-tritan-wine-glass/",
+      "hrefZh": "/zh/products/18-5oz-tritan-wine-glass/",
+      "img": "/img/v88-20261023/hjb-057-73ffd22167.webp"
+    },
+    {
+      "line": "wine",
+      "sku": "HJB-040",
+      "en": "12oz Stemless Wine Glass + Gold Rim",
+      "zh": "12 oz PET 无柄红酒杯金边",
+      "factsEn": "PET · 350 ml / 12 oz",
+      "factsZh": "PET · 350 毫升 / 12 oz",
+      "hrefEn": "/products/12oz-stemless-wine-glass-gold-rim-hjb040/",
+      "hrefZh": "/zh/products/12oz-stemless-wine-glass-gold-rim-hjb040/",
+      "img": "/img/v88-20261023/hjb-040-cc3e1617d3.webp"
+    },
+    {
+      "line": "champagne",
+      "sku": "HJB-051",
+      "en": "8.5oz Plastic Champagne Flute",
+      "zh": "8.5 oz PS 香槟杯",
+      "factsEn": "PS · 240 ml / 8.5 oz",
+      "factsZh": "PS · 240 毫升 / 8.5 oz",
+      "hrefEn": "/products/5-8oz-plastic-champagne-flute/",
+      "hrefZh": "/zh/products/5-8oz-plastic-champagne-flute/",
+      "img": "/img/v88-20261023/hjb-051-c44626381c.webp"
+    },
+    {
+      "line": "champagne",
+      "sku": "HJB-042",
+      "en": "9oz Stemless PET Champagne Flute - Plain / Gold Rim",
+      "zh": "9 oz PET 无柄香槟杯",
+      "factsEn": "PET · 260 ml / 9 oz",
+      "factsZh": "PET · 260 毫升 / 9 oz",
+      "hrefEn": "/products/9oz-stemless-pet-champagne-flute/",
+      "hrefZh": "/zh/products/9oz-stemless-pet-champagne-flute/",
+      "img": "/img/v88-20261023/hjb-042-0afa81186f.webp"
+    },
+    {
+      "line": "beer",
+      "sku": "PJB-010",
+      "en": "27oz Plastic Beer Mug",
+      "zh": "27 oz PS 啤酒杯",
+      "factsEn": "PS · 800 ml / 27 oz",
+      "factsZh": "PS · 800 毫升 / 27 oz",
+      "hrefEn": "/products/22oz-plastic-beer-mug/",
+      "hrefZh": "/zh/products/22oz-plastic-beer-mug/",
+      "img": "/img/v88-20261023/pjb-010-e8e3a862ca.webp"
+    },
+    {
+      "line": "beer",
+      "sku": "PJB-016",
+      "en": "19oz Plastic Tulip Pint Tumbler /Pilsner Glasses",
+      "zh": "19 oz PS 郁金香品脱杯",
+      "factsEn": "PS · 570 ml / 19 oz",
+      "factsZh": "PS · 570 毫升 / 19 oz",
+      "hrefEn": "/products/elite-nucleated-polycarbonate-pint-tumblers/",
+      "hrefZh": "/zh/products/elite-nucleated-polycarbonate-pint-tumblers/",
+      "img": "/img/v88-20261023/pjb-016-25ddd7a3c9.webp"
+    },
+    {
+      "line": "bucket",
+      "sku": "BT-012",
+      "en": "34oz ICE Bucket",
+      "zh": "34 oz PS 冰桶",
+      "factsEn": "PS · 1L / 34 oz",
+      "factsZh": "PS · 1L / 34 oz",
+      "hrefEn": "/products/34oz-ice-bucket/",
+      "hrefZh": "/zh/products/34oz-ice-bucket/",
+      "img": "/img/v88-20261023/bt-012-d50dbf00d0.webp"
+    },
+    {
+      "line": "bucket",
+      "sku": "BT-014",
+      "en": "4L / 8L / 12L Ice bucket",
+      "zh": "PS 冰桶（4 L / 8 L / 12 L）",
+      "factsEn": "PS · 4 / 8 / 12 L",
+      "factsZh": "PS · 4 / 8 / 12 L",
+      "hrefEn": "/products/4l-8l-12l-ice-bucket/",
+      "hrefZh": "/zh/products/4l-8l-12l-ice-bucket/",
+      "img": "/img/v88-20261023/bt-014-c84997a594.webp"
+    },
+    {
+      "line": "tools",
+      "sku": "JBPJ-065",
+      "en": "Bottle Pourer - Tulip shape",
+      "zh": "亚克力+TPE 倒酒器",
+      "factsEn": "Acrylic+TPE · 5.3 × 4 × 9.5 cm",
+      "factsZh": "亚克力+TPE · 5.3 × 4 × 9.5 cm",
+      "hrefEn": "/products/bottle-pourer-tulip-shape/",
+      "hrefZh": "/zh/products/bottle-pourer-tulip-shape/",
+      "img": "/img/v88-20261023/jbpj-065-6380782092.webp"
+    },
+    {
+      "line": "tools",
+      "sku": "JS-033",
+      "en": "Vacuum Wine Stopper-Keep fresh 7days for wine",
+      "zh": "PC+TPE 真空酒塞",
+      "factsEn": "PC+TPE · 3.1 × 9 cm",
+      "factsZh": "PC+TPE · 3.1 × 9 cm",
+      "hrefEn": "/products/vacuum-wine-stopper-keep-fresh-7days/",
+      "hrefZh": "/zh/products/vacuum-wine-stopper-keep-fresh-7days/",
+      "img": "/img/v88-20261023/js-033-04a33e4209.webp"
+    }
+  ],
+  "ownSkus": [
+    "BT-012",
+    "BT-013",
+    "BT-014",
+    "BT-015",
+    "BT-016",
+    "BT-017",
+    "HJB-037",
     "HJB-039",
+    "HJB-040",
     "HJB-041",
+    "HJB-042",
+    "HJB-043",
     "HJB-045",
     "HJB-046",
-    "HJB-057"
-   ]
-  },
-  "22oz-plastic-beer-mug": {
-   "main": "PJB-008",
-   "own": [
-    "PJB-008",
-    "PJB-009",
-    "PJB-010",
-    "PJB-011"
-   ]
-  },
-  "3-7l": {
-   "main": "BT-016",
-   "own": [
-    "BT-016"
-   ]
-  },
-  "34oz-ice-bucket": {
-   "main": "BT-012",
-   "own": [
-    "BT-012"
-   ]
-  },
-  "4-5oz-plastic-champagne-flute-injected": {
-   "main": "HJB-069",
-   "own": [
-    "HJB-069"
-   ]
-  },
-  "4l-8l-12l-ice-bucket": {
-   "main": "BT-014",
-   "own": [
-    "BT-014"
-   ]
-  },
-  "5-8oz-plastic-champagne-flute": {
-   "main": "HJB-048",
-   "own": [
+    "HJB-047",
     "HJB-048",
     "HJB-049",
     "HJB-050",
     "HJB-051",
+    "HJB-052",
+    "HJB-053",
+    "HJB-054",
+    "HJB-055",
+    "HJB-056",
+    "HJB-057",
     "HJB-058",
     "HJB-059",
+    "HJB-060",
     "HJB-061",
+    "HJB-062",
+    "HJB-063",
+    "HJB-064",
+    "HJB-065",
     "HJB-066",
+    "HJB-067",
     "HJB-068",
     "HJB-069",
-    "HJB-070"
-   ]
-  },
-  "5l-boat-shape-ice-bucket": {
-   "main": "BT-013",
-   "own": [
-    "BT-013"
-   ]
-  },
-  "6-3oz-plastic-martini-glass": {
-   "main": "HJB-056",
-   "own": [
-    "HJB-056",
-    "HJB-065"
-   ]
-  },
-  "7-5oz-plasic-iso-standard-wine": {
-   "main": "HJB-073",
-   "own": [
-    "HJB-073"
-   ]
-  },
-  "7oz-plastic-cocktail-glass": {
-   "main": "HJB-076",
-   "own": [
-    "HJB-076"
-   ]
-  },
-  "8oz-plastic-wine-glasses": {
-   "main": "HJB-054",
-   "own": [
-    "HJB-054"
-   ]
-  },
-  "9oz-stemless-pet-champagne-flute": {
-   "main": "HJB-042",
-   "own": [
-    "HJB-042"
-   ]
-  },
-  "bar-salt-glass-rimmer-3-tier": {
-   "main": "JBPJ-048",
-   "own": [
-    "JBPJ-048"
-   ]
-  },
-  "beverage-beer-bat-cup": {
-   "main": "PJB-013",
-   "own": [
-    "PJB-013",
-    "PJB-015"
-   ]
-  },
-  "bottle-pourer": {
-   "main": "JBPJ-068",
-   "own": [
-    "JBPJ-068"
-   ]
-  },
-  "bottle-pourer-tulip-shape": {
-   "main": "JBPJ-065",
-   "own": [
-    "JBPJ-065"
-   ]
-  },
-  "bottle-rack-for-6-bottles": {
-   "main": "JBPJ-049",
-   "own": [
-    "JBPJ-049"
-   ]
-  },
-  "bottle-stopper-and-wine-charm-2": {
-   "main": "JBPJ-044",
-   "own": [
-    "JBPJ-044"
-   ]
-  },
-  "bottle-stopper-funny-design": {
-   "main": "JS-034",
-   "own": [
-    "JS-034"
-   ]
-  },
-  "burby-tumbler-with-straw": {
-   "main": "SJB-020",
-   "own": [
-    "SJB-013",
-    "SJB-014"
-   ]
-  },
-  "champagne-sipper-for-16-1-mm": {
-   "main": "JBPJ-042",
-   "own": [
+    "HJB-070",
+    "HJB-071",
+    "HJB-072",
+    "HJB-073",
+    "HJB-074",
+    "HJB-075",
+    "HJB-076",
+    "HJB-077",
+    "JBPJ-039",
+    "JBPJ-040",
+    "JBPJ-041",
     "JBPJ-042",
-    "JBPJ-043"
-   ]
-  },
-  "champagne-stopper": {
-   "main": "JS-031",
-   "own": [
-    "JS-031"
-   ]
-  },
-  "champagne-stopper-for-17-5": {
-   "main": "JBPJ-045",
-   "own": [
-    "JBPJ-045"
-   ]
-  },
-  "champagne-stopper-with-plating-painting": {
-   "main": "JS-037",
-   "own": [
-    "JS-037"
-   ]
-  },
-  "corona-margarita-clip-straight-version": {
-   "main": "JBPJ-050",
-   "own": [
+    "JBPJ-043",
+    "JBPJ-044",
+    "JBPJ-045",
+    "JBPJ-046",
+    "JBPJ-047",
+    "JBPJ-048",
+    "JBPJ-049",
     "JBPJ-050",
-    "JBPJ-051"
-   ]
-  },
-  "electric-wine-opener-s-2": {
-   "main": "KPQ-009",
-   "own": [
+    "JBPJ-051",
+    "JBPJ-064",
+    "JBPJ-065",
+    "JBPJ-066",
+    "JBPJ-067",
+    "JBPJ-068",
+    "JBPJ-072",
+    "JBPJ-073",
+    "JS-031",
+    "JS-033",
+    "JS-034",
+    "JS-037",
+    "JS-038",
+    "JS-039",
+    "JS-040",
+    "JS-042",
+    "KPQ-005",
+    "KPQ-006",
+    "KPQ-007",
     "KPQ-008",
     "KPQ-009",
     "KPQ-010",
-    "KPQ-016",
-    "KPQ-017"
-   ]
-  },
-  "elite-nucleated-polycarbonate-pint-tumblers": {
-   "main": "PJB-021",
-   "own": [
-    "PJB-016"
-   ]
-  },
-  "goose-head-manual-wine-opener": {
-   "main": "KPQ-006",
-   "own": [
-    "KPQ-006"
-   ]
-  },
-  "hawk-wine-aerator-pourer": {
-   "main": "JBPJ-041",
-   "own": [
-    "JBPJ-041"
-   ]
-  },
-  "ice-tong": {
-   "main": "JBPJ-047",
-   "own": [
-    "JBPJ-047"
-   ]
-  },
-  "katerglass-plastic-pint-tumblers-22oz-lce": {
-   "main": "PJB-018",
-   "own": [
-    "SJB-015"
-   ]
-  },
-  "manual-wine-opener-kit-s-4": {
-   "main": "KPQ-007",
-   "own": [
-    "KPQ-007"
-   ]
-  },
-  "moet-champagne-ice-bucket": {
-   "main": "BT-015",
-   "own": [
-    "BT-015"
-   ]
-  },
-  "moet-sipper-with-moet-logo": {
-   "main": "JS-040",
-   "own": [
-    "JS-040"
-   ]
-  },
-  "plastic-beer-opener": {
-   "main": "KPQ-005",
-   "own": [
-    "KPQ-005"
-   ]
-  },
-  "plastic-ice-bucket": {
-   "main": "BT-017",
-   "own": [
-    "BT-017"
-   ]
-  },
-  "plastic-wine-glass-with-gold-rim": {
-   "main": "HJB-053",
-   "own": [
-    "HJB-053"
-   ]
-  },
-  "plastic-wine-goblet-with-gold-plating": {
-   "main": "HJB-072",
-   "own": [
-    "HJB-072"
-   ]
-  },
-  "rechargeable-wine-aerator-dispenser": {
-   "main": "JBPJ-073",
-   "own": [
-    "JBPJ-073"
-   ]
-  },
-  "rechargeable-wine-opener": {
-   "main": "KPQ-011",
-   "own": [
     "KPQ-011",
     "KPQ-012",
     "KPQ-013",
     "KPQ-014",
     "KPQ-015",
+    "KPQ-016",
+    "KPQ-017",
     "KPQ-018",
     "KPQ-019",
     "KPQ-020",
-    "KPQ-021"
-   ]
-  },
-  "sipper-pourer-universal-ver-for-16": {
-   "main": "JBPJ-067",
-   "own": [
-    "JBPJ-067"
-   ]
-  },
-  "sipper-pourer-universal-version-for-16": {
-   "main": "JBPJ-064",
-   "own": [
-    "JBPJ-064"
-   ]
-  },
-  "stopper-pourer-2-in-1-with": {
-   "main": "JBPJ-066",
-   "own": [
-    "JBPJ-066"
-   ]
-  },
-  "vacuum-pump-4x-stopper-s-5": {
-   "main": "JBPJ-072",
-   "own": [
-    "JBPJ-072"
-   ]
-  },
-  "vacuum-soda-stopper-pump-air-in": {
-   "main": "JS-042",
-   "own": [
-    "JS-042"
-   ]
-  },
-  "vacuum-wine-stopper-keep-fresh-7days": {
-   "main": "JS-033",
-   "own": [
-    "JS-033"
-   ]
-  },
-  "vacuum-wine-stopper-with-31-date": {
-   "main": "JS-038",
-   "own": [
-    "JS-038"
-   ]
-  },
-  "wholesale-acrylic-martini-glass-8-5oz": {
-   "main": "HJB-031",
-   "own": [
-    "HJB-056",
-    "HJB-060",
-    "HJB-065",
-    "HJB-074"
-   ]
-  },
-  "wholesale-plastic-flute-6oz-champagne": {
-   "main": "HJB-025",
-   "own": [
-    "HJB-066"
-   ]
-  },
-  "wholesale-plastic-stemless-wine-glass-12oz": {
-   "main": "HJB-001",
-   "own": [
-    "HJB-037",
-    "HJB-043"
-   ]
-  },
-  "wholesale-standard-acrylic-wine-glass": {
-   "main": "HJB-006",
-   "own": [
-    "HJB-039",
-    "HJB-041",
-    "HJB-045",
-    "HJB-046",
-    "HJB-047",
-    "HJB-052",
-    "HJB-053",
-    "HJB-054",
-    "HJB-055",
-    "HJB-057",
-    "HJB-062",
-    "HJB-063",
-    "HJB-064",
-    "HJB-067",
-    "HJB-071",
-    "HJB-072",
-    "HJB-073",
-    "HJB-075",
-    "HJB-077"
-   ]
-  },
-  "wholesale-tritan-martini-glass-9oz": {
-   "main": "HJB-035",
-   "own": [
-    "HJB-076"
-   ]
-  },
-  "wine-aerator-pourer": {
-   "main": "JBPJ-040",
-   "own": [
-    "JBPJ-040"
-   ]
-  },
-  "wine-pourer-and-stopper-2-in": {
-   "main": "JBPJ-039",
-   "own": [
-    "JBPJ-039",
-    "JBPJ-046"
-   ]
-  },
-  "wing-corkscrew": {
-   "main": "JS-039",
-   "own": [
-    "JS-039"
-   ]
+    "KPQ-021",
+    "PJB-008",
+    "PJB-009",
+    "PJB-010",
+    "PJB-011",
+    "PJB-012",
+    "PJB-013",
+    "PJB-014",
+    "PJB-015",
+    "PJB-016",
+    "PJB-017",
+    "SJB-013",
+    "SJB-014",
+    "SJB-015"
+  ],
+  "pages": {
+    "1-4l-1-5l-plastic-beer": {
+      "main": "PJB-012",
+      "own": [
+        "PJB-012",
+        "PJB-017"
+      ]
+    },
+    "10-5oz-ribbed-plastic-coupe-glasses": {
+      "main": "HJB-060",
+      "own": [
+        "HJB-060"
+      ]
+    },
+    "12oz-plastic-stein-cups-with-1": {
+      "main": "PJB-014",
+      "own": [
+        "PJB-014"
+      ]
+    },
+    "12oz-stemless-wine-glass-gold-rim-hjb040": {
+      "main": "HJB-040",
+      "own": [
+        "HJB-040"
+      ]
+    },
+    "15oz-plastic-margarita-glass": {
+      "main": "HJB-074",
+      "own": [
+        "HJB-074"
+      ]
+    },
+    "18-5oz-tritan-wine-glass": {
+      "main": "HJB-057",
+      "own": [
+        "HJB-039",
+        "HJB-041",
+        "HJB-045",
+        "HJB-046",
+        "HJB-057"
+      ]
+    },
+    "22oz-plastic-beer-mug": {
+      "main": "PJB-008",
+      "own": [
+        "PJB-008",
+        "PJB-009",
+        "PJB-010",
+        "PJB-011"
+      ]
+    },
+    "3-7l": {
+      "main": "BT-016",
+      "own": [
+        "BT-016"
+      ]
+    },
+    "34oz-ice-bucket": {
+      "main": "BT-012",
+      "own": [
+        "BT-012"
+      ]
+    },
+    "4-5oz-plastic-champagne-flute-injected": {
+      "main": "HJB-069",
+      "own": [
+        "HJB-069"
+      ]
+    },
+    "4l-8l-12l-ice-bucket": {
+      "main": "BT-014",
+      "own": [
+        "BT-014"
+      ]
+    },
+    "5-8oz-plastic-champagne-flute": {
+      "main": "HJB-048",
+      "own": [
+        "HJB-048",
+        "HJB-049",
+        "HJB-050",
+        "HJB-051",
+        "HJB-058",
+        "HJB-059",
+        "HJB-061",
+        "HJB-066",
+        "HJB-068",
+        "HJB-069",
+        "HJB-070"
+      ]
+    },
+    "5l-boat-shape-ice-bucket": {
+      "main": "BT-013",
+      "own": [
+        "BT-013"
+      ]
+    },
+    "6-3oz-plastic-martini-glass": {
+      "main": "HJB-056",
+      "own": [
+        "HJB-056",
+        "HJB-065"
+      ]
+    },
+    "7-5oz-plasic-iso-standard-wine": {
+      "main": "HJB-073",
+      "own": [
+        "HJB-073"
+      ]
+    },
+    "7oz-plastic-cocktail-glass": {
+      "main": "HJB-076",
+      "own": [
+        "HJB-076"
+      ]
+    },
+    "8oz-plastic-wine-glasses": {
+      "main": "HJB-054",
+      "own": [
+        "HJB-054"
+      ]
+    },
+    "9oz-stemless-pet-champagne-flute": {
+      "main": "HJB-042",
+      "own": [
+        "HJB-042"
+      ]
+    },
+    "bar-salt-glass-rimmer-3-tier": {
+      "main": "JBPJ-048",
+      "own": [
+        "JBPJ-048"
+      ]
+    },
+    "beverage-beer-bat-cup": {
+      "main": "PJB-013",
+      "own": [
+        "PJB-013",
+        "PJB-015"
+      ]
+    },
+    "bottle-pourer": {
+      "main": "JBPJ-068",
+      "own": [
+        "JBPJ-068"
+      ]
+    },
+    "bottle-pourer-tulip-shape": {
+      "main": "JBPJ-065",
+      "own": [
+        "JBPJ-065"
+      ]
+    },
+    "bottle-rack-for-6-bottles": {
+      "main": "JBPJ-049",
+      "own": [
+        "JBPJ-049"
+      ]
+    },
+    "bottle-stopper-and-wine-charm-2": {
+      "main": "JBPJ-044",
+      "own": [
+        "JBPJ-044"
+      ]
+    },
+    "bottle-stopper-funny-design": {
+      "main": "JS-034",
+      "own": [
+        "JS-034"
+      ]
+    },
+    "burby-tumbler-with-straw": {
+      "main": "SJB-020",
+      "own": [
+        "SJB-013",
+        "SJB-014"
+      ]
+    },
+    "champagne-sipper-for-16-1-mm": {
+      "main": "JBPJ-042",
+      "own": [
+        "JBPJ-042",
+        "JBPJ-043"
+      ]
+    },
+    "champagne-stopper": {
+      "main": "JS-031",
+      "own": [
+        "JS-031"
+      ]
+    },
+    "champagne-stopper-for-17-5": {
+      "main": "JBPJ-045",
+      "own": [
+        "JBPJ-045"
+      ]
+    },
+    "champagne-stopper-with-plating-painting": {
+      "main": "JS-037",
+      "own": [
+        "JS-037"
+      ]
+    },
+    "corona-margarita-clip-straight-version": {
+      "main": "JBPJ-050",
+      "own": [
+        "JBPJ-050",
+        "JBPJ-051"
+      ]
+    },
+    "electric-wine-opener-s-2": {
+      "main": "KPQ-009",
+      "own": [
+        "KPQ-008",
+        "KPQ-009",
+        "KPQ-010",
+        "KPQ-016",
+        "KPQ-017"
+      ]
+    },
+    "elite-nucleated-polycarbonate-pint-tumblers": {
+      "main": "PJB-021",
+      "own": [
+        "PJB-016"
+      ]
+    },
+    "goose-head-manual-wine-opener": {
+      "main": "KPQ-006",
+      "own": [
+        "KPQ-006"
+      ]
+    },
+    "hawk-wine-aerator-pourer": {
+      "main": "JBPJ-041",
+      "own": [
+        "JBPJ-041"
+      ]
+    },
+    "ice-tong": {
+      "main": "JBPJ-047",
+      "own": [
+        "JBPJ-047"
+      ]
+    },
+    "katerglass-plastic-pint-tumblers-22oz-lce": {
+      "main": "PJB-018",
+      "own": [
+        "SJB-015"
+      ]
+    },
+    "manual-wine-opener-kit-s-4": {
+      "main": "KPQ-007",
+      "own": [
+        "KPQ-007"
+      ]
+    },
+    "moet-champagne-ice-bucket": {
+      "main": "BT-015",
+      "own": [
+        "BT-015"
+      ]
+    },
+    "moet-sipper-with-moet-logo": {
+      "main": "JS-040",
+      "own": [
+        "JS-040"
+      ]
+    },
+    "plastic-beer-opener": {
+      "main": "KPQ-005",
+      "own": [
+        "KPQ-005"
+      ]
+    },
+    "plastic-ice-bucket": {
+      "main": "BT-017",
+      "own": [
+        "BT-017"
+      ]
+    },
+    "plastic-wine-glass-with-gold-rim": {
+      "main": "HJB-053",
+      "own": [
+        "HJB-053"
+      ]
+    },
+    "plastic-wine-goblet-with-gold-plating": {
+      "main": "HJB-072",
+      "own": [
+        "HJB-072"
+      ]
+    },
+    "rechargeable-wine-aerator-dispenser": {
+      "main": "JBPJ-073",
+      "own": [
+        "JBPJ-073"
+      ]
+    },
+    "rechargeable-wine-opener": {
+      "main": "KPQ-011",
+      "own": [
+        "KPQ-011",
+        "KPQ-012",
+        "KPQ-013",
+        "KPQ-014",
+        "KPQ-015",
+        "KPQ-018",
+        "KPQ-019",
+        "KPQ-020",
+        "KPQ-021"
+      ]
+    },
+    "sipper-pourer-universal-ver-for-16": {
+      "main": "JBPJ-067",
+      "own": [
+        "JBPJ-067"
+      ]
+    },
+    "sipper-pourer-universal-version-for-16": {
+      "main": "JBPJ-064",
+      "own": [
+        "JBPJ-064"
+      ]
+    },
+    "stopper-pourer-2-in-1-with": {
+      "main": "JBPJ-066",
+      "own": [
+        "JBPJ-066"
+      ]
+    },
+    "vacuum-pump-4x-stopper-s-5": {
+      "main": "JBPJ-072",
+      "own": [
+        "JBPJ-072"
+      ]
+    },
+    "vacuum-soda-stopper-pump-air-in": {
+      "main": "JS-042",
+      "own": [
+        "JS-042"
+      ]
+    },
+    "vacuum-wine-stopper-keep-fresh-7days": {
+      "main": "JS-033",
+      "own": [
+        "JS-033"
+      ]
+    },
+    "vacuum-wine-stopper-with-31-date": {
+      "main": "JS-038",
+      "own": [
+        "JS-038"
+      ]
+    },
+    "wholesale-acrylic-martini-glass-8-5oz": {
+      "main": "HJB-031",
+      "own": [
+        "HJB-056",
+        "HJB-060",
+        "HJB-065",
+        "HJB-074"
+      ]
+    },
+    "wholesale-plastic-flute-6oz-champagne": {
+      "main": "HJB-025",
+      "own": [
+        "HJB-066"
+      ]
+    },
+    "wholesale-plastic-stemless-wine-glass-12oz": {
+      "main": "HJB-001",
+      "own": [
+        "HJB-037",
+        "HJB-043"
+      ]
+    },
+    "wholesale-standard-acrylic-wine-glass": {
+      "main": "HJB-006",
+      "own": [
+        "HJB-039",
+        "HJB-041",
+        "HJB-045",
+        "HJB-046",
+        "HJB-047",
+        "HJB-052",
+        "HJB-053",
+        "HJB-054",
+        "HJB-055",
+        "HJB-057",
+        "HJB-062",
+        "HJB-063",
+        "HJB-064",
+        "HJB-067",
+        "HJB-071",
+        "HJB-072",
+        "HJB-073",
+        "HJB-075",
+        "HJB-077"
+      ]
+    },
+    "wholesale-tritan-martini-glass-9oz": {
+      "main": "HJB-035",
+      "own": [
+        "HJB-076"
+      ]
+    },
+    "wine-aerator-pourer": {
+      "main": "JBPJ-040",
+      "own": [
+        "JBPJ-040"
+      ]
+    },
+    "wine-pourer-and-stopper-2-in": {
+      "main": "JBPJ-039",
+      "own": [
+        "JBPJ-039",
+        "JBPJ-046"
+      ]
+    },
+    "wing-corkscrew": {
+      "main": "JS-039",
+      "own": [
+        "JS-039"
+      ]
+    }
   }
- }
 }

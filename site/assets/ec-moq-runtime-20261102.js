@@ -27,23 +27,23 @@
     '/screen-printing/': {
       src: ['Quoted for the model, colour count, artwork, quantity and packing.',
             '\u6309\u578b\u53f7\u3001\u989c\u8272\u6570\u3001\u56fe\u7a3f\u3001\u6570\u91cf\u4e0e\u5305\u88c5\u5355\u72ec\u62a5\u4ef7\u3002'],
-      en: 'From 10 pcs on an existing model, single or multi-colour; screens and ink matching are charged as setup.',
-      zh: '\u73b0\u6709\u578b\u53f7 10 \u4ef6\u8d77\uff0c\u5355\u8272\u4e0e\u591a\u8272\u540c\u4e00\u95e8\u69db\uff1b\u7248\u8d39\u4e0e\u8c03\u58a8\u8d39\u6309\u4e00\u6b21\u6027\u8d39\u7528\u5355\u6536\u3002'
+      en: "Minimum order quantity: 10 pieces.",
+      zh: "起订量10件。"
     },
     '/uv-printing/': {
-      src: ['MOQ depends on model, decoration and packaging.'],
-      en: 'From 10 pcs on an existing model, including a full wrap or a special surface. Pre-treatment is quoted per material.',
-      zh: '\u73b0\u6709\u578b\u53f7 10 \u4ef6\u8d77\uff0c\u6ee1\u5370\u4e0e\u7279\u6b8a\u8868\u9762\u540c\u4ef7\uff1b\u524d\u5904\u7406\u6309\u6750\u8d28\u5355\u62a5\u3002'
+      src: ['Minimum order quantity: 10 pieces.'],
+      en: "Minimum order quantity: 10 pieces.",
+      zh: "起订量10件。"
     },
     '/laser-engraving/': {
       src: ['Confirm after material trial and production review'],
-      en: 'From 10 pcs on an existing model, one position or several.',
-      zh: '\u73b0\u6709\u578b\u53f7 10 \u4ef6\u8d77\uff0c\u4e00\u5904\u6216\u591a\u5904\u90fd\u53ef\u3002'
+      en: "Minimum order quantity: 10 pieces.",
+      zh: "起订量10件。"
     },
     '/heat-transfer-printing/': {
-      src: ['MOQ depends on model, decoration and packaging.'],
-      en: 'From 10 pcs on an existing model, including a full-colour wrap.',
-      zh: '\u73b0\u6709\u578b\u53f7 10 \u4ef6\u8d77\uff0c\u5168\u5f69\u6ee1\u5370\u540c\u4e00\u95e8\u69db\u3002'
+      src: ['Minimum order quantity: 10 pieces.'],
+      en: "Minimum order quantity: 10 pieces.",
+      zh: "起订量10件。"
     }
   };
 

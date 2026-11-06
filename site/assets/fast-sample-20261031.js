@@ -1,10 +1,10 @@
 /* 快速打样（Fast sampling）标注 + 上新页样品栏 — v2 / 2026-10-31
  *
  * v1 是按「含不含金属」猜的，猜错的多，已作废。
- * v2 只认桌面产品库里公司名称 = BYF 的 103 个自供型号（数据见 /data/fast-sample-20261031.json 的 ownSkus）。
+ * v2 只认桌面产品库里公司名称 = BYF 的 103 个自供型号（数据见 /data/fast-sample-20261031.js?v=20261106-terms1on 的 ownSkus）。
  *
  * 三处改动：
- *   1. 产品页：当前款式是自供型号 → 标题下显示「快速打样 / 10 件起 / 1 天出样 / 7–10 天门到门」横条；
+ *   1. 产品页：当前款式是自供型号 → 标题下显示「快速打样 / 10 件起 / 图纸确认后通常3–5天完成样品 / 7–10 天门到门」横条；
  *      当前款式不是自供、但这一系列里有 → 显示一行提示；款式缩略图上自供型号带绿点。
  *   2. 上新页：卡片本身是自供型号 → 图角标 + 卡内一行小字。
  *   3. 上新页顶部：新增「快速打样样品」栏，五个品类各两款，全部自供。
@@ -14,8 +14,8 @@
 (function () {
   'use strict';
 
-  var V = '20261031d';
-  var DATA_URL = '/data/fast-sample-20261031.json?v=' + V;
+  var V = "20261106-terms1";
+  var DATA_URL = "/data/fast-sample-20261031.js?v=20261106-terms1on?v=20261106-terms1";
   var CSS_HREF = '/assets/fast-sample-20261031.css?v=' + V;
   var FLAG_ID = 'fs-flag';
   var SECTION_ID = 'fs-samples';
@@ -276,7 +276,7 @@
         '<li><b>' + (zh ? '10 件起订' : 'MOQ 10 pcs') + '</b><span>' + (zh
           ? '十件就能下单，不收版费和开机费。'
           : 'Ten pieces is enough — no plate fee, no setup fee.') + '</span></li>' +
-        '<li><b>' + (zh ? '最快 1 天出样' : 'Sample in 1 day') + '</b><span>' + (zh
+        '<li><b>' + (zh ? '图纸确认后通常3–5天完成样品' : "Samples are usually completed 3–5 days after drawing approval.") + '</b><span>' + (zh
           ? '打样一天完成并寄出，先确认颜色和印刷位置。'
           : 'Made and despatched within one working day, so you can check colour and print position first.') + '</span></li>' +
         '<li><b>' + (zh ? '7–10 天门到门' : '7–10 days door to door') + '</b><span>' + (zh

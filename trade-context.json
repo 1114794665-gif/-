@@ -1,0 +1,27 @@
+{
+  "brand": "BOOM Drinkware",
+  "website": "https://www.boomdrinkware.com",
+  "confirmedBusinessTerms": {
+    "confirmedBy": "Website owner in chat",
+    "confirmedDate": "2026-11-06",
+    "moqPieces": 10,
+    "sampleProduction": {
+      "usualDays": [
+        3,
+        5
+      ],
+      "startsAfter": "Drawing approval",
+      "completionNotDelivery": true,
+      "businessDaysSpecified": false
+    },
+    "response": {
+      "hours": 12,
+      "appliesOn": "Business days",
+      "responseNotQuoteOrSampleCompletion": true
+    }
+  },
+  "pendingVerification": [
+    "Formal legal company name and brand relationship",
+    "Certificate holder, scope and model coverage"
+  ]
+}
