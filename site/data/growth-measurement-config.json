@@ -1,8 +1,16 @@
 {
-  "enabled": false,
-  "ga4MeasurementId": null,
+  "enabled": true,
+  "ga4MeasurementId": "G-TZ491G135G",
   "domain": "www.boomdrinkware.com",
-  "status": "prepared, not connected",
+  "status": "connected",
   "consentRequired": true,
-  "prohibitedFields": ["name", "email", "phone", "enquiry_text", "file_urls", "artwork", "full_query_string"]
+  "prohibitedFields": [
+    "name",
+    "email",
+    "phone",
+    "enquiry_text",
+    "file_urls",
+    "artwork",
+    "full_query_string"
+  ]
 }

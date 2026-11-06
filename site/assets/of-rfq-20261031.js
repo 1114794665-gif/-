@@ -155,6 +155,7 @@
         .then(function (r) { return r.json().then(function (d) { return { ok: r.ok, d: d }; }); })
         .then(function (res) {
           if (!res.ok || !res.d.ok) throw new Error(res.d && res.d.code ? res.d.code : 'failed');
+          if (!res.d.duplicate) window.dispatchEvent(new CustomEvent('evercup:rfq-received', { detail: { modelCount: 0 } }));
           card.innerHTML =
             '<div class="of-rfq-done">' +
               '<h4>' + esc(T.doneH) + '</h4>' +
@@ -163,6 +164,7 @@
             '</div>';
         })
         .catch(function () {
+          window.dispatchEvent(new CustomEvent('evercup:rfq-failed'));
           busy = false;
           button.disabled = false;
           button.textContent = label;
