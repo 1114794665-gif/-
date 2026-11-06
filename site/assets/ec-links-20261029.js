@@ -12,7 +12,7 @@
   if (window.__ecLinks) return;
   window.__ecLinks = 1;
 
-  var VER = '20261029b';
+  var VER = '20261106-seo2';
 
   function isZh() {
     return /^\/zh(\/|$)/.test(location.pathname);
@@ -44,7 +44,10 @@
         ['/blog/', 'Buying Guides'],
         ['/free-samples/', 'Free Samples'],
         ['/our-service/', 'Our Service'],
-        ['/contact/', 'Request a Quote']
+        ['/contact/', 'Request a Quote'],
+        ['/catalog-download/', 'Request a Catalog'],
+        ['/case-studies/', 'Project Planning Examples'],
+        ['/distributor-program/', 'Distributor & Agency Supply']
       ]
     },
     zh: {
@@ -71,7 +74,10 @@
         ['/zh/blog/', '采购指南'],
         ['/zh/free-samples/', '免费样品'],
         ['/zh/our-service/', '我们的服务'],
-        ['/zh/contact/', '询价']
+        ['/zh/contact/', '询价'],
+        ['/zh/catalog-download/', '索取产品目录'],
+        ['/zh/case-studies/', '项目规划参考'],
+        ['/zh/distributor-program/', '经销商与代理商供货']
       ]
     }
   };

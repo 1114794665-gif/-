@@ -127,7 +127,7 @@
   function load() {
     if (!need() || document.querySelector('script[src*="ec-oem-patch-20261029"]')) return;
     var s = document.createElement('script');
-    s.src = '/assets/ec-oem-patch-20261029.js';
+    s.src = '/assets/ec-oem-patch-20261029.js?v=20261106-seo3';
     s.defer = true;
     document.head.appendChild(s);
   }

@@ -110,7 +110,7 @@
         n: '03',
         t: '检验与包装要求',
         d: '验收点开机前就定下来：AQL 等级或你自己的清单。报告对着这份清单出，不另写一套。',
-        img: '/img/manufacturing-20261105/qc-mask-cap.png',
+        img: '/img/manufacturing-20261105/qc-mask-cap-optimized.webp',
         alt: '质检人员逐只检查定制塑胶红酒杯'
       }
     ],
@@ -133,7 +133,7 @@
         n: '03',
         t: 'Inspection & packing requirements',
         d: 'Acceptance points are fixed before the machine starts: an AQL level or your own checklist. The report is written against that list, not a separate one.',
-        img: '/img/manufacturing-20261105/qc-mask-cap.png',
+        img: '/img/manufacturing-20261105/qc-mask-cap-optimized.webp',
         alt: 'QC staff checking a custom plastic wine glass by hand'
       }
     ]
