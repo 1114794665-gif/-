@@ -114,7 +114,7 @@
   }
 
   function stripBrand(s) {
-    return String(s || '').replace(/^(EVERCUP|CustomBYF|BYF)\s+/i, '');
+    return String(s || '').replace(/^(BOOM Drinkware|CustomBYF|BYF)\s+/i, '');
   }
 
   function label(o) {
@@ -496,7 +496,7 @@
   /* 全站款式总表：站内切页时靠它取当前产品的款式 */
   function loadDB(cb) {
     var xhr = new XMLHttpRequest();
-    xhr.open('GET', '/data/product-series-20261029.json', true);
+    xhr.open('GET', '/data/product-series-20261029.json?v=20261106-boom1', true);
     xhr.onload = function () {
       if (xhr.status === 200) {
         try { DB = JSON.parse(xhr.responseText); } catch (e) { DB = null; }

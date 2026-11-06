@@ -6,7 +6,7 @@
  *   同一个主款的附属款，原本平铺在列表里的卡片会被折叠起来 —— 这样一屏
  *   先看到主款，想看细节再展开，不再是一大堆长得差不多的型号混在一起。
  *
- * 数据：/data/product-families.json（tools/gen_product_families_20261102.py 生成）
+ * 数据：/data/product-families.json?v=20261106-boom1（tools/gen_product_families_20261102.py 生成）
  *   只认站内两边都有页面的关系，打不开的型号不进下拉。
  *
  * 安全：
@@ -110,8 +110,8 @@
   function label(item) {
     var t = ZH ? (item.zhName || item.name) : (item.name || item.zhName);
     t = String(t || item.sku);
-    /* 品牌名每张都有，去掉才看得出差别（34 个型号都叫 EVERCUP …） */
-    if (!ZH) t = t.replace(/^EVERCUP\s+/i, '');
+    /* 品牌名每张都有，去掉才看得出差别（34 个型号都叫 BOOM Drinkware …） */
+    if (!ZH) t = t.replace(/^BOOM Drinkware\s+/i, '');
     return t;
   }
 
@@ -317,7 +317,7 @@
     if (!document.querySelector('article.ec-library-card')) return;
     injectCSS();
     var x = new XMLHttpRequest();
-    x.open('GET', '/data/product-families.json?v=' + V + '-' + Math.floor(Date.now() / 3600000), true);
+    x.open('GET', '/data/product-families.json?v=20261106-boom1' + V + '-' + Math.floor(Date.now() / 3600000), true);
     x.onload = function () {
       try { DATA = JSON.parse(x.responseText); } catch (e) { return; }
       if (!DATA || !DATA.byMain) return;

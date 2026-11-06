@@ -7,7 +7,7 @@
  *
  * 为什么不能写在 HTML 里：
  *   产品页正文是主脚本渲染的，静态写进去的区块加载后会被整段覆盖。
- *   所以改成渲染完再补，数据来自 /data/product-families.json
+ *   所以改成渲染完再补，数据来自 /data/product-families.json?v=20261106-boom1
  *   （跟列表页那个下拉同一份，改主表重跑生成器即可两边同步）。
  *
  * 站内点产品是框架内跳转、整页不重载，所以要盯地址变化重新挂。
@@ -99,7 +99,7 @@
   function label(item) {
     var t = ZH ? (item.zhName || item.name) : (item.name || item.zhName);
     t = String(t || item.sku);
-    if (!ZH) t = t.replace(/^EVERCUP\s+/i, '');
+    if (!ZH) t = t.replace(/^BOOM Drinkware\s+/i, '');
     return t;
   }
 
@@ -326,7 +326,7 @@
     if (LOADING) return;
     LOADING = true;
     var x = new XMLHttpRequest();
-    x.open('GET', '/data/product-families.json?v=' + V + '-' + Math.floor(Date.now() / 3600000), true);
+    x.open('GET', '/data/product-families.json?v=20261106-boom1' + V + '-' + Math.floor(Date.now() / 3600000), true);
     x.onload = function () {
       LOADING = false;
       try { DATA = JSON.parse(x.responseText); } catch (e) { return; }
