@@ -33,7 +33,7 @@ async function flush(env) {
       const text = lines.join('\n');
       const bytes = new TextEncoder().encode(text);
       const encoded = btoa(Array.from(bytes, byte => String.fromCharCode(byte)).join('')).match(/.{1,76}/g).join('\r\n');
-      const raw = [`From: BOOM Drinkware <${FROM}>`, `To: ${TO}`, `Subject: [BOOM Preview] Website enquiry ${id}`,
+      const raw = [`From: BOOM Drinkware <${FROM}>`, `To: ${TO}`, `Subject: [BOOM Drinkware] Website enquiry ${id}`,
         'MIME-Version: 1.0', 'Content-Type: text/plain; charset=UTF-8', 'Content-Transfer-Encoding: base64', '', encoded].join('\r\n');
       await env.EMAIL.send(new EmailMessage(FROM, TO, raw));
       handedOff = true;
