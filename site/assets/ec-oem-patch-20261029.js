@@ -191,6 +191,7 @@
         t.incl.map(function (x) { return '<li>' + esc(x) + '</li>'; }).join('') + '</ul></div>';
 
     var form = aside.querySelector('form');
+    form.addEventListener('input', function () { delete form.dataset.submissionKey; });
     form.addEventListener('submit', function (e) {
       e.preventDefault();
       submit(aside, form, t);
@@ -212,7 +213,8 @@
 
   function submit(aside, form, t) {
     var v = readForm(form);
-    if (v.website) return;                                   /* 机器人 */
+    if (v.website) return;
+    if (!form.reportValidity()) return;                                   /* 机器人 */
     if (!v.productInterest || !v.email || v.email.indexOf('@') < 1) {
       var bad = !v.productInterest ? form.elements.productInterest : form.elements.email;
       if (bad) { bad.focus(); bad.style.borderColor = '#c2412d'; }
@@ -236,26 +238,38 @@
       page: location.href
     };
 
-    var settled = false;
-    var timer = setTimeout(function () { if (!settled) { settled = true; showFail(aside, t, v); } }, 4000);
-
-    fetch('/api/enquiries', {
-      method: 'POST',
-      body: JSON.stringify(payload),
-      headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
-      credentials: 'same-origin'
+    var controller = new AbortController();
+    var timer = setTimeout(function () { controller.abort(); }, 15000);
+    var key = form.dataset.submissionKey || crypto.randomUUID();
+    form.dataset.submissionKey = key;
+    var requestOptions = { credentials: 'same-origin', cache: 'no-store', signal: controller.signal };
+    fetch('/api/enquiries/session', requestOptions).then(function (r) {
+      if (!r.ok) throw new Error('Receiving service unavailable');
+      return r.json();
+    }).then(function (session) {
+      if (!session || session.ok !== true || !session.token) throw new Error('Session unavailable');
+      return fetch('/api/enquiries', {
+        method: 'POST',
+        body: JSON.stringify(payload),
+        headers: {
+          'Content-Type': 'application/json', Accept: 'application/json',
+          'X-Enquiry-Token': session.token, 'Idempotency-Key': key
+        },
+        credentials: 'same-origin', signal: controller.signal
+      });
     }).then(function (r) {
-      if (!r.ok) throw new Error('HTTP ' + r.status);
-      return r.json().catch(function () { return {}; });
+      if (!r.ok) throw new Error('Enquiry not accepted');
+      return r.json();
     }).then(function (d) {
-      if (settled) return;
-      settled = true; clearTimeout(timer);
-      var ref = (d && (d.id || d.reference || d.enquiryId)) || '';
+      var ref = d && (d.id || d.reference);
+      if (!d || d.ok !== true || !ref) throw new Error('No receipt returned');
+      clearTimeout(timer);
       showOk(aside, t, ref);
     }).catch(function () {
-      if (settled) return;
-      settled = true; clearTimeout(timer);
+      clearTimeout(timer);
       showFail(aside, t, v);
+      btn.disabled = false;
+      btn.textContent = t.btn;
     });
   }
 
@@ -283,13 +297,16 @@
     var subject = (v.productInterest || 'Project enquiry').slice(0, 70);
     var href = 'mailto:' + MAIL + '?subject=' + encodeURIComponent(subject) + '&body=' + encodeURIComponent(lines.join('\n'));
 
-    aside.className = 'oemx-rfq oemx-state';
-    aside.innerHTML =
-      '<p class="oemx-kicker">' + esc(t.kicker) + '</p>' +
+    var previous = aside.querySelector('.oemx-error');
+    if (previous) previous.remove();
+    var error = document.createElement('div');
+    error.className = 'oemx-error';
+    error.setAttribute('role', 'alert');
+    error.innerHTML =
       '<h3>' + esc(t.fail1) + '</h3>' +
       '<p>' + esc(t.fail2) + '</p>' +
-      '<a class="oemx-big" href="' + href + '">' + esc(t.failBtn) + '</a>' +
-      '<p class="oemx-fine" style="margin-top:12px"><a href="' + WA + '" target="_blank" rel="noopener noreferrer">WhatsApp +86 130 5917 3747</a> · <a href="mailto:' + MAIL + '">' + MAIL + '</a></p>';
+      '<a class="oemx-big" href="' + href + '">' + esc(t.failBtn) + '</a>';
+    aside.querySelector('form').insertAdjacentElement('afterend', error);
   }
 
   /* ---------- 2. 改造两处 DOM ---------- */
@@ -419,4 +436,25 @@
   } else {
     boot();
   }
+})();
+
+/* Keep the English OEM SEO copy aligned after React hydration and client navigation. */
+(function(){
+'use strict';
+var pairs=[["From your brief.","Custom Drinkware Manufacturer"],["To your branded product.","for OEM &amp; ODM Projects."],["Customize existing drinkware and accessories, or discuss a new silicone or plastic product. Start with your drawing, reference sample or idea; agree the scope before tooling and production.","Custom plastic and silicone drinkware manufacturing for brands, distributors and promotional buyers. Choose OEM production to your approved design or ODM development support from a brief, reference sample or product idea — from existing models to component changes and new tooling."],["As fast as 1 day","3–5 days"],["Sampling on eligible projects","Sample production after drawing approval"],["Existing models to new designs","Enquiry response on business days"],["MOQ, sampling speed and delivery depend on the model, customization, destination and approval status. New tooling is assessed separately. Confirm the schedule and its start date in your quotation.","MOQ starts at 10 pcs on eligible existing-model configurations; modified parts and new tooling have separate minimums. Samples are usually completed 3–5 days after drawing approval. We reply within 12 hours on business days. Confirm the project scope, schedule and start date in your quotation."],["Not every project needs a new mold.","Three routes for custom drinkware manufacturing."],["More than a logo on a cup.","Custom drinkware materials and decoration."],["A clear path to your custom order.","Our OEM &amp; ODM drinkware development process."],["1–2 days","3–5 days"],["Existing sample","Sample production after drawing approval"],["usually 3–5 days after drawing approval","Project-specific"],["Customised sample","Complex changes and additional revisions"],["Samples are usually completed 3–5 days after drawing approval. A fully customised sample &mdash; colour matching, a new structure or a multi-part set &mdash; is usually completed 3–5 days after drawing approval.","Samples are usually completed 3–5 days after drawing approval. The schedule starts once the drawing and key specifications are approved. Samples involving new tooling, structural changes or complex decoration are assessed separately and confirmed in the quotation."],["Make every approval specific.","Quality control for custom drinkware production."],["Start with what you know.","OEM &amp; ODM drinkware FAQs."],["Does one-day sampling apply to a new mold?","How long does sample production take?"],["Sampling can be as fast as one day for eligible projects. New molds, new structures and complex decoration require a separate assessment. Confirm sample type, artwork approval and timing in the quote.","Samples are usually completed 3–5 days after drawing approval. The timing starts once the drawing and key specifications are approved. New tooling, structural changes and complex decoration are assessed separately; your quotation will confirm the project schedule."]], meta=[{"name":"description","content":"Custom plastic and silicone drinkware manufacturer for OEM and ODM projects. Develop existing models, modified parts or new products with BOOM Drinkware."},{"property":"og:type","content":"website"},{"property":"og:site_name","content":"BOOM Drinkware"},{"property":"og:title","content":"Custom Drinkware Manufacturer | OEM &amp; ODM | BOOM Drinkware"},{"property":"og:description","content":"Custom plastic and silicone drinkware manufacturer for OEM and ODM projects. Develop existing models, modified parts or new products with BOOM Drinkware."},{"property":"og:url","content":"https://www.boomdrinkware.com/oem-manufacturer/"},{"property":"og:image","content":"https://www.boomdrinkware.com/og-default.png"}], schemas=[{"@context":"https://schema.org","@type":"WebPage","@id":"https://www.boomdrinkware.com/oem-manufacturer/#webpage","url":"https://www.boomdrinkware.com/oem-manufacturer/","name":"Custom Drinkware Manufacturer | OEM & ODM Projects","headline":"Custom Drinkware Manufacturer for OEM & ODM Projects","description":"Custom plastic and silicone drinkware manufacturing for brands, distributors and promotional buyers. Discuss OEM production to your design or ODM development support, with specifications and supply arrangements agreed for each project.","inLanguage":"en","dateModified":"2026-10-24","isPartOf":{"@type":"WebSite","url":"https://www.boomdrinkware.com/","name":"BOOM Drinkware"}},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.boomdrinkware.com/"},{"@type":"ListItem","position":2,"name":"Custom Drinkware OEM & ODM Project Planning","item":"https://www.boomdrinkware.com/oem-manufacturer/"}]},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What should I include in a custom drinkware enquiry?","acceptedAnswer":{"@type":"Answer","text":"Send a model or reference, intended use, estimated quantity, artwork, packing, destination and required arrival date. If a specification is undecided, describe the use so it can be reviewed with the model."}},{"@type":"Question","name":"Are the reference images and specifications the final order?","acceptedAnswer":{"@type":"Answer","text":"Use the references to discuss the project. Confirm the final material, dimensions, components, artwork and sample in the written specification before production."}},{"@type":"Question","name":"How is a quote request sent?","acceptedAnswer":{"@type":"Answer","text":"Submit the project details and artwork on the contact page. The receiving service confirms storage with an enquiry reference. Email forwarding is pending configuration in this preview; website receipt does not mean an email has been delivered."}}]}];
+function decode(value){var e=document.createElement('textarea');e.innerHTML=value;return e.value;}
+pairs=pairs.map(function(p){return p.map(decode);});
+function apply(){
+ if(!/^\/oem-manufacturer\/?$/.test(location.pathname))return;
+ var main=document.querySelector('main');if(!main)return;
+ var title=decode("Custom Drinkware Manufacturer | OEM &amp; ODM | BOOM Drinkware");if(document.title!==title)document.title=title;
+ meta.forEach(function(m){var key=m.property?'property':'name',value=m.property||m.name;var e=document.querySelector('meta['+key+'="'+value+'"]');if(e&&e.content!==decode(m.content))e.content=decode(m.content);});
+ var walker=document.createTreeWalker(main,NodeFilter.SHOW_TEXT),nodes=[],node;while(node=walker.nextNode())nodes.push(node);
+ nodes.forEach(function(n){if(/^(SCRIPT|STYLE|TEXTAREA|INPUT)$/.test(n.parentElement.tagName))return;var text=n.nodeValue.trim();for(var i=0;i<pairs.length;i++){if(text===pairs[i][0]){n.nodeValue=n.nodeValue.replace(text,pairs[i][1]);break;}}});
+ main.querySelectorAll('.of-stat strong').forEach(function(e){if(e.textContent==='OEM / ODM')e.textContent='12 business hours';});
+ document.querySelectorAll('script[type="application/ld+json"]').forEach(function(e){try{var current=JSON.parse(e.textContent);var expected=schemas.find(function(s){return s['@type']===current['@type'];});if(expected&&JSON.stringify(current)!==JSON.stringify(expected))e.textContent=JSON.stringify(expected);}catch(ignore){}});
+}
+var pending=false;function schedule(){if(pending)return;pending=true;setTimeout(function(){pending=false;apply();},50);}
+new MutationObserver(schedule).observe(document.documentElement,{childList:true,subtree:true,characterData:true});
+if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',apply);else apply();window.addEventListener('popstate',schedule);
 })();

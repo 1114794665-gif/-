@@ -6,3 +6,18 @@ function run(){document.querySelectorAll('a[href]').forEach(function(a){var sour
 /* Router Link closures still contain their old destination. Use the final href for these links. */
 document.addEventListener('click',function(e){if(e.defaultPrevented||e.button!==0||e.ctrlKey||e.metaKey||e.shiftKey||e.altKey)return;var a=e.target.closest&&e.target.closest('a[data-ec-direct]');if(!a||a.hasAttribute('download')||(a.target&&a.target!=='_self'))return;var href=a.getAttribute('href');if(href!==a.getAttribute('data-ec-direct'))return;e.preventDefault();e.stopPropagation();location.assign(href)},true);
 var queued=false;function schedule(){if(queued)return;queued=true;requestAnimationFrame(function(){queued=false;run()})}function boot(){run();new MutationObserver(schedule).observe(document.documentElement,{childList:true,subtree:true,attributes:true,attributeFilter:['href']})}if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',boot,{once:true});else boot();})();
+
+/* Contact receipt confirms storage; business email delivery is tracked separately. */
+(function(){
+ var pending=false;
+ function apply(){
+  pending=false;
+  if(!/^\/contact\/?$/.test(location.pathname))return;
+  document.querySelectorAll('main [role="status"] p').forEach(function(p){
+   if(p.textContent==='Email forwarding is pending configuration. This confirms successful website storage; it does not confirm email delivery.')
+    p.textContent='Keep your enquiry reference for follow-up. Our team will respond within 12 hours on business days.';
+  });
+ }
+ new MutationObserver(function(){if(!pending){pending=true;setTimeout(apply,50);}}).observe(document.documentElement,{childList:true,subtree:true});
+ apply();
+})();

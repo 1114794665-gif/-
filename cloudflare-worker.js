@@ -1,5 +1,14 @@
 const json=(v,status=200)=>Response.json(v,{status,headers:{'Cache-Control':'no-store'}});
-export default {async fetch(request,env){
+
+const wakeNotifier = (env, ctx, id) => {
+ if (!env.OEM_NOTIFY) return;
+ const task = env.OEM_NOTIFY.fetch('https://internal/enqueue', {
+  method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({id})
+ }).then(r=>{if(!r.ok)throw new Error('NOTIFIER_UNAVAILABLE');}).catch(()=>{});
+ if(ctx&&ctx.waitUntil)ctx.waitUntil(task);
+};
+
+export default {async fetch(request,env,ctx){
  const url=new URL(request.url),path=url.pathname;
  if(path==='/api/products')return env.ASSETS.fetch(new Request(new URL('/data/api-products-snapshot.json',url),{method:'GET'}));
  if(!path.startsWith('/api/'))return env.ASSETS.fetch(request);
@@ -24,9 +33,10 @@ export default {async fetch(request,env){
  if(fields.website)return json({ok:true,id:'IGNORED',attachmentCount:0,duplicate:true});
  if(!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(fields.email||'')||!(fields.message||fields.productInterest))return json({ok:false,code:'INVALID'},422);
  if(files.length>5||files.reduce((n,f)=>n+f.size,0)>5*1024*1024||files.some(f=>f.size>2*1024*1024||!/\.(pdf|png|jpe?g|webp|dxf|dwg|step|stp)$/i.test(f.name)))return json({ok:false,code:'FILE_TOO_LARGE_OR_TYPE',error:'Up to 5 files, 2 MB each, 5 MB total.'},422);
- const key=request.headers.get('Idempotency-Key')||crypto.randomUUID();const prior=await env.DB.prepare('SELECT id FROM enquiries WHERE idempotency=?').bind(key).first();if(prior)return json({ok:true,id:prior.id,reference:prior.id,duplicate:true,attachmentCount:(await env.DB.prepare('SELECT COUNT(*) AS n FROM attachments WHERE enquiry_id=?').bind(prior.id).first()).n});
+ const key=request.headers.get('Idempotency-Key')||crypto.randomUUID();const prior=await env.DB.prepare('SELECT id FROM enquiries WHERE idempotency=?').bind(key).first();if(prior){if(env.OEM_NOTIFY){await env.DB.prepare('INSERT OR IGNORE INTO oem_notification_outbox(enquiry_id,updated_at) VALUES(?,?)').bind(prior.id,Date.now()).run();wakeNotifier(env,ctx,prior.id)}return json({ok:true,id:prior.id,reference:prior.id,duplicate:true,attachmentCount:(await env.DB.prepare('SELECT COUNT(*) AS n FROM attachments WHERE enquiry_id=?').bind(prior.id).first()).n,notification:env.OEM_NOTIFY?'queued':'not_configured'});}
  const id='ENQ-'+crypto.randomUUID();let statements=[env.DB.prepare('INSERT INTO enquiries(id,idempotency,received_at,payload) VALUES(?,?,?,?)').bind(id,key,new Date().toISOString(),JSON.stringify(fields))];
  for(const f of files){const aid=crypto.randomUUID(),bytes=new Uint8Array(await f.arrayBuffer());statements.push(env.DB.prepare('INSERT INTO attachments(id,enquiry_id,filename,mime,bytes) VALUES(?,?,?,?,?)').bind(aid,id,f.name,f.type,f.size));for(let i=0;i<bytes.length;i+=131072)statements.push(env.DB.prepare('INSERT INTO attachment_chunks(attachment_id,part,data) VALUES(?,?,?)').bind(aid,i/131072,bytes.slice(i,i+131072).buffer));}
- await env.DB.batch(statements);return json({ok:true,id,reference:id,attachmentCount:files.length,enquiry:{id,reference:id,attachmentCount:files.length}});
+ if(env.OEM_NOTIFY)statements.push(env.DB.prepare('INSERT OR IGNORE INTO oem_notification_outbox(enquiry_id,updated_at) VALUES(?,?)').bind(id,Date.now()));
+ await env.DB.batch(statements);wakeNotifier(env,ctx,id);return json({ok:true,id,reference:id,attachmentCount:files.length,notification:env.OEM_NOTIFY?'queued':'not_configured',enquiry:{id,reference:id,attachmentCount:files.length}});
  }catch{return json({ok:false,code:'SAVE_FAILED'},500)}
  }};
