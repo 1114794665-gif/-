@@ -191,6 +191,7 @@
         t.incl.map(function (x) { return '<li>' + esc(x) + '</li>'; }).join('') + '</ul></div>';
 
     var form = aside.querySelector('form');
+    form.addEventListener('input', function () { delete form.dataset.submissionKey; });
     form.addEventListener('submit', function (e) {
       e.preventDefault();
       submit(aside, form, t);
@@ -212,7 +213,8 @@
 
   function submit(aside, form, t) {
     var v = readForm(form);
-    if (v.website) return;                                   /* 机器人 */
+    if (v.website) return;
+    if (!form.reportValidity()) return;                                   /* 机器人 */
     if (!v.productInterest || !v.email || v.email.indexOf('@') < 1) {
       var bad = !v.productInterest ? form.elements.productInterest : form.elements.email;
       if (bad) { bad.focus(); bad.style.borderColor = '#c2412d'; }
@@ -236,26 +238,38 @@
       page: location.href
     };
 
-    var settled = false;
-    var timer = setTimeout(function () { if (!settled) { settled = true; showFail(aside, t, v); } }, 4000);
-
-    fetch('/api/enquiries', {
-      method: 'POST',
-      body: JSON.stringify(payload),
-      headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
-      credentials: 'same-origin'
+    var controller = new AbortController();
+    var timer = setTimeout(function () { controller.abort(); }, 15000);
+    var key = form.dataset.submissionKey || crypto.randomUUID();
+    form.dataset.submissionKey = key;
+    var requestOptions = { credentials: 'same-origin', cache: 'no-store', signal: controller.signal };
+    fetch('/api/enquiries/session', requestOptions).then(function (r) {
+      if (!r.ok) throw new Error('Receiving service unavailable');
+      return r.json();
+    }).then(function (session) {
+      if (!session || session.ok !== true || !session.token) throw new Error('Session unavailable');
+      return fetch('/api/enquiries', {
+        method: 'POST',
+        body: JSON.stringify(payload),
+        headers: {
+          'Content-Type': 'application/json', Accept: 'application/json',
+          'X-Enquiry-Token': session.token, 'Idempotency-Key': key
+        },
+        credentials: 'same-origin', signal: controller.signal
+      });
     }).then(function (r) {
-      if (!r.ok) throw new Error('HTTP ' + r.status);
-      return r.json().catch(function () { return {}; });
+      if (!r.ok) throw new Error('Enquiry not accepted');
+      return r.json();
     }).then(function (d) {
-      if (settled) return;
-      settled = true; clearTimeout(timer);
-      var ref = (d && (d.id || d.reference || d.enquiryId)) || '';
+      var ref = d && (d.id || d.reference);
+      if (!d || d.ok !== true || !ref) throw new Error('No receipt returned');
+      clearTimeout(timer);
       showOk(aside, t, ref);
     }).catch(function () {
-      if (settled) return;
-      settled = true; clearTimeout(timer);
+      clearTimeout(timer);
       showFail(aside, t, v);
+      btn.disabled = false;
+      btn.textContent = t.btn;
     });
   }
 
@@ -283,13 +297,16 @@
     var subject = (v.productInterest || 'Project enquiry').slice(0, 70);
     var href = 'mailto:' + MAIL + '?subject=' + encodeURIComponent(subject) + '&body=' + encodeURIComponent(lines.join('\n'));
 
-    aside.className = 'oemx-rfq oemx-state';
-    aside.innerHTML =
-      '<p class="oemx-kicker">' + esc(t.kicker) + '</p>' +
+    var previous = aside.querySelector('.oemx-error');
+    if (previous) previous.remove();
+    var error = document.createElement('div');
+    error.className = 'oemx-error';
+    error.setAttribute('role', 'alert');
+    error.innerHTML =
       '<h3>' + esc(t.fail1) + '</h3>' +
       '<p>' + esc(t.fail2) + '</p>' +
-      '<a class="oemx-big" href="' + href + '">' + esc(t.failBtn) + '</a>' +
-      '<p class="oemx-fine" style="margin-top:12px"><a href="' + WA + '" target="_blank" rel="noopener noreferrer">WhatsApp +86 130 5917 3747</a> · <a href="mailto:' + MAIL + '">' + MAIL + '</a></p>';
+      '<a class="oemx-big" href="' + href + '">' + esc(t.failBtn) + '</a>';
+    aside.querySelector('form').insertAdjacentElement('afterend', error);
   }
 
   /* ---------- 2. 改造两处 DOM ---------- */
