@@ -1,4 +1,4 @@
-// EVERCUP 本地预览服务（2026-10-29 重建）
+// BOOM Drinkware 本地预览服务（2026-10-29 重建）
 // 用法：node server.mjs [port]   默认 8781
 import http from 'node:http';
 import crypto from 'node:crypto';
@@ -389,5 +389,5 @@ const server = http.createServer((req, res) => {
 });
 
 server.listen(PORT, '127.0.0.1', () => {
-  console.log(`EVERCUP preview → http://127.0.0.1:${PORT}/  (root: ${ROOT})`);
+  console.log(`BOOM Drinkware preview → http://127.0.0.1:${PORT}/  (root: ${ROOT})`);
 });

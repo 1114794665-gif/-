@@ -70,11 +70,6 @@
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.boomdrinkware.com/zh/catalog-download/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.boomdrinkware.com/catalog-download/"/>
   </url><url>
-    <loc>https://www.boomdrinkware.com/certificates/</loc>
-    <changefreq>weekly</changefreq>
-    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.boomdrinkware.com/zh/certificates/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.boomdrinkware.com/certificates/"/>
-  </url><url>
     <loc>https://www.boomdrinkware.com/clear-plastic-cups/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.boomdrinkware.com/zh/clear-plastic-cups/"/>
@@ -1219,11 +1214,6 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://www.boomdrinkware.com/catalog-download/"/>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.boomdrinkware.com/zh/catalog-download/"/>
   </url><url>
-    <loc>https://www.boomdrinkware.com/zh/certificates/</loc>
-    <changefreq>weekly</changefreq>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.boomdrinkware.com/certificates/"/>
-    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.boomdrinkware.com/zh/certificates/"/>
-  </url><url>
     <loc>https://www.boomdrinkware.com/zh/clear-plastic-cups/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.boomdrinkware.com/clear-plastic-cups/"/>
@@ -2321,4 +2311,34 @@
   <url><loc>https://www.boomdrinkware.com/zh/factory/about/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.boomdrinkware.com/factory/testing/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url><url><loc>https://www.boomdrinkware.com/zh/factory/testing/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
   
+<url><loc>https://www.boomdrinkware.com/custom-stadium-cups/</loc><lastmod>2026-11-12</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+<url><loc>https://www.boomdrinkware.com/factory/quality-control/</loc><lastmod>2026-11-12</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+<url><loc>https://www.boomdrinkware.com/products/beverage-beer-bat-cup/</loc><lastmod>2026-11-12</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+<url><loc>https://www.boomdrinkware.com/zh/custom-stadium-cups/</loc><lastmod>2026-11-12</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+<url><loc>https://www.boomdrinkware.com/zh/customization/</loc><lastmod>2026-11-12</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+<url><loc>https://www.boomdrinkware.com/zh/factory/quality-control/</loc><lastmod>2026-11-12</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+<url><loc>https://www.boomdrinkware.com/zh/products/beverage-beer-bat-cup/</loc><lastmod>2026-11-12</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+
+
+
+<url><loc>https://www.boomdrinkware.com/products/ice-bucket-fj-ib0683d/</loc><lastmod>2026-11-13</lastmod><changefreq>monthly</changefreq><priority>0.75</priority><xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.boomdrinkware.com/zh/products/ice-bucket-fj-ib0683d/"/><xhtml:link rel="alternate" hreflang="en" href="https://www.boomdrinkware.com/products/ice-bucket-fj-ib0683d/"/></url>
+<url><loc>https://www.boomdrinkware.com/products/ice-bucket-xj-2895/</loc><lastmod>2026-11-13</lastmod><changefreq>monthly</changefreq><priority>0.75</priority><xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.boomdrinkware.com/zh/products/ice-bucket-xj-2895/"/><xhtml:link rel="alternate" hreflang="en" href="https://www.boomdrinkware.com/products/ice-bucket-xj-2895/"/></url>
+<url><loc>https://www.boomdrinkware.com/products/ice-bucket-xj-2898/</loc><lastmod>2026-11-13</lastmod><changefreq>monthly</changefreq><priority>0.75</priority><xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.boomdrinkware.com/zh/products/ice-bucket-xj-2898/"/><xhtml:link rel="alternate" hreflang="en" href="https://www.boomdrinkware.com/products/ice-bucket-xj-2898/"/></url>
+
+<url><loc>https://www.boomdrinkware.com/products/ice-bucket-xj-2896/</loc><lastmod>2026-11-13</lastmod><changefreq>monthly</changefreq><priority>0.75</priority><xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.boomdrinkware.com/zh/products/ice-bucket-xj-2896/"/><xhtml:link rel="alternate" hreflang="en" href="https://www.boomdrinkware.com/products/ice-bucket-xj-2896/"/></url>
+<url><loc>https://www.boomdrinkware.com/products/ice-bucket-xj-2897/</loc><lastmod>2026-11-13</lastmod><changefreq>monthly</changefreq><priority>0.75</priority><xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.boomdrinkware.com/zh/products/ice-bucket-xj-2897/"/><xhtml:link rel="alternate" hreflang="en" href="https://www.boomdrinkware.com/products/ice-bucket-xj-2897/"/></url>
+
+
+
+
+
+<url><loc>https://www.boomdrinkware.com/products/ice-bucket-yj314/</loc><lastmod>2026-11-13</lastmod><changefreq>monthly</changefreq><priority>0.75</priority><xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.boomdrinkware.com/zh/products/ice-bucket-yj314/"/><xhtml:link rel="alternate" hreflang="en" href="https://www.boomdrinkware.com/products/ice-bucket-yj314/"/></url>
+<url><loc>https://www.boomdrinkware.com/products/ice-bucket-yj318/</loc><lastmod>2026-11-13</lastmod><changefreq>monthly</changefreq><priority>0.75</priority><xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.boomdrinkware.com/zh/products/ice-bucket-yj318/"/><xhtml:link rel="alternate" hreflang="en" href="https://www.boomdrinkware.com/products/ice-bucket-yj318/"/></url>
+<url><loc>https://www.boomdrinkware.com/products/ice-bucket-yj312/</loc><lastmod>2026-11-13</lastmod><changefreq>monthly</changefreq><priority>0.75</priority><xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.boomdrinkware.com/zh/products/ice-bucket-yj312/"/><xhtml:link rel="alternate" hreflang="en" href="https://www.boomdrinkware.com/products/ice-bucket-yj312/"/></url>
+<url><loc>https://www.boomdrinkware.com/products/ice-bucket-yj314c/</loc><lastmod>2026-11-13</lastmod><changefreq>monthly</changefreq><priority>0.75</priority><xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.boomdrinkware.com/zh/products/ice-bucket-yj314c/"/><xhtml:link rel="alternate" hreflang="en" href="https://www.boomdrinkware.com/products/ice-bucket-yj314c/"/></url>
+<url><loc>https://www.boomdrinkware.com/products/ice-bucket-yj323f/</loc><lastmod>2026-11-13</lastmod><changefreq>monthly</changefreq><priority>0.75</priority><xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.boomdrinkware.com/zh/products/ice-bucket-yj323f/"/><xhtml:link rel="alternate" hreflang="en" href="https://www.boomdrinkware.com/products/ice-bucket-yj323f/"/></url>
+<url><loc>https://www.boomdrinkware.com/products/ice-bucket-yj316f/</loc><lastmod>2026-11-13</lastmod><changefreq>monthly</changefreq><priority>0.75</priority><xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.boomdrinkware.com/zh/products/ice-bucket-yj316f/"/><xhtml:link rel="alternate" hreflang="en" href="https://www.boomdrinkware.com/products/ice-bucket-yj316f/"/></url>
+<url><loc>https://www.boomdrinkware.com/products/ice-bucket-yj383f/</loc><lastmod>2026-11-13</lastmod><changefreq>monthly</changefreq><priority>0.75</priority><xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.boomdrinkware.com/zh/products/ice-bucket-yj383f/"/><xhtml:link rel="alternate" hreflang="en" href="https://www.boomdrinkware.com/products/ice-bucket-yj383f/"/></url>
+<url><loc>https://www.boomdrinkware.com/products/ice-bucket-yj384/</loc><lastmod>2026-11-13</lastmod><changefreq>monthly</changefreq><priority>0.75</priority><xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.boomdrinkware.com/zh/products/ice-bucket-yj384/"/><xhtml:link rel="alternate" hreflang="en" href="https://www.boomdrinkware.com/products/ice-bucket-yj384/"/></url>
+<url><loc>https://www.boomdrinkware.com/products/ice-bucket-yj385f/</loc><lastmod>2026-11-13</lastmod><changefreq>monthly</changefreq><priority>0.75</priority><xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.boomdrinkware.com/zh/products/ice-bucket-yj385f/"/><xhtml:link rel="alternate" hreflang="en" href="https://www.boomdrinkware.com/products/ice-bucket-yj385f/"/></url>
 </urlset>

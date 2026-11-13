@@ -1,0 +1,1 @@
+(()=>{"use strict";if(!/^\/(zh\/)?contact\/$/.test(location.pathname)||!new URLSearchParams(location.search).has("models"))return;function e(){document.head.querySelectorAll('link[rel="alternate"][hreflang]').forEach(t=>t.remove())}e(),new MutationObserver(e).observe(document.head,{childList:!0})})();

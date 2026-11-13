@@ -21,7 +21,7 @@ chown -R evercup:evercup "$DEST/private-data"
 chmod 700 "$DEST/private-data"
 cat > /etc/systemd/system/evercup.service <<EOF
 [Unit]
-Description=EVERCUP website
+Description=BOOM Drinkware website
 After=network.target
 [Service]
 Type=simple

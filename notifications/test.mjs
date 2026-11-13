@@ -13,7 +13,7 @@ let pending=[];const ctx={waitUntil(task){pending.push(task);}};
 const request=()=>new Request('https://internal/enqueue',{method:'POST',body:JSON.stringify({id})});
 assert.equal((await worker.fetch(new Request('https://internal/'),env,ctx)).status,404);
 assert.equal((await worker.fetch(request(),env,ctx)).status,202);await Promise.all(pending);
-assert.equal(messages.length,1);assert.equal(messages[0].to,'christoph_enrico@hotmail.com');
+assert.equal(messages.length,1);assert.equal(messages[0].to,'niles@boomdrinkware.com');
 const body=Buffer.from(messages[0].raw.split('\r\n\r\n')[1].replaceAll('\r\n',''),'base64').toString();assert.ok(body.includes('QA TEST ONLY'));assert.ok(!body.includes('DO-NOT-INCLUDE'));
 pending=[];await worker.fetch(request(),env,ctx);await Promise.all(pending);assert.equal(messages.length,1);
 assert.equal(sql.prepare('SELECT state FROM oem_notification_outbox').get().state,'sent');

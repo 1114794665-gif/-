@@ -1,0 +1,1686 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>BYF 自供产品清单 · 站内在架 61 组 / 103 款</title>
+<style>
+  :root{
+    --forest:#233f35; --muted:#647269; --paper:#fbfaf7; --line:#dfe5dd; --accent:#b9603c; --soft:#f2f4ef;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--paper);color:var(--forest);
+    font:15px/1.6 "Inter","Helvetica Neue",-apple-system,"PingFang SC","Microsoft YaHei",sans-serif}
+  img{display:block;max-width:100%}
+  .wrap{max-width:1180px;margin:0 auto;padding:0 22px}
+  header.top{background:#fff;border-bottom:1px solid var(--line);padding:34px 0 26px}
+  .kicker{font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--accent);font-weight:700}
+  h1{font-size:34px;line-height:1.15;margin:8px 0 10px;letter-spacing:-.02em}
+  .lede{max-width:760px;color:var(--muted);margin:0}
+  .stats{display:flex;flex-wrap:wrap;gap:34px;margin-top:26px}
+  .stats div b{display:block;font-size:30px;line-height:1.1;letter-spacing:-.02em}
+  .stats div span{font-size:12px;color:var(--muted)}
+  .how{margin-top:22px;background:var(--soft);border:1px solid var(--line);border-radius:10px;
+    padding:14px 16px;font-size:13px;color:#3d4f46}
+  .how b{color:var(--forest)}
+  .filters{position:sticky;top:0;z-index:5;background:rgba(251,250,247,.94);
+    backdrop-filter:blur(6px);border-bottom:1px solid var(--line);padding:12px 0}
+  .filters .wrap{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+  .chip{border:1px solid var(--line);background:#fff;color:var(--forest);border-radius:999px;
+    padding:7px 14px;font-size:13px;cursor:pointer}
+  .chip[aria-pressed="true"]{background:var(--forest);color:#fff;border-color:var(--forest)}
+  main{padding:26px 0 60px}
+  .card{background:#fff;border:1px solid var(--line);border-radius:14px;padding:20px 20px 18px;
+    margin-bottom:18px}
+  .card-hd{display:flex;justify-content:space-between;align-items:flex-start;gap:16px;
+    border-bottom:1px solid var(--line);padding-bottom:12px;margin-bottom:16px}
+  .card-hd h3{margin:4px 0 0;font-size:17px;line-height:1.35;letter-spacing:-.01em}
+  .cat{font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--accent);font-weight:700}
+  .visit{font-size:12px;color:var(--muted);text-decoration:none;white-space:nowrap}
+  .visit:hover{color:var(--accent)}
+  .hero{display:grid;grid-template-columns:minmax(220px,300px) 1fr;gap:22px;align-items:start}
+  .hero-img{background:var(--soft);border:1px solid var(--line);border-radius:10px;
+    aspect-ratio:1/1;display:flex;align-items:center;justify-content:center;overflow:hidden}
+  .hero-img img{width:100%;height:100%;object-fit:contain}
+  .badge{display:inline-block;background:var(--forest);color:#fff;font-size:11px;letter-spacing:.06em;
+    padding:4px 9px;border-radius:999px}
+  .hero-txt h4{margin:10px 0 4px;font-size:18px;line-height:1.35}
+  .cn{margin:0 0 12px;color:var(--muted);font-size:13px}
+  dl{display:flex;flex-wrap:wrap;gap:8px 22px;margin:0}
+  dl div{min-width:96px}
+  dt{font-size:11px;color:var(--muted);letter-spacing:.04em}
+  dd{margin:2px 0 0;font-size:14px}
+  .note{margin:12px 0 0;font-size:12px;color:var(--accent)}
+  .subs{margin-top:16px;border-top:1px dashed var(--line);padding-top:14px}
+  .subs-hd{font-size:12px;color:var(--muted);margin-bottom:10px;letter-spacing:.04em}
+  .subs-hd span{color:#9aa8a0;margin-left:6px;letter-spacing:0}
+  .subs-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(152px,1fr));gap:12px}
+  .sub{margin:0;background:var(--soft);border:1px solid var(--line);border-radius:9px;padding:8px}
+  .sub img{width:100%;aspect-ratio:1/1;object-fit:contain;background:#fff;border-radius:6px}
+  .sub figcaption{margin-top:6px;font-size:11px;line-height:1.35}
+  .sub figcaption b{display:block;font-size:12px}
+  .sub figcaption span{display:block;color:var(--muted)}
+  .tag-off{background:#f4e3dc;color:var(--accent);border-radius:4px;padding:1px 6px;margin-left:6px;
+    font-size:10px;letter-spacing:0}
+  h2{font-size:20px;margin:34px 0 12px}
+  table{width:100%;border-collapse:collapse;background:#fff;border:1px solid var(--line);
+    border-radius:10px;overflow:hidden;font-size:13px}
+  th,td{text-align:left;padding:9px 12px;border-bottom:1px solid var(--line)}
+  th{background:var(--soft);font-size:11px;letter-spacing:.06em;color:var(--muted)}
+  .index{margin-top:18px;background:#fff;border:1px solid var(--line);border-radius:10px;padding:12px 16px}
+  .index summary{cursor:pointer;font-size:13px;color:var(--muted)}
+  .index .codes{display:flex;flex-wrap:wrap;gap:6px;margin-top:10px}
+  .index .codes a{font-size:11.5px;text-decoration:none;color:var(--forest);background:var(--soft);
+    border:1px solid var(--line);border-radius:5px;padding:3px 7px;font-variant-numeric:tabular-nums}
+  .index .codes a:hover{background:var(--forest);color:#fff}
+  .index .grp{margin-top:12px;font-size:11px;letter-spacing:.08em;color:var(--accent);
+    text-transform:uppercase;font-weight:700}
+  footer{border-top:1px solid var(--line);padding:22px 0 40px;color:var(--muted);font-size:12px}
+  .mono{font-variant-numeric:tabular-nums;font-family:"SFMono-Regular",Consolas,monospace;font-size:12.5px}
+  .strong{font-weight:700}
+  .pg{color:var(--muted);font-size:12px}
+  .listwrap{padding-top:26px}
+  .listwrap table{font-size:12.5px;table-layout:fixed}
+  .listwrap th:nth-child(1),.listwrap td:nth-child(1){width:110px}
+  .listwrap th:nth-child(2),.listwrap td:nth-child(2){width:170px}
+  .listwrap th:nth-child(3),.listwrap td:nth-child(3){width:76px}
+  .listwrap th:nth-child(5),.listwrap td:nth-child(5){width:110px}
+  .listnote{font-size:12px;color:var(--muted);margin:10px 0 0}
+  @media (max-width:760px){
+    h1{font-size:26px}
+    .hero{grid-template-columns:1fr}
+    .hero-img{max-width:260px}
+    .card-hd{flex-direction:column;gap:6px}
+    .stats{gap:22px}
+  }
+</style>
+<link rel="stylesheet" href="/assets/factory-specialist-20261103.speed-20261107.css"><script defer src="/assets/growth-measurement-20261026.speed-20261107-niles-1bac52961b9a-niles-1bac52961b9a-niles-1bac52961b9a.js?v=20261112-brand1"></script><link rel="stylesheet" href="/assets/brand-boom-20261106.css">
+<link rel="stylesheet" href="/assets/ui-upgrade-20261106.speed-20261107.css">
+<link rel="stylesheet" href="/assets/industrial-theme-20261109.css"><link rel="stylesheet" href="/assets/niles-contact-layout-20261111.css"></head>
+<body class="boom-industrial">
+<header class="top"><div class="wrap">
+  <div class="kicker">BYF · In-house models</div>
+  <h1>自有产品清单 · 工厂内型号对照</h1>
+  <p class="lede">103 款站内自有产品，每一款都填上了工厂的正式型号，并回《Catalogue of BYF BOOM 260914》核对了页数。
+     版式照站内产品页来：左边主款，下面副款；主款卡片里的「工厂内型号」就是报单、打样、对账要用的那个号。</p>
+  <div class="stats">
+    <div><b>103</b><span>自有款，全部对上目录</span></div>
+    <div><b>61</b><span>落在几个款式组</span></div>
+    <div><b>24 / 37</b><span>塑胶杯 / 酒具配件</span></div>
+    <div><b>106</b><span>纯外购的产品页</span></div>
+  </div>
+  <div class="how">
+    <b>怎么判的：</b>桌面那份产品库里有一列「公司名称」，写「深圳BYF精密模具 / BOOMSPRING」的共 103 行，
+    而且这些行的参考来源一律是自家的 evercup.com——这就是自供款；写 Flashbay、Silipint、drinkstuff 之类的都是外购样。
+    站内对得上 103 个，一个没漏，但散落在外购款中间当副款用。
+  </div>
+  <details class="index">
+    <summary>按型号速查（103 个，点编号跳到对应卡片）</summary>
+    <div class="grp">作为主款出现 59 个</div>
+    <div class="codes"><a href="#m-HJB-040">HJB-040</a><a href="#m-HJB-042">HJB-042</a><a href="#m-HJB-043">HJB-043</a><a href="#m-HJB-047">HJB-047</a><a href="#m-HJB-048">HJB-048</a><a href="#m-HJB-053">HJB-053</a><a href="#m-HJB-054">HJB-054</a><a href="#m-HJB-056">HJB-056</a><a href="#m-HJB-057">HJB-057</a><a href="#m-HJB-060">HJB-060</a><a href="#m-HJB-066">HJB-066</a><a href="#m-HJB-069">HJB-069</a><a href="#m-HJB-072">HJB-072</a><a href="#m-HJB-073">HJB-073</a><a href="#m-HJB-074">HJB-074</a><a href="#m-HJB-076">HJB-076</a><a href="#m-PJB-008">PJB-008</a><a href="#m-PJB-013">PJB-013</a><a href="#m-PJB-014">PJB-014</a><a href="#m-PJB-016">PJB-016</a><a href="#m-SJB-013">SJB-013</a><a href="#m-SJB-015">SJB-015</a><a href="#m-BT-012">BT-012</a><a href="#m-BT-013">BT-013</a><a href="#m-BT-014">BT-014</a><a href="#m-BT-015">BT-015</a><a href="#m-BT-016">BT-016</a><a href="#m-BT-017">BT-017</a><a href="#m-JBPJ-039">JBPJ-039</a><a href="#m-JBPJ-040">JBPJ-040</a><a href="#m-JBPJ-041">JBPJ-041</a><a href="#m-JBPJ-042">JBPJ-042</a><a href="#m-JBPJ-044">JBPJ-044</a><a href="#m-JBPJ-045">JBPJ-045</a><a href="#m-JBPJ-047">JBPJ-047</a><a href="#m-JBPJ-048">JBPJ-048</a><a href="#m-JBPJ-049">JBPJ-049</a><a href="#m-JBPJ-050">JBPJ-050</a><a href="#m-JBPJ-064">JBPJ-064</a><a href="#m-JBPJ-065">JBPJ-065</a><a href="#m-JBPJ-066">JBPJ-066</a><a href="#m-JBPJ-067">JBPJ-067</a><a href="#m-JBPJ-068">JBPJ-068</a><a href="#m-JBPJ-072">JBPJ-072</a><a href="#m-JBPJ-073">JBPJ-073</a><a href="#m-JS-031">JS-031</a><a href="#m-JS-033">JS-033</a><a href="#m-JS-034">JS-034</a><a href="#m-JS-037">JS-037</a><a href="#m-JS-038">JS-038</a><a href="#m-JS-039">JS-039</a><a href="#m-JS-040">JS-040</a><a href="#m-JS-042">JS-042</a><a href="#m-KPQ-005">KPQ-005</a><a href="#m-KPQ-006">KPQ-006</a><a href="#m-KPQ-007">KPQ-007</a><a href="#m-KPQ-009">KPQ-009</a><a href="#m-KPQ-011">KPQ-011</a><a href="#m-PJB-012">PJB-012</a></div>
+    <div class="grp">只当副款出现 44 个</div>
+    <div class="codes"><a href="#m-HJB-043">HJB-037</a><a href="#m-HJB-047">HJB-039</a><a href="#m-HJB-047">HJB-041</a><a href="#m-HJB-047">HJB-045</a><a href="#m-HJB-047">HJB-046</a><a href="#m-HJB-048">HJB-049</a><a href="#m-HJB-048">HJB-050</a><a href="#m-HJB-048">HJB-051</a><a href="#m-HJB-047">HJB-052</a><a href="#m-HJB-047">HJB-055</a><a href="#m-HJB-048">HJB-058</a><a href="#m-HJB-048">HJB-059</a><a href="#m-HJB-048">HJB-061</a><a href="#m-HJB-047">HJB-062</a><a href="#m-HJB-047">HJB-063</a><a href="#m-HJB-047">HJB-064</a><a href="#m-HJB-056">HJB-065</a><a href="#m-HJB-047">HJB-067</a><a href="#m-HJB-048">HJB-068</a><a href="#m-HJB-048">HJB-070</a><a href="#m-HJB-047">HJB-071</a><a href="#m-HJB-047">HJB-075</a><a href="#m-HJB-047">HJB-077</a><a href="#m-JBPJ-042">JBPJ-043</a><a href="#m-JBPJ-039">JBPJ-046</a><a href="#m-JBPJ-050">JBPJ-051</a><a href="#m-KPQ-009">KPQ-008</a><a href="#m-KPQ-009">KPQ-010</a><a href="#m-KPQ-011">KPQ-012</a><a href="#m-KPQ-011">KPQ-013</a><a href="#m-KPQ-011">KPQ-014</a><a href="#m-KPQ-011">KPQ-015</a><a href="#m-KPQ-009">KPQ-016</a><a href="#m-KPQ-009">KPQ-017</a><a href="#m-KPQ-011">KPQ-018</a><a href="#m-KPQ-011">KPQ-019</a><a href="#m-KPQ-011">KPQ-020</a><a href="#m-KPQ-011">KPQ-021</a><a href="#m-PJB-008">PJB-009</a><a href="#m-PJB-008">PJB-010</a><a href="#m-PJB-008">PJB-011</a><a href="#m-PJB-013">PJB-015</a><a href="#m-PJB-012">PJB-017</a><a href="#m-SJB-013">SJB-014</a></div>
+  </details>
+</div></header>
+
+<div class="filters"><div class="wrap">
+  <button class="chip" data-f="all" aria-pressed="true">全部 61 组</button>
+  <button class="chip" data-f="塑胶杯" aria-pressed="false">塑胶杯 24</button>
+  <button class="chip" data-f="酒具配件" aria-pressed="false">酒具配件 37</button>
+</div></div>
+
+<section class="wrap listwrap">
+  <h2>型号清单（103 款，按大类排）</h2>
+  <table><thead><tr><th>站点型号</th><th>工厂内型号</th><th>目录页</th><th>站上中文叫法</th><th>主/副款</th></tr></thead>
+  <tbody><tr><td class="mono">JS-040</td><td class="mono strong">CS01G</td><td class="mono">P1</td><td>ABS Moet 香槟吸饮器</td><td>单款页</td></tr><tr><td class="mono">JBPJ-042</td><td class="mono strong">CS02G</td><td class="mono">P1</td><td>电镀香槟吸饮器 CS02G</td><td>主款</td></tr><tr><td class="mono">JBPJ-043</td><td class="mono strong">CS03G</td><td class="mono">P1</td><td>电镀香槟吸饮器 CS03G</td><td>副款</td></tr><tr><td class="mono">JBPJ-067</td><td class="mono strong">CS04G</td><td class="mono">P1</td><td>电镀香槟吸饮器 CS04G</td><td>单款页</td></tr><tr><td class="mono">JBPJ-064</td><td class="mono strong">CS05</td><td class="mono">P1</td><td>ABS+硅胶吸饮器+倒酒器二合一 CS05</td><td>单款页</td></tr><tr><td class="mono">JBPJ-044</td><td class="mono strong">CS50</td><td class="mono">P1</td><td>PP+硅胶 酒塞/酒杯挂饰二合一 CS50</td><td>单款页</td></tr><tr><td class="mono">JBPJ-066</td><td class="mono strong">CS55S</td><td class="mono">P1</td><td>酒塞+倒酒器二合一 CS55S</td><td>单款页</td></tr><tr><td class="mono">SJB-014</td><td class="mono strong">DB100</td><td class="mono">P7</td><td>20ozPS电镀迪斯科球杯</td><td>副款</td></tr><tr><td class="mono">KPQ-006</td><td class="mono strong">E5001</td><td class="mono">P1</td><td>锌合金+ABS鹅颈手动开瓶器</td><td>单款页</td></tr><tr><td class="mono">JS-039</td><td class="mono strong">E6006</td><td class="mono">P1</td><td>锌合金蝶形开塞钻</td><td>单款页</td></tr><tr><td class="mono">KPQ-011</td><td class="mono strong">EC-A</td><td class="mono">P2</td><td>ABS+PC充电式红酒开瓶器</td><td>主款</td></tr><tr><td class="mono">KPQ-012</td><td class="mono strong">EC-A-BS</td><td class="mono">P2</td><td>充电式红酒开瓶器</td><td>副款</td></tr><tr><td class="mono">KPQ-020</td><td class="mono strong">EC-A-GS</td><td class="mono">P2</td><td>充电式开瓶器</td><td>副款</td></tr><tr><td class="mono">KPQ-018</td><td class="mono strong">EC-A-SET</td><td class="mono">P2</td><td>充电式红酒开瓶器</td><td>副款</td></tr><tr><td class="mono">JBPJ-049</td><td class="mono strong">FJ-BR0685</td><td class="mono">P6</td><td>PP酒瓶架</td><td>单款页</td></tr><tr><td class="mono">JBPJ-047</td><td class="mono strong">FJ-IB062T</td><td class="mono">P6</td><td>PS冰夹</td><td>单款页</td></tr><tr><td class="mono">KPQ-016</td><td class="mono strong">KB1-601901A</td><td class="mono">P2</td><td>ABS电动开瓶器</td><td>副款</td></tr><tr><td class="mono">KPQ-009</td><td class="mono strong">KB1-602002</td><td class="mono">P2</td><td>不锈钢+PC电动红酒开瓶器</td><td>主款</td></tr><tr><td class="mono">KPQ-008</td><td class="mono strong">KB1P-602301</td><td class="mono">P2</td><td>ABS电动红酒开瓶器</td><td>副款</td></tr><tr><td class="mono">JBPJ-073</td><td class="mono strong">KD-7</td><td class="mono">P2</td><td>ABS+硅胶充电式醒酒分酒器 KD-7</td><td>单款页</td></tr><tr><td class="mono">SJB-013</td><td class="mono strong">KF-C20</td><td class="mono">P6</td><td>21ozPC果汁杯</td><td>副款</td></tr><tr><td class="mono">KPQ-005</td><td class="mono strong">KH1-002002</td><td class="mono">P1</td><td>ABS塑料啤酒开瓶器</td><td>单款页</td></tr><tr><td class="mono">KPQ-014</td><td class="mono strong">KP1125</td><td class="mono">P2</td><td>充电式红酒开瓶器</td><td>副款</td></tr><tr><td class="mono">KPQ-013</td><td class="mono strong">KP3-372201C-6</td><td class="mono">P2</td><td>充电式红酒开瓶器</td><td>副款</td></tr><tr><td class="mono">JBPJ-072</td><td class="mono strong">KVS-20</td><td class="mono">P1</td><td>ABS+硅胶真空泵+4酒塞套装 KVS-20</td><td>单款页</td></tr><tr><td class="mono">JS-037</td><td class="mono strong">LN1258P</td><td class="mono">P1</td><td>不锈钢+TPR香槟塞</td><td>单款页</td></tr><tr><td class="mono">JS-031</td><td class="mono strong">LN1258S</td><td class="mono">P1</td><td>不锈钢+TPR香槟塞</td><td>单款页</td></tr><tr><td class="mono">PJB-017</td><td class="mono strong">PG1211</td><td class="mono">P7</td><td>2LPP啤酒扎壶</td><td>副款</td></tr><tr><td class="mono">KPQ-017</td><td class="mono strong">SGS-KB1-601901A</td><td class="mono">P2</td><td>电动红酒开瓶器</td><td>副款</td></tr><tr><td class="mono">KPQ-021</td><td class="mono strong">SGS-KD-8</td><td class="mono">P2</td><td>充电式开瓶器</td><td>副款</td></tr><tr><td class="mono">KPQ-015</td><td class="mono strong">SGS-KD-9-P</td><td class="mono">P2</td><td>充电式开瓶分酒器</td><td>副款</td></tr><tr><td class="mono">KPQ-007</td><td class="mono strong">SGS-KH1-002001</td><td class="mono">P1</td><td>手动红酒开瓶器</td><td>单款页</td></tr><tr><td class="mono">JS-038</td><td class="mono strong">SP-002-A</td><td class="mono">P1</td><td>ABS+硅胶真空酒塞</td><td>单款页</td></tr><tr><td class="mono">JBPJ-045</td><td class="mono strong">SP-011</td><td class="mono">P1</td><td>ABS+硅胶香槟塞</td><td>单款页</td></tr><tr><td class="mono">JS-033</td><td class="mono strong">SP-016</td><td class="mono">P1</td><td>PC+TPE真空酒塞</td><td>单款页</td></tr><tr><td class="mono">JBPJ-046</td><td class="mono strong">SP-019</td><td class="mono">P1</td><td>ABS+硅胶红酒塞</td><td>副款</td></tr><tr><td class="mono">KPQ-010</td><td class="mono strong">VBGS-KB1-602201</td><td class="mono">P2</td><td>电动红酒开瓶器</td><td>副款</td></tr><tr><td class="mono">KPQ-019</td><td class="mono strong">VBGS-KP3P-372101KA</td><td class="mono">P2</td><td>充电式红酒开瓶器</td><td>副款</td></tr><tr><td class="mono">JBPJ-065</td><td class="mono strong">WP-002</td><td class="mono">P1</td><td>亚克力+TPE倒酒器 WP-002</td><td>单款页</td></tr><tr><td class="mono">JBPJ-039</td><td class="mono strong">WP-003</td><td class="mono">P1</td><td>ABS+硅胶 倒酒器/酒塞二合一 WP-003</td><td>主款</td></tr><tr><td class="mono">JBPJ-040</td><td class="mono strong">WP-011</td><td class="mono">P1</td><td>亚克力+TPE 醒酒倒酒嘴 WP-011</td><td>单款页</td></tr><tr><td class="mono">JBPJ-068</td><td class="mono strong">WP-015</td><td class="mono">P1</td><td>亚克力+TPE倒酒器 WP-015</td><td>单款页</td></tr><tr><td class="mono">JBPJ-041</td><td class="mono strong">WP150</td><td class="mono">P1</td><td>AS+硅胶 鹰嘴醒酒倒酒器 WP150</td><td>单款页</td></tr><tr><td class="mono">JS-034</td><td class="mono strong">WS02</td><td class="mono">P1</td><td>ABS+硅胶酒塞</td><td>单款页</td></tr><tr><td class="mono">JS-042</td><td class="mono strong">XH-SD01</td><td class="mono">P1</td><td>PP+硅胶气泡水瓶塞</td><td>单款页</td></tr><tr><td class="mono">BT-012</td><td class="mono strong">FJ-A117</td><td class="mono">P6</td><td>34ozPS冰桶</td><td>单款页</td></tr><tr><td class="mono">BT-017</td><td class="mono strong">FJ-IB01</td><td class="mono">P6</td><td>PP+PS冰桶</td><td>单款页</td></tr><tr><td class="mono">BT-014</td><td class="mono strong">FJ-IB0682 + FJ-IB0683 + FJ-IB0684</td><td class="mono">P6</td><td>PS冰桶（4L / 8L / 12L）</td><td>单款页</td></tr><tr><td class="mono">BT-016</td><td class="mono strong">IB200 + IB201</td><td class="mono">P6</td><td>PP品酒吐酒桶（3.7L / 20.5oz）</td><td>单款页</td></tr><tr><td class="mono">BT-013</td><td class="mono strong">KF-IB0685</td><td class="mono">P6</td><td>5LPET船形冰桶</td><td>单款页</td></tr><tr><td class="mono">BT-015</td><td class="mono strong">YJ303</td><td class="mono">P6</td><td>PP+PS冰桶</td><td>单款页</td></tr><tr><td class="mono">HJB-074</td><td class="mono strong">CF0911</td><td class="mono">P5</td><td>15ozPS玛格丽特杯</td><td>副款</td></tr><tr><td class="mono">HJB-054</td><td class="mono strong">CF0914</td><td class="mono">P5</td><td>8ozPS红酒杯</td><td>副款</td></tr><tr><td class="mono">HJB-063</td><td class="mono strong">CF1093</td><td class="mono">P5</td><td>10.5ozPP+PS红酒杯</td><td>副款</td></tr><tr><td class="mono">HJB-062</td><td class="mono strong">CF1133</td><td class="mono">P5</td><td>15ozPP高脚酒杯</td><td>副款</td></tr><tr><td class="mono">HJB-053</td><td class="mono strong">CF1133R</td><td class="mono">P5</td><td>红酒杯金边</td><td>副款</td></tr><tr><td class="mono">HJB-071</td><td class="mono strong">CF1842</td><td class="mono">P5</td><td>18ozPS红酒杯</td><td>副款</td></tr><tr><td class="mono">HJB-052</td><td class="mono strong">CF1846</td><td class="mono">P5</td><td>16oz亚克力红酒杯</td><td>副款</td></tr><tr><td class="mono">HJB-047</td><td class="mono strong">CF607</td><td class="mono">P5</td><td>20.5ozAS红酒杯</td><td>副款</td></tr><tr><td class="mono">HJB-064</td><td class="mono strong">GXBH324</td><td class="mono">P5</td><td>14oz亚克力红酒杯</td><td>副款</td></tr><tr><td class="mono">HJB-055</td><td class="mono strong">GXBN024</td><td class="mono">P5</td><td>21oz亚克力红酒杯</td><td>副款</td></tr><tr><td class="mono">JBPJ-048</td><td class="mono strong">KF-525</td><td class="mono">P6</td><td>ABS盐边器</td><td>单款页</td></tr><tr><td class="mono">HJB-075</td><td class="mono strong">KF-C14S</td><td class="mono">P6</td><td>3ozPS红酒杯</td><td>副款</td></tr><tr><td class="mono">HJB-076</td><td class="mono strong">KF-C16</td><td class="mono">P6</td><td>7ozPS鸡尾酒杯</td><td>副款</td></tr><tr><td class="mono">HJB-072</td><td class="mono strong">KF-CF1133GP</td><td class="mono">P5</td><td>高脚酒杯镀金</td><td>副款</td></tr><tr><td class="mono">JBPJ-050</td><td class="mono strong">PC30B</td><td class="mono">P1</td><td>ABS科罗娜玛格丽特夹</td><td>主款</td></tr><tr><td class="mono">JBPJ-051</td><td class="mono strong">PC30Y</td><td class="mono">P1</td><td>ABS科罗娜玛格丽特夹</td><td>副款</td></tr><tr><td class="mono">HJB-065</td><td class="mono strong">PG0909</td><td class="mono">P5</td><td>10ozPS马天尼杯</td><td>副款</td></tr><tr><td class="mono">PJB-009</td><td class="mono strong">PG1044</td><td class="mono">P5</td><td>12ozPS啤酒杯</td><td>副款</td></tr><tr><td class="mono">PJB-008</td><td class="mono strong">PG1053</td><td class="mono">P5</td><td>22ozPP+PS啤酒杯</td><td>主款</td></tr><tr><td class="mono">PJB-016</td><td class="mono strong">PG1054</td><td class="mono">P7</td><td>19ozPS郁金香品脱杯</td><td>副款</td></tr><tr><td class="mono">HJB-056</td><td class="mono strong">PG1061</td><td class="mono">P5</td><td>6.3ozPS马天尼杯</td><td>主款 / 副款</td></tr><tr><td class="mono">PJB-010</td><td class="mono strong">PG1070</td><td class="mono">P5</td><td>27ozPS啤酒杯</td><td>副款</td></tr><tr><td class="mono">SJB-015</td><td class="mono strong">PG1104</td><td class="mono">P7</td><td>12ozPS高球杯</td><td>副款</td></tr><tr><td class="mono">PJB-014</td><td class="mono strong">PG1108</td><td class="mono">P7</td><td>12ozPS啤酒马克杯</td><td>主款</td></tr><tr><td class="mono">PJB-012</td><td class="mono strong">PG1214 + PG1216</td><td class="mono">P7</td><td>PS啤酒扎壶（1.4L / 1.5L）</td><td>主款</td></tr><tr><td class="mono">PJB-011</td><td class="mono strong">PG2601</td><td class="mono">P6</td><td>17ozPS啤酒杯</td><td>副款</td></tr><tr><td class="mono">HJB-073</td><td class="mono strong">PG8900</td><td class="mono">P5</td><td>7.5ozTritan品酒杯</td><td>副款</td></tr><tr><td class="mono">HJB-042</td><td class="mono strong">S17R</td><td class="mono">P4</td><td>9ozPET无柄香槟杯金边</td><td>主款</td></tr><tr><td class="mono">HJB-037</td><td class="mono strong">S1812R</td><td class="mono">P4</td><td>12ozPET无柄红酒杯金边</td><td>副款</td></tr><tr><td class="mono">HJB-043</td><td class="mono strong">S1914</td><td class="mono">P4</td><td>14ozPET无柄红酒杯竖纹</td><td>副款</td></tr><tr><td class="mono">HJB-040</td><td class="mono strong">S2014R</td><td class="mono">P4</td><td>12ozPET无柄红酒杯金边</td><td>主款</td></tr><tr><td class="mono">HJB-066</td><td class="mono strong">TT007</td><td class="mono">P5</td><td>5ozTritan香槟杯</td><td>副款</td></tr><tr><td class="mono">HJB-041</td><td class="mono strong">TT010</td><td class="mono">P4</td><td>12ozTritan红酒杯</td><td>副款</td></tr><tr><td class="mono">HJB-046</td><td class="mono strong">TT030</td><td class="mono">P5</td><td>17.5ozTritan红酒杯</td><td>副款</td></tr><tr><td class="mono">HJB-039</td><td class="mono strong">TT031</td><td class="mono">P4</td><td>15.5ozTritan红酒杯</td><td>副款</td></tr><tr><td class="mono">HJB-057</td><td class="mono strong">TT040</td><td class="mono">P5</td><td>18.5ozTritan红酒杯</td><td>主款 / 副款</td></tr><tr><td class="mono">HJB-045</td><td class="mono strong">TT041</td><td class="mono">P4</td><td>16ozTritan红酒杯</td><td>副款</td></tr><tr><td class="mono">PJB-013</td><td class="mono strong">YCA100</td><td class="mono">P7</td><td>PP啤酒棒球棒杯</td><td>主款</td></tr><tr><td class="mono">PJB-015</td><td class="mono strong">YCA100H</td><td class="mono">P7</td><td>PP+ABS啤酒棒球棒杯</td><td>副款</td></tr><tr><td class="mono">HJB-069</td><td class="mono strong">YY1130</td><td class="mono">P5</td><td>4.5ozPS香槟杯</td><td>副款</td></tr><tr><td class="mono">HJB-059</td><td class="mono strong">YY1150</td><td class="mono">P5</td><td>5ozPS香槟杯</td><td>副款</td></tr><tr><td class="mono">HJB-050</td><td class="mono strong">YY1160</td><td class="mono">P5</td><td>5.6ozPS竖纹香槟杯</td><td>副款</td></tr><tr><td class="mono">HJB-048</td><td class="mono strong">YY1165</td><td class="mono">P5</td><td>5.8ozPS香槟杯</td><td>主款</td></tr><tr><td class="mono">HJB-067</td><td class="mono strong">YY1170</td><td class="mono">P5</td><td>7ozPS红酒杯</td><td>副款</td></tr><tr><td class="mono">HJB-068</td><td class="mono strong">YY1180</td><td class="mono">P5</td><td>8ozPS香槟杯</td><td>副款</td></tr><tr><td class="mono">HJB-077</td><td class="mono strong">YY1220</td><td class="mono">P6</td><td>7.5ozPS红酒杯</td><td>副款</td></tr><tr><td class="mono">HJB-051</td><td class="mono strong">YY1240</td><td class="mono">P5</td><td>8.5ozPS香槟杯</td><td>副款</td></tr><tr><td class="mono">HJB-060</td><td class="mono strong">YY1300</td><td class="mono">P5</td><td>10.5ozPS竖纹鸡尾酒杯</td><td>副款</td></tr><tr><td class="mono">HJB-061</td><td class="mono strong">YY1320</td><td class="mono">P5</td><td>11ozPS方形香槟杯</td><td>副款</td></tr><tr><td class="mono">HJB-070</td><td class="mono strong">YY1321</td><td class="mono">P5</td><td>11ozPS竖纹方形香槟杯</td><td>副款</td></tr><tr><td class="mono">HJB-058</td><td class="mono strong">YY1603</td><td class="mono">P5</td><td>5.5ozPS香槟杯</td><td>副款</td></tr><tr><td class="mono">HJB-049</td><td class="mono strong">YY9988</td><td class="mono">P5</td><td>6ozPP+PS香槟杯</td><td>副款</td></tr></tbody></table>
+  <p class="listnote">「目录页」= 该型号在《Catalogue of BYF BOOM 260914》第几页。同一款在不同页面既当主款又当副款的，这里写「主款 / 副款」。</p>
+</section>
+
+<main class="wrap">
+    <article class="card" data-cat="塑胶杯" id="m-HJB-040">
+      <div class="card-hd">
+        <div>
+          <div class="cat">塑胶杯 </div>
+          <h3>Custom 12 oz Wine Glass + Gold Rim with Your Logo</h3>
+        </div>
+        <a class="visit" href="/products/12oz-stemless-wine-glass-gold-rim-hjb040/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/hjb-040-cc3e1617d3.webp" alt="HJB-040" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · HJB-040</div>
+          <h4>12oz Stemless Wine Glass + Gold Rim</h4>
+          <p class="cn">12ozPET无柄红酒杯金边</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>HJB-040</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>S2014R</b> <span class="pg">目录 P4</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>350 ml / 12 oz</dd></div>
+            <div><dt>材质</dt><dd>PET</dd></div>
+          </dl>
+          <p class="note">该页另有 1 款为外购款，未列入本清单。</p>
+        </div>
+      </div>
+      
+    </article>
+    <article class="card" data-cat="塑胶杯" id="m-HJB-042">
+      <div class="card-hd">
+        <div>
+          <div class="cat">塑胶杯 </div>
+          
+        </div>
+        <a class="visit" href="/products/9oz-stemless-pet-champagne-flute/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/hjb-042-0afa81186f.webp" alt="HJB-042" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · HJB-042</div>
+          <h4>9oz Stemless PET Champagne Flute - Plain / Gold Rim</h4>
+          <p class="cn">9ozPET无柄香槟杯</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>HJB-042</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>S17R</b> <span class="pg">目录 P4</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>9 oz · 042</dd></div>
+            <div><dt>材质</dt><dd>PET</dd></div>
+          </dl>
+          <p class="note">该页另有 3 款为外购款，未列入本清单。</p>
+        </div>
+      </div>
+      
+    </article>
+    <article class="card" data-cat="塑胶杯" id="m-HJB-043">
+      <div class="card-hd">
+        <div>
+          <div class="cat">塑胶杯 </div>
+          <h3>Custom 12 oz Wholesale Plastic Stemless Wine Glass with Your Logo</h3>
+        </div>
+        <a class="visit" href="/products/wholesale-plastic-stemless-wine-glass-12oz/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/hjb-043-17fda0fc3f.webp" alt="HJB-043" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · HJB-043</div>
+          <h4>14oz Stemless Wine Glass</h4>
+          <p class="cn">14ozPET无柄红酒杯竖纹</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>HJB-043</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>S1914</b> <span class="pg">目录 P4</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>410 ml</dd></div>
+            <div><dt>材质</dt><dd>PET</dd></div>
+          </dl>
+          <p class="note">该页另有 8 款为外购款，未列入本清单。</p><p class="note">此页主推的是外购款，下面这几款才是 BYF 自供。</p>
+        </div>
+      </div>
+      <div class="subs"><div class="subs-hd">副款 <span>同一款式组里的其它自供款 (1)</span></div><div class="subs-grid"><figure class="sub"><img src="img/v88-20261023/hjb-037-516f2e93dc.webp" alt="HJB-037" loading="lazy"><figcaption><b>HJB-037 · S1812R</b><span>12 oz</span></figcaption></figure></div></div>
+    </article>
+    <article class="card" data-cat="塑胶杯" id="m-HJB-047">
+      <div class="card-hd">
+        <div>
+          <div class="cat">塑胶杯 </div>
+          <h3>Custom 16 oz Wholesale Standard Acrylic Wine Glass with Your Logo</h3>
+        </div>
+        <a class="visit" href="/products/wholesale-standard-acrylic-wine-glass/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/hjb-047-609d43db01.webp" alt="HJB-047" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · HJB-047</div>
+          <h4>20.5 oz Plastic Wine Glass</h4>
+          <p class="cn">20.5ozAS红酒杯</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>HJB-047</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>CF607</b> <span class="pg">目录 P5</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>588 ml</dd></div>
+            <div><dt>材质</dt><dd>AS/SAN</dd></div>
+          </dl>
+          <p class="note">该页另有 12 款为外购款，未列入本清单。</p><p class="note">此页主推的是外购款，下面这几款才是 BYF 自供。</p>
+        </div>
+      </div>
+      <div class="subs"><div class="subs-hd">副款 <span>同一款式组里的其它自供款 (18)</span></div><div class="subs-grid"><figure class="sub"><img src="img/v88-20261023/hjb-052-1974c1eb5b.webp" alt="HJB-052" loading="lazy"><figcaption><b>HJB-052 · CF1846</b><span>460 ml</span></figcaption></figure><figure class="sub"><img src="img/v88-20261023/hjb-055-b09f3c894e.webp" alt="HJB-055" loading="lazy"><figcaption><b>HJB-055 · GXBN024</b><span>600 ml</span></figcaption></figure><figure class="sub"><img src="img/v88-20261023/hjb-063-e1eb115f67.webp" alt="HJB-063" loading="lazy"><figcaption><b>HJB-063 · CF1093</b><span>300 ml</span></figcaption></figure><figure class="sub"><img src="img/v88-20261023/hjb-064-044627d88c.webp" alt="HJB-064" loading="lazy"><figcaption><b>HJB-064 · GXBH324</b><span>400 ml</span></figcaption></figure><figure class="sub"><img src="img/v88-20261023/hjb-067-5c74fa81aa.webp" alt="HJB-067" loading="lazy"><figcaption><b>HJB-067 · YY1170</b><span>210 ml</span></figcaption></figure><figure class="sub"><img src="img/v88-20261023/hjb-071-af2ccc23e9.webp" alt="HJB-071" loading="lazy"><figcaption><b>HJB-071 · CF1842</b><span>540 ml</span></figcaption></figure><figure class="sub"><img src="img/v88-20261023/hjb-075-d51310c437.webp" alt="HJB-075" loading="lazy"><figcaption><b>HJB-075 · KF-C14S</b><span>3 oz · Mini</span></figcaption></figure><figure class="sub"><img src="img/v88-20261023/hjb-077-bf4c4891da.webp" alt="HJB-077" loading="lazy"><figcaption><b>HJB-077 · YY1220</b><span>225 ml</span></figcaption></figure><figure class="sub"><img src="img/v88-20261023/hjb-062-07aff04b9d.webp" alt="HJB-062" loading="lazy"><figcaption><b>HJB-062 · CF1133</b><span>450 ml / 15 oz · 062</span></figcaption></figure><figure class="sub"><img src="img/v88-20261023/hjb-039-8eadf08501.webp" alt="HJB-039" loading="lazy"><figcaption><b>HJB-039 · TT031</b><span>445 ml</span></figcaption></figure><figure class="sub"><img src="img/v88-20261023/hjb-041-dce7e09db6.webp" alt="HJB-041" loading="lazy"><figcaption><b>HJB-041 · TT010</b><span>360 ml</span></figcaption></figure><figure class="sub"><img src="img/v88-20261023/hjb-045-0b97356c56.webp" alt="HJB-045" loading="lazy"><figcaption><b>HJB-045 · TT041</b><span>455 ml</span></figcaption></figure><figure class="sub"><img src="img/v88-20261023/hjb-046-8426f2205c.webp" alt="HJB-046" loading="lazy"><figcaption><b>HJB-046 · TT030</b><span>500 ml</span></figcaption></figure><figure class="sub"><img src="img/v88-20261023/hjb-053-6d0644293d.webp" alt="HJB-053" loading="lazy"><figcaption><b>HJB-053 · CF1133R</b><span>HJB-053</span></figcaption></figure><figure class="sub"><img src="img/v88-20261023/hjb-054-53b8a772ad.webp" alt="HJB-054" loading="lazy"><figcaption><b>HJB-054 · CF0914</b><span>240 ml</span></figcaption></figure><figure class="sub"><img src="img/v88-20261023/hjb-057-73ffd22167.webp" alt="HJB-057" loading="lazy"><figcaption><b>HJB-057 · TT040</b><span>530 ml</span></figcaption></figure><figure class="sub"><img src="img/v88-20261023/hjb-072-db9fa62639.webp" alt="HJB-072" loading="lazy"><figcaption><b>HJB-072 · KF-CF1133GP</b><span>HJB-072</span></figcaption></figure><figure class="sub"><img src="img/v88-20261023/hjb-073-5025217afe.webp" alt="HJB-073" loading="lazy"><figcaption><b>HJB-073 · PG8900</b><span>220 ml</span></figcaption></figure></div></div>
+    </article>
+    <article class="card" data-cat="塑胶杯" id="m-HJB-048">
+      <div class="card-hd">
+        <div>
+          <div class="cat">塑胶杯 </div>
+          <h3>Custom 5.8 oz PS Plastic Champagne flute with Your Logo</h3>
+        </div>
+        <a class="visit" href="/products/5-8oz-plastic-champagne-flute/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/hjb-048-dd0778c5d5.webp" alt="HJB-048" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · HJB-048</div>
+          <h4>Outdoor Stemmed Champagne Flute</h4>
+          <p class="cn">5.8ozPS香槟杯</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>HJB-048</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>YY1165</b> <span class="pg">目录 P5</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>5.8 oz</dd></div>
+            <div><dt>材质</dt><dd>PS</dd></div>
+          </dl>
+          <p class="note">该页另有 7 款为外购款，未列入本清单。</p>
+        </div>
+      </div>
+      <div class="subs"><div class="subs-hd">副款 <span>同一款式组里的其它自供款 (10)</span></div><div class="subs-grid"><figure class="sub"><img src="img/v88-20261023/hjb-049-46d9a615d2.webp" alt="HJB-049" loading="lazy"><figcaption><b>HJB-049 · YY9988</b><span>170 ml</span></figcaption></figure><figure class="sub"><img src="img/v88-20261023/hjb-050-e6d9f70529.webp" alt="HJB-050" loading="lazy"><figcaption><b>HJB-050 · YY1160</b><span>5.6 oz · Ribbed</span></figcaption></figure><figure class="sub"><img src="img/v88-20261023/hjb-051-c44626381c.webp" alt="HJB-051" loading="lazy"><figcaption><b>HJB-051 · YY1240</b><span>240 ml</span></figcaption></figure><figure class="sub"><img src="img/v88-20261023/hjb-058-90eccd2ab2.webp" alt="HJB-058" loading="lazy"><figcaption><b>HJB-058 · YY1603</b><span>165 ml</span></figcaption></figure><figure class="sub"><img src="img/v88-20261023/hjb-059-7c9c1c9935.webp" alt="HJB-059" loading="lazy"><figcaption><b>HJB-059 · YY1150</b><span>150 ml</span></figcaption></figure><figure class="sub"><img src="img/v88-20261023/hjb-061-786d5a3492.webp" alt="HJB-061" loading="lazy"><figcaption><b>HJB-061 · YY1320</b><span>11 oz · Square</span></figcaption></figure><figure class="sub"><img src="img/v88-20261023/hjb-068-542bc256a2.webp" alt="HJB-068" loading="lazy"><figcaption><b>HJB-068 · YY1180</b><span>240 ml</span></figcaption></figure><figure class="sub"><img src="img/v88-20261023/hjb-070-bdb0430db2.webp" alt="HJB-070" loading="lazy"><figcaption><b>HJB-070 · YY1321</b><span>320 ml · Ribbed</span></figcaption></figure><figure class="sub"><img src="img/v88-20261023/hjb-066-5a5f0a29b6.webp" alt="HJB-066" loading="lazy"><figcaption><b>HJB-066 · TT007</b><span>150 ml</span></figcaption></figure><figure class="sub"><img src="img/v88-20261023/hjb-069-fa1b337ac3.webp" alt="HJB-069" loading="lazy"><figcaption><b>HJB-069 · YY1130</b><span>130 ml</span></figcaption></figure></div></div>
+    </article>
+    <article class="card" data-cat="塑胶杯" id="m-HJB-053">
+      <div class="card-hd">
+        <div>
+          <div class="cat">塑胶杯 </div>
+          
+        </div>
+        <a class="visit" href="/products/plastic-wine-glass-with-gold-rim/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/hjb-053-6d0644293d.webp" alt="HJB-053" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · HJB-053</div>
+          <h4>Plastic Wine Glass with Gold Rim</h4>
+          <p class="cn">红酒杯金边</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>HJB-053</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>CF1133R</b> <span class="pg">目录 P5</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>—</dd></div>
+            <div><dt>材质</dt><dd>plastic</dd></div>
+          </dl>
+          
+        </div>
+      </div>
+      
+    </article>
+    <article class="card" data-cat="塑胶杯" id="m-HJB-054">
+      <div class="card-hd">
+        <div>
+          <div class="cat">塑胶杯 </div>
+          
+        </div>
+        <a class="visit" href="/products/8oz-plastic-wine-glasses/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/hjb-054-53b8a772ad.webp" alt="HJB-054" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · HJB-054</div>
+          <h4>8 oz PS Plastic Wine Glasses</h4>
+          <p class="cn">8ozPS红酒杯</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>HJB-054</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>CF0914</b> <span class="pg">目录 P5</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>240 ml / 8 oz</dd></div>
+            <div><dt>材质</dt><dd>PS</dd></div>
+          </dl>
+          
+        </div>
+      </div>
+      
+    </article>
+    <article class="card" data-cat="塑胶杯" id="m-HJB-056">
+      <div class="card-hd">
+        <div>
+          <div class="cat">塑胶杯 </div>
+          
+        </div>
+        <a class="visit" href="/products/6-3oz-plastic-martini-glass/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/hjb-056-7c8d4b6fd9.webp" alt="HJB-056" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · HJB-056</div>
+          <h4>6.3 oz PS Plastic Martini Glass</h4>
+          <p class="cn">6.3ozPS马天尼杯</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>HJB-056</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>PG1061</b> <span class="pg">目录 P5</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>6.3 oz</dd></div>
+            <div><dt>材质</dt><dd>PS</dd></div>
+          </dl>
+          
+        </div>
+      </div>
+      <div class="subs"><div class="subs-hd">副款 <span>同一款式组里的其它自供款 (1)</span></div><div class="subs-grid"><figure class="sub"><img src="img/v88-20261023/hjb-065-9116123756.webp" alt="HJB-065" loading="lazy"><figcaption><b>HJB-065 · PG0909</b><span>300 ml</span></figcaption></figure></div></div>
+    </article>
+    <article class="card" data-cat="塑胶杯" id="m-HJB-056">
+      <div class="card-hd">
+        <div>
+          <div class="cat">塑胶杯 </div>
+          <h3>Custom 8.5 oz Acrylic Martini Glass with Your Logo</h3>
+        </div>
+        <a class="visit" href="/products/wholesale-acrylic-martini-glass-8-5oz/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/hjb-056-7c8d4b6fd9.webp" alt="HJB-056" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · HJB-056</div>
+          <h4>6.3oz Plastic Martini Glass</h4>
+          <p class="cn">6.3ozPS马天尼杯</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>HJB-056</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>PG1061</b> <span class="pg">目录 P5</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>180 ml</dd></div>
+            <div><dt>材质</dt><dd>PS</dd></div>
+          </dl>
+          <p class="note">该页另有 3 款为外购款，未列入本清单。</p><p class="note">此页主推的是外购款，下面这几款才是 BYF 自供。</p>
+        </div>
+      </div>
+      <div class="subs"><div class="subs-hd">副款 <span>同一款式组里的其它自供款 (3)</span></div><div class="subs-grid"><figure class="sub"><img src="img/v88-20261023/hjb-060-253525cc43.webp" alt="HJB-060" loading="lazy"><figcaption><b>HJB-060 · YY1300</b><span>300 ml · Ribbed</span></figcaption></figure><figure class="sub"><img src="img/v88-20261023/hjb-065-9116123756.webp" alt="HJB-065" loading="lazy"><figcaption><b>HJB-065 · PG0909</b><span>300 ml</span></figcaption></figure><figure class="sub"><img src="img/v88-20261023/hjb-074-6d8a6fa2fa.webp" alt="HJB-074" loading="lazy"><figcaption><b>HJB-074 · CF0911</b><span>440 ml</span></figcaption></figure></div></div>
+    </article>
+    <article class="card" data-cat="塑胶杯" id="m-HJB-057">
+      <div class="card-hd">
+        <div>
+          <div class="cat">塑胶杯 </div>
+          
+        </div>
+        <a class="visit" href="/products/18-5oz-tritan-wine-glass/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/hjb-057-73ffd22167.webp" alt="HJB-057" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · HJB-057</div>
+          <h4>18.5 oz Tritan Wine Glass</h4>
+          <p class="cn">18.5ozTritan红酒杯</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>HJB-057</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>TT040</b> <span class="pg">目录 P5</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>18.5 oz</dd></div>
+            <div><dt>材质</dt><dd>Tritan</dd></div>
+          </dl>
+          
+        </div>
+      </div>
+      <div class="subs"><div class="subs-hd">副款 <span>同一款式组里的其它自供款 (4)</span></div><div class="subs-grid"><figure class="sub"><img src="img/v88-20261023/hjb-039-8eadf08501.webp" alt="HJB-039" loading="lazy"><figcaption><b>HJB-039 · TT031</b><span>445 ml</span></figcaption></figure><figure class="sub"><img src="img/v88-20261023/hjb-041-dce7e09db6.webp" alt="HJB-041" loading="lazy"><figcaption><b>HJB-041 · TT010</b><span>360 ml</span></figcaption></figure><figure class="sub"><img src="img/v88-20261023/hjb-045-0b97356c56.webp" alt="HJB-045" loading="lazy"><figcaption><b>HJB-045 · TT041</b><span>455 ml</span></figcaption></figure><figure class="sub"><img src="img/v88-20261023/hjb-046-8426f2205c.webp" alt="HJB-046" loading="lazy"><figcaption><b>HJB-046 · TT030</b><span>500 ml</span></figcaption></figure></div></div>
+    </article>
+    <article class="card" data-cat="塑胶杯" id="m-HJB-060">
+      <div class="card-hd">
+        <div>
+          <div class="cat">塑胶杯 </div>
+          
+        </div>
+        <a class="visit" href="/products/10-5oz-ribbed-plastic-coupe-glasses/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/hjb-060-253525cc43.webp" alt="HJB-060" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · HJB-060</div>
+          <h4>10.5 oz PS Ribbed Plastic Coupe Glasses Cocktail Glasses</h4>
+          <p class="cn">10.5ozPS竖纹鸡尾酒杯</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>HJB-060</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>YY1300</b> <span class="pg">目录 P5</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>300 ml / 10.5 oz</dd></div>
+            <div><dt>材质</dt><dd>PS</dd></div>
+          </dl>
+          
+        </div>
+      </div>
+      
+    </article>
+    <article class="card" data-cat="塑胶杯" id="m-HJB-066">
+      <div class="card-hd">
+        <div>
+          <div class="cat">塑胶杯 </div>
+          <h3>Custom 6 oz Wholesale Plastic Flute, Champagne (Stemmed, Detachable)</h3>
+        </div>
+        <a class="visit" href="/products/wholesale-plastic-flute-6oz-champagne/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/hjb-066-5a5f0a29b6.webp" alt="HJB-066" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · HJB-066</div>
+          <h4>5oz Tritan Champagne Flute</h4>
+          <p class="cn">5ozTritan香槟杯</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>HJB-066</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>TT007</b> <span class="pg">目录 P5</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>150 ml</dd></div>
+            <div><dt>材质</dt><dd>Tritan</dd></div>
+          </dl>
+          <p class="note">该页另有 8 款为外购款，未列入本清单。</p><p class="note">此页主推的是外购款，下面这几款才是 BYF 自供。</p>
+        </div>
+      </div>
+      
+    </article>
+    <article class="card" data-cat="塑胶杯" id="m-HJB-069">
+      <div class="card-hd">
+        <div>
+          <div class="cat">塑胶杯 </div>
+          
+        </div>
+        <a class="visit" href="/products/4-5oz-plastic-champagne-flute-injected/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/hjb-069-fa1b337ac3.webp" alt="HJB-069" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · HJB-069</div>
+          <h4>4.5 oz PS Plastic Champagne Flute -INJECTED Version</h4>
+          <p class="cn">4.5ozPS香槟杯</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>HJB-069</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>YY1130</b> <span class="pg">目录 P5</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>130 ml / 4.5 oz</dd></div>
+            <div><dt>材质</dt><dd>PS</dd></div>
+          </dl>
+          
+        </div>
+      </div>
+      
+    </article>
+    <article class="card" data-cat="塑胶杯" id="m-HJB-072">
+      <div class="card-hd">
+        <div>
+          <div class="cat">塑胶杯 </div>
+          
+        </div>
+        <a class="visit" href="/products/plastic-wine-goblet-with-gold-plating/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/hjb-072-db9fa62639.webp" alt="HJB-072" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · HJB-072</div>
+          <h4>Plastic Wine Goblet with Gold Plating</h4>
+          <p class="cn">高脚酒杯镀金</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>HJB-072</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>KF-CF1133GP</b> <span class="pg">目录 P5</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>—</dd></div>
+            <div><dt>材质</dt><dd>plastic</dd></div>
+          </dl>
+          
+        </div>
+      </div>
+      
+    </article>
+    <article class="card" data-cat="塑胶杯" id="m-HJB-073">
+      <div class="card-hd">
+        <div>
+          <div class="cat">塑胶杯 </div>
+          
+        </div>
+        <a class="visit" href="/products/7-5oz-plasic-iso-standard-wine/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/hjb-073-5025217afe.webp" alt="HJB-073" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · HJB-073</div>
+          <h4>7.5 oz Tritan Plasic ISO Standard Wine Tasting Glass</h4>
+          <p class="cn">7.5ozTritan品酒杯</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>HJB-073</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>PG8900</b> <span class="pg">目录 P5</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>220 ml / 7.5 oz</dd></div>
+            <div><dt>材质</dt><dd>Tritan</dd></div>
+          </dl>
+          
+        </div>
+      </div>
+      
+    </article>
+    <article class="card" data-cat="塑胶杯" id="m-HJB-074">
+      <div class="card-hd">
+        <div>
+          <div class="cat">塑胶杯 </div>
+          
+        </div>
+        <a class="visit" href="/products/15oz-plastic-margarita-glass/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/hjb-074-6d8a6fa2fa.webp" alt="HJB-074" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · HJB-074</div>
+          <h4>15 oz PS Plastic Margarita glass</h4>
+          <p class="cn">15ozPS玛格丽特杯</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>HJB-074</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>CF0911</b> <span class="pg">目录 P5</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>440 ml / 15 oz</dd></div>
+            <div><dt>材质</dt><dd>PS</dd></div>
+          </dl>
+          
+        </div>
+      </div>
+      
+    </article>
+    <article class="card" data-cat="塑胶杯" id="m-HJB-076">
+      <div class="card-hd">
+        <div>
+          <div class="cat">塑胶杯 </div>
+          
+        </div>
+        <a class="visit" href="/products/7oz-plastic-cocktail-glass/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/hjb-076-f5d213a353.webp" alt="HJB-076" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · HJB-076</div>
+          <h4>7 oz PS Plastic Cocktail Glass</h4>
+          <p class="cn">7ozPS鸡尾酒杯</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>HJB-076</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>KF-C16</b> <span class="pg">目录 P6</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>200 ml / 7 oz</dd></div>
+            <div><dt>材质</dt><dd>PS</dd></div>
+          </dl>
+          
+        </div>
+      </div>
+      
+    </article>
+    <article class="card" data-cat="塑胶杯" id="m-HJB-076">
+      <div class="card-hd">
+        <div>
+          <div class="cat">塑胶杯 </div>
+          <h3>Custom 9 oz TRITAN Martini Plastic Glass with Your Logo</h3>
+        </div>
+        <a class="visit" href="/products/wholesale-tritan-martini-glass-9oz/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/hjb-076-f5d213a353.webp" alt="HJB-076" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · HJB-076</div>
+          <h4>7oz Plastic Cocktail Glass</h4>
+          <p class="cn">7ozPS鸡尾酒杯</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>HJB-076</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>KF-C16</b> <span class="pg">目录 P6</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>200 ml</dd></div>
+            <div><dt>材质</dt><dd>PS</dd></div>
+          </dl>
+          <p class="note">该页另有 3 款为外购款，未列入本清单。</p><p class="note">此页主推的是外购款，下面这几款才是 BYF 自供。</p>
+        </div>
+      </div>
+      
+    </article>
+    <article class="card" data-cat="塑胶杯" id="m-PJB-008">
+      <div class="card-hd">
+        <div>
+          <div class="cat">塑胶杯 </div>
+          
+        </div>
+        <a class="visit" href="/products/22oz-plastic-beer-mug/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/pjb-008-c94f3daeb6.webp" alt="PJB-008" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · PJB-008</div>
+          <h4>Outdoor Beer Mug with Handle</h4>
+          <p class="cn">22ozPP+PS啤酒杯</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>PJB-008</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>PG1053</b> <span class="pg">目录 P5</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>650 ml / 22 oz</dd></div>
+            <div><dt>材质</dt><dd>PP + PS</dd></div>
+          </dl>
+          <p class="note">该页另有 6 款为外购款，未列入本清单。</p>
+        </div>
+      </div>
+      <div class="subs"><div class="subs-hd">副款 <span>同一款式组里的其它自供款 (3)</span></div><div class="subs-grid"><figure class="sub"><img src="img/v88-20261023/pjb-009-3c1c0df1c0.webp" alt="PJB-009" loading="lazy"><figcaption><b>PJB-009 · PG1044</b><span>350 ml / 12 oz</span></figcaption></figure><figure class="sub"><img src="img/v88-20261023/pjb-011-29b9e47af6.webp" alt="PJB-011" loading="lazy"><figcaption><b>PJB-011 · PG2601</b><span>500 ml / 17 oz · Beer</span></figcaption></figure><figure class="sub"><img src="img/v88-20261023/pjb-010-e8e3a862ca.webp" alt="PJB-010" loading="lazy"><figcaption><b>PJB-010 · PG1070</b><span>800 ml / 27 oz</span></figcaption></figure></div></div>
+    </article>
+    <article class="card" data-cat="塑胶杯" id="m-PJB-013">
+      <div class="card-hd">
+        <div>
+          <div class="cat">塑胶杯 </div>
+          
+        </div>
+        <a class="visit" href="/products/beverage-beer-bat-cup/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/pjb-013-94b0ae56e2.webp" alt="PJB-013" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · PJB-013</div>
+          <h4>Outdoor Long-Tube Beer Bat Cup</h4>
+          <p class="cn">PP啤酒棒球棒杯</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>PJB-013</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>YCA100</b> <span class="pg">目录 P7</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>Standard</dd></div>
+            <div><dt>材质</dt><dd>PP</dd></div>
+          </dl>
+          
+        </div>
+      </div>
+      <div class="subs"><div class="subs-hd">副款 <span>同一款式组里的其它自供款 (1)</span></div><div class="subs-grid"><figure class="sub"><img src="img/v88-20261023/pjb-015-dd16b7b34b.webp" alt="PJB-015" loading="lazy"><figcaption><b>PJB-015 · YCA100H</b><span>With stand</span></figcaption></figure></div></div>
+    </article>
+    <article class="card" data-cat="塑胶杯" id="m-PJB-014">
+      <div class="card-hd">
+        <div>
+          <div class="cat">塑胶杯 </div>
+          
+        </div>
+        <a class="visit" href="/products/12oz-plastic-stein-cups-with-1/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/pjb-014-77480dd67d.webp" alt="PJB-014" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · PJB-014</div>
+          <h4>Outdoor American Beer Mug</h4>
+          <p class="cn">12ozPS啤酒马克杯</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>PJB-014</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>PG1108</b> <span class="pg">目录 P7</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>12 oz · 350 ml</dd></div>
+            <div><dt>材质</dt><dd>PS</dd></div>
+          </dl>
+          <p class="note">该页另有 7 款为外购款，未列入本清单。</p>
+        </div>
+      </div>
+      
+    </article>
+    <article class="card" data-cat="塑胶杯" id="m-PJB-016">
+      <div class="card-hd">
+        <div>
+          <div class="cat">塑胶杯 </div>
+          <h3>Custom Outdoor Tulip Beer Cup</h3>
+        </div>
+        <a class="visit" href="/products/elite-nucleated-polycarbonate-pint-tumblers/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/pjb-016-25ddd7a3c9.webp" alt="PJB-016" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · PJB-016</div>
+          <h4>19oz Plastic Tulip Pint Tumbler /Pilsner Glasses</h4>
+          <p class="cn">19ozPS郁金香品脱杯</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>PJB-016</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>PG1054</b> <span class="pg">目录 P7</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>19 oz · Tulip pint</dd></div>
+            <div><dt>材质</dt><dd>PS</dd></div>
+          </dl>
+          <p class="note">该页另有 13 款为外购款，未列入本清单。</p><p class="note">此页主推的是外购款，下面这几款才是 BYF 自供。</p>
+        </div>
+      </div>
+      
+    </article>
+    <article class="card" data-cat="塑胶杯" id="m-SJB-013">
+      <div class="card-hd">
+        <div>
+          <div class="cat">塑胶杯 </div>
+          <h3>Custom Outdoor Straw Tumbler</h3>
+        </div>
+        <a class="visit" href="/products/burby-tumbler-with-straw/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/sjb-013-256a04779b.webp" alt="SJB-013" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · SJB-013</div>
+          <h4>21oz Plastic Juice cup with lid & straw</h4>
+          <p class="cn">21ozPC果汁杯</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>SJB-013</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>KF-C20</b> <span class="pg">目录 P6</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>600 ml / 21 oz · 013</dd></div>
+            <div><dt>材质</dt><dd>PC</dd></div>
+          </dl>
+          <p class="note">该页另有 33 款为外购款，未列入本清单。</p><p class="note">此页主推的是外购款，下面这几款才是 BYF 自供。</p>
+        </div>
+      </div>
+      <div class="subs"><div class="subs-hd">副款 <span>同一款式组里的其它自供款 (1)</span></div><div class="subs-grid"><figure class="sub"><img src="img/v88-20261023/sjb-014-a45694b586.webp" alt="SJB-014" loading="lazy"><figcaption><b>SJB-014 · DB100</b><span>20 oz · Disco</span></figcaption></figure></div></div>
+    </article>
+    <article class="card" data-cat="塑胶杯" id="m-SJB-015">
+      <div class="card-hd">
+        <div>
+          <div class="cat">塑胶杯 </div>
+          <h3>Custom Outdoor Half Pint Cup</h3>
+        </div>
+        <a class="visit" href="/products/katerglass-plastic-pint-tumblers-22oz-lce/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/sjb-015-7eed66a648.webp" alt="SJB-015" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · SJB-015</div>
+          <h4>12oz Plastic Hiball Tumbler</h4>
+          <p class="cn">12ozPS高球杯</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>SJB-015</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>PG1104</b> <span class="pg">目录 P7</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>12 oz · Hiball</dd></div>
+            <div><dt>材质</dt><dd>PS</dd></div>
+          </dl>
+          <p class="note">该页另有 12 款为外购款，未列入本清单。</p><p class="note">此页主推的是外购款，下面这几款才是 BYF 自供。</p>
+        </div>
+      </div>
+      
+    </article>
+    <article class="card" data-cat="酒具配件" id="m-BT-012">
+      <div class="card-hd">
+        <div>
+          <div class="cat">酒具配件 </div>
+          
+        </div>
+        <a class="visit" href="/products/34oz-ice-bucket/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/bt-012-d50dbf00d0.webp" alt="BT-012" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · BT-012</div>
+          <h4>34 oz PS ICE Bucket</h4>
+          <p class="cn">34ozPS冰桶</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>BT-012</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>FJ-A117</b> <span class="pg">目录 P6</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>1 l</dd></div>
+            <div><dt>材质</dt><dd>PS</dd></div>
+          </dl>
+          
+        </div>
+      </div>
+      
+    </article>
+    <article class="card" data-cat="酒具配件" id="m-BT-013">
+      <div class="card-hd">
+        <div>
+          <div class="cat">酒具配件 </div>
+          
+        </div>
+        <a class="visit" href="/products/5l-boat-shape-ice-bucket/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/bt-013-932d7d3400.webp" alt="BT-013" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · BT-013</div>
+          <h4>5 L PET Boat Shape Ice bucket</h4>
+          <p class="cn">5LPET船形冰桶</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>BT-013</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>KF-IB0685</b> <span class="pg">目录 P6</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>5 l</dd></div>
+            <div><dt>材质</dt><dd>PET</dd></div>
+          </dl>
+          
+        </div>
+      </div>
+      
+    </article>
+    <article class="card" data-cat="酒具配件" id="m-BT-014">
+      <div class="card-hd">
+        <div>
+          <div class="cat">酒具配件 </div>
+          
+        </div>
+        <a class="visit" href="/products/4l-8l-12l-ice-bucket/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/bt-014-c84997a594.webp" alt="BT-014" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · BT-014</div>
+          <h4>12 L PS Ice bucket</h4>
+          <p class="cn">PS冰桶（4L / 8L / 12L）</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>BT-014</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>FJ-IB0682 + FJ-IB0683 + FJ-IB0684</b> <span class="pg">目录 P6</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>4 l</dd></div>
+            <div><dt>材质</dt><dd>PS</dd></div>
+          </dl>
+          
+        </div>
+      </div>
+      
+    </article>
+    <article class="card" data-cat="酒具配件" id="m-BT-015">
+      <div class="card-hd">
+        <div>
+          <div class="cat">酒具配件 </div>
+          
+        </div>
+        <a class="visit" href="/products/moet-champagne-ice-bucket/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/bt-015-6f8063afb5.webp" alt="BT-015" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · BT-015</div>
+          <h4>PP Champagne ice Bucket</h4>
+          <p class="cn">PP+PS冰桶</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>BT-015</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>YJ303</b> <span class="pg">目录 P6</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>—</dd></div>
+            <div><dt>材质</dt><dd>PP + PS</dd></div>
+          </dl>
+          
+        </div>
+      </div>
+      
+    </article>
+    <article class="card" data-cat="酒具配件" id="m-BT-016">
+      <div class="card-hd">
+        <div>
+          <div class="cat">酒具配件 </div>
+          <h3>Custom 20.5 oz PP Wine Tasting Ice Bucket with Your Logo</h3>
+        </div>
+        <a class="visit" href="/products/3-7l/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/bt-016-5c9c29b4df.webp" alt="BT-016" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · BT-016</div>
+          <h4>20.5 oz PP Wine Tasting Spittoon Bucket</h4>
+          <p class="cn">PP品酒吐酒桶（3.7L / 20.5oz）</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>BT-016</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>IB200 + IB201</b> <span class="pg">目录 P6</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>3.7 l</dd></div>
+            <div><dt>材质</dt><dd>PP</dd></div>
+          </dl>
+          
+        </div>
+      </div>
+      
+    </article>
+    <article class="card" data-cat="酒具配件" id="m-BT-017">
+      <div class="card-hd">
+        <div>
+          <div class="cat">酒具配件 </div>
+          
+        </div>
+        <a class="visit" href="/products/plastic-ice-bucket/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/bt-017-f52b71a3dc.webp" alt="BT-017" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · BT-017</div>
+          <h4>PP Plastic Ice bucket</h4>
+          <p class="cn">PP+PS冰桶</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>BT-017</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>FJ-IB01</b> <span class="pg">目录 P6</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>—</dd></div>
+            <div><dt>材质</dt><dd>PP + PS</dd></div>
+          </dl>
+          
+        </div>
+      </div>
+      
+    </article>
+    <article class="card" data-cat="酒具配件" id="m-JBPJ-039">
+      <div class="card-hd">
+        <div>
+          <div class="cat">酒具配件 </div>
+          <h3>Custom Wine Pourer and Stopper with Your Logo</h3>
+        </div>
+        <a class="visit" href="/products/wine-pourer-and-stopper-2-in/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/jbpj-039-70729c2910.webp" alt="JBPJ-039" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · JBPJ-039</div>
+          <h4>ABS Wine Pourer and Stopper 2-in-1</h4>
+          <p class="cn">ABS+硅胶 倒酒器/酒塞二合一 WP-003</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>JBPJ-039</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>WP-003</b> <span class="pg">目录 P1</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>Pourer</dd></div>
+            <div><dt>材质</dt><dd>ABS + silicone</dd></div>
+          </dl>
+          
+        </div>
+      </div>
+      <div class="subs"><div class="subs-hd">副款 <span>同一款式组里的其它自供款 (1)</span></div><div class="subs-grid"><figure class="sub"><img src="img/v88-20261023/jbpj-046-51abab1453.webp" alt="JBPJ-046" loading="lazy"><figcaption><b>JBPJ-046 · SP-019</b><span>18 19 mm</span></figcaption></figure></div></div>
+    </article>
+    <article class="card" data-cat="酒具配件" id="m-JBPJ-040">
+      <div class="card-hd">
+        <div>
+          <div class="cat">酒具配件 </div>
+          
+        </div>
+        <a class="visit" href="/products/wine-aerator-pourer/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/jbpj-040-4f48e61862.webp" alt="JBPJ-040" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · JBPJ-040</div>
+          <h4>Acrylic Wine Aerator Pourer</h4>
+          <p class="cn">亚克力+TPE 醒酒倒酒嘴 WP-011</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>JBPJ-040</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>WP-011</b> <span class="pg">目录 P1</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>—</dd></div>
+            <div><dt>材质</dt><dd>acrylic + TPE</dd></div>
+          </dl>
+          
+        </div>
+      </div>
+      
+    </article>
+    <article class="card" data-cat="酒具配件" id="m-JBPJ-041">
+      <div class="card-hd">
+        <div>
+          <div class="cat">酒具配件 </div>
+          
+        </div>
+        <a class="visit" href="/products/hawk-wine-aerator-pourer/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/jbpj-041-4267591522.webp" alt="JBPJ-041" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · JBPJ-041</div>
+          <h4>AS Hawk Wine Aerator Pourer</h4>
+          <p class="cn">AS+硅胶 鹰嘴醒酒倒酒器 WP150</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>JBPJ-041</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>WP150</b> <span class="pg">目录 P1</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>—</dd></div>
+            <div><dt>材质</dt><dd>AS/SAN + silicone</dd></div>
+          </dl>
+          
+        </div>
+      </div>
+      
+    </article>
+    <article class="card" data-cat="酒具配件" id="m-JBPJ-042">
+      <div class="card-hd">
+        <div>
+          <div class="cat">酒具配件 </div>
+          
+        </div>
+        <a class="visit" href="/products/champagne-sipper-for-16-1-mm/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/jbpj-042-6a6b28520a.webp" alt="JBPJ-042" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · JBPJ-042</div>
+          <h4>ABS Champagne Sipper for 16 1 mm Bottle - Standard Plated</h4>
+          <p class="cn">ABS 香槟瓶嘴塞 CS02（16.1mm 瓶口）</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>JBPJ-042</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>CS02G</b> <span class="pg">目录 P1</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>16.1</dd></div>
+            <div><dt>材质</dt><dd>ABS</dd></div>
+          </dl>
+          
+        </div>
+      </div>
+      <div class="subs"><div class="subs-hd">副款 <span>同一款式组里的其它自供款 (1)</span></div><div class="subs-grid"><figure class="sub"><img src="img/v88-20261023/jbpj-043-16ef445683.webp" alt="JBPJ-043" loading="lazy"><figcaption><b>JBPJ-043 · CS03G</b><span>17 19</span></figcaption></figure></div></div>
+    </article>
+    <article class="card" data-cat="酒具配件" id="m-JBPJ-044">
+      <div class="card-hd">
+        <div>
+          <div class="cat">酒具配件 </div>
+          
+        </div>
+        <a class="visit" href="/products/bottle-stopper-and-wine-charm-2/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/jbpj-044-c4e84bfc89.webp" alt="JBPJ-044" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · JBPJ-044</div>
+          <h4>Bottle Stopper and Wine Charm 2-in-1</h4>
+          <p class="cn">PP+硅胶 酒塞/酒杯挂饰二合一 CS50</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>JBPJ-044</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>CS50</b> <span class="pg">目录 P1</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>—</dd></div>
+            <div><dt>材质</dt><dd>PP + silicone</dd></div>
+          </dl>
+          
+        </div>
+      </div>
+      
+    </article>
+    <article class="card" data-cat="酒具配件" id="m-JBPJ-045">
+      <div class="card-hd">
+        <div>
+          <div class="cat">酒具配件 </div>
+          
+        </div>
+        <a class="visit" href="/products/champagne-stopper-for-17-5/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/jbpj-045-ed2c07edf3.webp" alt="JBPJ-045" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · JBPJ-045</div>
+          <h4>ABS Champagne Stopper for 17 5-18 mm</h4>
+          <p class="cn">ABS+硅胶 香槟塞 SP-011（17.5-18mm）</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>JBPJ-045</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>SP-011</b> <span class="pg">目录 P1</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>—</dd></div>
+            <div><dt>材质</dt><dd>ABS + silicone</dd></div>
+          </dl>
+          
+        </div>
+      </div>
+      
+    </article>
+    <article class="card" data-cat="酒具配件" id="m-JBPJ-047">
+      <div class="card-hd">
+        <div>
+          <div class="cat">酒具配件 </div>
+          
+        </div>
+        <a class="visit" href="/products/ice-tong/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/jbpj-047-40e03958bf.webp" alt="JBPJ-047" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · JBPJ-047</div>
+          <h4>PS ICE TONG</h4>
+          <p class="cn">PS冰夹</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>JBPJ-047</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>FJ-IB062T</b> <span class="pg">目录 P6</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>—</dd></div>
+            <div><dt>材质</dt><dd>PS</dd></div>
+          </dl>
+          
+        </div>
+      </div>
+      
+    </article>
+    <article class="card" data-cat="酒具配件" id="m-JBPJ-048">
+      <div class="card-hd">
+        <div>
+          <div class="cat">酒具配件 </div>
+          
+        </div>
+        <a class="visit" href="/products/bar-salt-glass-rimmer-3-tier/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/jbpj-048-0e1b2d945e.webp" alt="JBPJ-048" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · JBPJ-048</div>
+          <h4>ABS Bar Salt Glass Rimmer-3 Tier</h4>
+          <p class="cn">ABS盐边器</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>JBPJ-048</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>KF-525</b> <span class="pg">目录 P6</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>—</dd></div>
+            <div><dt>材质</dt><dd>ABS</dd></div>
+          </dl>
+          
+        </div>
+      </div>
+      
+    </article>
+    <article class="card" data-cat="酒具配件" id="m-JBPJ-049">
+      <div class="card-hd">
+        <div>
+          <div class="cat">酒具配件 </div>
+          
+        </div>
+        <a class="visit" href="/products/bottle-rack-for-6-bottles/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/jbpj-049-b94b518da8.webp" alt="JBPJ-049" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · JBPJ-049</div>
+          <h4>PP Bottle Rack - For 6 bottles</h4>
+          <p class="cn">PP酒瓶架</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>JBPJ-049</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>FJ-BR0685</b> <span class="pg">目录 P6</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>—</dd></div>
+            <div><dt>材质</dt><dd>PP</dd></div>
+          </dl>
+          
+        </div>
+      </div>
+      
+    </article>
+    <article class="card" data-cat="酒具配件" id="m-JBPJ-050">
+      <div class="card-hd">
+        <div>
+          <div class="cat">酒具配件 </div>
+          
+        </div>
+        <a class="visit" href="/products/corona-margarita-clip-straight-version/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/jbpj-050-fc48bc907b.webp" alt="JBPJ-050" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · JBPJ-050</div>
+          <h4>Margarita clip - Straight Version</h4>
+          <p class="cn">ABS科罗娜玛格丽特夹</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>JBPJ-050</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>PC30B</b> <span class="pg">目录 P1</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>Straight</dd></div>
+            <div><dt>材质</dt><dd>ABS</dd></div>
+          </dl>
+          
+        </div>
+      </div>
+      <div class="subs"><div class="subs-hd">副款 <span>同一款式组里的其它自供款 (1)</span></div><div class="subs-grid"><figure class="sub"><img src="img/v88-20261023/jbpj-051-b83bda9040.webp" alt="JBPJ-051" loading="lazy"><figcaption><b>JBPJ-051 · PC30Y</b><span>Slanted</span></figcaption></figure></div></div>
+    </article>
+    <article class="card" data-cat="酒具配件" id="m-JBPJ-064">
+      <div class="card-hd">
+        <div>
+          <div class="cat">酒具配件 </div>
+          <h3>Custom Sipper &amp; Wine Pourer - Universal with Your Logo</h3>
+        </div>
+        <a class="visit" href="/products/sipper-pourer-universal-version-for-16/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/jbpj-064-1bbf820c16.webp" alt="JBPJ-064" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · JBPJ-064</div>
+          <h4>ABS Sipper & Pourer - Universal Version for 16-19mm bottle</h4>
+          <p class="cn">ABS+硅胶吸饮器+倒酒器二合一 CS05</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>JBPJ-064</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>CS05</b> <span class="pg">目录 P1</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>—</dd></div>
+            <div><dt>材质</dt><dd>ABS + silicone</dd></div>
+          </dl>
+          
+        </div>
+      </div>
+      
+    </article>
+    <article class="card" data-cat="酒具配件" id="m-JBPJ-065">
+      <div class="card-hd">
+        <div>
+          <div class="cat">酒具配件 </div>
+          <h3>Custom Bottle Wine Pourer - Tulip shape with Your Logo</h3>
+        </div>
+        <a class="visit" href="/products/bottle-pourer-tulip-shape/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/jbpj-065-6380782092.webp" alt="JBPJ-065" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · JBPJ-065</div>
+          <h4>Acrylic Bottle Pourer - Tulip shape</h4>
+          <p class="cn">亚克力+TPE倒酒器 WP-002</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>JBPJ-065</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>WP-002</b> <span class="pg">目录 P1</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>—</dd></div>
+            <div><dt>材质</dt><dd>acrylic + TPE</dd></div>
+          </dl>
+          
+        </div>
+      </div>
+      
+    </article>
+    <article class="card" data-cat="酒具配件" id="m-JBPJ-066">
+      <div class="card-hd">
+        <div>
+          <div class="cat">酒具配件 </div>
+          <h3>Custom Stopper &amp; Wine Pourer with Your Logo</h3>
+        </div>
+        <a class="visit" href="/products/stopper-pourer-2-in-1-with/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/jbpj-066-fd8c0ab4da.webp" alt="JBPJ-066" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · JBPJ-066</div>
+          <h4>Confirm specification Stopper & Pourer 2 in 1 with Silver Foil decorate</h4>
+          <p class="cn">酒塞+倒酒器二合一 CS55S</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>JBPJ-066</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>CS55S</b> <span class="pg">目录 P1</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>—</dd></div>
+            <div><dt>材质</dt><dd>—</dd></div>
+          </dl>
+          
+        </div>
+      </div>
+      
+    </article>
+    <article class="card" data-cat="酒具配件" id="m-JBPJ-067">
+      <div class="card-hd">
+        <div>
+          <div class="cat">酒具配件 </div>
+          <h3>Custom Sipper &amp; Wine Pourer for 16-19mm with Your Logo</h3>
+        </div>
+        <a class="visit" href="/products/sipper-pourer-universal-ver-for-16/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/jbpj-067-15a53cdcda.webp" alt="JBPJ-067" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · JBPJ-067</div>
+          <h4>ABS Sipper & Pourer for 16-19mm Bottle - Standard Plated</h4>
+          <p class="cn">ABS+硅胶吸饮器+倒酒器二合一 CS04</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>JBPJ-067</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>CS04G</b> <span class="pg">目录 P1</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>—</dd></div>
+            <div><dt>材质</dt><dd>ABS + silicone</dd></div>
+          </dl>
+          
+        </div>
+      </div>
+      
+    </article>
+    <article class="card" data-cat="酒具配件" id="m-JBPJ-068">
+      <div class="card-hd">
+        <div>
+          <div class="cat">酒具配件 </div>
+          
+        </div>
+        <a class="visit" href="/products/bottle-pourer/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/jbpj-068-2ae7a50338.webp" alt="JBPJ-068" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · JBPJ-068</div>
+          <h4>Acrylic Bottle Pourer</h4>
+          <p class="cn">亚克力+TPE倒酒器 WP-015</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>JBPJ-068</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>WP-015</b> <span class="pg">目录 P1</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>—</dd></div>
+            <div><dt>材质</dt><dd>acrylic + TPE</dd></div>
+          </dl>
+          
+        </div>
+      </div>
+      
+    </article>
+    <article class="card" data-cat="酒具配件" id="m-JBPJ-072">
+      <div class="card-hd">
+        <div>
+          <div class="cat">酒具配件 </div>
+          <h3>Custom ABS Vacuum Pump + 4x stopper with Your Logo</h3>
+        </div>
+        <a class="visit" href="/products/vacuum-pump-4x-stopper-s-5/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/jbpj-072-8e7a7af845.webp" alt="JBPJ-072" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · JBPJ-072</div>
+          <h4>ABS Vacuum Pump + 4x stopper S/5</h4>
+          <p class="cn">ABS+硅胶真空泵+4酒塞套装 KVS-20</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>JBPJ-072</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>KVS-20</b> <span class="pg">目录 P1</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>—</dd></div>
+            <div><dt>材质</dt><dd>ABS + silicone</dd></div>
+          </dl>
+          
+        </div>
+      </div>
+      
+    </article>
+    <article class="card" data-cat="酒具配件" id="m-JBPJ-073">
+      <div class="card-hd">
+        <div>
+          <div class="cat">酒具配件 </div>
+          <h3>Custom Rechargeable Wine Aerator with Your Logo</h3>
+        </div>
+        <a class="visit" href="/products/rechargeable-wine-aerator-dispenser/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/jbpj-073-6a4973d35a.webp" alt="JBPJ-073" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · JBPJ-073</div>
+          <h4>ABS Rechargeable Wine Aerator & Dispenser</h4>
+          <p class="cn">ABS+硅胶充电式醒酒分酒器 KD-7</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>JBPJ-073</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>KD-7</b> <span class="pg">目录 P2</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>—</dd></div>
+            <div><dt>材质</dt><dd>ABS + silicone</dd></div>
+          </dl>
+          
+        </div>
+      </div>
+      
+    </article>
+    <article class="card" data-cat="酒具配件" id="m-JS-031">
+      <div class="card-hd">
+        <div>
+          <div class="cat">酒具配件 </div>
+          
+        </div>
+        <a class="visit" href="/products/champagne-stopper/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/js-031-50932b0dec.webp" alt="JS-031" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · JS-031</div>
+          <h4>Stainless steel Champagne stopper</h4>
+          <p class="cn">不锈钢+TPR香槟塞</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>JS-031</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>LN1258S</b> <span class="pg">目录 P1</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>—</dd></div>
+            <div><dt>材质</dt><dd>stainless steel + TPR</dd></div>
+          </dl>
+          
+        </div>
+      </div>
+      
+    </article>
+    <article class="card" data-cat="酒具配件" id="m-JS-033">
+      <div class="card-hd">
+        <div>
+          <div class="cat">酒具配件 </div>
+          
+        </div>
+        <a class="visit" href="/products/vacuum-wine-stopper-keep-fresh-7days/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/js-033-04a33e4209.webp" alt="JS-033" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · JS-033</div>
+          <h4>PC Vacuum Wine Stopper-Keep fresh 7days for wine</h4>
+          <p class="cn">PC+TPE真空酒塞</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>JS-033</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>SP-016</b> <span class="pg">目录 P1</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>—</dd></div>
+            <div><dt>材质</dt><dd>PC + TPE</dd></div>
+          </dl>
+          
+        </div>
+      </div>
+      
+    </article>
+    <article class="card" data-cat="酒具配件" id="m-JS-034">
+      <div class="card-hd">
+        <div>
+          <div class="cat">酒具配件 </div>
+          <h3>Custom ABS Wine Bottle stopper-Funny with Your Logo</h3>
+        </div>
+        <a class="visit" href="/products/bottle-stopper-funny-design/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/js-034-b970bfce3b.webp" alt="JS-034" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · JS-034</div>
+          <h4>ABS Bottle stopper-Funny design</h4>
+          <p class="cn">ABS+硅胶酒塞</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>JS-034</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>WS02</b> <span class="pg">目录 P1</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>—</dd></div>
+            <div><dt>材质</dt><dd>ABS + silicone</dd></div>
+          </dl>
+          
+        </div>
+      </div>
+      
+    </article>
+    <article class="card" data-cat="酒具配件" id="m-JS-037">
+      <div class="card-hd">
+        <div>
+          <div class="cat">酒具配件 </div>
+          <h3>Custom Champagne Wine stopper with Your Logo</h3>
+        </div>
+        <a class="visit" href="/products/champagne-stopper-with-plating-painting/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/js-037-7610920902.webp" alt="JS-037" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · JS-037</div>
+          <h4>Stainless steel Champagne stopper with Plating/Painting</h4>
+          <p class="cn">不锈钢+TPR香槟塞</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>JS-037</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>LN1258P</b> <span class="pg">目录 P1</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>—</dd></div>
+            <div><dt>材质</dt><dd>stainless steel + TPR</dd></div>
+          </dl>
+          
+        </div>
+      </div>
+      
+    </article>
+    <article class="card" data-cat="酒具配件" id="m-JS-038">
+      <div class="card-hd">
+        <div>
+          <div class="cat">酒具配件 </div>
+          
+        </div>
+        <a class="visit" href="/products/vacuum-wine-stopper-with-31-date/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/js-038-9fa2f9a649.webp" alt="JS-038" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · JS-038</div>
+          <h4>ABS Vacuum Wine Stopper with 31 Date Scale</h4>
+          <p class="cn">ABS+硅胶真空酒塞</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>JS-038</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>SP-002-A</b> <span class="pg">目录 P1</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>—</dd></div>
+            <div><dt>材质</dt><dd>ABS + silicone</dd></div>
+          </dl>
+          
+        </div>
+      </div>
+      
+    </article>
+    <article class="card" data-cat="酒具配件" id="m-JS-039">
+      <div class="card-hd">
+        <div>
+          <div class="cat">酒具配件 </div>
+          
+        </div>
+        <a class="visit" href="/products/wing-corkscrew/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/js-039-c54c70facc.webp" alt="JS-039" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · JS-039</div>
+          <h4>Zinc alloy Wing Corkscrew</h4>
+          <p class="cn">锌合金蝶形开塞钻</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>JS-039</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>E6006</b> <span class="pg">目录 P1</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>—</dd></div>
+            <div><dt>材质</dt><dd>zinc alloy</dd></div>
+          </dl>
+          
+        </div>
+      </div>
+      
+    </article>
+    <article class="card" data-cat="酒具配件" id="m-JS-040">
+      <div class="card-hd">
+        <div>
+          <div class="cat">酒具配件 </div>
+          
+        </div>
+        <a class="visit" href="/products/moet-sipper-with-moet-logo/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/js-040-a2226a663b.webp" alt="JS-040" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · JS-040</div>
+          <h4>ABS Sipper with logo</h4>
+          <p class="cn">ABS Moet 香槟吸饮器</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>JS-040</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>CS01G</b> <span class="pg">目录 P1</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>—</dd></div>
+            <div><dt>材质</dt><dd>ABS</dd></div>
+          </dl>
+          
+        </div>
+      </div>
+      
+    </article>
+    <article class="card" data-cat="酒具配件" id="m-JS-042">
+      <div class="card-hd">
+        <div>
+          <div class="cat">酒具配件 </div>
+          <h3>Custom Vacuum Soda Wine Stopper -Pump air with Your Logo</h3>
+        </div>
+        <a class="visit" href="/products/vacuum-soda-stopper-pump-air-in/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/js-042-736415a4d2.webp" alt="JS-042" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · JS-042</div>
+          <h4>Vacuum Soda Stopper -Pump air in for bubble</h4>
+          <p class="cn">PP+硅胶气泡水瓶塞</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>JS-042</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>XH-SD01</b> <span class="pg">目录 P1</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>—</dd></div>
+            <div><dt>材质</dt><dd>PP + silicone</dd></div>
+          </dl>
+          
+        </div>
+      </div>
+      
+    </article>
+    <article class="card" data-cat="酒具配件" id="m-KPQ-005">
+      <div class="card-hd">
+        <div>
+          <div class="cat">酒具配件 </div>
+          
+        </div>
+        <a class="visit" href="/products/plastic-beer-opener/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/kpq-005-ba3e8dc048.webp" alt="KPQ-005" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · KPQ-005</div>
+          <h4>ABS Plastic Beer Opener</h4>
+          <p class="cn">ABS塑料啤酒开瓶器</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>KPQ-005</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>KH1-002002</b> <span class="pg">目录 P1</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>—</dd></div>
+            <div><dt>材质</dt><dd>ABS</dd></div>
+          </dl>
+          
+        </div>
+      </div>
+      
+    </article>
+    <article class="card" data-cat="酒具配件" id="m-KPQ-006">
+      <div class="card-hd">
+        <div>
+          <div class="cat">酒具配件 </div>
+          
+        </div>
+        <a class="visit" href="/products/goose-head-manual-wine-opener/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/kpq-006-d4c07e89c7.webp" alt="KPQ-006" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · KPQ-006</div>
+          <h4>ABS Goose head Manual Wine Opener</h4>
+          <p class="cn">锌合金+ABS鹅颈手动开瓶器</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>KPQ-006</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>E5001</b> <span class="pg">目录 P1</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>—</dd></div>
+            <div><dt>材质</dt><dd>ABS + zinc alloy</dd></div>
+          </dl>
+          
+        </div>
+      </div>
+      
+    </article>
+    <article class="card" data-cat="酒具配件" id="m-KPQ-007">
+      <div class="card-hd">
+        <div>
+          <div class="cat">酒具配件 </div>
+          <h3>Custom Manual Wine Opener Kit with Your Logo</h3>
+        </div>
+        <a class="visit" href="/products/manual-wine-opener-kit-s-4/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/kpq-007-c8896739d8.webp" alt="KPQ-007" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · KPQ-007</div>
+          <h4>Main opener: abs Manual Wine Opener Kit S/4</h4>
+          <p class="cn">手动红酒开瓶器</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>KPQ-007</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>SGS-KH1-002001</b> <span class="pg">目录 P1</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>—</dd></div>
+            <div><dt>材质</dt><dd>Main opener: ABS; accessories vary</dd></div>
+          </dl>
+          
+        </div>
+      </div>
+      
+    </article>
+    <article class="card" data-cat="酒具配件" id="m-KPQ-009">
+      <div class="card-hd">
+        <div>
+          <div class="cat">酒具配件 </div>
+          <h3>Custom Aluminum Electric Wine Opener with Your Logo</h3>
+        </div>
+        <a class="visit" href="/products/electric-wine-opener-s-2/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/kpq-009-6c46450779.webp" alt="KPQ-009" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · KPQ-009</div>
+          <h4>Aluminum Electric Wine Opener S/2</h4>
+          <p class="cn">不锈钢+PC电动红酒开瓶器</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>KPQ-009</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>KB1-602002</b> <span class="pg">目录 P2</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>S/2 · 009</dd></div>
+            <div><dt>材质</dt><dd>Aluminum and ABS components</dd></div>
+          </dl>
+          
+        </div>
+      </div>
+      <div class="subs"><div class="subs-hd">副款 <span>同一款式组里的其它自供款 (4)</span></div><div class="subs-grid"><figure class="sub"><img src="img/v88-20261023/kpq-008-c0ec8f2c2a.webp" alt="KPQ-008" loading="lazy"><figcaption><b>KPQ-008 · KB1P-602301</b><span>Standard</span></figcaption></figure><figure class="sub"><img src="img/v88-20261023/kpq-010-525f532648.webp" alt="KPQ-010" loading="lazy"><figcaption><b>KPQ-010 · VBGS-KB1-602201</b><span>S/5</span></figcaption></figure><figure class="sub"><img src="img/v88-20261023/kpq-016-49398a46c5.webp" alt="KPQ-016" loading="lazy"><figcaption><b>KPQ-016 · KB1-601901A</b><span>S/2 · 016</span></figcaption></figure><figure class="sub"><img src="img/v88-20261023/kpq-017-4213d8e0bc.webp" alt="KPQ-017" loading="lazy"><figcaption><b>KPQ-017 · SGS-KB1-601901A</b><span>S/4</span></figcaption></figure></div></div>
+    </article>
+    <article class="card" data-cat="酒具配件" id="m-KPQ-011">
+      <div class="card-hd">
+        <div>
+          <div class="cat">酒具配件 </div>
+          
+        </div>
+        <a class="visit" href="/products/rechargeable-wine-opener/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/kpq-011-e5a90f6370.webp" alt="KPQ-011" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · KPQ-011</div>
+          <h4>Aluminum Rechargeable Wine Opener</h4>
+          <p class="cn">ABS+PC充电式红酒开瓶器</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>KPQ-011</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>EC-A</b> <span class="pg">目录 P2</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>Standard</dd></div>
+            <div><dt>材质</dt><dd>Aluminum and ABS components</dd></div>
+          </dl>
+          
+        </div>
+      </div>
+      <div class="subs"><div class="subs-hd">副款 <span>同一款式组里的其它自供款 (8)</span></div><div class="subs-grid"><figure class="sub"><img src="img/v88-20261023/kpq-012-a219926b4e.webp" alt="KPQ-012" loading="lazy"><figcaption><b>KPQ-012 · EC-A-BS</b><span>S/7</span></figcaption></figure><figure class="sub"><img src="img/v88-20261023/kpq-013-930bfe3f9d.webp" alt="KPQ-013" loading="lazy"><figcaption><b>KPQ-013 · KP3-372201C-6</b><span>S/3 · 013</span></figcaption></figure><figure class="sub"><img src="img/v88-20261023/kpq-014-883671b85f.webp" alt="KPQ-014" loading="lazy"><figcaption><b>KPQ-014 · KP1125</b><span>S/6</span></figcaption></figure><figure class="sub"><img src="img/v88-20261023/kpq-015-70d2235582.webp" alt="KPQ-015" loading="lazy"><figcaption><b>KPQ-015 · SGS-KD-9-P</b><span>S/5 · 015</span></figcaption></figure><figure class="sub"><img src="img/v88-20261023/kpq-018-74c9ef115d.webp" alt="KPQ-018" loading="lazy"><figcaption><b>KPQ-018 · EC-A-SET</b><span>S/5 · 018</span></figcaption></figure><figure class="sub"><img src="img/v88-20261023/kpq-019-bcb38aa85d.webp" alt="KPQ-019" loading="lazy"><figcaption><b>KPQ-019 · VBGS-KP3P-372101KA</b><span>S/3 · 019</span></figcaption></figure><figure class="sub"><img src="img/v88-20261023/kpq-020-de79a43f8c.webp" alt="KPQ-020" loading="lazy"><figcaption><b>KPQ-020 · EC-A-GS</b><span>S/6 · Base</span></figcaption></figure><figure class="sub"><img src="img/v88-20261023/kpq-021-876b03fb9b.webp" alt="KPQ-021" loading="lazy"><figcaption><b>KPQ-021 · SGS-KD-8</b><span>S/5 · 021</span></figcaption></figure></div></div>
+    </article>
+    <article class="card" data-cat="酒具配件" id="m-PJB-012">
+      <div class="card-hd">
+        <div>
+          <div class="cat">酒具配件 </div>
+          
+        </div>
+        <a class="visit" href="/products/1-4l-1-5l-plastic-beer/" target="_blank" rel="noopener">打开站内页面 →</a>
+      </div>
+      <div class="hero">
+        <div class="hero-img"><img src="img/v88-20261023/pjb-012-bc71a02824.webp" alt="PJB-012" loading="lazy"></div>
+        <div class="hero-txt">
+          <div class="badge">主款 · PJB-012</div>
+          <h4>1.5 L PS Plastic Beer Pitcher</h4>
+          <p class="cn">PS啤酒扎壶（1.4L / 1.5L）</p>
+          <dl>
+            <div><dt>站点型号</dt><dd>PJB-012</dd></div>
+            <div><dt>工厂内型号</dt><dd><b>PG1214 + PG1216</b> <span class="pg">目录 P7</span></dd></div>
+            <div><dt>容量 / 款式</dt><dd>1.4 L</dd></div>
+            <div><dt>材质</dt><dd>PS</dd></div>
+          </dl>
+          <p class="note">该页另有 1 款为外购款，未列入本清单。</p>
+        </div>
+      </div>
+      <div class="subs"><div class="subs-hd">副款 <span>同一款式组里的其它自供款 (1)</span></div><div class="subs-grid"><figure class="sub"><img src="img/v88-20261023/pjb-017-e6e67b3890.webp" alt="PJB-017" loading="lazy"><figcaption><b>PJB-017 · PG1211</b><span>2 L · Lid</span></figcaption></figure></div></div>
+    </article></main>
+
+<footer class="wrap">
+  判定口径来自桌面 v88BYF.xlsx「产品库（图·链接·供应商）」工作表；站内款式取自产品页的款式组数据（主款 + 副款）。
+  图片为站内现有产品图。本页仅供内部核对，不对外链接。
+</footer>
+<script>
+  var chips = document.querySelectorAll('.chip');
+  chips.forEach(function (c) {
+    c.addEventListener('click', function () {
+      chips.forEach(function (x) { x.setAttribute('aria-pressed', 'false'); });
+      c.setAttribute('aria-pressed', 'true');
+      var f = c.dataset.f;
+      document.querySelectorAll('.card').forEach(function (card) {
+        card.style.display = (f === 'all' || card.dataset.cat === f) ? '' : 'none';
+      });
+    });
+  });
+</script>
+<script defer src="/assets/ec-nav-patch-20261029.speed-20261107-niles-3752d38cc75b-niles-3752d38cc75b-niles-3752d38cc75b.js?v=20261112-brand1"></script>
+<script defer src="/assets/floating-enquiry-20261023.speed-20261107-niles-ae7a7e97bde6-niles-ae7a7e97bde6-niles-ae7a7e97bde6.js?v=20261112-brand1"></script>
+<script defer src="/assets/boom-cms.js?v=layout1"></script><script defer src="/assets/boom-cms-layout.js?v=layout1"></script><script src="/assets/industrial-theme-5e5785d02da3-niles-5e5785d02da3-niles-5e5785d02da3-niles-5e5785d02da3.js"></script><script src="/assets/boom-cms-free-layout.js?v=20261112-brand1" defer></script></body>
+</html>

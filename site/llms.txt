@@ -1,13 +1,13 @@
-# EVERCUP
+# BOOM Drinkware
 
-> EVERCUP is the brand of Shenzhen Baoyuanfeng Precision Machining Co., Ltd., a factory in Shenzhen, China, running injection moulding and silicone compression moulding in house since 2013. The site lists drinkware and barware models with capacity, material and decoration options, and takes custom, private-label and OEM/ODM projects.
+> BOOM Drinkware is a drinkware factory in Shenzhen, China, running injection moulding and silicone compression moulding in house since 2013. The site lists drinkware and barware models with capacity, material and decoration options, and takes custom, private-label and OEM/ODM projects.
 
 Key facts:
 
 - Founded: 2013
-- Plant: 10,000 sqm, Shenzhen
-- Equipment: 20+ injection moulding machines, 20+ silicone compression presses
-- Quality: 10 full-time QC staff, AQL sampling (under 500 pcs 5%, 500-2000 pcs 3%, over 2000 pcs 1%)
+- Plant: 3,416 m², Shenzhen
+- Equipment: injection moulding, silicone compression moulding and our own tooling shop in house; 65 machines across 4 production lines
+- Quality: 4 full-time QA/QC inspectors, AQL sampling (under 500 pcs 5%, 500-2000 pcs 3%, over 2000 pcs 1%)
 - Materials: plastic (PP, Tritan, AS, PS) and silicone; metal parts are sourced from vetted suppliers
 - Terms: T/T 30% deposit and 70% against copy of B/L, FOB Shenzhen; PayPal for samples only
 
@@ -62,3 +62,5 @@ Key facts:
 - Every model page lists capacity, material, decoration methods and packing options
 - Chinese mirror of the whole site: https://www.boomdrinkware.com/zh/
 - Chinese guide index: https://www.boomdrinkware.com/zh/blog/
+
+- Full model catalogue (415 models, all pages): https://www.boomdrinkware.com/llms-full.txt

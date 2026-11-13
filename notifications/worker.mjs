@@ -1,6 +1,6 @@
 import { EmailMessage } from 'cloudflare:email';
 
-const TO = 'christoph_enrico@hotmail.com';
+const TO = 'niles@boomdrinkware.com';
 const FROM = 'enquiries@boomdrinkware.com';
 const response = (data, status = 200) => Response.json(data, { status });
 const schema = `CREATE TABLE IF NOT EXISTS oem_notification_outbox (

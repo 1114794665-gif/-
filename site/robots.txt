@@ -3,3 +3,41 @@ Allow: /
 Disallow: /login/
 
 Sitemap: https://www.boomdrinkware.com/sitemap.xml
+
+# AI assistants: explicitly allowed to read public pages
+
+User-agent: GPTBot
+Allow: /
+Disallow: /login/
+
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /login/
+
+User-agent: ChatGPT-User
+Allow: /
+Disallow: /login/
+
+User-agent: ClaudeBot
+Allow: /
+Disallow: /login/
+
+User-agent: anthropic-ai
+Allow: /
+Disallow: /login/
+
+User-agent: PerplexityBot
+Allow: /
+Disallow: /login/
+
+User-agent: Google-Extended
+Allow: /
+Disallow: /login/
+
+User-agent: CCBot
+Allow: /
+Disallow: /login/
+
+User-agent: Applebot-Extended
+Allow: /
+Disallow: /login/

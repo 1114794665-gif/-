@@ -4,7 +4,7 @@
   "compatibility_date": "2026-11-09",
   "workers_dev": false,
   "preview_urls": false,
-  "send_email": [{"name": "EMAIL", "destination_address": "christoph_enrico@hotmail.com"}],
+  "send_email": [{"name": "EMAIL", "destination_address": "niles@boomdrinkware.com"}],
   "d1_databases": [{"binding": "DB", "database_name": "evercup-inquiries", "database_id": "cb2395d4-d5b2-4cdd-96fb-0653e3c2d34a"}],
   "triggers": {"crons": ["*/5 * * * *"]}
 }
