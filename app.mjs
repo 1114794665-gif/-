@@ -8,8 +8,19 @@ import fs from 'node:fs';
 import path from 'node:path';
 import zlib from 'node:zlib';
 import { fileURLToPath } from 'node:url';
+import { createRequire } from 'node:module';
+import { spawn } from 'node:child_process';
 
-const ROOT = path.join(path.dirname(fileURLToPath(import.meta.url)), 'site');
+const require = createRequire(import.meta.url);
+const APPDIR = path.dirname(fileURLToPath(import.meta.url));
+// 后台登录密钥只放本机，不进站点产物、不进仓库
+try {
+  const cfg = JSON.parse(fs.readFileSync(path.join(APPDIR, '.secrets', 'staff.json'), 'utf8'));
+  process.env.STAFF_SECRET = cfg.secret;
+  process.env.STAFF_PASSWORD_HASH = cfg.passwordHash;
+} catch { /* 未配置时登录不可用，其余功能照常 */ }
+const seo = require('./seo-store.cjs');
+const ROOT = path.join(APPDIR, 'site');
 const PORT = Number(process.argv[2] || process.env.PORT || 8781);
 
 const MIME = {
@@ -310,11 +321,106 @@ function lookupRedirect(p) {
   return null;
 }
 
+// ---- 后台 SEO 编辑器：保存 = 写覆盖层 + 压进页面 + 同步 GitHub + 自动发布 ----
+function readJson(req) {
+  return new Promise((resolve) => {
+    let b = '';
+    req.on('data', c => { b += c; if (b.length > 2e6) req.destroy(); });
+    req.on('end', () => { try { resolve(b ? JSON.parse(b) : {}); } catch { resolve({}); } });
+    req.on('error', () => resolve({}));
+  });
+}
+function seoJson(res, code, obj, extra) {
+  const body = Buffer.from(JSON.stringify(obj), 'utf8');
+  res.writeHead(code, { 'Content-Type': 'application/json; charset=utf-8', 'Cache-Control': 'no-store', 'Content-Length': body.length, ...(extra || {}) });
+  res.end(body);
+}
+function publishAsync(route) {
+  if (process.env.SEO_AUTO_PUBLISH === '0') return;
+  const log = fs.createWriteStream(path.join(APPDIR, 'seo-publish.log'), { flags: 'a' });
+  const stamp = new Date().toISOString();
+  log.write(`\n[${stamp}] 后台保存 ${route} → 重新打包并发布\n`);
+  const a = spawn(process.execPath, ['build-cloudflare.cjs'], { cwd: APPDIR, shell: true, stdio: ['ignore', 'pipe', 'pipe'] });
+  a.stdout.pipe(log, { end: false }); a.stderr.pipe(log, { end: false });
+  a.on('close', (code) => {
+    if (code !== 0) { log.write(`打包失败 code=${code}\n`); log.end(); return; }
+    const b = spawn('npx wrangler pages deploy cloudflare-dist --project-name evercup-free --branch deploy/cloudflare-free --commit-dirty=true',
+      { cwd: APPDIR, shell: true, stdio: ['ignore', 'pipe', 'pipe'] });
+    b.stdout.pipe(log, { end: false }); b.stderr.pipe(log, { end: false });
+    b.on('close', (c2) => { log.write(`发布结束 code=${c2}\n`); log.end(); });
+  });
+}
+const staff = require('./staff-auth.cjs');
+
+function trpcGetInputs(u, body) {
+  let raw = null;
+  if (u.searchParams.has('input')) { try { raw = JSON.parse(u.searchParams.get('input')); } catch {} }
+  if (!raw && body && typeof body === 'object') raw = body;
+  const batchedObj = raw && typeof raw === 'object' && '0' in raw;
+  return (i) => {
+    const v = batchedObj ? raw[String(i)] : (i === 0 ? raw : undefined);
+    if (v && typeof v === 'object' && 'json' in v) return v.json;
+    return v || {};
+  };
+}
+async function doUpsert(inp) {
+  if (!inp || !inp.route) throw new Error('缺少页面地址');
+  seo.upsert(ROOT, inp);
+  const changed = seo.applyOverrides(ROOT);
+  await seo.githubPutFile('site/data/seo-overrides.json',
+    fs.readFileSync(path.join(ROOT, 'data/seo-overrides.json'), 'utf8'),
+    `SEO editor: ${inp.route} (${new Date().toISOString().slice(0, 16).replace('T', ' ')})`);
+  publishAsync(inp.route);
+  return { ok: true, route: inp.route, github: 'saved', changedFiles: changed.length,
+    published: process.env.SEO_AUTO_PUBLISH === '0' ? 'skipped' : 'queued' };
+}
+async function handleTrpc(req, res, rawPath) {
+  const u = new URL(req.url, 'http://localhost');
+  const batched = u.searchParams.get('batch') === '1';
+  const procs = decodeURIComponent(rawPath.slice('/api/trpc/'.length)).split(',');
+  const body = ['POST', 'PUT', 'PATCH'].includes(req.method) ? await readJson(req) : {};
+  const getInp = trpcGetInputs(u, body);
+  const cookies = [], results = [];
+  for (let i = 0; i < procs.length; i++) {
+    const name = procs[i];
+    try {
+      let data = [], cookie = null;
+      if (name === 'auth.me') data = staff.currentUser(req.headers.cookie);
+      else if (name === 'auth.captcha') data = staff.makeCaptcha();
+      else if (name === 'auth.loginLocal' || name === 'auth.login') {
+        const r = staff.login(getInp(i)); data = r.user; cookie = r.cookie;
+      } else if (name === 'auth.logout') { data = { ok: true }; cookie = staff.LOGOUT_COOKIE; }
+      else if (name === 'seo.list') data = seo.listPages(ROOT);
+      else if (name === 'seo.upsert') data = await doUpsert(getInp(i));
+      else if (name === 'users.list') data = [staff.USER];
+      else if (name.endsWith('.stats')) data = { total: 0, live: 0, newLast7d: 0, pendingSamples: 0, set: 0, missing: 0 };
+      else data = [];   // 后台其它页暂未接通，先给空数据避免整页报错
+      if (cookie) cookies.push(cookie);
+      results.push({ result: { data: { json: data } } });
+    } catch (e) {
+      const msg = String(e.message || e);
+      console.error('[trpc]', name, msg);
+      results.push({ error: { json: { message: msg, code: 'BAD_REQUEST', data: { code: 'BAD_REQUEST', httpStatus: 400 } } } });
+    }
+  }
+  const extra = cookies.length ? { 'Set-Cookie': cookies } : {};
+  seoJson(res, 200, batched ? results : results[0], extra);
+}
+async function handleSeoRest(req, res) {
+  try {
+    if (req.method === 'GET') return seoJson(res, 200, seo.listPages(ROOT));
+    const body = await readJson(req);
+    return seoJson(res, 200, await doUpsert(body));
+  } catch (e) { return seoJson(res, 400, { ok: false, error: String(e.message || e) }); }
+}
+
 const server = http.createServer((req, res) => {
   let rawPath;try{rawPath=decodeURIComponent(new URL(req.url,'http://localhost').pathname);}catch{res.writeHead(400);return res.end();}
   if(rawPath==='/login'||rawPath==='/login/'||rawPath==='/zh/login'||rawPath==='/zh/login/'){res.writeHead(302,{Location:rawPath.startsWith('/zh/')?'/zh/contact/':'/contact/'});return res.end();}
   if (rawPath === '/healthz') {res.writeHead(200, {'Content-Type':'application/json'});return res.end('{"ok":true}');}
   if (rawPath === '/api/products' && req.method === 'GET') {res.writeHead(200, {'Content-Type':'application/json','Cache-Control':'no-store'});return res.end(fs.readFileSync(path.join(ROOT,'data','api-products-snapshot.json')));}
+  if (rawPath.startsWith('/api/trpc/')) { return void handleTrpc(req, res, rawPath); }
+  if (rawPath === '/api/seo') { return void handleSeoRest(req, res); }
   if (!['GET','HEAD'].includes(req.method) && !rawPath.startsWith('/api/enquiries')) {res.writeHead(405);return res.end();}
   if (/^\/(manage|tools|editor-data|private-data|node_modules)(\/|$)/.test(rawPath) || /\.(mjs|xlsx|bak|log|zip)$/.test(rawPath) || rawPath.includes('/.') || rawPath.includes('editor-drafts') || rawPath.includes('_enquiries')) {res.writeHead(404);return res.end();}
 
