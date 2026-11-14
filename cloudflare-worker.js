@@ -164,8 +164,69 @@ const INTERNAL_DENY='<!doctype html><html lang="zh-CN"><meta charset="utf-8">'
  +'<p style="margin:0"><a href="/login/" style="color:#1b5e9c">去登录 →</a></p></body></html>';
 const isInternal=(p)=>INTERNAL_PATHS.some(x=>p===x||p===x+'/'||p.startsWith(x+'/'));
 
+/* ---- A6：六款电子产品已停止供应，36 个地址返回 410 ----
+   为什么必须在这里做：Cloudflare Pages 的 _redirects 只支持 301/302/303/307/308，
+   写 410 无效；而页面文件已删除，静态层会回 404。404 对搜索引擎是「暂时找不到」，
+   410 才是「作者主动永久下架」。所以由边缘运行时返回 410。
+   带尾斜杠与不带尾斜杠都拦（客户手打网址、外链少写斜杠都会命中）。 */
+const GONE_PATHS=new Set([
+'/products/16-oz-light-up-acrylic-shaker/',
+'/products/custom-led-light-up-coasters/',
+'/products/multicolor-led-light-up-ice-cubes/',
+'/products/electric-wine-opener-s-2/',
+'/products/rechargeable-wine-opener/',
+'/products/rechargeable-wine-aerator-dispenser/',
+'/zh/products/16-oz-light-up-acrylic-shaker/',
+'/zh/products/custom-led-light-up-coasters/',
+'/zh/products/multicolor-led-light-up-ice-cubes/',
+'/zh/products/electric-wine-opener-s-2/',
+'/zh/products/rechargeable-wine-opener/',
+'/zh/products/rechargeable-wine-aerator-dispenser/',
+'/products/electric-opener-s-2/',
+'/products/electric-wine-opener-kit-s-4/',
+'/products/electric-wine-opener-kit-s-5/',
+'/products/electric-wine-opener/',
+'/products/rechargeable-opener-dispenser-kit-s-5/',
+'/products/rechargeable-opener-kit-w-base-s/',
+'/products/rechargeable-wine-opener-dispenser-kit-s/',
+'/products/rechargeable-wine-opener-kit-s-5/',
+'/products/rechargeable-wine-opener-kit-s-6/',
+'/products/rechargeable-wine-opener-kit-with-base/',
+'/products/rechargeable-wine-opener-s-3/',
+'/products/rechargeable-wine-opener-set-s-3/',
+'/zh/products/electric-opener-s-2/',
+'/zh/products/electric-wine-opener-kit-s-4/',
+'/zh/products/electric-wine-opener-kit-s-5/',
+'/zh/products/electric-wine-opener/',
+'/zh/products/rechargeable-opener-dispenser-kit-s-5/',
+'/zh/products/rechargeable-opener-kit-w-base-s/',
+'/zh/products/rechargeable-wine-opener-dispenser-kit-s/',
+'/zh/products/rechargeable-wine-opener-kit-s-5/',
+'/zh/products/rechargeable-wine-opener-kit-s-6/',
+'/zh/products/rechargeable-wine-opener-kit-with-base/',
+'/zh/products/rechargeable-wine-opener-s-3/',
+'/zh/products/rechargeable-wine-opener-set-s-3/'
+]);
+const isGone=(p)=>{let t=p.replace(/\/+$/,'');return t===''?false:GONE_PATHS.has(t+'/');};
+const GONE_BODY='<!doctype html><html lang="en"><meta charset="utf-8">'
+ +'<meta name="robots" content="noindex, nofollow, noarchive, nosnippet">'
+ +'<meta name="viewport" content="width=device-width,initial-scale=1">'
+ +'<title>Product discontinued | BOOM Drinkware</title>'
+ +'<body style="font-family:system-ui,-apple-system,\'Microsoft YaHei\',sans-serif;padding:56px 22px;max-width:560px;margin:0 auto;color:#20242a">'
+ +'<h1 style="font-size:22px;margin:0 0 14px">This product is no longer available</h1>'
+ +'<p style="color:#5f6873;line-height:1.8;margin:0 0 10px">This model has been discontinued and is no longer in production.</p>'
+ +'<p style="color:#5f6873;line-height:1.8;margin:0 0 26px">此型号已停止供应，不再生产。</p>'
+ +'<p style="margin:0"><a href="/products/" style="display:inline-block;background:#8b3a2f;color:#fff;text-decoration:none;padding:11px 20px;border-radius:4px">Browse all products →</a></p>'
+ +'</body></html>';
+
 export default {async fetch(request,env,ctx){
  const url=new URL(request.url),path=url.pathname;
+ if(isGone(path)){
+  return new Response(GONE_BODY,{status:410,headers:{
+   'Content-Type':'text/html; charset=utf-8',
+   'X-Robots-Tag':'noindex, nofollow, noarchive, nosnippet',
+   'Cache-Control':'no-store'}});
+ }
  if(isInternal(path)){
   let user=null;try{user=await authMe(request,env)}catch{}
   if(!user)return new Response(INTERNAL_DENY,{status:401,headers:{

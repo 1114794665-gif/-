@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 40" width="290" height="40">
-  <g>
-    <path d="M14 6 h20 l-2.6 26 a2.4 2.4 0 0 1 -2.4 2.2 h-10 a2.4 2.4 0 0 1 -2.4 -2.2 Z" fill="none" stroke="#C8622B" stroke-width="2.6" stroke-linejoin="round"/>
-    <path d="M13 12 h22" stroke="#C8622B" stroke-width="2.6" stroke-linecap="round"/>
-  </g>
-  <text x="44" y="28" font-family="Fraunces, Georgia, serif" font-weight="600" font-size="22" letter-spacing="0.5">
-    <tspan fill="#2C231A">BOOM</tspan><tspan fill="#C8622B"> Drinkware</tspan>
-  </text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" fill="none"><defs>
+<clipPath id="bl"><rect x="0" y="0" width="60.5" height="120"/></clipPath>
+<clipPath id="br"><rect x="63.5" y="0" width="60" height="120"/></clipPath>
+</defs>
+<path d="M62 8.5 V111.5" stroke="#6B756C" stroke-width="1.1" stroke-dasharray="2 4" opacity=".85"/>
+<path d="M24 14 H64 C82 14 92 23 92 37 C92 48 86 55 76 58.5 C89 61 98 70 98 83 C98 98 86 106 65 106 H24 Z M40 28 H62 C70 28 75 31 75 37.5 C75 44 70 47 62 47 H40 Z M40 72 H65 C75 72 81 77 81 84 C81 91 75 94 65 94 H40 Z" fill="#233F35" fill-rule="evenodd" clip-path="url(#bl)"/>
+<path d="M24 14 H64 C82 14 92 23 92 37 C92 48 86 55 76 58.5 C89 61 98 70 98 83 C98 98 86 106 65 106 H24 Z M40 28 H62 C70 28 75 31 75 37.5 C75 44 70 47 62 47 H40 Z M40 72 H65 C75 72 81 77 81 84 C81 91 75 94 65 94 H40 Z" fill="#B65F40" fill-rule="evenodd" clip-path="url(#br)"/>
+<circle cx="62" cy="8.5" r="2.4" fill="#6B756C"/>
+<circle cx="62" cy="111.5" r="2.4" fill="#6B756C"/></svg>

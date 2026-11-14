@@ -1,1 +1,12 @@
 .boom-wordmark{display:inline-flex;align-items:baseline;gap:.22em;white-space:nowrap;font-size:22px;line-height:1.1}.boom-wordmark>span{white-space:nowrap}@media(max-width:1279px){.boom-wordmark{display:flex;flex-direction:column;align-items:flex-start;gap:1px;font-size:19px;line-height:1}.boom-wordmark>span:last-child{font-size:12px;letter-spacing:.04em}}
+
+/* BOOM 2026-11-14 logo01 — 01 合模企业标：盖住写死在页面与脚本里的旧杯子标 */
+a[aria-label="BOOM Drinkware home"] > svg,
+a[aria-label="BOOM Drinkware home"] > span { display:none !important; }
+a[aria-label="BOOM Drinkware home"]::before,
+a.brand::before {
+  content:""; display:block; width:243px; max-width:58vw; height:40px;
+  background:url("/brand-logo.svg?v=20261114-logo1") left center / contain no-repeat;
+}
+a.brand { font-size:0 !important; }
+a.brand > svg { display:none !important; }
