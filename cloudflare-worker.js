@@ -205,7 +205,18 @@ const GONE_PATHS=new Set([
 '/zh/products/rechargeable-wine-opener-kit-s-6/',
 '/zh/products/rechargeable-wine-opener-kit-with-base/',
 '/zh/products/rechargeable-wine-opener-s-3/',
-'/zh/products/rechargeable-wine-opener-set-s-3/'
+'/zh/products/rechargeable-wine-opener-set-s-3/',
+/* ---- 批次 4：D 组五款停售（原为 200 页但页面自标「已下架」，不符合 410 要求）---- */
+'/products/1-5oz-blue-uv-reactive/',
+'/products/16oz-cold-beverage-souvenir-cup/',
+'/products/custom-plastic-shot-glass-2oz/',
+'/products/full-printed-cold-cup-16oz/',
+'/products/wine-glass-fish-bowl/',
+'/zh/products/1-5oz-blue-uv-reactive/',
+'/zh/products/16oz-cold-beverage-souvenir-cup/',
+'/zh/products/custom-plastic-shot-glass-2oz/',
+'/zh/products/full-printed-cold-cup-16oz/',
+'/zh/products/wine-glass-fish-bowl/'
 ]);
 const isGone=(p)=>{let t=p.replace(/\/+$/,'');return t===''?false:GONE_PATHS.has(t+'/');};
 const GONE_BODY='<!doctype html><html lang="en"><meta charset="utf-8">'
