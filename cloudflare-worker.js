@@ -150,8 +150,34 @@ async function handleSeoRest(request,env){
  }catch(e){return json({ok:false,error:String(e.message||e)},400)}
 }
 
+/* ---- Batch 1：内部产品清单，服务端鉴权（在边缘运行时执行，不是前端隐藏） ----
+   命中这两个前缀时，先验登录 Cookie；未登录直接 401，连 HTML 都不返回。
+   静态托管上这就是服务端：请求在到达资源之前被拦掉。 */
+const INTERNAL_PATHS=['/byf-own-products-20261031','/own-models-20261031'];
+const INTERNAL_DENY='<!doctype html><html lang="zh-CN"><meta charset="utf-8">'
+ +'<meta name="robots" content="noindex, nofollow, noarchive, nosnippet">'
+ +'<meta name="viewport" content="width=device-width,initial-scale=1">'
+ +'<title>需要登录 | BOOM Drinkware</title>'
+ +'<body style="font-family:system-ui,-apple-system,\'Microsoft YaHei\',sans-serif;padding:56px 22px;max-width:520px;margin:0 auto;color:#20242a">'
+ +'<h1 style="font-size:21px;margin:0 0 12px">内部资料，需要登录</h1>'
+ +'<p style="color:#5f6873;line-height:1.75;margin:0 0 18px">这个页面只对内部员工开放，未登录不提供任何内容。</p>'
+ +'<p style="margin:0"><a href="/login/" style="color:#1b5e9c">去登录 →</a></p></body></html>';
+const isInternal=(p)=>INTERNAL_PATHS.some(x=>p===x||p===x+'/'||p.startsWith(x+'/'));
+
 export default {async fetch(request,env,ctx){
  const url=new URL(request.url),path=url.pathname;
+ if(isInternal(path)){
+  let user=null;try{user=await authMe(request,env)}catch{}
+  if(!user)return new Response(INTERNAL_DENY,{status:401,headers:{
+   'Content-Type':'text/html; charset=utf-8',
+   'X-Robots-Tag':'noindex, nofollow, noarchive, nosnippet',
+   'Cache-Control':'no-store, private'}});
+  const r=await env.ASSETS.fetch(request);
+  const h=new Headers(r.headers);
+  h.set('X-Robots-Tag','noindex, nofollow, noarchive, nosnippet');
+  h.set('Cache-Control','no-store, private');
+  return new Response(r.body,{status:r.status,headers:h});
+ }
  if(path==='/api/products')return env.ASSETS.fetch(new Request(new URL('/data/api-products-snapshot.json',url),{method:'GET'}));
  if(!path.startsWith('/api/'))return env.ASSETS.fetch(request);
  if(path.startsWith('/api/trpc/'))return handleTrpc(request,url,path,env);
