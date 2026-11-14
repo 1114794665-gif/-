@@ -240,6 +240,8 @@ export default {async fetch(request,env,ctx){
   return new Response(r.body,{status:r.status,headers:h});
  }
  if(path==='/api/products')return env.ASSETS.fetch(new Request(new URL('/data/api-products-snapshot.json',url),{method:'GET'}));
+ // 旧版页面编辑器的读取口：线上没有存过任何「临时改动」，直接回空，免得每个页面都刷 3 次 404
+ if(path==='/api/cms/public')return json({ok:true,patches:[]});
  if(!path.startsWith('/api/'))return env.ASSETS.fetch(request);
  if(path.startsWith('/api/trpc/'))return handleTrpc(request,url,path,env);
  if(path==='/api/seo')return handleSeoRest(request,env);
