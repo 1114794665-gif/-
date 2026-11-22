@@ -13,12 +13,12 @@ function apply(){
  const make=(html)=>{const t=document.createElement('template');t.innerHTML=html;return t.content.firstElementChild;};
  const heading=(eyebrow,title,body)=>`<p class="of-eyebrow">${eyebrow}</p><h2>${title}</h2><p class="u-intro">${body}</p>`;
  const figure=(src,alt,caption)=>`<figure><img src="${src}" alt="${alt}" loading="lazy" width="1400" height="900"><figcaption>${caption}</figcaption></figure>`;
- const title='Custom Drinkware OEM & ODM Manufacturing | BOOM Drinkware';document.title=title;
- const desc='Custom plastic and silicone drinkware manufacturing, from existing models to component modification and new product development. Review OEM/ODM scope, MOQ and sampling.';
+ const title="Drinkware OEM & ODM | Model, Tooling & Packaging | BOOM";document.title=title;
+ const desc="Start with an existing model or bring a product idea. Review the product, artwork, tooling and packaging requirements together before confirming the project scope.";
  for(const sel of ['meta[name="description"]','meta[property="og:description"]','meta[name="twitter:description"]']){const el=document.querySelector(sel);if(el)el.content=desc;}
  for(const sel of ['meta[property="og:title"]','meta[name="twitter:title"]']){const el=document.querySelector(sel);if(el)el.content=title;}
- const hero=sections[0];hero.querySelector('h1').innerHTML='Custom Drinkware<br>OEM &amp; ODM<br><span>Manufacturing.</span>';
- hero.querySelector('.of-lead').textContent='From product development to custom manufacturing, BOOM helps brands turn drinkware concepts into production-ready products. Start with an existing model, modify a component or develop a new plastic or silicone product.';
+ const hero=sections[0];hero.querySelector('h1').textContent="Drinkware OEM & ODM for Your Project";
+ hero.querySelector('.of-lead').textContent="Start with an existing model or bring a product idea. Review the product, artwork, tooling and packaging requirements together before confirming the project scope.";
  const heroImg=hero.querySelector('img');heroImg.loading='eager';heroImg.fetchPriority='high';heroImg.alt='BOOM drinkware showroom with plastic and silicone product models';
  hero.querySelector('figure').appendChild(make('<figcaption>From the showroom to the production floor.<br>Plastic & silicone · Shenzhen, China</figcaption>'));
  const project=hero.querySelector('.of-button');project.href='#project-enquiry';
