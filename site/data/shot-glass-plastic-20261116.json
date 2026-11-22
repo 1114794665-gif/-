@@ -1,0 +1,206 @@
+{
+  "schema": "boom-product-page/1",
+  "version": "2026-11-16",
+  "route": "/products/custom-plastic-shot-glasses/",
+  "lastReviewed": "2026-11-15",
+  "status": "phase-1: structure and copy approved; numeric specifications awaiting factory confirmation",
+  "product": {
+    "name": "Custom Plastic Shot Glasses",
+    "category": "Shot glasses",
+    "family": "Plastic and Tritan cups",
+    "parentCategory": { "label": "Custom Shot Cups", "url": "/custom-shot-glasses/" },
+    "materialFamily": ["PP", "PS", "AS (SAN)", "Tritan"],
+    "process": "Injection molding",
+    "sku": null,
+    "capacity": null,
+    "capacityUnit": "ml / oz",
+    "topDiameter": null,
+    "baseDiameter": null,
+    "height": null,
+    "wallThickness": null,
+    "weight": null,
+    "moq": null,
+    "materialGrade": null,
+    "colorRange": null,
+    "packingOptions": null
+  },
+  "specFields": [
+    {
+      "key": "sku",
+      "label": "Model / SKU",
+      "unit": null,
+      "value": null,
+      "status": "pending",
+      "public": false,
+      "needed": "Assign once the tool route is fixed",
+      "source": "factory",
+      "note": "An existing tool already has a model code. A new tool is coded after T1 approval."
+    },
+    {
+      "key": "material",
+      "label": "Material",
+      "unit": null,
+      "value": null,
+      "status": "pending",
+      "public": false,
+      "needed": "Resin grade named on the drawing",
+      "source": "factory drawing",
+      "note": "PP, PS, AS and Tritan are all molded in house. The grade is stated per project, not per page."
+    },
+    {
+      "key": "capacity",
+      "label": "Fill capacity",
+      "unit": "ml / oz",
+      "value": null,
+      "status": "pending",
+      "public": false,
+      "needed": "The pour you actually serve",
+      "source": "tool drawing",
+      "note": "Capacity comes from the cavity, so it is confirmed with the tool, not before it."
+    },
+    {
+      "key": "topDiameter",
+      "label": "Top diameter",
+      "unit": "mm",
+      "value": null,
+      "status": "pending",
+      "public": false,
+      "needed": "Tool drawing",
+      "source": "tool drawing",
+      "note": "Measured on the tool drawing and re-checked on the T1 sample."
+    },
+    {
+      "key": "baseDiameter",
+      "label": "Base diameter",
+      "unit": "mm",
+      "value": null,
+      "status": "pending",
+      "public": false,
+      "needed": "Tool drawing",
+      "source": "tool drawing",
+      "note": "Drives stacking and how the glass sits on a tray."
+    },
+    {
+      "key": "height",
+      "label": "Overall height",
+      "unit": "mm",
+      "value": null,
+      "status": "pending",
+      "public": false,
+      "needed": "Tool drawing",
+      "source": "tool drawing",
+      "note": "Rim style (straight or rolled) changes the finished height."
+    },
+    {
+      "key": "wallThickness",
+      "label": "Wall thickness",
+      "unit": "mm",
+      "value": null,
+      "status": "pending",
+      "public": false,
+      "needed": "Tool drawing",
+      "source": "tool drawing",
+      "note": "Fixed by the cavity and core. It is not adjustable after the tool is cut."
+    },
+    {
+      "key": "weight",
+      "label": "Piece weight",
+      "unit": "g",
+      "value": null,
+      "status": "pending",
+      "public": false,
+      "needed": "Weighed from the approved sample",
+      "source": "T1 sample",
+      "note": "Used for freight and carton calculations, so it is measured, never estimated."
+    },
+    {
+      "key": "moq",
+      "label": "Minimum order",
+      "unit": "pcs",
+      "value": null,
+      "status": "pending",
+      "public": false,
+      "needed": "Mold route",
+      "source": "quotation",
+      "note": "Set by the route: an existing tool, a modified tool, or a new tool. Published route terms apply."
+    },
+    {
+      "key": "decoration",
+      "label": "Decoration",
+      "unit": null,
+      "value": "Screen print, UV print, pad print, foil stamp",
+      "status": "confirmed",
+      "public": true,
+      "needed": "Artwork and placement",
+      "source": "in-house",
+      "note": "The method is confirmed against the artwork; the printable area is confirmed on the proof."
+    },
+    {
+      "key": "packing",
+      "label": "Packing",
+      "unit": null,
+      "value": "Bulk carton, polybag, printed sleeve, gift box, insert",
+      "status": "confirmed",
+      "public": true,
+      "needed": "Pack quantity and channel rules",
+      "source": "in-house",
+      "note": "Retail and marketplace rules (barcode, carton marks) are set per order."
+    },
+    {
+      "key": "documents",
+      "label": "Food-contact documents",
+      "unit": null,
+      "value": "Issued for the exact resin and color used",
+      "status": "on-request",
+      "public": true,
+      "needed": "The resin and color code",
+      "source": "third-party lab",
+      "note": "Documents follow the material actually molded, so they are requested per order."
+    }
+  ],
+  "routes": [
+    {
+      "id": "existing-mold",
+      "num": "01",
+      "title": "Existing mold production",
+      "short": "Run a tool that already exists",
+      "bestFor": "A launch date that cannot move",
+      "changes": ["Body colour", "Logo and decoration", "Packing"],
+      "stays": ["The tool", "The dimensions", "The wall section"],
+      "commitment": "Existing-tool minimum",
+      "tooling": "New tooling: no"
+    },
+    {
+      "id": "mold-modification",
+      "num": "02",
+      "title": "Existing mold modification",
+      "short": "Change one part of a tool",
+      "bestFor": "A shape that is close but not right",
+      "changes": ["Capacity", "Rim or base", "Wall section", "Logo area"],
+      "stays": ["The tool frame", "The outside envelope"],
+      "commitment": "One-part modification minimum",
+      "tooling": "New tooling: the changed insert only"
+    },
+    {
+      "id": "new-mold",
+      "num": "03",
+      "title": "New mold development",
+      "short": "Cut a new tool",
+      "bestFor": "A shape that does not exist yet",
+      "changes": ["Everything"],
+      "stays": ["Nothing"],
+      "commitment": "New-tool production minimum",
+      "tooling": "New tooling: required"
+    }
+  ],
+  "openQuestions": [
+    "Which existing shot glass tools are available, and at what capacity?",
+    "Which resin grades are stocked for shot glass molding, and which are order-specific?",
+    "Measured dimensions and piece weight for each available tool",
+    "Minimum order for each of the three routes, shot-glass specific",
+    "Printable area and maximum number of print colours per method",
+    "Packing configurations already tooled (sleeve, insert, box)",
+    "Available food-contact and migration reports, and their expiry dates",
+    "Standard carton quantity and carton dimensions per model"
+  ]
+}

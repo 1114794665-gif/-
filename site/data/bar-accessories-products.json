@@ -1,0 +1,622 @@
+{
+ "generatedAt": "2026-11-16",
+ "generatedBy": "_m02/build_dataset.py",
+ "route": "/bar-accessories/",
+ "basis": "M0.1 工作簿 03_商品归类全表「在本页=是」的 75 个 SKU，与 site/bar-accessories/index.html 的真实卡片逐条核对一致",
+ "total": 75,
+ "groupCount": 15,
+ "productGroupCount": 4,
+ "productGroups": [
+  {
+   "id": "cocktail-tools",
+   "name": "Cocktail Tools",
+   "nameZh": "调酒工具",
+   "count": 46,
+   "groups": [
+    "cocktail-tools",
+    "wine-pourers",
+    "wine-aerators",
+    "wine-stoppers",
+    "other-bar-accessories",
+    "drink-markers",
+    "wine-openers",
+    "bottle-openers"
+   ]
+  },
+  {
+   "id": "ice-tools-mats",
+   "name": "Ice Tools & Bar Mats",
+   "nameZh": "冰具与吧垫",
+   "count": 10,
+   "groups": [
+    "ice-tools",
+    "bar-mats"
+   ]
+  },
+  {
+   "id": "serving",
+   "name": "Serving Accessories",
+   "nameZh": "服务类配件",
+   "count": 13,
+   "groups": [
+    "coasters",
+    "serving-trays",
+    "bar-pitchers"
+   ]
+  },
+  {
+   "id": "sleeves",
+   "name": "Can & Bottle Sleeves / Straws",
+   "nameZh": "罐套瓶套与吸管",
+   "count": 6,
+   "groups": [
+    "can-coolers",
+    "silicone-straws"
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "coasters",
+   "label": "Coasters",
+   "labelZh": "杯垫",
+   "count": 2,
+   "productGroup": "serving"
+  },
+  {
+   "id": "ice-tools",
+   "label": "Ice Tools &amp; Accessories",
+   "labelZh": "冰具配件",
+   "count": 6,
+   "productGroup": "ice-tools-mats"
+  },
+  {
+   "id": "can-coolers",
+   "label": "Can &amp; Bottle Sleeves",
+   "labelZh": "罐套与瓶套",
+   "count": 5,
+   "productGroup": "sleeves"
+  },
+  {
+   "id": "silicone-straws",
+   "label": "Silicone Straws",
+   "labelZh": "硅胶吸管",
+   "count": 1,
+   "productGroup": "sleeves"
+  },
+  {
+   "id": "bar-mats",
+   "label": "Bar Mats",
+   "labelZh": "吧垫",
+   "count": 4,
+   "productGroup": "ice-tools-mats"
+  },
+  {
+   "id": "cocktail-tools",
+   "label": "Cocktail Tools",
+   "labelZh": "鸡尾酒工具",
+   "count": 10,
+   "productGroup": "cocktail-tools"
+  },
+  {
+   "id": "wine-pourers",
+   "label": "Pourers &amp; Sippers",
+   "labelZh": "倒酒器与饮酒嘴",
+   "count": 8,
+   "productGroup": "cocktail-tools"
+  },
+  {
+   "id": "wine-aerators",
+   "label": "Wine Aerators &amp; Dispensers",
+   "labelZh": "醒酒器与分酒器",
+   "count": 2,
+   "productGroup": "cocktail-tools"
+  },
+  {
+   "id": "wine-stoppers",
+   "label": "Wine Stoppers",
+   "labelZh": "酒塞",
+   "count": 9,
+   "productGroup": "cocktail-tools"
+  },
+  {
+   "id": "other-bar-accessories",
+   "label": "More Bar Accessories",
+   "labelZh": "其他配件",
+   "count": 4,
+   "productGroup": "cocktail-tools"
+  },
+  {
+   "id": "serving-trays",
+   "label": "Serving Trays",
+   "labelZh": "服务托盘",
+   "count": 2,
+   "productGroup": "serving"
+  },
+  {
+   "id": "bar-pitchers",
+   "label": "Pitchers &amp; Carafes",
+   "labelZh": "扎壶与饮料壶",
+   "count": 9,
+   "productGroup": "serving"
+  },
+  {
+   "id": "drink-markers",
+   "label": "Drink Markers &amp; Charms",
+   "labelZh": "酒杯标识",
+   "count": 1,
+   "productGroup": "cocktail-tools"
+  },
+  {
+   "id": "wine-openers",
+   "label": "Wine Openers &amp; Corkscrews",
+   "labelZh": "红酒开瓶器",
+   "count": 3,
+   "productGroup": "cocktail-tools"
+  },
+  {
+   "id": "bottle-openers",
+   "label": "Bottle Openers",
+   "labelZh": "开瓶器",
+   "count": 9,
+   "productGroup": "cocktail-tools"
+  }
+ ],
+ "excluded": {
+  "iceBucketsMovedTo": "/custom-ice-buckets/",
+  "iceBucketSkuCount": 14,
+  "note": "14 个非 LED 冰桶归入现有 Custom Ice Buckets 页面，不计入 Bar Accessories。"
+ },
+ "products": [
+  {
+   "sku": "BD-001",
+   "name": "BOOM Drinkware Silicone Coaster - Gummy (Round)",
+   "url": "/products/silicone-coaster-gummy/",
+   "group": "coasters"
+  },
+  {
+   "sku": "BD-002",
+   "name": "BOOM Drinkware Silicone Coaster - Jelly (Square)",
+   "url": "/products/silicone-coaster-jelly/",
+   "group": "coasters"
+  },
+  {
+   "sku": "JBPJ-026",
+   "name": "BOOM Drinkware Black Plastic Ice Scoop with Drain",
+   "url": "/products/black-plastic-ice-scoop-with-drain/",
+   "group": "ice-tools"
+  },
+  {
+   "sku": "JBPJ-027",
+   "name": "BOOM Drinkware 32 oz Plastic Ice Scoop",
+   "url": "/products/32-oz-plastic-ice-scoop/",
+   "group": "ice-tools"
+  },
+  {
+   "sku": "JBPJ-030",
+   "name": "BOOM Drinkware Your Letter Clear Ice Maker",
+   "url": "/products/your-letter-clear-ice-maker/",
+   "group": "ice-tools"
+  },
+  {
+   "sku": "JBPJ-037",
+   "name": "BOOM Drinkware Novelty Ice Trays",
+   "url": "/products/novelty-ice-trays/",
+   "group": "ice-tools"
+  },
+  {
+   "sku": "JBPJ-038",
+   "name": "BOOM Drinkware Silicone Lid for Ice Tray",
+   "url": "/products/silicone-lid-for-ice-tray/",
+   "group": "ice-tools"
+  },
+  {
+   "sku": "JBPJ-047",
+   "name": "BOOM Drinkware ICE TONG",
+   "url": "/products/ice-tong/",
+   "group": "ice-tools"
+  },
+  {
+   "sku": "BTAO-001",
+   "name": "BOOM Drinkware Slim Can Silicone Sleeve (Full Length)",
+   "url": "/products/slim-can-silicone-sleeve/",
+   "group": "can-coolers"
+  },
+  {
+   "sku": "BTAO-002",
+   "name": "BOOM Drinkware Roll-on Silicone Bottle Beer Rubber",
+   "url": "/products/roll-on-silicone-bottle-beer-rubber/",
+   "group": "can-coolers"
+  },
+  {
+   "sku": "BTAO-003",
+   "name": "BOOM Drinkware Neoprene Zippered Bottle Cooler",
+   "url": "/products/neoprene-zippered-bottle-cooler/",
+   "group": "can-coolers"
+  },
+  {
+   "sku": "BTAO-004",
+   "name": "BOOM Drinkware Custom Neoprene Pint Glass Sleeve",
+   "url": "/products/custom-neoprene-pint-glass-sleeve/",
+   "group": "can-coolers"
+  },
+  {
+   "sku": "BTAO-005",
+   "name": "BOOM Drinkware Full Color Collapsible Foam Can Cooler",
+   "url": "/products/full-color-collapsible-foam-can-cooler/",
+   "group": "can-coolers"
+  },
+  {
+   "sku": "GJXG-001",
+   "name": "BOOM Drinkware Silicone Sili-Straw",
+   "url": "/products/silicone-sili-straw/",
+   "group": "silicone-straws"
+  },
+  {
+   "sku": "JBPJ-001",
+   "name": "BOOM Drinkware Wholesale Bar Service Mat",
+   "url": "/products/wholesale-bar-service-mat/",
+   "group": "bar-mats"
+  },
+  {
+   "sku": "JBPJ-002",
+   "name": "BOOM Drinkware Banter Bar Mats (SILI-BM)",
+   "url": "/products/bar-mats/",
+   "group": "bar-mats"
+  },
+  {
+   "sku": "JBPJ-003",
+   "name": "BOOM Drinkware Silicone Drying Mat - Black 12x16",
+   "url": "/products/silicone-drying-mat-black-12x16/",
+   "group": "bar-mats"
+  },
+  {
+   "sku": "JBPJ-004",
+   "name": "BOOM Drinkware Interlocking 12″ x 8″ Glass Mats",
+   "url": "/products/interlocking-12-x-8-glass/",
+   "group": "bar-mats"
+  },
+  {
+   "sku": "JBPJ-013",
+   "name": "BOOM Drinkware Molded Swizzle Sticks",
+   "url": "/products/molded-swizzle-sticks/",
+   "group": "cocktail-tools"
+  },
+  {
+   "sku": "JBPJ-018",
+   "name": "BOOM Drinkware Custom Molded Cocktail Pick",
+   "url": "/products/custom-molded-cocktail-pick/",
+   "group": "cocktail-tools"
+  },
+  {
+   "sku": "JBPJ-019",
+   "name": "BOOM Drinkware Sports Ball Cocktail Pick",
+   "url": "/products/sports-ball-cocktail-pick/",
+   "group": "cocktail-tools"
+  },
+  {
+   "sku": "JBPJ-020",
+   "name": "BOOM Drinkware Plastic Jiggers with Measuring Lines",
+   "url": "/products/plastic-jiggers-with-measuring-lines/",
+   "group": "cocktail-tools"
+  },
+  {
+   "sku": "JBPJ-021",
+   "name": "BOOM Drinkware Acrylic Pyramid™ Jiggers - Multi Colored",
+   "url": "/products/acrylic-pyramid-jiggers-multi-colored/",
+   "group": "cocktail-tools"
+  },
+  {
+   "sku": "JBPJ-022",
+   "name": "BOOM Drinkware Aqua Kaleidoscope Double Sided Jigger 1oz x 1.5oz",
+   "url": "/products/aqua-kaleidoscope-double-sided-jigger-1oz/",
+   "group": "cocktail-tools"
+  },
+  {
+   "sku": "JBPJ-023",
+   "name": "BOOM Drinkware Multi-purpose Cocktail Spoon",
+   "url": "/products/multi-purpose-cocktail-spoon/",
+   "group": "cocktail-tools"
+  },
+  {
+   "sku": "JBPJ-024",
+   "name": "BOOM Drinkware Composite Muddler 12\"",
+   "url": "/products/composite-muddler-12/",
+   "group": "cocktail-tools"
+  },
+  {
+   "sku": "JBPJ-025",
+   "name": "BOOM Drinkware 4in1 Multipurpose Cocktail Mortar",
+   "url": "/products/4in1-multipurpose-cocktail-mortar/",
+   "group": "cocktail-tools"
+  },
+  {
+   "sku": "JBPJ-062",
+   "name": "BOOM Drinkware Boston Shaker Kit",
+   "url": "/products/boston-shaker-kit/",
+   "group": "cocktail-tools"
+  },
+  {
+   "sku": "JBPJ-039",
+   "name": "BOOM Drinkware Wine Pourer and Stopper 2-in-1",
+   "url": "/products/wine-pourer-and-stopper-2-in/",
+   "group": "wine-pourers"
+  },
+  {
+   "sku": "JBPJ-042",
+   "name": "BOOM Drinkware Champagne Sipper for 16.1 mm Bottle - Standard / Plated",
+   "url": "/products/champagne-sipper-for-16-1-mm/",
+   "group": "wine-pourers"
+  },
+  {
+   "sku": "JBPJ-064",
+   "name": "BOOM Drinkware Sipper &amp; Pourer - Universal Version for 16-19mm bottle",
+   "url": "/products/sipper-pourer-universal-version-for-16/",
+   "group": "wine-pourers"
+  },
+  {
+   "sku": "JBPJ-065",
+   "name": "BOOM Drinkware Bottle Pourer - Tulip shape",
+   "url": "/products/bottle-pourer-tulip-shape/",
+   "group": "wine-pourers"
+  },
+  {
+   "sku": "JBPJ-066",
+   "name": "BOOM Drinkware Stopper &amp; Pourer 2 in 1 with Silver Foil decorate",
+   "url": "/products/stopper-pourer-2-in-1-with/",
+   "group": "wine-pourers"
+  },
+  {
+   "sku": "JBPJ-067",
+   "name": "BOOM Drinkware Sipper &amp; Pourer for 16-19mm Bottle - Standard / Plated",
+   "url": "/products/sipper-pourer-universal-ver-for-16/",
+   "group": "wine-pourers"
+  },
+  {
+   "sku": "JBPJ-068",
+   "name": "BOOM Drinkware Bottle Pourer",
+   "url": "/products/bottle-pourer/",
+   "group": "wine-pourers"
+  },
+  {
+   "sku": "JS-040",
+   "name": "BOOM Drinkware Sipper with logo",
+   "url": "/products/moet-sipper-with-moet-logo/",
+   "group": "wine-pourers"
+  },
+  {
+   "sku": "JBPJ-040",
+   "name": "BOOM Drinkware Wine Aerator Pourer",
+   "url": "/products/wine-aerator-pourer/",
+   "group": "wine-aerators"
+  },
+  {
+   "sku": "JBPJ-041",
+   "name": "BOOM Drinkware Hawk Wine Aerator Pourer",
+   "url": "/products/hawk-wine-aerator-pourer/",
+   "group": "wine-aerators"
+  },
+  {
+   "sku": "JBPJ-044",
+   "name": "BOOM Drinkware Bottle Stopper and Wine Charm 2-in-1",
+   "url": "/products/bottle-stopper-and-wine-charm-2/",
+   "group": "wine-stoppers"
+  },
+  {
+   "sku": "JBPJ-045",
+   "name": "BOOM Drinkware Champagne Stopper for 17.5-18 mm",
+   "url": "/products/champagne-stopper-for-17-5/",
+   "group": "wine-stoppers"
+  },
+  {
+   "sku": "JBPJ-072",
+   "name": "BOOM Drinkware Vacuum Pump + 4x stopper S/5",
+   "url": "/products/vacuum-pump-4x-stopper-s-5/",
+   "group": "wine-stoppers"
+  },
+  {
+   "sku": "JS-031",
+   "name": "BOOM Drinkware Champagne stopper",
+   "url": "/products/champagne-stopper/",
+   "group": "wine-stoppers"
+  },
+  {
+   "sku": "JS-033",
+   "name": "BOOM Drinkware Vacuum Wine Stopper-Keep fresh 7days for wine",
+   "url": "/products/vacuum-wine-stopper-keep-fresh-7days/",
+   "group": "wine-stoppers"
+  },
+  {
+   "sku": "JS-034",
+   "name": "BOOM Drinkware Bottle stopper-Funny design",
+   "url": "/products/bottle-stopper-funny-design/",
+   "group": "wine-stoppers"
+  },
+  {
+   "sku": "JS-037",
+   "name": "BOOM Drinkware Champagne stopper with Plating/Painting",
+   "url": "/products/champagne-stopper-with-plating-painting/",
+   "group": "wine-stoppers"
+  },
+  {
+   "sku": "JS-038",
+   "name": "BOOM Drinkware Vacuum Wine Stopper with 31 Date Scale",
+   "url": "/products/vacuum-wine-stopper-with-31-date/",
+   "group": "wine-stoppers"
+  },
+  {
+   "sku": "JS-042",
+   "name": "BOOM Drinkware Vacuum Soda Stopper -Pump air in for bubble",
+   "url": "/products/vacuum-soda-stopper-pump-air-in/",
+   "group": "wine-stoppers"
+  },
+  {
+   "sku": "JBPJ-048",
+   "name": "BOOM Drinkware Bar Salt Glass Rimmer-3 Tier",
+   "url": "/products/bar-salt-glass-rimmer-3-tier/",
+   "group": "other-bar-accessories"
+  },
+  {
+   "sku": "JBPJ-049",
+   "name": "BOOM Drinkware Bottle Rack - For 6 bottles",
+   "url": "/products/bottle-rack-for-6-bottles/",
+   "group": "other-bar-accessories"
+  },
+  {
+   "sku": "JBPJ-050",
+   "name": "BOOM Drinkware Margarita clip - Straight Version",
+   "url": "/products/corona-margarita-clip-straight-version/",
+   "group": "other-bar-accessories"
+  },
+  {
+   "sku": "JBPJ-060",
+   "name": "BOOM Drinkware 24 oz. Acrylic Cocktail Mixer - 3-Piece Set",
+   "url": "/products/24-oz-acrylic-cocktail-mixer-3/",
+   "group": "other-bar-accessories"
+  },
+  {
+   "sku": "JBPJ-052",
+   "name": "BOOM Drinkware Diner Plastic Food &amp; Drinks Trays - 410 x 300 mm",
+   "url": "/products/diner-plastic-food-drinks-trays-410/",
+   "group": "serving-trays"
+  },
+  {
+   "sku": "JBPJ-053",
+   "name": "BOOM Drinkware Ibiza Round Non-Slip Drinks Tray - 320 mm dia.",
+   "url": "/products/ibiza-round-non-slip-drinks-tray/",
+   "group": "serving-trays"
+  },
+  {
+   "sku": "JBPJ-056",
+   "name": "BOOM Drinkware Acrylic Beverage Carafe - 36 oz / 56 oz",
+   "url": "/products/acrylic-beverage-carafe/",
+   "group": "bar-pitchers"
+  },
+  {
+   "sku": "JBPJ-057",
+   "name": "BOOM Drinkware 64 oz. Plug Lid Acrylic Pitcher",
+   "url": "/products/64-oz-plug-lid-acrylic-pitcher/",
+   "group": "bar-pitchers"
+  },
+  {
+   "sku": "JBPJ-058",
+   "name": "BOOM Drinkware 37 oz. Acrylic Pitcher",
+   "url": "/products/37-oz-acrylic-pitcher/",
+   "group": "bar-pitchers"
+  },
+  {
+   "sku": "JBPJ-059",
+   "name": "BOOM Drinkware 56 oz. Acrylic Square Juice Pitcher",
+   "url": "/products/56-oz-acrylic-square-juice-pitcher/",
+   "group": "bar-pitchers"
+  },
+  {
+   "sku": "JBPJ-063",
+   "name": "BOOM Drinkware Margarita Cocktail Drink Pitcher - 54 oz",
+   "url": "/products/margarita-cocktail-drink-pitcher/",
+   "group": "bar-pitchers"
+  },
+  {
+   "sku": "PJB-012",
+   "name": "BOOM Drinkware 1.4L / 1.5L Plastic Beer Pitcher",
+   "url": "/products/1-4l-1-5l-plastic-beer/",
+   "group": "bar-pitchers"
+  },
+  {
+   "sku": "SJZH-018",
+   "name": "BOOM Drinkware Bar Beer Plastic Pitcher Jug - 2L",
+   "url": "/products/bar-beer-plastic-pitcher-jug/",
+   "group": "bar-pitchers"
+  },
+  {
+   "sku": "SJZH-020",
+   "name": "BOOM Drinkware Stackable Plastic Pitcher - 1.5L",
+   "url": "/products/stackable-plastic-pitcher/",
+   "group": "bar-pitchers"
+  },
+  {
+   "sku": "SJZH-021",
+   "name": "BOOM Drinkware Long Trail 70oz Plastic Pitcher",
+   "url": "/products/long-trail-70oz-plastic-pitcher/",
+   "group": "bar-pitchers"
+  },
+  {
+   "sku": "JBPJ-074",
+   "name": "BOOM Drinkware Koala Shaped Silicone Wine Glass Charms (BT-15)",
+   "url": "/products/koala-shaped-silicone-wine-glass-charms/",
+   "group": "drink-markers"
+  },
+  {
+   "sku": "JS-039",
+   "name": "BOOM Drinkware Wing Corkscrew",
+   "url": "/products/wing-corkscrew/",
+   "group": "wine-openers"
+  },
+  {
+   "sku": "KPQ-006",
+   "name": "BOOM Drinkware Goose head Manual Wine Opener",
+   "url": "/products/goose-head-manual-wine-opener/",
+   "group": "wine-openers"
+  },
+  {
+   "sku": "KPQ-007",
+   "name": "BOOM Drinkware Manual Wine Opener Kit S/4",
+   "url": "/products/manual-wine-opener-kit-s-4/",
+   "group": "wine-openers"
+  },
+  {
+   "sku": "KPQ-005",
+   "name": "BOOM Drinkware Plastic Beer Opener",
+   "url": "/products/plastic-beer-opener/",
+   "group": "bottle-openers"
+  },
+  {
+   "sku": "KPQ-022",
+   "name": "BOOM Drinkware Custom Silicone Grip Bottle Opener",
+   "url": "/products/custom-silicone-grip-bottle-opener/",
+   "group": "bottle-openers"
+  },
+  {
+   "sku": "KPQ-023",
+   "name": "BOOM Drinkware Christmas Silicone Bottle Cap Opener",
+   "url": "/products/christmas-silicone-bottle-cap-opener/",
+   "group": "bottle-openers"
+  },
+  {
+   "sku": "KPQ-024",
+   "name": "BOOM Drinkware Keychain Bottle Opener",
+   "url": "/products/keychain-bottle-opener/",
+   "group": "bottle-openers"
+  },
+  {
+   "sku": "KPQ-025",
+   "name": "BOOM Drinkware Stainless Steel Credit Card Bottle Opener",
+   "url": "/products/stainless-steel-credit-card-bottle-opener/",
+   "group": "bottle-openers"
+  },
+  {
+   "sku": "KPQ-026",
+   "name": "BOOM Drinkware Poker Card Bottle Opener",
+   "url": "/products/poker-card-bottle-opener/",
+   "group": "bottle-openers"
+  },
+  {
+   "sku": "KPQ-031",
+   "name": "BOOM Drinkware Metal Pocket Bottle Opener",
+   "url": "/products/metal-pocket-bottle-opener/",
+   "group": "bottle-openers"
+  },
+  {
+   "sku": "KPQ-033",
+   "name": "BOOM Drinkware Engraved Wine Bottle Opener",
+   "url": "/products/engraved-wine-bottle-opener/",
+   "group": "bottle-openers"
+  },
+  {
+   "sku": "KPQ-034",
+   "name": "BOOM Drinkware Metal Beer Opener",
+   "url": "/products/metal-beer-opener/",
+   "group": "bottle-openers"
+  }
+ ]
+}
