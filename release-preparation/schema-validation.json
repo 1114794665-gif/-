@@ -1,0 +1,1529 @@
+{
+  "backup": "C:/Users/Administrator/WorkBuddy/2026-10-10-21-06-28/evercup-site/_internal/schema-normalize-1795437703555",
+  "pages": [
+    {
+      "route": "/",
+      "errors": []
+    },
+    {
+      "route": "/16-oz-custom-cups/",
+      "errors": []
+    },
+    {
+      "route": "/acrylic-drinkware/",
+      "errors": []
+    },
+    {
+      "route": "/bachelorette-party-cups/",
+      "errors": []
+    },
+    {
+      "route": "/backyard-bbq-cups/",
+      "errors": []
+    },
+    {
+      "route": "/bar-accessories/",
+      "errors": []
+    },
+    {
+      "route": "/beach-party-cups/",
+      "errors": []
+    },
+    {
+      "route": "/birthday-party-cups/",
+      "errors": []
+    },
+    {
+      "route": "/blank-drinkware/",
+      "errors": []
+    },
+    {
+      "route": "/blog/",
+      "errors": []
+    },
+    {
+      "route": "/blog/apec-2026-shenzhen/",
+      "errors": []
+    },
+    {
+      "route": "/bulk-drinkware/",
+      "errors": []
+    },
+    {
+      "route": "/camping-drinkware/",
+      "errors": []
+    },
+    {
+      "route": "/case-studies/",
+      "errors": []
+    },
+    {
+      "route": "/catalog-download/",
+      "errors": []
+    },
+    {
+      "route": "/clear-plastic-cups/",
+      "errors": []
+    },
+    {
+      "route": "/collapsible-cups/",
+      "errors": []
+    },
+    {
+      "route": "/collapsible-travel-cups/",
+      "errors": []
+    },
+    {
+      "route": "/color-changing-cups/",
+      "errors": []
+    },
+    {
+      "route": "/color-changing-ink/",
+      "errors": []
+    },
+    {
+      "route": "/compliance/",
+      "errors": []
+    },
+    {
+      "route": "/contact/",
+      "errors": []
+    },
+    {
+      "route": "/cup-materials-guide/",
+      "errors": []
+    },
+    {
+      "route": "/custom-beer-mugs/",
+      "errors": []
+    },
+    {
+      "route": "/custom-bottle-openers/",
+      "errors": []
+    },
+    {
+      "route": "/custom-champagne-flutes/",
+      "errors": []
+    },
+    {
+      "route": "/custom-drinkware-decals/",
+      "errors": []
+    },
+    {
+      "route": "/custom-ice-buckets/",
+      "errors": []
+    },
+    {
+      "route": "/custom-led-drinkware/",
+      "errors": []
+    },
+    {
+      "route": "/custom-plastic-cups/",
+      "errors": []
+    },
+    {
+      "route": "/custom-shot-glasses/",
+      "errors": []
+    },
+    {
+      "route": "/custom-silicone-cups/",
+      "errors": []
+    },
+    {
+      "route": "/custom-tumblers/",
+      "errors": []
+    },
+    {
+      "route": "/custom-wine-glasses/",
+      "errors": []
+    },
+    {
+      "route": "/distributor-program/",
+      "errors": []
+    },
+    {
+      "route": "/factory/",
+      "errors": []
+    },
+    {
+      "route": "/family-event-cups/",
+      "errors": []
+    },
+    {
+      "route": "/faq/",
+      "errors": []
+    },
+    {
+      "route": "/free-samples/",
+      "errors": []
+    },
+    {
+      "route": "/glow-in-the-dark-cups/",
+      "errors": []
+    },
+    {
+      "route": "/graduation-party-cups/",
+      "errors": []
+    },
+    {
+      "route": "/heat-transfer-printing/",
+      "errors": []
+    },
+    {
+      "route": "/holiday-party-cups/",
+      "errors": []
+    },
+    {
+      "route": "/laser-engraving/",
+      "errors": []
+    },
+    {
+      "route": "/led-light-up-cups/",
+      "errors": []
+    },
+    {
+      "route": "/low-moq-custom-cups/",
+      "errors": []
+    },
+    {
+      "route": "/new-arrivals/",
+      "errors": []
+    },
+    {
+      "route": "/no-minimum-custom-cups/",
+      "errors": []
+    },
+    {
+      "route": "/oem-manufacturer/",
+      "errors": []
+    },
+    {
+      "route": "/open-air-nightclub/",
+      "errors": []
+    },
+    {
+      "route": "/our-service/",
+      "errors": []
+    },
+    {
+      "route": "/personalized-drinkware/",
+      "errors": []
+    },
+    {
+      "route": "/pet-plastic-cups/",
+      "errors": []
+    },
+    {
+      "route": "/pool-party-cups/",
+      "errors": []
+    },
+    {
+      "route": "/privacy/",
+      "errors": []
+    },
+    {
+      "route": "/private-label-drinkware/",
+      "errors": []
+    },
+    {
+      "route": "/products/",
+      "errors": []
+    },
+    {
+      "route": "/products/10-5oz-ribbed-plastic-coupe-glasses/",
+      "errors": []
+    },
+    {
+      "route": "/products/12-oz-double-wall-plastic-tumbler/",
+      "errors": []
+    },
+    {
+      "route": "/products/12oz-plastic-stein-cups-with-1/",
+      "errors": []
+    },
+    {
+      "route": "/products/15oz-plastic-margarita-glass/",
+      "errors": []
+    },
+    {
+      "route": "/products/16-oz-color-changing-plastic-stadium-bsb002/",
+      "errors": []
+    },
+    {
+      "route": "/products/18-5oz-tritan-wine-glass/",
+      "errors": []
+    },
+    {
+      "route": "/products/22oz-plastic-beer-mug/",
+      "errors": []
+    },
+    {
+      "route": "/products/3-7l/",
+      "errors": []
+    },
+    {
+      "route": "/products/4-5oz-plastic-champagne-flute-injected/",
+      "errors": []
+    },
+    {
+      "route": "/products/41140-footed-pilsner-x4-414ml/",
+      "errors": []
+    },
+    {
+      "route": "/products/5-8oz-plastic-champagne-flute/",
+      "errors": []
+    },
+    {
+      "route": "/products/6-3oz-plastic-martini-glass/",
+      "errors": []
+    },
+    {
+      "route": "/products/7-5oz-plasic-iso-standard-wine/",
+      "errors": []
+    },
+    {
+      "route": "/products/7oz-plastic-cocktail-glass/",
+      "errors": []
+    },
+    {
+      "route": "/products/8l-asymmetric-hollow-logo-designer-led/",
+      "errors": []
+    },
+    {
+      "route": "/products/8oz-plastic-wine-glasses/",
+      "errors": []
+    },
+    {
+      "route": "/products/9oz-stemless-pet-champagne-flute/",
+      "errors": []
+    },
+    {
+      "route": "/products/acrylic-party-beer-tumbler/",
+      "errors": []
+    },
+    {
+      "route": "/products/bar-salt-glass-rimmer-3-tier/",
+      "errors": []
+    },
+    {
+      "route": "/products/bottle-pourer-tulip-shape/",
+      "errors": []
+    },
+    {
+      "route": "/products/bottle-pourer/",
+      "errors": []
+    },
+    {
+      "route": "/products/bottle-stopper-and-wine-charm-2/",
+      "errors": []
+    },
+    {
+      "route": "/products/bottle-stopper-funny-design/",
+      "errors": []
+    },
+    {
+      "route": "/products/champagne-sipper-for-16-1-mm/",
+      "errors": []
+    },
+    {
+      "route": "/products/champagne-stopper-for-17-5/",
+      "errors": []
+    },
+    {
+      "route": "/products/champagne-stopper-with-plating-painting/",
+      "errors": []
+    },
+    {
+      "route": "/products/champagne-stopper/",
+      "errors": []
+    },
+    {
+      "route": "/products/collapsible-mug/",
+      "errors": []
+    },
+    {
+      "route": "/products/corona-margarita-clip-straight-version/",
+      "errors": []
+    },
+    {
+      "route": "/products/customized-silicone-12oz-wine-gjb008/",
+      "errors": []
+    },
+    {
+      "route": "/products/customized-silicone-16oz-straw/",
+      "errors": []
+    },
+    {
+      "route": "/products/elite-nucleated-polycarbonate-pint-tumblers/",
+      "errors": []
+    },
+    {
+      "route": "/products/goose-head-manual-wine-opener/",
+      "errors": []
+    },
+    {
+      "route": "/products/hawk-wine-aerator-pourer/",
+      "errors": []
+    },
+    {
+      "route": "/products/hydaway-collapsible-pint/",
+      "errors": []
+    },
+    {
+      "route": "/products/hydaway-collapsible-tumbler-with-lid/",
+      "errors": []
+    },
+    {
+      "route": "/products/irregular-shape-led-bottom-lit-ice/",
+      "errors": []
+    },
+    {
+      "route": "/products/katerglass-plastic-pint-tumblers-22oz-lce/",
+      "errors": []
+    },
+    {
+      "route": "/products/led-disco-ball-tumbler-cups-deluxe/",
+      "errors": []
+    },
+    {
+      "route": "/products/led-light-up-beer-mug/",
+      "errors": []
+    },
+    {
+      "route": "/products/led-light-up-color-changing-glow/",
+      "errors": []
+    },
+    {
+      "route": "/products/led-light-up-ice-bucket-with/",
+      "errors": []
+    },
+    {
+      "route": "/products/led-light-up-multicolor-whiskey-glass/",
+      "errors": []
+    },
+    {
+      "route": "/products/led-light-up-spiral-stem-martini/",
+      "errors": []
+    },
+    {
+      "route": "/products/led-short-tumbler/",
+      "errors": []
+    },
+    {
+      "route": "/products/light-up-beer-boot-mug-led/",
+      "errors": []
+    },
+    {
+      "route": "/products/light-up-disco-ball-light-projecting/",
+      "errors": []
+    },
+    {
+      "route": "/products/light-up-multicolor-led-pilsner-cup/",
+      "errors": []
+    },
+    {
+      "route": "/products/light-up-slow-change-led-shot/",
+      "errors": []
+    },
+    {
+      "route": "/products/long-stem-led-light-up-champagne/",
+      "errors": []
+    },
+    {
+      "route": "/products/manual-wine-opener-kit-s-4/",
+      "errors": []
+    },
+    {
+      "route": "/products/moet-sipper-with-moet-logo/",
+      "errors": []
+    },
+    {
+      "route": "/products/multi-color-light-up-led-mason/",
+      "errors": []
+    },
+    {
+      "route": "/products/multicolor-led-light-up-to-go/",
+      "errors": []
+    },
+    {
+      "route": "/products/multicolor-light-up-spiral-stemmed-wine/",
+      "errors": []
+    },
+    {
+      "route": "/products/oliver-acrylic-mug-with-straw/",
+      "errors": []
+    },
+    {
+      "route": "/products/plastic-beer-opener/",
+      "errors": []
+    },
+    {
+      "route": "/products/plastic-ice-bucket/",
+      "errors": []
+    },
+    {
+      "route": "/products/plastic-wine-glass-with-gold-rim/",
+      "errors": []
+    },
+    {
+      "route": "/products/plastic-wine-goblet-with-gold-plating/",
+      "errors": []
+    },
+    {
+      "route": "/products/purple-led-light-up-shot-glass/",
+      "errors": []
+    },
+    {
+      "route": "/products/silicone-1-5oz-ljb001/",
+      "errors": []
+    },
+    {
+      "route": "/products/silicone-16oz-siliparty-party/",
+      "errors": []
+    },
+    {
+      "route": "/products/silicone-20oz-pint-glass/",
+      "errors": []
+    },
+    {
+      "route": "/products/silicone-25oz-handled-barrel-bpjj005/",
+      "errors": []
+    },
+    {
+      "route": "/products/silicone-28oz-beer-stein-gjb016/",
+      "errors": []
+    },
+    {
+      "route": "/products/silicone-2oz-shumbler-shot-ljb002/",
+      "errors": []
+    },
+    {
+      "route": "/products/silicone-32oz-bomber-cup/",
+      "errors": []
+    },
+    {
+      "route": "/products/silicone-6oz-flight-taster/",
+      "errors": []
+    },
+    {
+      "route": "/products/sipper-pourer-universal-ver-for-16/",
+      "errors": []
+    },
+    {
+      "route": "/products/sipper-pourer-universal-version-for-16/",
+      "errors": []
+    },
+    {
+      "route": "/products/stainless-steel-credit-card-bottle-opener/",
+      "errors": []
+    },
+    {
+      "route": "/products/stopper-pourer-2-in-1-with/",
+      "errors": []
+    },
+    {
+      "route": "/products/traveler-double-walled-wine-tumbler-by/",
+      "errors": []
+    },
+    {
+      "route": "/products/vacuum-pump-4x-stopper-s-5/",
+      "errors": []
+    },
+    {
+      "route": "/products/vacuum-wine-stopper-keep-fresh-7days/",
+      "errors": []
+    },
+    {
+      "route": "/products/vacuum-wine-stopper-with-31-date/",
+      "errors": []
+    },
+    {
+      "route": "/products/white-led-light-up-ice-bucket/",
+      "errors": []
+    },
+    {
+      "route": "/products/wholesale-acrylic-martini-glass-8-5oz/",
+      "errors": []
+    },
+    {
+      "route": "/products/wholesale-go-anywhere-red-wine/",
+      "errors": []
+    },
+    {
+      "route": "/products/wholesale-outdoor-red-wine-glass-22oz/",
+      "errors": []
+    },
+    {
+      "route": "/products/wholesale-plastic-flute-6oz-champagne/",
+      "errors": []
+    },
+    {
+      "route": "/products/wholesale-plastic-stemless-wine-glass-12oz/",
+      "errors": []
+    },
+    {
+      "route": "/products/wholesale-standard-acrylic-wine-glass/",
+      "errors": []
+    },
+    {
+      "route": "/products/wholesale-tritan-martini-glass-9oz/",
+      "errors": []
+    },
+    {
+      "route": "/products/wine-aerator-pourer/",
+      "errors": []
+    },
+    {
+      "route": "/products/wine-pourer-and-stopper-2-in/",
+      "errors": []
+    },
+    {
+      "route": "/products/wing-corkscrew/",
+      "errors": []
+    },
+    {
+      "route": "/promotional-drinkware-supplier/",
+      "errors": []
+    },
+    {
+      "route": "/rush-production/",
+      "errors": []
+    },
+    {
+      "route": "/screen-printing/",
+      "errors": []
+    },
+    {
+      "route": "/sports-team-cups/",
+      "errors": []
+    },
+    {
+      "route": "/tailgate-party-cups/",
+      "errors": []
+    },
+    {
+      "route": "/tasting-events-drinkware/",
+      "errors": []
+    },
+    {
+      "route": "/tritan-drinkware/",
+      "errors": []
+    },
+    {
+      "route": "/unbreakable-drinkware/",
+      "errors": []
+    },
+    {
+      "route": "/uv-printing/",
+      "errors": []
+    },
+    {
+      "route": "/videos/",
+      "errors": []
+    },
+    {
+      "route": "/wedding-cups/",
+      "errors": []
+    },
+    {
+      "route": "/yacht-party-cups/",
+      "errors": []
+    },
+    {
+      "route": "/zh/",
+      "errors": []
+    },
+    {
+      "route": "/zh/16-oz-custom-cups/",
+      "errors": []
+    },
+    {
+      "route": "/zh/acrylic-drinkware/",
+      "errors": []
+    },
+    {
+      "route": "/zh/bachelorette-party-cups/",
+      "errors": []
+    },
+    {
+      "route": "/zh/backyard-bbq-cups/",
+      "errors": []
+    },
+    {
+      "route": "/zh/bar-accessories/",
+      "errors": []
+    },
+    {
+      "route": "/zh/beach-party-cups/",
+      "errors": []
+    },
+    {
+      "route": "/zh/birthday-party-cups/",
+      "errors": []
+    },
+    {
+      "route": "/zh/blank-drinkware/",
+      "errors": []
+    },
+    {
+      "route": "/zh/bulk-drinkware/",
+      "errors": []
+    },
+    {
+      "route": "/zh/camping-drinkware/",
+      "errors": []
+    },
+    {
+      "route": "/zh/case-studies/",
+      "errors": []
+    },
+    {
+      "route": "/zh/catalog-download/",
+      "errors": []
+    },
+    {
+      "route": "/zh/clear-plastic-cups/",
+      "errors": []
+    },
+    {
+      "route": "/zh/collapsible-cups/",
+      "errors": []
+    },
+    {
+      "route": "/zh/collapsible-travel-cups/",
+      "errors": []
+    },
+    {
+      "route": "/zh/color-changing-cups/",
+      "errors": []
+    },
+    {
+      "route": "/zh/color-changing-ink/",
+      "errors": []
+    },
+    {
+      "route": "/zh/contact/",
+      "errors": []
+    },
+    {
+      "route": "/zh/cup-materials-guide/",
+      "errors": []
+    },
+    {
+      "route": "/zh/custom-beer-mugs/",
+      "errors": []
+    },
+    {
+      "route": "/zh/custom-bottle-openers/",
+      "errors": []
+    },
+    {
+      "route": "/zh/custom-champagne-flutes/",
+      "errors": []
+    },
+    {
+      "route": "/zh/custom-drinkware-decals/",
+      "errors": []
+    },
+    {
+      "route": "/zh/custom-ice-buckets/",
+      "errors": []
+    },
+    {
+      "route": "/zh/custom-led-drinkware/",
+      "errors": []
+    },
+    {
+      "route": "/zh/custom-plastic-cups/",
+      "errors": []
+    },
+    {
+      "route": "/zh/custom-shot-glasses/",
+      "errors": []
+    },
+    {
+      "route": "/zh/custom-silicone-cups/",
+      "errors": []
+    },
+    {
+      "route": "/zh/custom-tumblers/",
+      "errors": []
+    },
+    {
+      "route": "/zh/custom-wine-glasses/",
+      "errors": []
+    },
+    {
+      "route": "/zh/distributor-program/",
+      "errors": []
+    },
+    {
+      "route": "/zh/factory/",
+      "errors": []
+    },
+    {
+      "route": "/zh/family-event-cups/",
+      "errors": []
+    },
+    {
+      "route": "/zh/faq/",
+      "errors": []
+    },
+    {
+      "route": "/zh/free-samples/",
+      "errors": []
+    },
+    {
+      "route": "/zh/glow-in-the-dark-cups/",
+      "errors": []
+    },
+    {
+      "route": "/zh/graduation-party-cups/",
+      "errors": []
+    },
+    {
+      "route": "/zh/heat-transfer-printing/",
+      "errors": []
+    },
+    {
+      "route": "/zh/holiday-party-cups/",
+      "errors": []
+    },
+    {
+      "route": "/zh/laser-engraving/",
+      "errors": []
+    },
+    {
+      "route": "/zh/led-light-up-cups/",
+      "errors": []
+    },
+    {
+      "route": "/zh/low-moq-custom-cups/",
+      "errors": []
+    },
+    {
+      "route": "/zh/new-arrivals/",
+      "errors": []
+    },
+    {
+      "route": "/zh/no-minimum-custom-cups/",
+      "errors": []
+    },
+    {
+      "route": "/zh/oem-manufacturer/",
+      "errors": []
+    },
+    {
+      "route": "/zh/open-air-nightclub/",
+      "errors": []
+    },
+    {
+      "route": "/zh/our-service/",
+      "errors": []
+    },
+    {
+      "route": "/zh/personalized-drinkware/",
+      "errors": []
+    },
+    {
+      "route": "/zh/pet-plastic-cups/",
+      "errors": []
+    },
+    {
+      "route": "/zh/pool-party-cups/",
+      "errors": []
+    },
+    {
+      "route": "/zh/privacy/",
+      "errors": []
+    },
+    {
+      "route": "/zh/private-label-drinkware/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/10-5oz-ribbed-plastic-coupe-glasses/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/12-oz-double-wall-plastic-tumbler/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/12oz-plastic-stein-cups-with-1/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/15oz-plastic-margarita-glass/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/16-oz-color-changing-plastic-stadium-bsb002/",
+      "errors": []
+    },
+    {
+      "route": "/products/16-oz-stadium-cup-smooth/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/16-oz-stadium-cup-smooth/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/18-5oz-tritan-wine-glass/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/22oz-plastic-beer-mug/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/3-7l/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/4-5oz-plastic-champagne-flute-injected/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/41140-footed-pilsner-x4-414ml/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/5-8oz-plastic-champagne-flute/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/6-3oz-plastic-martini-glass/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/7-5oz-plasic-iso-standard-wine/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/7oz-plastic-cocktail-glass/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/8l-asymmetric-hollow-logo-designer-led/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/8oz-plastic-wine-glasses/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/9oz-stemless-pet-champagne-flute/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/acrylic-party-beer-tumbler/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/bar-salt-glass-rimmer-3-tier/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/bottle-pourer-tulip-shape/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/bottle-pourer/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/bottle-stopper-and-wine-charm-2/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/bottle-stopper-funny-design/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/champagne-sipper-for-16-1-mm/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/champagne-stopper-for-17-5/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/champagne-stopper-with-plating-painting/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/champagne-stopper/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/collapsible-mug/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/corona-margarita-clip-straight-version/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/customized-silicone-12oz-wine-gjb008/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/customized-silicone-16oz-straw/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/elite-nucleated-polycarbonate-pint-tumblers/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/goose-head-manual-wine-opener/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/hawk-wine-aerator-pourer/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/hydaway-collapsible-pint/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/hydaway-collapsible-tumbler-with-lid/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/irregular-shape-led-bottom-lit-ice/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/katerglass-plastic-pint-tumblers-22oz-lce/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/led-disco-ball-tumbler-cups-deluxe/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/led-light-up-beer-mug/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/led-light-up-color-changing-glow/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/led-light-up-ice-bucket-with/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/led-light-up-multicolor-whiskey-glass/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/led-light-up-spiral-stem-martini/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/led-short-tumbler/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/light-up-beer-boot-mug-led/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/light-up-disco-ball-light-projecting/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/light-up-multicolor-led-pilsner-cup/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/light-up-slow-change-led-shot/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/long-stem-led-light-up-champagne/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/manual-wine-opener-kit-s-4/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/moet-sipper-with-moet-logo/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/multi-color-light-up-led-mason/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/multicolor-led-light-up-to-go/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/multicolor-light-up-spiral-stemmed-wine/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/oliver-acrylic-mug-with-straw/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/plastic-beer-opener/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/plastic-ice-bucket/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/plastic-wine-glass-with-gold-rim/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/plastic-wine-goblet-with-gold-plating/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/purple-led-light-up-shot-glass/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/silicone-1-5oz-ljb001/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/silicone-16oz-siliparty-party/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/silicone-20oz-pint-glass/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/silicone-25oz-handled-barrel-bpjj005/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/silicone-28oz-beer-stein-gjb016/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/silicone-2oz-shumbler-shot-ljb002/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/silicone-32oz-bomber-cup/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/silicone-6oz-flight-taster/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/sipper-pourer-universal-ver-for-16/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/sipper-pourer-universal-version-for-16/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/stainless-steel-credit-card-bottle-opener/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/stopper-pourer-2-in-1-with/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/traveler-double-walled-wine-tumbler-by/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/vacuum-pump-4x-stopper-s-5/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/vacuum-wine-stopper-keep-fresh-7days/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/vacuum-wine-stopper-with-31-date/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/white-led-light-up-ice-bucket/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/wholesale-acrylic-martini-glass-8-5oz/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/wholesale-go-anywhere-red-wine/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/wholesale-outdoor-red-wine-glass-22oz/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/wholesale-plastic-flute-6oz-champagne/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/wholesale-plastic-stemless-wine-glass-12oz/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/wholesale-standard-acrylic-wine-glass/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/wholesale-tritan-martini-glass-9oz/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/wine-aerator-pourer/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/wine-pourer-and-stopper-2-in/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/wing-corkscrew/",
+      "errors": []
+    },
+    {
+      "route": "/zh/promotional-drinkware-supplier/",
+      "errors": []
+    },
+    {
+      "route": "/zh/rush-production/",
+      "errors": []
+    },
+    {
+      "route": "/zh/screen-printing/",
+      "errors": []
+    },
+    {
+      "route": "/zh/sports-team-cups/",
+      "errors": []
+    },
+    {
+      "route": "/zh/tailgate-party-cups/",
+      "errors": []
+    },
+    {
+      "route": "/zh/tasting-events-drinkware/",
+      "errors": []
+    },
+    {
+      "route": "/zh/tritan-drinkware/",
+      "errors": []
+    },
+    {
+      "route": "/zh/unbreakable-drinkware/",
+      "errors": []
+    },
+    {
+      "route": "/zh/uv-printing/",
+      "errors": []
+    },
+    {
+      "route": "/zh/videos/",
+      "errors": []
+    },
+    {
+      "route": "/zh/wedding-cups/",
+      "errors": []
+    },
+    {
+      "route": "/zh/yacht-party-cups/",
+      "errors": []
+    },
+    {
+      "route": "/how-to-work-with-us/",
+      "errors": []
+    },
+    {
+      "route": "/manufacturing-process/",
+      "errors": []
+    },
+    {
+      "route": "/tooling/",
+      "errors": []
+    },
+    {
+      "route": "/customization/",
+      "errors": []
+    },
+    {
+      "route": "/packaging/",
+      "errors": []
+    },
+    {
+      "route": "/product-development/",
+      "errors": []
+    },
+    {
+      "route": "/blog/mould-or-no-mould/",
+      "errors": []
+    },
+    {
+      "route": "/blog/plastic-colour-matching/",
+      "errors": []
+    },
+    {
+      "route": "/blog/what-aql-inspection-tells-you/",
+      "errors": []
+    },
+    {
+      "route": "/blog/how-many-custom-cups-to-order/",
+      "errors": []
+    },
+    {
+      "route": "/blog/custom-cup-lead-times/",
+      "errors": []
+    },
+    {
+      "route": "/blog/silicone-vs-plastic-cups/",
+      "errors": []
+    },
+    {
+      "route": "/zh/blog/",
+      "errors": []
+    },
+    {
+      "route": "/zh/blog/apec-2026-shenzhen/",
+      "errors": []
+    },
+    {
+      "route": "/zh/blog/how-many-custom-cups-to-order/",
+      "errors": []
+    },
+    {
+      "route": "/zh/blog/custom-cup-lead-times/",
+      "errors": []
+    },
+    {
+      "route": "/zh/blog/silicone-vs-plastic-cups/",
+      "errors": []
+    },
+    {
+      "route": "/zh/blog/mould-or-no-mould/",
+      "errors": []
+    },
+    {
+      "route": "/zh/blog/plastic-colour-matching/",
+      "errors": []
+    },
+    {
+      "route": "/zh/blog/what-aql-inspection-tells-you/",
+      "errors": []
+    },
+    {
+      "route": "/products/12oz-stemless-wine-glass-gold-rim-hjb040/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/12oz-stemless-wine-glass-gold-rim-hjb040/",
+      "errors": []
+    },
+    {
+      "route": "/factory/about/",
+      "errors": []
+    },
+    {
+      "route": "/zh/factory/about/",
+      "errors": []
+    },
+    {
+      "route": "/factory/testing/",
+      "errors": []
+    },
+    {
+      "route": "/zh/factory/testing/",
+      "errors": []
+    },
+    {
+      "route": "/factory/quality-control/",
+      "errors": []
+    },
+    {
+      "route": "/products/beverage-beer-bat-cup/",
+      "errors": []
+    },
+    {
+      "route": "/zh/customization/",
+      "errors": []
+    },
+    {
+      "route": "/zh/factory/quality-control/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/beverage-beer-bat-cup/",
+      "errors": []
+    },
+    {
+      "route": "/products/ice-bucket-fj-ib0683d/",
+      "errors": []
+    },
+    {
+      "route": "/products/ice-bucket-xj-2895/",
+      "errors": []
+    },
+    {
+      "route": "/products/ice-bucket-xj-2898/",
+      "errors": []
+    },
+    {
+      "route": "/products/ice-bucket-xj-2896/",
+      "errors": []
+    },
+    {
+      "route": "/products/ice-bucket-xj-2897/",
+      "errors": []
+    },
+    {
+      "route": "/products/ice-bucket-yj314/",
+      "errors": []
+    },
+    {
+      "route": "/products/ice-bucket-yj318/",
+      "errors": []
+    },
+    {
+      "route": "/products/ice-bucket-yj312/",
+      "errors": []
+    },
+    {
+      "route": "/products/ice-bucket-yj314c/",
+      "errors": []
+    },
+    {
+      "route": "/products/ice-bucket-yj323f/",
+      "errors": []
+    },
+    {
+      "route": "/products/ice-bucket-yj316f/",
+      "errors": []
+    },
+    {
+      "route": "/products/ice-bucket-yj383f/",
+      "errors": []
+    },
+    {
+      "route": "/products/ice-bucket-yj384/",
+      "errors": []
+    },
+    {
+      "route": "/products/ice-bucket-yj385f/",
+      "errors": []
+    },
+    {
+      "route": "/wine-tasting-accessories/",
+      "errors": []
+    },
+    {
+      "route": "/zh/wine-tasting-accessories/",
+      "errors": []
+    },
+    {
+      "route": "/custom-shot-glass-oem-odm/",
+      "errors": []
+    },
+    {
+      "route": "/zh/packaging/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/ice-bucket-xj-2895/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/ice-bucket-xj-2896/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/ice-bucket-yj314/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/ice-bucket-xj-2897/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/ice-bucket-fj-ib0683d/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/ice-bucket-yj323f/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/ice-bucket-yj312/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/ice-bucket-yj383f/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/ice-bucket-xj-2898/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/ice-bucket-yj316f/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/ice-bucket-yj314c/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/ice-bucket-yj384/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/ice-bucket-yj318/",
+      "errors": []
+    },
+    {
+      "route": "/zh/products/ice-bucket-yj385f/",
+      "errors": []
+    },
+    {
+      "route": "/zh/how-to-work-with-us/",
+      "errors": []
+    },
+    {
+      "route": "/zh/manufacturing-process/",
+      "errors": []
+    },
+    {
+      "route": "/zh/tooling/",
+      "errors": []
+    },
+    {
+      "route": "/zh/product-development/",
+      "errors": []
+    },
+    {
+      "route": "/zh/custom-shot-glass-oem-odm/",
+      "errors": []
+    }
+  ]
+}

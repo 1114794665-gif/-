@@ -1,0 +1,56 @@
+[
+  {
+    "route": "/",
+    "types": [
+      "WebPage",
+      "Organization",
+      "WebSite"
+    ],
+    "duplicates": [],
+    "organization": "深圳市宝源丰精密模具有限公司"
+  },
+  {
+    "route": "/zh/",
+    "types": [
+      "WebPage",
+      "BreadcrumbList",
+      "Organization",
+      "FAQPage",
+      "WebSite"
+    ],
+    "duplicates": [],
+    "organization": "深圳市宝源丰精密模具有限公司"
+  },
+  {
+    "route": "/products/10-5oz-ribbed-plastic-coupe-glasses/",
+    "types": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "duplicates": [],
+    "product": "HJB-060"
+  },
+  {
+    "route": "/zh/products/10-5oz-ribbed-plastic-coupe-glasses/",
+    "types": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "duplicates": [],
+    "product": "HJB-060"
+  },
+  {
+    "route": "/blog/silicone-vs-plastic-cups/",
+    "types": [
+      "WebPage",
+      "BreadcrumbList",
+      "BlogPosting",
+      "FAQPage"
+    ],
+    "duplicates": []
+  }
+]

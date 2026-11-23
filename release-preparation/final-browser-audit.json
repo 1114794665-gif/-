@@ -1,0 +1,5352 @@
+[
+  {
+    "route": "/bachelorette-party-cups/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "FAQPage"
+    ],
+    "images": 2,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/backyard-bbq-cups/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "FAQPage"
+    ],
+    "images": 2,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/16-oz-custom-cups/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "ItemList",
+      "FAQPage"
+    ],
+    "images": 9,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/acrylic-drinkware/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "ItemList",
+      "FAQPage"
+    ],
+    "images": 27,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/bar-accessories/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "images": 26,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Organization",
+      "WebSite"
+    ],
+    "images": 49,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/beach-party-cups/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "FAQPage"
+    ],
+    "images": 4,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/birthday-party-cups/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "FAQPage"
+    ],
+    "images": 2,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/blog/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "Blog",
+      "FAQPage"
+    ],
+    "images": 8,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/blog/apec-2026-shenzhen/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "BlogPosting"
+    ],
+    "images": 3,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/blank-drinkware/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "ItemList",
+      "FAQPage"
+    ],
+    "images": 47,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/bulk-drinkware/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "ItemList",
+      "FAQPage"
+    ],
+    "images": 47,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/camping-drinkware/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "FAQPage"
+    ],
+    "images": 5,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/case-studies/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "images": 1,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/catalog-download/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "images": 1,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/clear-plastic-cups/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "ItemList",
+      "FAQPage"
+    ],
+    "images": 2,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/collapsible-cups/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "images": 4,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/collapsible-travel-cups/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "ItemList",
+      "FAQPage"
+    ],
+    "images": 4,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/color-changing-cups/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "ItemList",
+      "FAQPage"
+    ],
+    "images": 2,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/color-changing-ink/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "images": 7,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/compliance/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage"
+    ],
+    "images": 1,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/contact/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "images": 1,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/cup-materials-guide/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "images": 1,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/custom-beer-mugs/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "ItemList",
+      "FAQPage"
+    ],
+    "images": 8,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/custom-bottle-openers/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "images": 6,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/custom-champagne-flutes/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "ItemList",
+      "FAQPage"
+    ],
+    "images": 8,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/custom-drinkware-decals/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Service",
+      "FAQPage"
+    ],
+    "images": 0,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/custom-ice-buckets/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "images": 20,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/custom-led-drinkware/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "FAQPage",
+      "ItemList"
+    ],
+    "images": 21,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/custom-shot-glasses/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "ItemList",
+      "FAQPage"
+    ],
+    "images": 9,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/custom-plastic-cups/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "images": 20,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/custom-tumblers/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "ItemList",
+      "FAQPage"
+    ],
+    "images": 14,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/custom-silicone-cups/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "images": 19,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/custom-wine-glasses/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "ItemList",
+      "FAQPage"
+    ],
+    "images": 12,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/distributor-program/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "images": 1,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/factory/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "FAQPage"
+    ],
+    "images": 4,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/family-event-cups/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "FAQPage"
+    ],
+    "images": 5,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/faq/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "images": 1,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/free-samples/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "images": 1,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/graduation-party-cups/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "FAQPage"
+    ],
+    "images": 5,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/glow-in-the-dark-cups/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "ItemList",
+      "FAQPage"
+    ],
+    "images": 8,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/holiday-party-cups/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "FAQPage"
+    ],
+    "images": 3,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/heat-transfer-printing/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "images": 8,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/laser-engraving/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "FAQPage",
+      "HowTo",
+      "BreadcrumbList"
+    ],
+    "images": 8,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/low-moq-custom-cups/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "images": 1,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/led-light-up-cups/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "images": 23,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/new-arrivals/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "images": 23,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/no-minimum-custom-cups/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "FAQPage"
+    ],
+    "images": 1,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/open-air-nightclub/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "FAQPage"
+    ],
+    "images": 5,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/oem-manufacturer/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "images": 28,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/our-service/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "images": 5,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/pet-plastic-cups/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "ItemList",
+      "FAQPage"
+    ],
+    "images": 2,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/pool-party-cups/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "FAQPage"
+    ],
+    "images": 5,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/personalized-drinkware/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "ItemList",
+      "FAQPage"
+    ],
+    "images": 47,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/privacy/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage"
+    ],
+    "images": 0,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/private-label-drinkware/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "ItemList",
+      "FAQPage"
+    ],
+    "images": 1,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "images": 6,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/10-5oz-ribbed-plastic-coupe-glasses/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "HJB-060",
+    "images": 18,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/12-oz-double-wall-plastic-tumbler/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "SXB-008",
+    "images": 22,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/12oz-plastic-stein-cups-with-1/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "PJB-014",
+    "images": 27,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/15oz-plastic-margarita-glass/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "HJB-074",
+    "images": 18,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/16-oz-color-changing-plastic-stadium-bsb002/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "BSB-002",
+    "images": 27,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/18-5oz-tritan-wine-glass/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "HJB-057",
+    "images": 25,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/3-7l/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "BT-016",
+    "images": 9,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/22oz-plastic-beer-mug/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "PJB-008",
+    "images": 30,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/4-5oz-plastic-champagne-flute-injected/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "HJB-069",
+    "images": 20,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/41140-footed-pilsner-x4-414ml/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "PJB-002",
+    "images": 19,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/5-8oz-plastic-champagne-flute/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "HJB-048",
+    "images": 37,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/6-3oz-plastic-martini-glass/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "HJB-056",
+    "images": 20,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/7-5oz-plasic-iso-standard-wine/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "HJB-073",
+    "images": 17,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/7oz-plastic-cocktail-glass/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "HJB-076",
+    "images": 15,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/8l-asymmetric-hollow-logo-designer-led/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "BT-011",
+    "images": 11,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/8oz-plastic-wine-glasses/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "HJB-054",
+    "images": 20,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/9oz-stemless-pet-champagne-flute/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "HJB-042",
+    "images": 19,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/acrylic-party-beer-tumbler/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "SXB-012",
+    "images": 18,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/bar-salt-glass-rimmer-3-tier/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "JBPJ-048",
+    "images": 10,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/bottle-pourer-tulip-shape/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "JBPJ-065",
+    "images": 13,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/bottle-pourer/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "JBPJ-068",
+    "images": 13,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/bottle-stopper-and-wine-charm-2/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "JBPJ-044",
+    "images": 13,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/bottle-stopper-funny-design/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "JS-034",
+    "images": 13,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/champagne-sipper-for-16-1-mm/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "JBPJ-042",
+    "images": 17,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/champagne-stopper-for-17-5/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "JBPJ-045",
+    "images": 13,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/champagne-stopper-with-plating-painting/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "JS-037",
+    "images": 13,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/champagne-stopper/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "JS-031",
+    "images": 13,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/collapsible-mug/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "GJZD-009",
+    "images": 23,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/corona-margarita-clip-straight-version/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "JBPJ-050",
+    "images": 12,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/customized-silicone-12oz-wine-gjb008/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "GJB-008",
+    "images": 28,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/customized-silicone-16oz-straw/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "GJB-007",
+    "images": 27,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/elite-nucleated-polycarbonate-pint-tumblers/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "PJB-021",
+    "images": 33,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/goose-head-manual-wine-opener/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "KPQ-006",
+    "images": 11,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/hawk-wine-aerator-pourer/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "JBPJ-041",
+    "images": 10,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/hydaway-collapsible-pint/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "GJZD-014",
+    "images": 11,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/hydaway-collapsible-tumbler-with-lid/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "GJZD-016",
+    "images": 15,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/irregular-shape-led-bottom-lit-ice/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "BT-003",
+    "images": 11,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/katerglass-plastic-pint-tumblers-22oz-lce/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "PJB-018",
+    "images": 33,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/led-disco-ball-tumbler-cups-deluxe/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "FGB-031",
+    "images": 15,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/led-light-up-beer-mug/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "FGB-010",
+    "images": 17,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/led-light-up-color-changing-glow/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "FGB-034",
+    "images": 11,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/led-light-up-ice-bucket-with/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "FGB-001",
+    "images": 11,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/led-light-up-multicolor-whiskey-glass/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "FGB-013",
+    "images": 11,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/led-light-up-spiral-stem-martini/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "FGB-023",
+    "images": 15,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/led-short-tumbler/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "FGB-030",
+    "images": 11,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/light-up-beer-boot-mug-led/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "FGB-012",
+    "images": 15,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/light-up-disco-ball-light-projecting/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "FGB-038",
+    "images": 11,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/light-up-multicolor-led-pilsner-cup/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "FGB-006",
+    "images": 23,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/light-up-slow-change-led-shot/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "FGB-016",
+    "images": 8,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/long-stem-led-light-up-champagne/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "FGB-019",
+    "images": 17,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/manual-wine-opener-kit-s-4/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "KPQ-007",
+    "images": 11,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/moet-sipper-with-moet-logo/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "JS-040",
+    "images": 13,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/multi-color-light-up-led-mason/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "FGB-037",
+    "images": 11,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/multicolor-led-light-up-to-go/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "FGB-027",
+    "images": 15,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/multicolor-light-up-spiral-stemmed-wine/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "FGB-017",
+    "images": 15,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/oliver-acrylic-mug-with-straw/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "SJB-024",
+    "images": 20,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/plastic-beer-opener/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "KPQ-005",
+    "images": 8,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/plastic-ice-bucket/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "BT-017",
+    "images": 13,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/plastic-wine-glass-with-gold-rim/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "HJB-053",
+    "images": 20,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/plastic-wine-goblet-with-gold-plating/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "HJB-072",
+    "images": 20,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/purple-led-light-up-shot-glass/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "JBPJ-101",
+    "images": 8,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/silicone-16oz-siliparty-party/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "BPJJ-006",
+    "images": 13,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/silicone-1-5oz-ljb001/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "LJB-001",
+    "images": 19,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/silicone-20oz-pint-glass/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "BPJJ-008",
+    "images": 22,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/silicone-25oz-handled-barrel-bpjj005/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "BPJJ-005",
+    "images": 18,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/silicone-28oz-beer-stein-gjb016/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "GJB-016",
+    "images": 17,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/silicone-2oz-shumbler-shot-ljb002/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "LJB-002",
+    "images": 18,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/silicone-6oz-flight-taster/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "BPJJ-004",
+    "images": 9,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/silicone-32oz-bomber-cup/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "BPJJ-002",
+    "images": 13,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/sipper-pourer-universal-ver-for-16/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "JBPJ-067",
+    "images": 13,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/sipper-pourer-universal-version-for-16/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "JBPJ-064",
+    "images": 13,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/stainless-steel-credit-card-bottle-opener/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "KPQ-025",
+    "images": 8,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/stopper-pourer-2-in-1-with/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "JBPJ-066",
+    "images": 13,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/traveler-double-walled-wine-tumbler-by/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "SXB-010",
+    "images": 14,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/vacuum-pump-4x-stopper-s-5/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "JBPJ-072",
+    "images": 13,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/vacuum-wine-stopper-keep-fresh-7days/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "JS-033",
+    "images": 13,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/vacuum-wine-stopper-with-31-date/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "JS-038",
+    "images": 13,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/white-led-light-up-ice-bucket/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "FGB-002",
+    "images": 11,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/wholesale-acrylic-martini-glass-8-5oz/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "HJB-031",
+    "images": 25,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/wholesale-go-anywhere-red-wine/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "HJB-020",
+    "images": 20,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/wholesale-outdoor-red-wine-glass-22oz/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "HJB-013",
+    "images": 20,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/wholesale-plastic-flute-6oz-champagne/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "HJB-025",
+    "images": 29,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/wholesale-plastic-stemless-wine-glass-12oz/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "HJB-001",
+    "images": 30,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/wholesale-tritan-martini-glass-9oz/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "HJB-035",
+    "images": 19,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/wholesale-standard-acrylic-wine-glass/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "HJB-006",
+    "images": 51,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/wine-aerator-pourer/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "JBPJ-040",
+    "images": 10,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/wine-pourer-and-stopper-2-in/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "JBPJ-039",
+    "images": 17,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/wing-corkscrew/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "JS-039",
+    "images": 11,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/promotional-drinkware-supplier/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "ItemList",
+      "FAQPage"
+    ],
+    "images": 1,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/rush-production/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "images": 1,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/screen-printing/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "FAQPage"
+    ],
+    "images": 8,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/sports-team-cups/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "FAQPage"
+    ],
+    "images": 5,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/tailgate-party-cups/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "FAQPage"
+    ],
+    "images": 2,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/tasting-events-drinkware/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "FAQPage"
+    ],
+    "images": 7,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/tritan-drinkware/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "ItemList",
+      "FAQPage"
+    ],
+    "images": 6,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/unbreakable-drinkware/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "FAQPage"
+    ],
+    "images": 32,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/uv-printing/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "FAQPage",
+      "HowTo",
+      "BreadcrumbList"
+    ],
+    "images": 8,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/videos/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "FAQPage"
+    ],
+    "images": 1,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/wedding-cups/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "FAQPage"
+    ],
+    "images": 2,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/yacht-party-cups/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "FAQPage"
+    ],
+    "images": 3,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "Organization",
+      "FAQPage",
+      "WebSite"
+    ],
+    "images": 47,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/16-oz-custom-cups/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "ItemList",
+      "FAQPage"
+    ],
+    "images": 9,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/bachelorette-party-cups/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "FAQPage"
+    ],
+    "images": 2,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/backyard-bbq-cups/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "FAQPage"
+    ],
+    "images": 2,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/acrylic-drinkware/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "ItemList",
+      "FAQPage"
+    ],
+    "images": 27,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/beach-party-cups/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "FAQPage"
+    ],
+    "images": 4,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/bar-accessories/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "images": 26,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/birthday-party-cups/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "FAQPage"
+    ],
+    "images": 2,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/camping-drinkware/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "FAQPage"
+    ],
+    "images": 5,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/blank-drinkware/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "ItemList",
+      "FAQPage"
+    ],
+    "images": 47,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/catalog-download/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "images": 1,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/bulk-drinkware/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "ItemList",
+      "FAQPage"
+    ],
+    "images": 47,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/case-studies/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "images": 1,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/clear-plastic-cups/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "ItemList",
+      "FAQPage"
+    ],
+    "images": 2,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/collapsible-cups/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "images": 4,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/collapsible-travel-cups/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "ItemList",
+      "FAQPage"
+    ],
+    "images": 4,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/color-changing-cups/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "ItemList",
+      "FAQPage"
+    ],
+    "images": 2,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/color-changing-ink/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "images": 7,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/contact/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "images": 1,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/cup-materials-guide/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "images": 1,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/custom-beer-mugs/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "ItemList",
+      "FAQPage"
+    ],
+    "images": 8,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/custom-bottle-openers/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "images": 6,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/custom-champagne-flutes/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "ItemList",
+      "FAQPage"
+    ],
+    "images": 8,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/custom-drinkware-decals/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Service",
+      "FAQPage"
+    ],
+    "images": 0,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/custom-led-drinkware/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "FAQPage",
+      "ItemList"
+    ],
+    "images": 21,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/custom-ice-buckets/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "images": 20,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/custom-shot-glasses/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "ItemList",
+      "FAQPage"
+    ],
+    "images": 3,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/custom-plastic-cups/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "images": 20,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/custom-silicone-cups/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "images": 19,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/custom-tumblers/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "ItemList",
+      "FAQPage"
+    ],
+    "images": 14,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/distributor-program/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "images": 1,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/custom-wine-glasses/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "ItemList",
+      "FAQPage"
+    ],
+    "images": 12,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/factory/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "FAQPage"
+    ],
+    "images": 4,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/family-event-cups/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "FAQPage"
+    ],
+    "images": 5,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/free-samples/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "images": 1,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/faq/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "FAQPage"
+    ],
+    "images": 1,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/graduation-party-cups/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "FAQPage"
+    ],
+    "images": 5,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/glow-in-the-dark-cups/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "ItemList",
+      "FAQPage"
+    ],
+    "images": 8,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/heat-transfer-printing/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "images": 8,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/holiday-party-cups/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "FAQPage"
+    ],
+    "images": 3,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/laser-engraving/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "images": 8,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/led-light-up-cups/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "images": 23,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/low-moq-custom-cups/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "images": 1,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/new-arrivals/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "images": 23,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/no-minimum-custom-cups/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "FAQPage"
+    ],
+    "images": 1,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/oem-manufacturer/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "images": 28,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/open-air-nightclub/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "FAQPage"
+    ],
+    "images": 5,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/our-service/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "images": 5,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/pet-plastic-cups/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "ItemList",
+      "FAQPage"
+    ],
+    "images": 2,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/pool-party-cups/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "FAQPage"
+    ],
+    "images": 5,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/privacy/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage"
+    ],
+    "images": 0,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/private-label-drinkware/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "ItemList",
+      "FAQPage"
+    ],
+    "images": 1,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/personalized-drinkware/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "ItemList",
+      "FAQPage"
+    ],
+    "images": 47,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "images": 6,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/10-5oz-ribbed-plastic-coupe-glasses/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "HJB-060",
+    "images": 18,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/12-oz-double-wall-plastic-tumbler/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "SXB-008",
+    "images": 22,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/12oz-plastic-stein-cups-with-1/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "PJB-014",
+    "images": 27,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/15oz-plastic-margarita-glass/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "HJB-074",
+    "images": 18,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/16-oz-color-changing-plastic-stadium-bsb002/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "BSB-002",
+    "images": 27,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/16-oz-stadium-cup-smooth/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "TYCB-001",
+    "images": 22,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/16-oz-stadium-cup-smooth/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "TYCB-001",
+    "images": 22,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/18-5oz-tritan-wine-glass/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "HJB-057",
+    "images": 24,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/22oz-plastic-beer-mug/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "PJB-008",
+    "images": 30,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/3-7l/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "BT-016",
+    "images": 9,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/4-5oz-plastic-champagne-flute-injected/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "HJB-069",
+    "images": 19,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/41140-footed-pilsner-x4-414ml/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "PJB-002",
+    "images": 19,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/6-3oz-plastic-martini-glass/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "HJB-056",
+    "images": 20,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/5-8oz-plastic-champagne-flute/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "HJB-048",
+    "images": 37,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/7-5oz-plasic-iso-standard-wine/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "HJB-073",
+    "images": 16,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/7oz-plastic-cocktail-glass/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "HJB-076",
+    "images": 15,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/8l-asymmetric-hollow-logo-designer-led/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "BT-011",
+    "images": 11,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/8oz-plastic-wine-glasses/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "HJB-054",
+    "images": 19,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/9oz-stemless-pet-champagne-flute/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "HJB-042",
+    "images": 19,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/acrylic-party-beer-tumbler/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "SXB-012",
+    "images": 18,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/bottle-pourer-tulip-shape/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "JBPJ-065",
+    "images": 13,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/bar-salt-glass-rimmer-3-tier/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "JBPJ-048",
+    "images": 10,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/bottle-pourer/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "JBPJ-068",
+    "images": 13,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/bottle-stopper-and-wine-charm-2/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "JBPJ-044",
+    "images": 13,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/bottle-stopper-funny-design/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "JS-034",
+    "images": 13,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/champagne-sipper-for-16-1-mm/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "JBPJ-042",
+    "images": 17,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/champagne-stopper-for-17-5/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "JBPJ-045",
+    "images": 13,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/champagne-stopper-with-plating-painting/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "JS-037",
+    "images": 13,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/champagne-stopper/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "JS-031",
+    "images": 13,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/corona-margarita-clip-straight-version/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "JBPJ-050",
+    "images": 12,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/collapsible-mug/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "GJZD-009",
+    "images": 23,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/customized-silicone-12oz-wine-gjb008/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "GJB-008",
+    "images": 28,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/customized-silicone-16oz-straw/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "GJB-007",
+    "images": 27,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/elite-nucleated-polycarbonate-pint-tumblers/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "PJB-021",
+    "images": 33,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/goose-head-manual-wine-opener/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "KPQ-006",
+    "images": 11,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/hawk-wine-aerator-pourer/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "JBPJ-041",
+    "images": 10,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/hydaway-collapsible-pint/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "GJZD-014",
+    "images": 11,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/hydaway-collapsible-tumbler-with-lid/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "GJZD-016",
+    "images": 15,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/irregular-shape-led-bottom-lit-ice/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "BT-003",
+    "images": 11,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/katerglass-plastic-pint-tumblers-22oz-lce/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "PJB-018",
+    "images": 33,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/led-disco-ball-tumbler-cups-deluxe/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "FGB-031",
+    "images": 15,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/led-light-up-color-changing-glow/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "FGB-034",
+    "images": 11,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/led-light-up-beer-mug/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "FGB-010",
+    "images": 17,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/led-light-up-ice-bucket-with/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "FGB-001",
+    "images": 11,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/led-light-up-multicolor-whiskey-glass/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "FGB-013",
+    "images": 11,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/led-light-up-spiral-stem-martini/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "FGB-023",
+    "images": 15,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/led-short-tumbler/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "FGB-030",
+    "images": 11,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/light-up-beer-boot-mug-led/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "FGB-012",
+    "images": 15,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/light-up-disco-ball-light-projecting/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "FGB-038",
+    "images": 11,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/light-up-multicolor-led-pilsner-cup/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "FGB-006",
+    "images": 23,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/light-up-slow-change-led-shot/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "FGB-016",
+    "images": 8,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/long-stem-led-light-up-champagne/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "FGB-019",
+    "images": 17,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/manual-wine-opener-kit-s-4/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "KPQ-007",
+    "images": 11,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/moet-sipper-with-moet-logo/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "JS-040",
+    "images": 13,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/multi-color-light-up-led-mason/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "FGB-037",
+    "images": 11,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/multicolor-led-light-up-to-go/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "FGB-027",
+    "images": 15,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/multicolor-light-up-spiral-stemmed-wine/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "FGB-017",
+    "images": 15,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/plastic-beer-opener/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "KPQ-005",
+    "images": 8,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/oliver-acrylic-mug-with-straw/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "SJB-024",
+    "images": 20,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/plastic-ice-bucket/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "BT-017",
+    "images": 13,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/plastic-wine-glass-with-gold-rim/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "HJB-053",
+    "images": 19,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/plastic-wine-goblet-with-gold-plating/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "HJB-072",
+    "images": 19,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/purple-led-light-up-shot-glass/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "JBPJ-101",
+    "images": 8,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/silicone-1-5oz-ljb001/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "LJB-001",
+    "images": 19,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/silicone-16oz-siliparty-party/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "BPJJ-006",
+    "images": 13,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/silicone-20oz-pint-glass/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "BPJJ-008",
+    "images": 22,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/silicone-25oz-handled-barrel-bpjj005/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "BPJJ-005",
+    "images": 18,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/silicone-28oz-beer-stein-gjb016/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "GJB-016",
+    "images": 17,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/silicone-2oz-shumbler-shot-ljb002/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "LJB-002",
+    "images": 18,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/silicone-32oz-bomber-cup/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "BPJJ-002",
+    "images": 13,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/silicone-6oz-flight-taster/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "BPJJ-004",
+    "images": 9,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/sipper-pourer-universal-ver-for-16/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "JBPJ-067",
+    "images": 13,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/stainless-steel-credit-card-bottle-opener/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "KPQ-025",
+    "images": 8,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/sipper-pourer-universal-version-for-16/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "JBPJ-064",
+    "images": 13,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/stopper-pourer-2-in-1-with/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "JBPJ-066",
+    "images": 13,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/vacuum-pump-4x-stopper-s-5/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "JBPJ-072",
+    "images": 13,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/traveler-double-walled-wine-tumbler-by/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "SXB-010",
+    "images": 14,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/vacuum-wine-stopper-keep-fresh-7days/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "JS-033",
+    "images": 13,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/vacuum-wine-stopper-with-31-date/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "JS-038",
+    "images": 13,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/white-led-light-up-ice-bucket/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "FGB-002",
+    "images": 11,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/wholesale-acrylic-martini-glass-8-5oz/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "HJB-031",
+    "images": 25,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/wholesale-go-anywhere-red-wine/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "HJB-020",
+    "images": 19,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/wholesale-outdoor-red-wine-glass-22oz/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "HJB-013",
+    "images": 19,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/wholesale-plastic-flute-6oz-champagne/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "HJB-025",
+    "images": 29,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/wholesale-plastic-stemless-wine-glass-12oz/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "HJB-001",
+    "images": 30,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/wholesale-tritan-martini-glass-9oz/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "HJB-035",
+    "images": 19,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/wholesale-standard-acrylic-wine-glass/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "HJB-006",
+    "images": 51,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/wine-aerator-pourer/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "JBPJ-040",
+    "images": 10,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/wine-pourer-and-stopper-2-in/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "JBPJ-039",
+    "images": 17,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/wing-corkscrew/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "JS-039",
+    "images": 11,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/promotional-drinkware-supplier/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "ItemList",
+      "FAQPage"
+    ],
+    "images": 1,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/rush-production/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "images": 1,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/screen-printing/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "FAQPage"
+    ],
+    "images": 8,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/sports-team-cups/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "FAQPage"
+    ],
+    "images": 5,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/tailgate-party-cups/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "FAQPage"
+    ],
+    "images": 2,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/tritan-drinkware/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "ItemList",
+      "FAQPage"
+    ],
+    "images": 6,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/tasting-events-drinkware/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "FAQPage"
+    ],
+    "images": 7,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/videos/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "FAQPage"
+    ],
+    "images": 1,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/unbreakable-drinkware/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "FAQPage"
+    ],
+    "images": 32,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/uv-printing/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "images": 8,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/wedding-cups/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "FAQPage"
+    ],
+    "images": 2,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/yacht-party-cups/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "FAQPage"
+    ],
+    "images": 3,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/how-to-work-with-us/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "images": 5,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/manufacturing-process/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "images": 2,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/tooling/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "images": 1,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/packaging/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "images": 1,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/customization/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "images": 1,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/product-development/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "images": 1,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/blog/mould-or-no-mould/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "BlogPosting",
+      "FAQPage"
+    ],
+    "images": 3,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/blog/plastic-colour-matching/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "BlogPosting",
+      "FAQPage"
+    ],
+    "images": 3,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/blog/what-aql-inspection-tells-you/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "BlogPosting",
+      "FAQPage"
+    ],
+    "images": 3,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/blog/how-many-custom-cups-to-order/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "BlogPosting",
+      "FAQPage"
+    ],
+    "images": 3,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/blog/custom-cup-lead-times/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "BlogPosting",
+      "FAQPage"
+    ],
+    "images": 3,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/blog/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Blog",
+      "FAQPage"
+    ],
+    "images": 7,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/blog/silicone-vs-plastic-cups/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "BlogPosting",
+      "FAQPage"
+    ],
+    "images": 3,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/blog/apec-2026-shenzhen/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "BlogPosting"
+    ],
+    "images": 3,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/blog/how-many-custom-cups-to-order/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "BlogPosting",
+      "FAQPage"
+    ],
+    "images": 3,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/blog/custom-cup-lead-times/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "BlogPosting",
+      "FAQPage"
+    ],
+    "images": 3,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/blog/silicone-vs-plastic-cups/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "BlogPosting",
+      "FAQPage"
+    ],
+    "images": 3,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/blog/mould-or-no-mould/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "BlogPosting",
+      "FAQPage"
+    ],
+    "images": 3,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/blog/plastic-colour-matching/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "BlogPosting",
+      "FAQPage"
+    ],
+    "images": 3,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/blog/what-aql-inspection-tells-you/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "BlogPosting",
+      "FAQPage"
+    ],
+    "images": 3,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/12oz-stemless-wine-glass-gold-rim-hjb040/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "HJB-040",
+    "images": 19,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/factory/about/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "images": 14,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/12oz-stemless-wine-glass-gold-rim-hjb040/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "HJB-040",
+    "images": 19,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/factory/about/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "images": 14,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/factory/testing/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "images": 8,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/factory/testing/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "images": 8,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/customization/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "images": 0,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/factory/quality-control/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "images": 10,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/beverage-beer-bat-cup/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "PJB-013",
+    "images": 15,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/factory/quality-control/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "images": 10,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/beverage-beer-bat-cup/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "PJB-013",
+    "images": 15,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/ice-bucket-fj-ib0683d/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "FAQPage"
+    ],
+    "productSku": "FJ-IB0683D",
+    "images": 10,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/ice-bucket-xj-2895/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "FAQPage"
+    ],
+    "productSku": "XJ-2895",
+    "images": 10,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/ice-bucket-xj-2898/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "FAQPage"
+    ],
+    "productSku": "XJ-2898",
+    "images": 10,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/ice-bucket-xj-2896/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "FAQPage"
+    ],
+    "productSku": "XJ-2896",
+    "images": 10,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/ice-bucket-xj-2897/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "FAQPage"
+    ],
+    "productSku": "XJ-2897",
+    "images": 10,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/ice-bucket-yj314/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "FAQPage"
+    ],
+    "productSku": "YJ314",
+    "images": 10,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/ice-bucket-yj318/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "FAQPage"
+    ],
+    "productSku": "YJ318",
+    "images": 10,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/ice-bucket-yj312/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "FAQPage"
+    ],
+    "productSku": "YJ312",
+    "images": 10,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/ice-bucket-yj314c/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "FAQPage"
+    ],
+    "productSku": "YJ314C",
+    "images": 10,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/ice-bucket-yj323f/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "FAQPage"
+    ],
+    "productSku": "YJ323F",
+    "images": 10,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/ice-bucket-yj316f/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "FAQPage"
+    ],
+    "productSku": "YJ316F",
+    "images": 10,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/ice-bucket-yj383f/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "FAQPage"
+    ],
+    "productSku": "YJ383F",
+    "images": 10,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/ice-bucket-yj384/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "FAQPage"
+    ],
+    "productSku": "YJ384",
+    "images": 10,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/ice-bucket-yj385f/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "FAQPage"
+    ],
+    "productSku": "YJ385F",
+    "images": 10,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/wine-tasting-accessories/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "BreadcrumbList",
+      "ItemList",
+      "FAQPage"
+    ],
+    "images": 0,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/wine-tasting-accessories/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "BreadcrumbList",
+      "ItemList",
+      "FAQPage"
+    ],
+    "images": 0,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/packaging/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "FAQPage"
+    ],
+    "images": 1,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/custom-shot-glass-oem-odm/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "Service",
+      "FAQPage"
+    ],
+    "images": 4,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/ice-bucket-xj-2895/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "FAQPage"
+    ],
+    "productSku": "XJ-2895",
+    "images": 10,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/ice-bucket-xj-2896/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "FAQPage"
+    ],
+    "productSku": "XJ-2896",
+    "images": 10,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/ice-bucket-xj-2897/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "FAQPage"
+    ],
+    "productSku": "XJ-2897",
+    "images": 10,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/ice-bucket-yj314/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "FAQPage"
+    ],
+    "productSku": "YJ314",
+    "images": 10,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/ice-bucket-fj-ib0683d/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "FAQPage"
+    ],
+    "productSku": "FJ-IB0683D",
+    "images": 10,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/ice-bucket-yj323f/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "FAQPage"
+    ],
+    "productSku": "YJ323F",
+    "images": 10,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/ice-bucket-yj312/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "FAQPage"
+    ],
+    "productSku": "YJ312",
+    "images": 10,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/ice-bucket-yj383f/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "FAQPage"
+    ],
+    "productSku": "YJ383F",
+    "images": 10,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/ice-bucket-xj-2898/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "FAQPage"
+    ],
+    "productSku": "XJ-2898",
+    "images": 10,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/ice-bucket-yj314c/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "FAQPage"
+    ],
+    "productSku": "YJ314C",
+    "images": 10,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/ice-bucket-yj316f/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "FAQPage"
+    ],
+    "productSku": "YJ316F",
+    "images": 10,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/ice-bucket-yj384/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "FAQPage"
+    ],
+    "productSku": "YJ384",
+    "images": 10,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/ice-bucket-yj318/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "FAQPage"
+    ],
+    "productSku": "YJ318",
+    "images": 10,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/products/ice-bucket-yj385f/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "FAQPage"
+    ],
+    "productSku": "YJ385F",
+    "images": 10,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/how-to-work-with-us/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "FAQPage"
+    ],
+    "images": 1,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/manufacturing-process/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "FAQPage"
+    ],
+    "images": 1,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/tooling/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "FAQPage"
+    ],
+    "images": 1,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/product-development/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "FAQPage"
+    ],
+    "images": 1,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/zh/custom-shot-glass-oem-odm/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "FAQPage"
+    ],
+    "images": 1,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  }
+]

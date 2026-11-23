@@ -1,0 +1,87 @@
+{
+  "products": 210,
+  "articles": 14,
+  "faqQuestions": 1457,
+  "issues": [
+    {
+      "route": "/faq/",
+      "type": "faq-not-visible",
+      "question": "Can I visit the factory?"
+    },
+    {
+      "route": "/zh/cup-materials-guide/",
+      "type": "faq-not-visible",
+      "question": "报价和样品审核需要哪些具体资料？"
+    },
+    {
+      "route": "/zh/custom-drinkware-decals/",
+      "type": "faq-not-visible",
+      "question": "可以围绕我们的品牌想法做一整套产品吗？"
+    },
+    {
+      "route": "/zh/custom-drinkware-decals/",
+      "type": "faq-not-visible",
+      "question": "我们应该从哪里开始？"
+    },
+    {
+      "route": "/zh/screen-printing/",
+      "type": "faq-not-visible",
+      "question": "可以围绕我们的品牌想法做一整套产品吗？"
+    },
+    {
+      "route": "/zh/blog/how-many-custom-cups-to-order/",
+      "type": "faq-not-visible",
+      "question": "报价和样品审核需要哪些具体资料？"
+    },
+    {
+      "route": "/zh/blog/custom-cup-lead-times/",
+      "type": "faq-not-visible",
+      "question": "报价和样品审核需要哪些具体资料？"
+    },
+    {
+      "route": "/zh/blog/silicone-vs-plastic-cups/",
+      "type": "faq-not-visible",
+      "question": "报价和样品审核需要哪些具体资料？"
+    },
+    {
+      "route": "/zh/blog/mould-or-no-mould/",
+      "type": "faq-not-visible",
+      "question": "报价和样品审核需要哪些具体资料？"
+    },
+    {
+      "route": "/zh/blog/plastic-colour-matching/",
+      "type": "faq-not-visible",
+      "question": "报价和样品审核需要哪些具体资料？"
+    },
+    {
+      "route": "/zh/blog/what-aql-inspection-tells-you/",
+      "type": "faq-not-visible",
+      "question": "报价和样品审核需要哪些具体资料？"
+    },
+    {
+      "route": "/zh/factory/testing/",
+      "type": "faq-not-visible",
+      "question": "报价和样品审核需要哪些具体资料？"
+    },
+    {
+      "route": "/zh/customization/",
+      "type": "faq-not-visible",
+      "question": "可以围绕我们的品牌想法做一整套产品吗？"
+    },
+    {
+      "route": "/zh/customization/",
+      "type": "faq-not-visible",
+      "question": "我们应该从哪里开始？"
+    },
+    {
+      "route": "/zh/factory/quality-control/",
+      "type": "faq-not-visible",
+      "question": "报价和样品审核需要哪些具体资料？"
+    },
+    {
+      "route": "/wine-tasting-accessories/",
+      "type": "faq-not-visible",
+      "question": "Can all three carry our logo?"
+    }
+  ]
+}

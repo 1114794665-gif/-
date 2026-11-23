@@ -1,0 +1,8 @@
+{
+  "root": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-21\\referenced-chatgpt-conversation-this-is-an-2\\work\\release-build-validation-1795443674147",
+  "pages": 381,
+  "apiRecords": 210,
+  "uniqueEnglishProducts": 105,
+  "issues": [],
+  "buildLog": "Cloudflare inquiry limits validated in 1 active scripts (2MB / 5MB / 5 files)\nSEO overrides applied: 0 files\nStructured data validated: 381 pages\napi products snapshot: 210 records 245806 bytes\nCloudflare build ready\n"
+}

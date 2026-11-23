@@ -1,0 +1,244 @@
+[
+  {
+    "route": "/custom-drinkware-decals/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Service",
+      "FAQPage"
+    ],
+    "images": 0,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/custom-champagne-flutes/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "ItemList",
+      "FAQPage"
+    ],
+    "images": 8,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/custom-bottle-openers/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "images": 6,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/acrylic-drinkware/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "ItemList",
+      "FAQPage"
+    ],
+    "images": 27,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/bar-accessories/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "images": 26,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/custom-ice-buckets/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "images": 20,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/custom-led-drinkware/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "FAQPage",
+      "ItemList"
+    ],
+    "images": 21,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/custom-shot-glass-oem-odm/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "Service",
+      "FAQPage"
+    ],
+    "images": 4,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/custom-plastic-cups/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "images": 20,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/custom-tumblers/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "BreadcrumbList",
+      "ItemList",
+      "FAQPage"
+    ],
+    "images": 14,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/custom-silicone-cups/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "images": 19,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/manufacturing-process/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "images": 2,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Organization",
+      "WebSite"
+    ],
+    "images": 49,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/led-light-up-cups/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "images": 23,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/champagne-stopper/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "WebPage",
+      "Product",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "productSku": "JS-031",
+    "images": 13,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/new-arrivals/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "images": 23,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/products/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "images": 6,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  },
+  {
+    "route": "/wine-tasting-accessories/",
+    "schemaErrors": [],
+    "schemaTypes": [
+      "CollectionPage",
+      "BreadcrumbList",
+      "ItemList",
+      "FAQPage"
+    ],
+    "images": 0,
+    "broken": [],
+    "missingAlt": [],
+    "emptyAlt": []
+  }
+]

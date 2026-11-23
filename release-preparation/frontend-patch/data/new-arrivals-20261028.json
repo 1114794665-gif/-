@@ -1,0 +1,202 @@
+{
+  "updated": "2026-10-28",
+  "version": 2,
+  "note": "上新活页 v2：五大类目各 4 款主打，共 20 款。只认主款（站上能独立点开的型号）。改完跑 python tools/rebuild_new_arrivals_20261028.py 重建中英文两页。",
+  "groups": [
+    {
+      "key": "plastic",
+      "titleEn": "Custom Plastic Cups",
+      "titleZh": "塑料杯定制",
+      "slugEn": "/custom-plastic-cups/",
+      "slugZh": "/zh/custom-plastic-cups/",
+      "blurbEn": "Tritan, PP and acrylic cups for beer, wine and everyday service. Clear, frosted, colour-changing and full-print finishes.",
+      "blurbZh": "Tritan、PP、亚克力都有。透明、磨砂、变色、满版印刷，从啤酒杯、红酒杯到随行杯齐全。",
+      "items": [
+        {
+          "sku": "HJB-006",
+          "nameEn": "Standard Acrylic Wine Glass",
+          "nameZh": "亚克力标准红酒杯",
+          "factsEn": "Acrylic · 16 oz",
+          "factsZh": "亚克力 · 16 oz"
+        },
+        {
+          "sku": "PJB-021",
+          "nameEn": "Elite In2stax Nucleated Tritan Pint",
+          "nameZh": "Elite In2stax 结晶 Tritan 品脱杯",
+          "factsEn": "Tritan · 20 oz / 568 ml",
+          "factsZh": "Tritan · 20 oz / 568 ml"
+        },
+        {
+          "sku": "SJB-020",
+          "nameEn": "Burby Tumbler with Straw",
+          "nameZh": "Burby 带吸管随行杯",
+          "factsEn": "Acrylic · 24 oz",
+          "factsZh": "亚克力 · 24 oz"
+        },
+        {
+          "sku": "BSB-002",
+          "nameEn": "Color-Changing Stadium Cup",
+          "nameZh": "变色体育场杯",
+          "factsEn": "PP · 16 oz",
+          "factsZh": "PP · 16 oz"
+        }
+      ]
+    },
+    {
+      "key": "silicone",
+      "titleEn": "Custom Silicone Cups",
+      "titleZh": "硅胶杯定制",
+      "slugEn": "/custom-silicone-cups/",
+      "slugZh": "/zh/custom-silicone-cups/",
+      "blurbEn": "Unbreakable and foldable — for poolside, boats, camping and anywhere glass is not allowed.",
+      "blurbZh": "摔不烂、能折叠。泳池边、船上、露营这些不让用玻璃的场合，用它最省心。",
+      "items": [
+        {
+          "sku": "GJB-007",
+          "nameEn": "Silicone Straw Tumbler",
+          "nameZh": "带吸管硅胶随行杯",
+          "factsEn": "Silicone · 16 oz",
+          "factsZh": "硅胶 · 16 oz"
+        },
+        {
+          "sku": "GJB-008",
+          "nameEn": "Silicone Wine Glass",
+          "nameZh": "硅胶红酒杯",
+          "factsEn": "Silicone · 12 oz",
+          "factsZh": "硅胶 · 12 oz"
+        },
+        {
+          "sku": "BPJJ-005",
+          "nameEn": "Silicone Handled Barrel",
+          "nameZh": "带柄硅胶啤酒桶杯",
+          "factsEn": "Silicone · 25 oz",
+          "factsZh": "硅胶 · 25 oz"
+        },
+        {
+          "sku": "GJZD-009",
+          "nameEn": "XLite Collapsible Mug",
+          "nameZh": "XLite 折叠杯",
+          "factsEn": "Silicone + nylon · collapsible",
+          "factsZh": "硅胶 + 尼龙 · 可压缩"
+        }
+      ]
+    },
+    {
+      "key": "led",
+      "titleEn": "LED Light-Up Cups",
+      "titleZh": "LED 发光杯",
+      "slugEn": "/led-light-up-cups/",
+      "slugZh": "/zh/led-light-up-cups/",
+      "blurbEn": "Acrylic body, LED base, printed logo. Button or drink-activated light, batteries replaceable.",
+      "blurbZh": "亚克力杯身配发光底座，logo 照样能印。按键就亮或遇水就亮，电池可换。",
+      "items": [
+        {
+          "sku": "FGB-010",
+          "nameEn": "LED Beer Mug",
+          "nameZh": "LED 发光啤酒杯",
+          "factsEn": "Acrylic · 28 oz",
+          "factsZh": "亚克力 · 28 oz"
+        },
+        {
+          "sku": "FGB-017",
+          "nameEn": "Spiral Stem LED Wine Glass",
+          "nameZh": "螺旋杆 LED 红酒杯",
+          "factsEn": "Acrylic · 8 oz",
+          "factsZh": "亚克力 · 8 oz"
+        },
+        {
+          "sku": "FGB-011",
+          "nameEn": "LED Skull Mug",
+          "nameZh": "LED 发光骷髅杯",
+          "factsEn": "Acrylic · 20 oz",
+          "factsZh": "亚克力 · 20 oz"
+        },
+        {
+          "sku": "FGB-027",
+          "nameEn": "LED To-Go Tumbler",
+          "nameZh": "LED 发光随行杯",
+          "factsEn": "Acrylic · 16 oz",
+          "factsZh": "亚克力 · 16 oz"
+        }
+      ]
+    },
+    {
+      "key": "ice-buckets",
+      "titleEn": "LED Ice Buckets",
+      "titleZh": "LED 发光冰桶",
+      "slugEn": "/custom-ice-buckets/",
+      "slugZh": "/zh/custom-ice-buckets/",
+      "blurbEn": "Bottle-service pieces that light up. From 8 L up, remote-controlled or bottom-lit.",
+      "blurbZh": "给瓶装酒服务用的发光冰桶。8 升起，可选遥控或底部发光。",
+      "items": [
+        {
+          "sku": "FGB-001",
+          "nameEn": "LED Ice Bucket with Remote",
+          "nameZh": "LED 发光冰桶（遥控款）",
+          "factsEn": "Acrylic · remote + charger",
+          "factsZh": "亚克力 · 遥控 + 充电"
+        },
+        {
+          "sku": "BT-003",
+          "nameEn": "Irregular LED Ice Bucket",
+          "nameZh": "异形 LED 发光冰桶",
+          "factsEn": "Acrylic · 8 L",
+          "factsZh": "亚克力 · 8 L"
+        },
+        {
+          "sku": "BT-011",
+          "nameEn": "Hollow-Logo LED Ice Bucket",
+          "nameZh": "镂空 Logo LED 发光冰桶",
+          "factsEn": "Acrylic · 8 L",
+          "factsZh": "亚克力 · 8 L"
+        },
+        {
+          "sku": "FGB-002",
+          "nameEn": "White LED Ice Bucket",
+          "nameZh": "白色 LED 发光冰桶",
+          "factsEn": "Plastic · bottle service",
+          "factsZh": "塑胶 · 瓶装服务款"
+        }
+      ]
+    },
+    {
+      "key": "bar-accessories",
+      "titleEn": "Bar Accessories & Tools",
+      "titleZh": "酒具配件定制",
+      "slugEn": "/bar-accessories/",
+      "slugZh": "/zh/bar-accessories/",
+      "blurbEn": "Stoppers, pourers, charms, straws and shakers — small parts that carry your logo.",
+      "blurbZh": "酒塞、倒酒器、酒杯标记、吸管、雪克壶——件儿小，但上面印的就是你的 logo。",
+      "items": [
+        {
+          "sku": "JBPJ-074",
+          "nameEn": "Koala Wine Glass Charms",
+          "nameZh": "考拉造型酒杯标记",
+          "factsEn": "Silicone · wine glass marker",
+          "factsZh": "硅胶 · 酒杯标记"
+        },
+        {
+          "sku": "GJXG-001",
+          "nameEn": "Silicone Sili-Straw",
+          "nameZh": "硅胶吸管",
+          "factsEn": "Silicone · reusable",
+          "factsZh": "硅胶 · 可重复使用"
+        },
+        {
+          "sku": "JBPJ-061",
+          "nameEn": "Light-Up Acrylic Shaker",
+          "nameZh": "发光亚克力雪克壶",
+          "factsEn": "Acrylic · 16 oz",
+          "factsZh": "亚克力 · 16 oz"
+        },
+        {
+          "sku": "JBPJ-073",
+          "nameEn": "Rechargeable Wine Aerator",
+          "nameZh": "充电式醒酒分酒器",
+          "factsEn": "ABS + silicone · rechargeable",
+          "factsZh": "ABS + 硅胶 · 充电式"
+        }
+      ]
+    }
+  ]
+}

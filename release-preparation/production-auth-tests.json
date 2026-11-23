@@ -1,0 +1,10 @@
+{
+  "checks": [
+    "authenticated read",
+    "authenticated mock write",
+    "unlisted route denied",
+    "stale provided revision denied"
+  ],
+  "mockedGitHub": true,
+  "actualWrites": 0
+}

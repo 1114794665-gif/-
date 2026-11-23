@@ -1,0 +1,1551 @@
+# BOOM Drinkware — full model catalogue
+
+> Complete model-level reference for AI assistants and buyers. Brand: BOOM Drinkware. Site: https://www.boomdrinkware.com/. All prices on request; minimum order 10 pieces for stock-tool models.
+
+Key facts:
+- Founded: 2013
+- Plant: 3,416 m², Shenzhen
+- Equipment: injection moulding, silicone compression moulding and our own tooling shop in house; 65 machines across 4 production lines
+- Quality: 4 full-time QA/QC inspectors, AQL sampling (under 500 pcs 5%, 500-2000 pcs 3%, over 2000 pcs 1%)
+- Materials: plastic (PP, Tritan, AS, PS) and silicone; metal parts are sourced from vetted suppliers
+- Terms: T/T 30% deposit and 70% against copy of B/L, FOB Shenzhen; PayPal for samples only
+
+## Model index
+
+### /custom-plastic-cups/ — Custom Plastic &amp; Tritan Drinkware | BOOM Drinkware
+
+- SKU BSB-014 | capacity: 14 oz | material: plastic | MOQ: 500 pcs | decoration: Screen print, Heat transfer, UV print, Colour-change ink | accessories: Lid
+- Page: https://www.boomdrinkware.com/custom-plastic-cups/
+
+
+- SKU PJB-012 | material: PS | capacity: 1.4 L / 1.5 L | MOQ: 500 pcs | decoration: Screen print, UV print, Heat transfer
+- SKU PJB-017 | material: PP | capacity: 2 L | MOQ: 500 pcs | decoration: Screen print, UV print, Heat transfer
+- SKU SJZH-019 | capacity: 1.5 L | material: plastic | MOQ: 1,000 pcs | decoration: Screen print, UV print, Heat transfer
+
+### /products/10-5oz-ribbed-plastic-coupe-glasses/ — Custom 10.5 oz Ribbed Plastic Coupe | HJB-060 | BOOM Drinkware
+
+- SKU HJB-060 | material: PS | capacity: 300 ml / 10.5 oz | MOQ: 100 pcs | decoration: Screen print, UV print, Colour-change ink
+- Page: https://www.boomdrinkware.com/products/10-5oz-ribbed-plastic-coupe-glasses/
+
+### /products/12-oz-double-wall-plastic-tumbler/ — Custom Outdoor Double Wall Insulated Tumbler | SXB-008 | BOOM Drinkware
+
+- SKU SXB-008 | material: PS | capacity: 12 oz | MOQ: 500 pcs | decoration: Heat transfer, UV print, Screen print, Laser engraving | accessories: Lid, Straw
+- SKU SXB-009 | material: PS | capacity: 12 oz | MOQ: 500 pcs | decoration: Heat transfer, UV print, Screen print, Laser engraving | accessories: Lid, Straw
+- Page: https://www.boomdrinkware.com/products/12-oz-double-wall-plastic-tumbler/
+
+### /products/12oz-plastic-hiball-tumbler/ — /products/12oz-plastic-hiball-tumbler/
+
+- SKU SJB-015 | material: PS | capacity: 350 ml / 12 oz | MOQ: 500 pcs | decoration: Heat transfer, UV print, Screen print, Laser engraving | accessories: Lid, Straw
+- Page: https://www.boomdrinkware.com/products/12oz-plastic-hiball-tumbler/
+
+### /products/12oz-plastic-stein-cups-with-1/ — Custom Outdoor American Beer Mug | PJB-014 | BOOM Drinkware
+
+- SKU PJB-014 | material: PS | capacity: 350 ml / 12 oz | MOQ: 500 pcs | decoration: Screen print, Heat transfer, UV print, Pad print | accessories: Lid
+- Page: https://www.boomdrinkware.com/products/12oz-plastic-stein-cups-with-1/
+
+### /products/15oz-plastic-margarita-glass/ — Custom 15 oz PS Plastic Margarita glass | HJB-074 | BOOM Drinkware
+
+- SKU HJB-074 | material: PS | capacity: 440 ml / 15 oz | MOQ: 500 pcs | decoration: Screen print, UV print, Colour-change ink
+- Page: https://www.boomdrinkware.com/products/15oz-plastic-margarita-glass/
+
+### /products/15oz-plastic-wine-goblet/ — /products/15oz-plastic-wine-goblet/
+
+- SKU HJB-062 | material: PP | capacity: 450 ml / 15 oz | MOQ: 100 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- Page: https://www.boomdrinkware.com/products/15oz-plastic-wine-goblet/
+
+### /products/16-oz-color-changing-plastic-stadium-bsb002/ — Custom Color-Changing Cup Series | PP or PS, 12-22 oz | BOOM Drinkware
+
+- SKU BSB-001 | material: PP | capacity: 12 oz | MOQ: 500 pcs | decoration: Colour-change ink, UV print, Screen print
+- SKU BSB-002 | material: PP | capacity: 12 oz / 16 oz / 17 oz / 22 oz | MOQ: 500 pcs | decoration: Colour-change ink, UV print, Screen print
+- SKU BSB-003 | material: PP | capacity: 22 oz | MOQ: 500 pcs | decoration: Colour-change ink, UV print, Screen print
+- SKU BSB-004 | capacity: 12 oz | material: PP | MOQ: 500 pcs | decoration: Colour-change ink, UV print, Screen print
+- SKU BSB-005 | capacity: 22 oz | material: PP | MOQ: 500 pcs | decoration: Screen print, Heat transfer, UV print | accessories: Lid, Straw
+- SKU BSB-006 | capacity: 22 oz | material: PP | MOQ: 500 pcs | decoration: Colour-change ink, UV print, Screen print
+- SKU BSB-010 | capacity: 17 oz | material: PP | MOQ: 500 pcs | decoration: Screen print, Heat transfer, UV print | accessories: Lid, Straw
+- SKU BSB-013 | capacity: 17 oz | material: PP | MOQ: 500 pcs | decoration: Colour-change ink, UV print, Screen print
+- SKU SJB-028 | material: PP | capacity: 12 oz | MOQ: 500 pcs | decoration: Screen print, Heat transfer, UV print | accessories: Lid, Straw
+- SKU SJB-029 | material: PP | capacity: 16 oz | MOQ: 500 pcs | decoration: Screen print, Heat transfer, UV print | accessories: Lid, Straw
+- Page: https://www.boomdrinkware.com/products/16-oz-color-changing-plastic-stadium-bsb002/
+
+### /products/16-oz-double-wall-acrylic-tumbler-sjb016/ — /products/16-oz-double-wall-acrylic-tumbler-sjb016/
+
+- SKU SJB-016 | material: acrylic | capacity: 16 oz / 17 oz / 20 oz | MOQ: 500 pcs | decoration: Heat transfer, UV print, Screen print, Laser engraving | accessories: Lid, Straw
+- SKU SJB-017 | material: acrylic | capacity: 16 oz / 17 oz / 20 oz | MOQ: 500 pcs | decoration: Heat transfer, UV print, Screen print, Laser engraving | accessories: Lid, Straw
+- SKU SJB-018 | material: acrylic | capacity: 17 oz / 16 oz / 20 oz | MOQ: 500 pcs | decoration: Heat transfer, UV print, Screen print, Laser engraving | accessories: Lid, Straw
+- SKU SJB-019 | material: acrylic | capacity: 20 oz / 16 oz / 17 oz | MOQ: 500 pcs | decoration: Heat transfer, UV print, Screen print, Laser engraving | accessories: Lid, Straw
+- SKU SXB-006 | material: acrylic | capacity: 24 oz | MOQ: 500 pcs | decoration: Heat transfer, UV print, Screen print, Laser engraving | accessories: Lid, Straw
+- SKU SXB-007 | material: acrylic | capacity: 24 oz | MOQ: 500 pcs | decoration: Heat transfer, UV print, Screen print, Laser engraving | accessories: Lid, Straw
+- Page: https://www.boomdrinkware.com/products/16-oz-double-wall-acrylic-tumbler-sjb016/
+
+### /products/16-oz-economy-mood-tumbler/ — /products/16-oz-economy-mood-tumbler/
+
+- SKU BSB-015 | material: PP | capacity: 16 oz | MOQ: 500 pcs | decoration: Heat transfer, UV print, Screen print, Laser engraving | accessories: Lid, Straw
+- Page: https://www.boomdrinkware.com/products/16-oz-economy-mood-tumbler/
+
+### /products/16-oz-frosted-plastic-cup/ — /products/16-oz-frosted-plastic-cup/
+
+- SKU MSB-002 | material: PP | capacity: 16 oz | MOQ: 1,000 pcs | decoration: Screen print, UV print, Colour-change ink | accessories: Lid
+- SKU TYCB-007 | material: PP | capacity: 16 oz / 10 oz | MOQ: 1,000 pcs | decoration: Screen print, UV print, Colour-change ink | accessories: Lid
+- Page: https://www.boomdrinkware.com/products/16-oz-frosted-plastic-cup/
+
+### /products/16-oz-led-light-up-drinking/ — /products/16-oz-led-light-up-drinking/
+
+- SKU FGB-008 | material: acrylic | capacity: 16 oz | MOQ: 500 pcs | decoration: Screen print, Heat transfer, UV print | accessories: Lid
+- Page: https://www.boomdrinkware.com/products/16-oz-led-light-up-drinking/
+
+
+- SKU JBPJ-061 | material: acrylic | capacity: 16 oz | MOQ: 1,000 pcs | decoration: Screen print, UV print
+
+### /products/16-oz-slush-yard-cup-with/ — /products/16-oz-slush-yard-cup-with/
+
+- SKU SXB-002 | material: PET + PP | capacity: 16 oz | MOQ: 3,000 pcs | decoration: Screen print, Heat transfer, UV print, Colour-change ink | accessories: Lid
+- SKU SXB-003 | material: PET + PP | capacity: 12 oz | MOQ: 3,000 pcs | decoration: Screen print, Heat transfer, UV print, Colour-change ink | accessories: Lid
+- SKU SXB-004 | material: PET body; PP lid; PE straw | capacity: 12 oz | MOQ: 3,000 pcs | decoration: Screen print, Heat transfer, UV print, Colour-change ink | accessories: Lid
+- SKU SXB-005 | material: PET body; PP lid; PE straw | capacity: 16 oz | MOQ: 3,000 pcs | decoration: Screen print, Heat transfer, UV print, Colour-change ink | accessories: Lid
+- Page: https://www.boomdrinkware.com/products/16-oz-slush-yard-cup-with/
+
+
+- SKU SJB-038 | capacity: 10 oz | material: plastic | MOQ: 500 pcs | decoration: Screen print, Heat transfer, UV print | accessories: Lid, Straw
+- SKU SJB-039 | material: plastic | MOQ: 500 pcs | decoration: Screen print, Heat transfer, UV print | accessories: Lid, Straw
+
+### /products/16oz-matte-colored-plastic-cup-soda/ — /products/16oz-matte-colored-plastic-cup-soda/
+
+- SKU MSB-009 | material: PP | capacity: 16 oz | MOQ: 500 pcs | decoration: Screen print, Heat transfer, UV print, Colour-change ink | accessories: Lid
+- Page: https://www.boomdrinkware.com/products/16oz-matte-colored-plastic-cup-soda/
+
+### /products/17oz-plastic-beer-glass/ — /products/17oz-plastic-beer-glass/
+
+- SKU PJB-011 | material: PS | capacity: 500 ml / 17 oz | MOQ: 100 pcs | decoration: Screen print, Heat transfer, UV print, Colour-change ink | accessories: Lid
+- Page: https://www.boomdrinkware.com/products/17oz-plastic-beer-glass/
+
+### /products/18-5oz-tritan-wine-glass/ — Custom 18.5 oz Tritan Wine Glass | HJB-057 | BOOM Drinkware
+
+- SKU HJB-039 | material: Tritan | capacity: 445 ml / 15.5 oz | MOQ: 72 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- SKU HJB-041 | material: Tritan | capacity: 360 ml / 12 oz | MOQ: 96 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- SKU HJB-045 | material: Tritan | capacity: 455 ml / 16 oz | MOQ: 72 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- SKU HJB-046 | material: Tritan | capacity: 500 ml / 17.5 oz | MOQ: 72 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- SKU HJB-057 | material: Tritan | capacity: 530 ml / 18.5 oz | MOQ: 72 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- Page: https://www.boomdrinkware.com/products/18-5oz-tritan-wine-glass/
+
+### /products/20oz-plating-discoball-cup-with-straw/ — /products/20oz-plating-discoball-cup-with-straw/
+
+- SKU SJB-014 | material: PS | capacity: 580 ml / 20 oz | MOQ: 75 pcs | decoration: Screen print, Heat transfer, UV print, Colour-change ink | accessories: Lid
+- SKU SJB-032 | material: PS | capacity: 20 oz | MOQ: 500 pcs | decoration: Screen print, Heat transfer, UV print, Colour-change ink | accessories: Lid
+- Page: https://www.boomdrinkware.com/products/20oz-plating-discoball-cup-with-straw/
+
+### /products/21oz-plastic-juice-cup-with-lid/ — /products/21oz-plastic-juice-cup-with-lid/
+
+- SKU SJB-013 | material: PC | capacity: 600 ml / 21 oz | MOQ: 10 pcs | decoration: Screen print, Heat transfer, UV print, Colour-change ink | accessories: Lid
+- Page: https://www.boomdrinkware.com/products/21oz-plastic-juice-cup-with-lid/
+
+### /products/22oz-plastic-beer-mug/ — Custom Outdoor Beer Mug with Handle | PJB-008 | BOOM Drinkware
+
+- SKU PJB-008 | material: PP + PS | capacity: 650 ml / 22 oz | MOQ: 500 pcs | decoration: Screen print, Heat transfer, UV print, Pad print | accessories: Lid
+- SKU PJB-009 | material: PS | capacity: 350 ml / 12 oz | MOQ: 500 pcs | decoration: Screen print, Heat transfer, UV print, Pad print | accessories: Lid
+- SKU PJB-010 | material: PS | capacity: 800 ml / 27 oz | MOQ: 500 pcs | decoration: Screen print, Heat transfer, UV print, Pad print | accessories: Lid
+- Page: https://www.boomdrinkware.com/products/22oz-plastic-beer-mug/
+
+
+- SKU JBPJ-060 | material: PS | capacity: 24 oz | MOQ: 1,000 pcs | decoration: Screen print, Pad print
+
+### /products/24oz-plastic-party-drinking-ball-cup/ — /products/24oz-plastic-party-drinking-ball-cup/
+
+- SKU SJB-033 | material: PS | capacity: 24 oz | MOQ: 3,000 pcs | decoration: Screen print, Heat transfer, UV print, Colour-change ink | accessories: Lid
+- Page: https://www.boomdrinkware.com/products/24oz-plastic-party-drinking-ball-cup/
+
+### /products/3-7l/ — Custom 3.7 L / 700 ml / 20.5 oz PP Wine Tasting Spittoon Bucket with Logo | BT-016 | BOOM Drinkware
+
+- SKU BT-016 | factory model: IB200 (3.7 L) / IB201 (700 ml) | material: PP | capacity: 3.7 L / 700 ml / 20.5 oz | dimensions: 3.7 L 20.5 × 14 × 21 cm · 700 ml 12.2 × 7 × 16 cm | unit weight: 306 g / 133 g | case pack: 3.7 L 24 pcs / carton (44 × 44 × 67 cm, 10 kg gross) · 700 ml 50 pcs (70 × 38 × 30 cm, 9.5 kg gross) | MOQ on site: 50 pcs | decoration: Screen print, UV print, Hydro dip | MOQ: 50 pcs
+- Page: https://www.boomdrinkware.com/products/3-7l/
+
+
+- SKU JBPJ-027 | capacity: 32 oz | material: plastic | MOQ: 500 pcs | decoration: Screen print, UV print
+- SKU JBPJ-028 | material: PC | capacity: 64 oz | MOQ: 500 pcs | decoration: Screen print, UV print
+- SKU JBPJ-029 | capacity: 82 oz | material: plastic | MOQ: 500 pcs | decoration: Screen print, UV print
+
+
+- SKU BT-012 | factory model: FJ-A117 | material: PS | capacity: 1 L / 34 oz | dimensions: 12.5 × 13 cm | unit weight: 225 g | case pack: 36 pcs / carton (42 × 42 × 50 cm, 10 kg gross) | MOQ on site: 50 pcs | decoration: Screen print, UV print, Hydro dip | MOQ: 50 pcs
+
+
+- SKU JBPJ-058 | material: acrylic | capacity: 37 oz | MOQ: 500 pcs | decoration: Screen print, UV print, Heat transfer
+
+### /products/4-5oz-plastic-champagne-flute-injected/ — Custom 4.5 oz Plastic Champagne Flute | HJB-069 | BOOM Drinkware
+
+- SKU HJB-069 | material: PS | capacity: 130 ml / 4.5 oz | MOQ: 100 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- Page: https://www.boomdrinkware.com/products/4-5oz-plastic-champagne-flute-injected/
+
+### /products/40020-mixing-glass-x4-591ml/ — /products/40020-mixing-glass-x4-591ml/
+
+- SKU PJB-007 | material: PC | capacity: 591 ml / 20 oz | MOQ: 1,000 pcs | decoration: Screen print, Heat transfer, UV print, Colour-change ink | accessories: Lid
+- Page: https://www.boomdrinkware.com/products/40020-mixing-glass-x4-591ml/
+
+### /products/40350-beer-mug-x4-502ml/ — /products/40350-beer-mug-x4-502ml/
+
+- SKU PJB-004 | material: PC | capacity: 443 ml / 15 oz | MOQ: 1,000 pcs | decoration: Screen print, Heat transfer, UV print, Pad print | accessories: Lid
+- SKU PJB-005 | material: PC | capacity: 502 ml / 17 oz | MOQ: 500 pcs | decoration: Screen print, Heat transfer, UV print, Pad print | accessories: Lid
+- SKU PJB-050 | material: Tritan | capacity: 502 ml / 17 oz | MOQ: 500 pcs | decoration: Screen print, Heat transfer, UV print, Pad print | accessories: Lid
+- Page: https://www.boomdrinkware.com/products/40350-beer-mug-x4-502ml/
+
+### /products/41140-footed-pilsner-x4-414ml/ — Custom Outdoor Pilsner Cup | PJB-002 | BOOM Drinkware
+
+- SKU PJB-001 | material: PC | capacity: 285 ml / 9.5 oz | MOQ: 1,000 pcs | decoration: Screen print, Heat transfer, UV print, Pad print | accessories: Lid
+- SKU PJB-002 | material: PC | capacity: 414 ml / 14 oz | MOQ: 1,000 pcs | decoration: Screen print, Heat transfer, UV print, Pad print | accessories: Lid
+- SKU PJB-003 | material: PC | capacity: 473 ml / 16 oz | MOQ: 1,000 pcs | decoration: Screen print, Heat transfer, UV print, Pad print | accessories: Lid
+- SKU PJB-016 | material: PS | capacity: 570 ml / 19 oz | MOQ: 500 pcs | decoration: Screen print, Heat transfer, UV print, Pad print | accessories: Lid
+- SKU PJB-053 | material: Tritan | capacity: 473 ml / 16 oz | MOQ: 1,000 pcs | decoration: Screen print, Heat transfer, UV print, Pad print | accessories: Lid
+- Page: https://www.boomdrinkware.com/products/41140-footed-pilsner-x4-414ml/
+
+
+- SKU JBPJ-025 | material: stainless steel | MOQ: 500 pcs | decoration: Pad print, Laser engraving | sourcing: metal parts from vetted partner suppliers, not made in-house
+
+
+- SKU BT-014 | factory model: FJ-IB0683 (4 L) / FJ-IB0682 (8 L) / FJ-IB0684 (12 L) | material: PS | capacity: 4 L / 8 L / 12 L | dimensions: 4 L 27 × 19.5 × 19.5 cm · 8 L 33 × 20.5 × 25.5 cm · 12 L 41.5 × 27.7 × 25.5 cm | unit weight: 560 g / 980 g / 1,325 g | case pack: 4 L 10 pcs / carton (43 × 30 × 47 cm, 7 kg gross) · 8 L 10 pcs (55 × 37 × 55 cm, 11 kg gross) · 12 L 5 pcs (45 × 32 × 57 cm, 8 kg gross) | MOQ on site: 20 pcs | decoration: Screen print, UV print, Hydro dip | MOQ: 20 pcs
+
+### /products/5-8oz-plastic-champagne-flute/ — Custom 5.8 oz PS Plastic Champagne flute | HJB-048 | BOOM Drinkware
+
+- SKU HJB-048 | material: PS | capacity: 165 ml / 5.8 oz | MOQ: 100 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- SKU HJB-049 | material: PP + PS | capacity: 170 ml / 6 oz | MOQ: 100 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- SKU HJB-050 | material: PS | capacity: 160 ml / 5.6 oz | MOQ: 100 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- SKU HJB-051 | material: PS | capacity: 240 ml / 8.5 oz | MOQ: 100 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- SKU HJB-058 | material: PS | capacity: 165 ml / 5.5 oz | MOQ: 10 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- SKU HJB-059 | material: PS | capacity: 150 ml / 5 oz | MOQ: 100 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- SKU HJB-061 | material: PS | capacity: 320 ml / 11 oz | MOQ: 100 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- SKU HJB-068 | material: PS | capacity: 240 ml / 8 oz | MOQ: 100 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- SKU HJB-070 | material: PS | capacity: 320 ml / 11 oz | MOQ: 100 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- Page: https://www.boomdrinkware.com/products/5-8oz-plastic-champagne-flute/
+
+
+- SKU JBPJ-059 | material: acrylic + silicone | capacity: 56 oz | MOQ: 500 pcs | decoration: Screen print, UV print, Heat transfer
+
+
+- SKU BT-013 | factory model: KF-IB0685 | material: PET | capacity: 5 L | dimensions: 42 × 18 × 17 cm | unit weight: 860 g | case pack: 8 pcs / carton (45 × 38 × 51 cm, 9 kg gross) | MOQ on site: 48 pcs | decoration: Screen print, UV print, Hydro dip | MOQ: 48 pcs
+
+### /products/6-3oz-plastic-martini-glass/ — Custom 6.3 oz PS Plastic Martini Glass | HJB-056 | BOOM Drinkware
+
+- SKU HJB-056 | material: PS | capacity: 200 ml / 7 oz | MOQ: 500 pcs | decoration: Screen print, UV print, Colour-change ink
+- SKU HJB-065 | material: PS | capacity: 300 ml / 10 oz | MOQ: 500 pcs | decoration: Screen print, UV print, Colour-change ink
+- Page: https://www.boomdrinkware.com/products/6-3oz-plastic-martini-glass/
+
+
+- SKU JBPJ-057 | material: acrylic | capacity: 64 oz | MOQ: 500 pcs | decoration: Screen print, UV print, Heat transfer
+
+### /products/7-5oz-plasic-iso-standard-wine/ — Custom 7.5 oz Plasic ISO Standard Wine | HJB-073 | BOOM Drinkware
+
+- SKU HJB-073 | material: Tritan | capacity: 220 ml / 7.5 oz | MOQ: 1,000 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- Page: https://www.boomdrinkware.com/products/7-5oz-plasic-iso-standard-wine/
+
+### /products/7oz-plastic-cocktail-glass/ — Custom 7 oz PS Plastic Cocktail Glass | HJB-076 | BOOM Drinkware
+
+- SKU HJB-076 | material: PS | capacity: 200 ml / 7 oz | MOQ: 120 pcs | decoration: Screen print, UV print, Colour-change ink
+- Page: https://www.boomdrinkware.com/products/7oz-plastic-cocktail-glass/
+
+### /products/8l-asymmetric-hollow-logo-designer-led/ — Custom 8 L Asymmetric Hollow-Logo | BT-011 | BOOM Drinkware
+
+- SKU BT-011 | material: acrylic | capacity: 8 L | MOQ: 500 pcs | decoration: Screen print, UV print, Hydro dip
+- Lighting: Small runs single colour (white or yellow); 100 pcs up 7 colours — red, orange, yellow, green, white, blue and purple (RGB, custom shade on request); LED shape can be tooled to a customer drawing
+- Page: https://www.boomdrinkware.com/products/8l-asymmetric-hollow-logo-designer-led/
+
+### /products/8oz-plastic-wine-glasses/ — Custom 8 oz PS Plastic Wine Glasses | HJB-054 | BOOM Drinkware
+
+- SKU HJB-054 | material: PS | capacity: 240 ml / 8 oz | MOQ: 500 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- Page: https://www.boomdrinkware.com/products/8oz-plastic-wine-glasses/
+
+### /products/9oz-stemless-pet-champagne-flute/ — Custom 9 oz Stemless PET Champagne | HJB-042 | BOOM Drinkware
+
+- SKU HJB-027 | capacity: 6 oz / 2 oz | material: plastic | MOQ: 500 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- SKU HJB-028 | capacity: 9 oz / 2 oz | material: plastic | MOQ: 500 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- SKU HJB-042 | material: PET | capacity: 260 ml / 9 oz | MOQ: 500 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- Page: https://www.boomdrinkware.com/products/9oz-stemless-pet-champagne-flute/
+
+
+- SKU JBPJ-056 | material: acrylic + silicone | capacity: 36 oz / 56 oz | MOQ: 500 pcs | decoration: Screen print, UV print
+
+### /products/acrylic-party-beer-tumbler/ — Custom Outdoor Double Wall Insulated Beer Tumbler | SXB-012 | BOOM Drinkware
+
+- SKU SXB-012 | material: acrylic | MOQ: 500 pcs | decoration: Heat transfer, UV print, Screen print, Laser engraving | accessories: Lid, Straw
+- Page: https://www.boomdrinkware.com/products/acrylic-party-beer-tumbler/
+
+
+- SKU JBPJ-021 | material: acrylic | MOQ: 500 pcs | decoration: Pad print, Laser engraving
+
+
+- SKU JBPJ-022 | material: acrylic | capacity: 1 oz / 1.5 oz | MOQ: 500 pcs | decoration: Pad print, Laser engraving
+
+
+- SKU SJZH-018 | capacity: 2 L | material: plastic | MOQ: 1,000 pcs | decoration: Screen print, UV print, Heat transfer
+
+
+- SKU JBPJ-002 | material: silicone | MOQ: 500 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print
+
+### /products/bar-salt-glass-rimmer-3-tier/ — Custom ABS Bar Salt Glass Rimmer-3 Tier | JBPJ-048 | BOOM Drinkware
+
+- SKU JBPJ-048 | material: ABS | MOQ: 50 pcs | decoration: Screen print, Pad print
+- Page: https://www.boomdrinkware.com/products/bar-salt-glass-rimmer-3-tier/
+
+### /products/bermuda-silicone-tumbler-with-straw-and/ — /products/bermuda-silicone-tumbler-with-straw-and/
+
+- SKU SJB-023 | material: acrylic + silicone | capacity: 32 oz | MOQ: 500 pcs | decoration: Heat transfer, UV print, Screen print, Laser engraving | accessories: Lid, Straw
+- Page: https://www.boomdrinkware.com/products/bermuda-silicone-tumbler-with-straw-and/
+
+### /products/beverage-beer-bat-cup/ — Custom Outdoor Long-Tube Beer Bat Cup | PJB-013 | BOOM Drinkware
+
+- SKU PJB-013 | material: PP | capacity: 640 ml / 22 oz | MOQ: 100 pcs | decoration: Hydro dip, UV print, Colour-change ink
+- SKU PJB-015 | material: PP + ABS | capacity: 640 ml / 22 oz | MOQ: 10 pcs | decoration: Hydro dip, UV print, Colour-change ink
+- Page: https://www.boomdrinkware.com/products/beverage-beer-bat-cup/
+
+
+- SKU JBPJ-026 | material: plastic | MOQ: 500 pcs | decoration: Screen print, UV print
+
+
+- SKU JBPJ-062 | material: stainless steel | capacity: 18 oz / 28 oz shaker tins | MOQ: 500 pcs | decoration: Screen print, UV print | sourcing: metal parts from vetted partner suppliers, not made in-house
+
+### /products/bottle-pourer-tulip-shape/ — Custom Bottle Wine Pourer - Tulip shape | JBPJ-065 | BOOM Drinkware
+
+- SKU JBPJ-065 | material: acrylic + TPE | MOQ: 550 pcs | decoration: Pad print, Laser engraving
+- Page: https://www.boomdrinkware.com/products/bottle-pourer-tulip-shape/
+
+### /products/bottle-pourer/ — Custom Acrylic Bottle Pourer with Logo | JBPJ-068 | BOOM Drinkware
+
+- SKU JBPJ-068 | material: acrylic + TPE | MOQ: 550 pcs | decoration: Pad print, Laser engraving
+- Page: https://www.boomdrinkware.com/products/bottle-pourer/
+
+
+- SKU JBPJ-049 | material: PP | MOQ: 50 pcs | decoration: Screen print, Pad print
+
+### /products/bottle-stopper-and-wine-charm-2/ — Custom Bottle Stopper and Wine Charm | JBPJ-044 | BOOM Drinkware
+
+- SKU JBPJ-044 | material: nylon + silicone | MOQ: 100 pcs | decoration: Pad print, Laser engraving
+- Page: https://www.boomdrinkware.com/products/bottle-stopper-and-wine-charm-2/
+
+### /products/bottle-stopper-funny-design/ — Custom ABS Wine Bottle stopper-Funny | JS-034 | BOOM Drinkware
+
+- SKU JS-034 | material: ABS + silicone | MOQ: 100 pcs | decoration: Pad print, Laser engraving
+- Page: https://www.boomdrinkware.com/products/bottle-stopper-funny-design/
+
+
+- SKU MKB-018 | material: acrylic | capacity: 20 oz | MOQ: 500 pcs | decoration: Heat transfer, UV print, Screen print, Laser engraving | accessories: Lid, Straw
+- SKU SJB-020 | material: AS/SAN | capacity: 24 oz | MOQ: 500 pcs | decoration: Heat transfer, UV print, Screen print, Laser engraving | accessories: Lid, Straw
+- SKU SJB-021 | material: acrylic | capacity: 22 oz | MOQ: 500 pcs | decoration: Heat transfer, UV print, Screen print, Laser engraving | accessories: Lid, Straw
+- SKU SJB-042 | material: acrylic | capacity: 20 oz | MOQ: 500 pcs | decoration: Heat transfer, UV print, Screen print, Laser engraving | accessories: Lid, Straw
+- SKU SJB-043 | material: acrylic | capacity: 16 oz | MOQ: 500 pcs | decoration: Heat transfer, UV print, Screen print, Laser engraving | accessories: Lid, Straw
+- SKU SJB-044 | material: acrylic | capacity: 16 oz | MOQ: 500 pcs | decoration: Heat transfer, UV print, Screen print, Laser engraving | accessories: Lid, Straw
+- SKU SJB-045 | material: acrylic | capacity: 16 oz | MOQ: 500 pcs | decoration: Heat transfer, UV print, Screen print, Laser engraving | accessories: Lid, Straw
+- SKU SJB-047 | material: acrylic | capacity: 24 oz | MOQ: 500 pcs | decoration: Heat transfer, UV print, Screen print, Laser engraving | accessories: Lid, Straw
+- SKU SJB-048 | material: acrylic | capacity: 16 oz | MOQ: 500 pcs | decoration: Heat transfer, UV print, Screen print, Laser engraving | accessories: Lid, Straw
+- SKU SJB-050 | material: acrylic | capacity: 26 oz | MOQ: 500 pcs | decoration: Heat transfer, UV print, Screen print, Laser engraving | accessories: Lid, Straw
+- SKU SJB-051 | material: acrylic | capacity: 16 oz | MOQ: 500 pcs | decoration: Heat transfer, UV print, Screen print, Laser engraving | accessories: Lid, Straw
+- SKU SJB-052 | material: acrylic | capacity: 16 oz | MOQ: 500 pcs | decoration: Heat transfer, UV print, Screen print, Laser engraving | accessories: Lid, Straw
+- SKU SJB-053 | material: acrylic | capacity: 24 oz | MOQ: 500 pcs | decoration: Heat transfer, UV print, Screen print, Laser engraving | accessories: Lid, Straw
+- SKU SJB-054 | material: acrylic + PP | capacity: 21 oz | MOQ: 500 pcs | decoration: Heat transfer, UV print, Screen print, Laser engraving | accessories: Lid, Straw
+- SKU SJB-055 | material: PS | capacity: 24 oz | MOQ: 500 pcs | decoration: Heat transfer, UV print, Screen print, Laser engraving | accessories: Lid, Straw
+
+### /products/champagne-sipper-for-16-1-mm/ — Custom Champagne Sipper for 16 1 mm | JBPJ-042 | BOOM Drinkware
+
+- SKU JBPJ-042 | material: ABS | MOQ: 100 pcs | decoration: Pad print, Laser engraving
+- SKU JBPJ-043 | material: ABS + silicone | MOQ: 100 pcs | decoration: Pad print, Laser engraving
+- Page: https://www.boomdrinkware.com/products/champagne-sipper-for-16-1-mm/
+
+### /products/champagne-stopper-for-17-5/ — Custom Champagne Stopper for 17 5-18 mm | JBPJ-045 | BOOM Drinkware
+
+- SKU JBPJ-045 | material: ABS + silicone | MOQ: 200 pcs | decoration: Pad print, Laser engraving
+- Page: https://www.boomdrinkware.com/products/champagne-stopper-for-17-5/
+
+### /products/champagne-stopper-with-plating-painting/ — Custom Champagne Wine stopper | JS-037 | BOOM Drinkware
+
+- SKU JS-037 | material: stainless steel + TPR | MOQ: 200 pcs | decoration: Pad print, Laser engraving | sourcing: metal parts from vetted partner suppliers, not made in-house
+- Page: https://www.boomdrinkware.com/products/champagne-stopper-with-plating-painting/
+
+### /products/champagne-stopper/ — Custom Stainless steel Champagne stopper | JS-031 | BOOM Drinkware
+
+- SKU JS-031 | material: stainless steel + TPR | MOQ: 200 pcs | decoration: Pad print, Laser engraving | sourcing: metal parts from vetted partner suppliers, not made in-house
+- Page: https://www.boomdrinkware.com/products/champagne-stopper/
+
+
+- SKU KPQ-023 | material: silicone + stainless steel | MOQ: 500 pcs | decoration: Pad print, Laser engraving | sourcing: metal parts from vetted partner suppliers, not made in-house
+
+### /products/classic-tumbler-sjb012/ — /products/classic-tumbler-sjb012/
+
+- SKU SJB-012 | material: Tritan + PP | capacity: 16 oz / 24 oz | MOQ: 500 pcs | decoration: Heat transfer, UV print, Screen print, Laser engraving | accessories: Lid, Straw
+- Page: https://www.boomdrinkware.com/products/classic-tumbler-sjb012/
+
+### /products/collapsible-mug/ — Custom Silicone XLite Collapsible Mug | GJZD-009 | BOOM Drinkware
+
+- SKU GJZD-009 | material: silicone + nylon | capacity: Custom capacity — contact us with your requirements | MOQ: 500 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print | accessories: Lid, Straw
+- SKU GJZD-010 | material: silicone + nylon + fibreglass | capacity: Custom capacity — contact us with your requirements | MOQ: 500 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print | accessories: Lid, Straw
+- SKU GJZD-011 | material: silicone + nylon | capacity: Custom capacity — contact us with your requirements | MOQ: 500 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print | accessories: Lid, Straw
+- SKU GJZD-012 | material: silicone | capacity: 17 oz / 500 ml / 25 oz / 740 ml | MOQ: 500 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print | accessories: Lid, Straw
+- SKU GJZD-019 | material: silicone | capacity: Custom capacity — contact us with your requirements | MOQ: 500 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print | accessories: Lid, Straw
+- SKU GJZD-021 | material: silicone | capacity: Custom capacity — contact us with your requirements | MOQ: 500 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print | accessories: Lid, Straw
+- Page: https://www.boomdrinkware.com/products/collapsible-mug/
+
+
+- SKU JBPJ-024 | material: nylon | MOQ: 500 pcs | decoration: Pad print, Laser engraving
+
+### /products/corona-margarita-clip-straight-version/ — Custom Margarita clip - Straight | JBPJ-050 | BOOM Drinkware
+
+- SKU JBPJ-050 | material: ABS | MOQ: 500 pcs | decoration: Screen print, Pad print
+- Page: https://www.boomdrinkware.com/products/corona-margarita-clip-straight-version/
+
+
+- SKU BT-001 | material: acrylic | MOQ: 500 pcs | decoration: Screen print, UV print, Hydro dip
+
+
+- SKU BD-003 | material: acrylic + ABS | MOQ: 500 pcs | decoration: Screen print, Laser engraving, UV print
+
+
+- SKU JBPJ-017 | material: acrylic | MOQ: 10,000 pcs | decoration: Pad print, Laser engraving
+- SKU JBPJ-018 | material: acrylic | MOQ: 10,000 pcs | decoration: Pad print, Laser engraving
+
+
+- SKU BTAO-004 | material: rubber | capacity: 16 oz / 20 oz | MOQ: 500 pcs | decoration: Screen print, UV print
+
+
+- SKU KPQ-022 | material: silicone | MOQ: 500 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print
+
+### /products/customized-silicone-12oz-wine-gjb008/ — Custom 12 oz Silicone Wine Glass - | GJB-008 | BOOM Drinkware
+
+- SKU BPJJ-009 | material: silicone | capacity: 12 oz | MOQ: 500 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print
+- SKU GJB-008 | material: silicone | capacity: 12 oz | MOQ: 500 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print
+- SKU GJB-010 | material: silicone | capacity: 12 oz | MOQ: 500 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print
+- SKU GJB-020 | material: silicone | capacity: 12 oz | MOQ: 500 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print
+- SKU GJB-023 | material: silicone | capacity: 12 oz | MOQ: 500 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print
+- SKU GJZD-018 | material: silicone | capacity: Custom capacity — contact us with your requirements | MOQ: 10 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print | accessories: Lid, Straw
+- SKU HJB-012 | material: silicone | capacity: 3.5 oz | MOQ: 500 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print
+- Page: https://www.boomdrinkware.com/products/customized-silicone-12oz-wine-gjb008/
+
+### /products/customized-silicone-16oz-straw/ — Custom 16 oz Silicone Straw Tumbler - | GJB-007 | BOOM Drinkware
+
+- SKU BPJJ-012 | material: silicone | capacity: 16 oz | MOQ: 500 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print | accessories: Lid, Straw
+- SKU GJB-007 | material: silicone | capacity: 16 oz | MOQ: 200 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print | accessories: Lid, Straw
+- SKU GJB-012 | material: silicone | capacity: 8 oz | MOQ: 500 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print | accessories: Lid, Straw
+- SKU GJB-014 | material: silicone | capacity: 22 oz | MOQ: 200 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print | accessories: Lid, Straw
+- SKU GJB-015 | material: silicone | capacity: 32 oz | MOQ: 500 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print | accessories: Lid, Straw
+- SKU GJB-022 | material: silicone | capacity: 8 oz | MOQ: 500 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print | accessories: Lid, Straw
+- SKU GJB-025 | material: silicone | capacity: 16 oz | MOQ: 500 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print | accessories: Lid, Straw
+- Page: https://www.boomdrinkware.com/products/customized-silicone-16oz-straw/
+
+### /products/dash-soft-touch-acrylic-tumbler-with/ — /products/dash-soft-touch-acrylic-tumbler-with/
+
+- SKU SJB-046 | material: acrylic | capacity: 17 oz | MOQ: 500 pcs | decoration: Heat transfer, UV print, Screen print, Laser engraving | accessories: Lid, Straw
+- Page: https://www.boomdrinkware.com/products/dash-soft-touch-acrylic-tumbler-with/
+
+
+- SKU JBPJ-052 | material: plastic | MOQ: 500 pcs | decoration: Screen print, UV print
+
+
+- SKU BT-002 | material: acrylic | capacity: 8L | MOQ: 500 pcs | decoration: Screen print, UV print, Hydro dip
+
+### /products/econ-polystyrene-conical-tumblers-7-5oz/ — /products/econ-polystyrene-conical-tumblers-7-5oz/
+
+- SKU PJB-054 | material: Tritan | capacity: 210 ml / 7.5 oz | MOQ: 1,000 pcs | decoration: Heat transfer, UV print, Screen print, Laser engraving | accessories: Lid, Straw
+- Page: https://www.boomdrinkware.com/products/econ-polystyrene-conical-tumblers-7-5oz/
+
+
+- SKU KPQ-008 | material: ABS | MOQ: 50 pcs | decoration: Pad print, Laser engraving | sourcing: metal parts from vetted partner suppliers, not made in-house
+- SKU KPQ-009 | material: stainless steel + PC | MOQ: 36 pcs | decoration: Pad print, Laser engraving | sourcing: metal parts from vetted partner suppliers, not made in-house
+- SKU KPQ-010 | material: Aluminum and ABS components | MOQ: 30 pcs | decoration: Pad print, Laser engraving | sourcing: metal parts from vetted partner suppliers, not made in-house
+- SKU KPQ-016 | material: ABS | MOQ: 36 pcs | decoration: Pad print, Laser engraving | sourcing: metal parts from vetted partner suppliers, not made in-house
+- SKU KPQ-017 | material: Aluminum and ABS components | MOQ: 30 pcs | decoration: Pad print, Laser engraving | sourcing: metal parts from vetted partner suppliers, not made in-house
+
+### /products/elite-nucleated-polycarbonate-pint-tumblers/ — Custom Outdoor Tulip Beer Cup | PJB-021 | BOOM Drinkware
+
+- SKU PJB-021 | material: Tritan | capacity: 568 ml / 20 oz | MOQ: 1,000 pcs | decoration: Screen print, Heat transfer, UV print, Pad print | accessories: Lid
+- SKU PJB-022 | material: Tritan | capacity: 568 ml / 20 oz / 285 ml / 10 oz | MOQ: 1,000 pcs | decoration: Screen print, Heat transfer, UV print, Colour-change ink | accessories: Lid
+- SKU PJB-023 | material: Tritan | capacity: 568 ml / 20 oz | MOQ: 1,000 pcs | decoration: Screen print, Heat transfer, UV print, Colour-change ink | accessories: Lid
+- SKU PJB-025 | material: Tritan | capacity: 568 ml / 20 oz | MOQ: 1,000 pcs | decoration: Heat transfer, UV print, Screen print, Laser engraving | accessories: Lid, Straw
+- SKU PJB-026 | material: Tritan | capacity: 568 ml / 20 oz | MOQ: 1,000 pcs | decoration: Heat transfer, UV print, Screen print, Laser engraving | accessories: Lid, Straw
+- SKU PJB-028 | material: Tritan | capacity: 285 ml / 10 oz | MOQ: 1,000 pcs | decoration: Heat transfer, UV print, Screen print, Laser engraving | accessories: Lid, Straw
+- SKU PJB-030 | material: Tritan | capacity: 285 ml / 10 oz | MOQ: 1,000 pcs | decoration: Heat transfer, UV print, Screen print, Laser engraving | accessories: Lid, Straw
+- SKU PJB-032 | material: Tritan | capacity: 285 ml / 10 oz | MOQ: 1,000 pcs | decoration: Heat transfer, UV print, Screen print, Laser engraving | accessories: Lid, Straw
+- SKU PJB-035 | material: Tritan | capacity: 285 ml / 10 oz | MOQ: 1,000 pcs | decoration: Heat transfer, UV print, Screen print, Laser engraving | accessories: Lid, Straw
+- SKU PJB-038 | material: Tritan | capacity: 285 ml / 10 oz | MOQ: 1,000 pcs | decoration: Heat transfer, UV print, Screen print, Laser engraving | accessories: Lid, Straw
+- SKU PJB-039 | material: Tritan | capacity: 568 ml / 20 oz | MOQ: 1,000 pcs | decoration: Heat transfer, UV print, Screen print, Laser engraving | accessories: Lid, Straw
+- SKU PJB-040 | material: Tritan | capacity: 568 ml / 20 oz | MOQ: 1,000 pcs | decoration: Heat transfer, UV print, Screen print, Laser engraving | accessories: Lid, Straw
+- SKU PJB-045 | material: Tritan | capacity: 285 ml / 10 oz | MOQ: 1,000 pcs | decoration: Heat transfer, UV print, Screen print, Laser engraving | accessories: Lid, Straw
+- SKU PJB-046 | material: Tritan | capacity: 285 ml / 10 oz | MOQ: 1,000 pcs | decoration: Heat transfer, UV print, Screen print, Laser engraving | accessories: Lid, Straw
+- Page: https://www.boomdrinkware.com/products/elite-nucleated-polycarbonate-pint-tumblers/
+
+### /products/elite-polycarbonate-2-pint-tulip-tumblers/ — /products/elite-polycarbonate-2-pint-tulip-tumblers/
+
+- SKU PJB-036 | material: Tritan | capacity: 40 oz | MOQ: 1,000 pcs | decoration: Heat transfer, UV print, Screen print, Laser engraving | accessories: Lid, Straw
+- SKU PJB-037 | material: Tritan | capacity: 568 ml / 20 oz | MOQ: 1,000 pcs | decoration: Screen print, Heat transfer, UV print, Colour-change ink | accessories: Lid
+- SKU PJB-042 | material: Tritan | capacity: 20 oz | MOQ: 1,000 pcs | decoration: Screen print, Heat transfer, UV print, Colour-change ink | accessories: Lid
+- SKU PJB-043 | material: Tritan | capacity: 568 ml / 20 oz | MOQ: 1,000 pcs | decoration: Screen print, Heat transfer, UV print, Colour-change ink | accessories: Lid
+- Page: https://www.boomdrinkware.com/products/elite-polycarbonate-2-pint-tulip-tumblers/
+
+### /products/elite-polycarbonate-nonic-pint-tumblers/ — /products/elite-polycarbonate-nonic-pint-tumblers/
+
+- SKU PJB-051 | material: Tritan | capacity: 568 ml / 20 oz / 280 ml / 10 oz | MOQ: 1,000 pcs | decoration: Heat transfer, UV print, Screen print, Laser engraving | accessories: Lid, Straw
+- Page: https://www.boomdrinkware.com/products/elite-polycarbonate-nonic-pint-tumblers/
+
+### /products/elite-premium-polycarbonate-hiball-glasses-12oz/ — /products/elite-premium-polycarbonate-hiball-glasses-12oz/
+
+- SKU PJB-047 | material: Tritan | capacity: 12 oz | MOQ: 1,000 pcs | decoration: Screen print, Heat transfer, UV print, Colour-change ink | accessories: Lid
+- Page: https://www.boomdrinkware.com/products/elite-premium-polycarbonate-hiball-glasses-12oz/
+
+
+- SKU KPQ-033 | material: zinc alloy | MOQ: 500 pcs | decoration: Pad print, Laser engraving | sourcing: metal parts from vetted partner suppliers, not made in-house
+
+### /products/everywhere-tritan-renew-tumbler-with/ — /products/everywhere-tritan-renew-tumbler-with/
+
+- SKU SXB-001 | material: Tritan + silicone | capacity: 16 oz | MOQ: 500 pcs | decoration: Heat transfer, UV print, Screen print, Laser engraving | accessories: Lid, Straw
+- Page: https://www.boomdrinkware.com/products/everywhere-tritan-renew-tumbler-with/
+
+### /products/fiesta-mason-jar-with-straw/ — /products/fiesta-mason-jar-with-straw/
+
+- SKU SJB-022 | material: acrylic | capacity: 22 oz | MOQ: 500 pcs | decoration: Screen print, Heat transfer, UV print, Colour-change ink | accessories: Lid
+- Page: https://www.boomdrinkware.com/products/fiesta-mason-jar-with-straw/
+
+### /products/frosted-detachable-stem-plastic-wine-glass/ — /products/frosted-detachable-stem-plastic-wine-glass/
+
+- SKU MSB-006 | material: PET | capacity: 14 oz / 400 ml | MOQ: 500 pcs | decoration: Screen print, UV print, Colour-change ink | accessories: Lid
+- Page: https://www.boomdrinkware.com/products/frosted-detachable-stem-plastic-wine-glass/
+
+
+- SKU BTAO-005 | material: NEOPRENE | capacity: 12 oz | MOQ: 500 pcs | decoration: Screen print, UV print
+
+### /products/full-color-travel-tumbler/ — /products/full-color-travel-tumbler/
+
+- SKU MKB-017 | material: acrylic + PP | capacity: 20 oz | MOQ: 500 pcs | decoration: Heat transfer, UV print, Screen print, Laser engraving | accessories: Lid, Straw
+- Page: https://www.boomdrinkware.com/products/full-color-travel-tumbler/
+
+
+- SKU SJB-041 | capacity: 10 oz | material: plastic | MOQ: 500 pcs | decoration: Screen print, Heat transfer, UV print, Colour-change ink | accessories: Lid
+
+### /products/goose-head-manual-wine-opener/ — Custom ABS Goose head Manual Wine Opener | KPQ-006 | BOOM Drinkware
+
+- SKU KPQ-006 | material: zinc alloy + ABS | MOQ: 32 pcs | decoration: Pad print, Laser engraving | sourcing: metal parts from vetted partner suppliers, not made in-house
+- Page: https://www.boomdrinkware.com/products/goose-head-manual-wine-opener/
+
+### /products/hawk-wine-aerator-pourer/ — Custom AS Hawk Wine Aerator Pourer | JBPJ-041 | BOOM Drinkware
+
+- SKU JBPJ-041 | material: AS + silicone | MOQ: 100 pcs | decoration: Pad print, Laser engraving
+- Page: https://www.boomdrinkware.com/products/hawk-wine-aerator-pourer/
+
+
+- SKU BT-008 | material: PET | capacity: 3L | MOQ: 100 pcs | decoration: Screen print, UV print
+
+
+- SKU BT-007 | material: PET | capacity: 10L | MOQ: 100 pcs | decoration: Screen print, UV print, Hydro dip
+
+### /products/hydaway-collapsible-pint/ — Custom Collapsible Pint - Travel Pack | GJZD-014 | BOOM Drinkware
+
+- SKU GJZD-014 | material: silicone + stainless steel | capacity: Custom capacity — contact us with your requirements | MOQ: 500 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print | accessories: Lid, Straw | sourcing: metal parts from vetted partner suppliers, not made in-house
+- Page: https://www.boomdrinkware.com/products/hydaway-collapsible-pint/
+
+### /products/hydaway-collapsible-tumbler-with-lid/ — Custom Collapsible Tumbler with Lid | GJZD-016 | BOOM Drinkware
+
+- SKU GJZD-016 | material: silicone | capacity: Custom capacity — contact us with your requirements | MOQ: 500 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print | accessories: Lid, Straw
+- SKU GJZD-017 | material: silicone | capacity: Custom capacity — contact us with your requirements | MOQ: 500 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print | accessories: Lid, Straw
+- Page: https://www.boomdrinkware.com/products/hydaway-collapsible-tumbler-with-lid/
+
+
+- SKU JBPJ-053 | material: plastic | MOQ: 500 pcs | decoration: Screen print, UV print
+
+
+- SKU JBPJ-047 | material: PS | MOQ: 50 pcs | decoration: Screen print, UV print
+
+
+- SKU JBPJ-004 | material: plastic | MOQ: 500 pcs | decoration: Screen print
+
+
+- SKU FGB-033 | material: PS | capacity: 17 oz | MOQ: 500 pcs | decoration: Heat transfer, UV print, Screen print, Laser engraving | accessories: Lid, Straw
+
+### /products/irregular-shape-led-bottom-lit-ice/ — Custom 8 L Irregular Shape LED | BT-003 | BOOM Drinkware
+
+- SKU BT-003 | material: acrylic | capacity: 8 L | MOQ: 100 pcs | decoration: Screen print, UV print, Hydro dip
+- Lighting: Small runs single colour (white or yellow); 100 pcs up 7 colours — red, orange, yellow, green, white, blue and purple (RGB, custom shade on request); LED shape can be tooled to a customer drawing
+- Page: https://www.boomdrinkware.com/products/irregular-shape-led-bottom-lit-ice/
+
+### /products/katerglass-plastic-pint-tumblers-22oz-lce/ — Custom Outdoor Half Pint Cup | PJB-018 | BOOM Drinkware
+
+- SKU PJB-018 | material: Tritan | capacity: 22 oz | MOQ: 1,000 pcs | decoration: Screen print, Heat transfer, UV print, Pad print | accessories: Lid
+- SKU PJB-019 | material: Tritan | capacity: 568 ml / 20 oz / 285 ml / 10 oz | MOQ: 1,000 pcs | decoration: Heat transfer, UV print, Screen print, Laser engraving | accessories: Lid, Straw
+- SKU PJB-020 | material: Tritan | capacity: 568 ml / 20 oz | MOQ: 1,000 pcs | decoration: Heat transfer, UV print, Screen print, Laser engraving | accessories: Lid, Straw
+- SKU PJB-031 | material: Tritan | capacity: 350 ml / 12 oz | MOQ: 1,000 pcs | decoration: Heat transfer, UV print, Screen print, Laser engraving | accessories: Lid, Straw
+- SKU PJB-033 | material: Tritan | capacity: 12 oz | MOQ: 1,000 pcs | decoration: Heat transfer, UV print, Screen print, Laser engraving | accessories: Lid, Straw
+- SKU PJB-041 | material: Tritan | capacity: 22 oz | MOQ: 1,000 pcs | decoration: Heat transfer, UV print, Screen print, Laser engraving | accessories: Lid, Straw
+- SKU PJB-044 | material: Tritan | capacity: 12 oz | MOQ: 1,000 pcs | decoration: Heat transfer, UV print, Screen print, Laser engraving | accessories: Lid, Straw
+- Page: https://www.boomdrinkware.com/products/katerglass-plastic-pint-tumblers-22oz-lce/
+
+
+- SKU KPQ-024 | material: zinc alloy | MOQ: 500 pcs | decoration: Pad print, Laser engraving | sourcing: metal parts from vetted partner suppliers, not made in-house
+- SKU KPQ-027 | material: zinc alloy | MOQ: 500 pcs | decoration: Pad print, Laser engraving | sourcing: metal parts from vetted partner suppliers, not made in-house
+- SKU KPQ-028 | material: zinc alloy | MOQ: 500 pcs | decoration: Pad print, Laser engraving | sourcing: metal parts from vetted partner suppliers, not made in-house
+- SKU KPQ-029 | material: zinc alloy | MOQ: 500 pcs | decoration: Pad print, Laser engraving | sourcing: metal parts from vetted partner suppliers, not made in-house
+- SKU KPQ-030 | material: zinc alloy | MOQ: 500 pcs | decoration: Pad print, Laser engraving | sourcing: metal parts from vetted partner suppliers, not made in-house
+- SKU KPQ-032 | material: zinc alloy | MOQ: 500 pcs | decoration: Pad print, Laser engraving | sourcing: metal parts from vetted partner suppliers, not made in-house
+
+
+- SKU JBPJ-074 | material: silicone | MOQ: 500 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print
+- SKU JBPJ-075 | material: silicone | MOQ: 500 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print
+- SKU JBPJ-076 | material: silicone | MOQ: 500 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print
+- SKU JBPJ-077 | material: silicone | MOQ: 500 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print
+- SKU JBPJ-078 | material: silicone | MOQ: 500 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print
+- SKU JBPJ-079 | material: silicone | MOQ: 500 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print
+- SKU JBPJ-080 | material: silicone | MOQ: 500 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print
+- SKU JBPJ-081 | material: silicone | MOQ: 500 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print
+- SKU JBPJ-082 | material: silicone | MOQ: 500 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print
+- SKU JBPJ-083 | material: silicone | MOQ: 500 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print
+- SKU JBPJ-084 | material: silicone | MOQ: 500 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print
+- SKU JBPJ-085 | material: silicone | MOQ: 500 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print
+- SKU JBPJ-086 | material: silicone | MOQ: 500 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print
+- SKU JBPJ-087 | material: silicone | MOQ: 500 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print
+- SKU JBPJ-088 | material: silicone | MOQ: 500 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print
+- SKU JBPJ-089 | material: silicone | MOQ: 500 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print
+
+
+- SKU BT-004 | material: acrylic | capacity: 10 L | MOQ: 500 pcs | decoration: Screen print, UV print, Hydro dip
+
+### /products/led-disco-ball-tumbler-cups-deluxe/ — Custom 20 oz LED Disco Ball Tumbler | FGB-031 | BOOM Drinkware
+
+- SKU FGB-031 | capacity: 20 oz | material: PS | MOQ: 300 pcs | decoration: Heat transfer, UV print, Screen print, Laser engraving | accessories: Lid, Straw
+- SKU FGB-032 | material: acrylic | capacity: 20 oz | MOQ: 500 pcs | decoration: Heat transfer, UV print, Screen print, Laser engraving | accessories: Lid, Straw
+- Page: https://www.boomdrinkware.com/products/led-disco-ball-tumbler-cups-deluxe/
+
+### /products/led-light-up-beer-mug/ — Custom Outdoor LED Light-Up Beer Mug with Handle | FGB-010 | BOOM Drinkware
+
+- SKU FGB-010 | material: acrylic | capacity: 28 oz | MOQ: 500 pcs | decoration: Screen print, Heat transfer, UV print, Pad print | accessories: Lid
+- Page: https://www.boomdrinkware.com/products/led-light-up-beer-mug/
+
+### /products/led-light-up-cola-drinking-glass/ — /products/led-light-up-cola-drinking-glass/
+
+- SKU FGB-009 | material: acrylic | capacity: 12 oz | MOQ: 500 pcs | decoration: Screen print, Heat transfer, UV print, Colour-change ink | accessories: Lid
+- Page: https://www.boomdrinkware.com/products/led-light-up-cola-drinking-glass/
+
+### /products/led-light-up-color-change-pint/ — /products/led-light-up-color-change-pint/
+
+- SKU FGB-028 | material: acrylic | capacity: 16 oz | MOQ: 500 pcs | decoration: Screen print, Heat transfer, Colour-change ink, UV print, Pad print | accessories: Lid
+- Page: https://www.boomdrinkware.com/products/led-light-up-color-change-pint/
+
+### /products/led-light-up-color-changing-glow/ — Custom 16 oz LED Light Up Color | FGB-034 | BOOM Drinkware
+
+- SKU FGB-034 | material: PS | capacity: 16 oz | MOQ: 3,000 pcs | decoration: Screen print, Heat transfer, UV print, Colour-change ink | accessories: Lid
+- Page: https://www.boomdrinkware.com/products/led-light-up-color-changing-glow/
+
+### /products/led-light-up-highball-glass/ — /products/led-light-up-highball-glass/
+
+- SKU FGB-036 | material: acrylic | capacity: 14 oz | MOQ: 500 pcs | decoration: Screen print, Heat transfer, UV print, Colour-change ink | accessories: Lid
+- Page: https://www.boomdrinkware.com/products/led-light-up-highball-glass/
+
+### /products/led-light-up-ice-bucket-with/ — Custom LED Light UP Ice Bucket | FGB-001 | BOOM Drinkware
+
+- SKU FGB-001 | material: acrylic | MOQ: 500 pcs | decoration: Screen print, UV print, Hydro dip
+- Lighting: Small runs single colour (white or yellow); 100 pcs up 7 colours — red, orange, yellow, green, white, blue and purple (RGB, custom shade on request); LED shape can be tooled to a customer drawing
+- Page: https://www.boomdrinkware.com/products/led-light-up-ice-bucket-with/
+
+### /products/led-light-up-mini-champagne-glass/ — /products/led-light-up-mini-champagne-glass/
+
+- SKU FGB-021 | capacity: 5 oz | material: plastic | MOQ: 500 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- Page: https://www.boomdrinkware.com/products/led-light-up-mini-champagne-glass/
+
+### /products/led-light-up-multicolor-whiskey-glass/ — Custom 8 oz LED Light Up Multicolor Rock | FGB-013 | BOOM Drinkware
+
+- SKU FGB-013 | material: acrylic | capacity: 8 oz | MOQ: 500 pcs | decoration: Screen print, UV print, Laser engraving
+- SKU FGB-014 | material: acrylic | capacity: 8 oz | MOQ: 500 pcs | decoration: Screen print, UV print, Laser engraving
+- Page: https://www.boomdrinkware.com/products/led-light-up-multicolor-whiskey-glass/
+
+### /products/led-light-up-spiral-stem-martini/ — Custom Outdoor LED Light-Up Cocktail Glass | FGB-023 | BOOM Drinkware
+
+- SKU FGB-023 | material: acrylic | capacity: 8 oz | MOQ: 500 pcs | decoration: Screen print, UV print, Colour-change ink
+- SKU FGB-024 | material: acrylic | capacity: 8 oz | MOQ: 500 pcs | decoration: Screen print, UV print, Colour-change ink
+- SKU FGB-025 | material: acrylic | capacity: 10 oz | MOQ: 500 pcs | decoration: Screen print, UV print, Colour-change ink
+- Page: https://www.boomdrinkware.com/products/led-light-up-spiral-stem-martini/
+
+### /products/led-mood-light-up-short-glass/ — /products/led-mood-light-up-short-glass/
+
+- SKU FGB-035 | material: acrylic | capacity: 12 oz | MOQ: 500 pcs | decoration: Screen print, Heat transfer, UV print, Colour-change ink | accessories: Lid
+- Page: https://www.boomdrinkware.com/products/led-mood-light-up-short-glass/
+
+### /products/led-short-tumbler/ — Custom 12 oz Acrylic LED Short Tumbler | FGB-030 | BOOM Drinkware
+
+- SKU FGB-030 | material: PS | capacity: 12 oz | MOQ: 3,000 pcs | decoration: Heat transfer, UV print, Screen print, Laser engraving | accessories: Lid, Straw
+- Page: https://www.boomdrinkware.com/products/led-short-tumbler/
+
+### /products/light-up-20oz-led-skull/ — /products/light-up-20oz-led-skull/
+
+- SKU FGB-011 | material: acrylic | capacity: 20 oz | MOQ: 500 pcs | decoration: Screen print, Heat transfer, UV print | accessories: Lid
+- Page: https://www.boomdrinkware.com/products/light-up-20oz-led-skull/
+
+### /products/light-up-beer-boot-mug-led/ — Custom 16 oz Light Up Beer Boot Mug LED | FGB-012 | BOOM Drinkware
+
+- SKU FGB-012 | material: PS | capacity: 16 oz (to brim) | MOQ: 1,000 pcs | decoration: Screen print, Heat transfer, UV print, Pad print | accessories: Lid
+- SKU MKB-004 | capacity: 16 oz | material: PS | MOQ: 48 pcs | decoration: Screen print, Heat transfer, UV print, Pad print | accessories: Lid
+- Page: https://www.boomdrinkware.com/products/light-up-beer-boot-mug-led/
+
+### /products/light-up-disco-ball-light-projecting/ — Custom 8 oz Light Up Disco Ball Light | FGB-038 | BOOM Drinkware
+
+- SKU FGB-038 | material: acrylic | capacity: 8 oz filled to the brim | MOQ: 500 pcs | decoration: Screen print, Heat transfer, UV print, Colour-change ink | accessories: Lid
+- Page: https://www.boomdrinkware.com/products/light-up-disco-ball-light-projecting/
+
+### /products/light-up-multicolor-led-pilsner-cup/ — Custom Outdoor LED Light-Up Beer Cup without Handle | FGB-006 | BOOM Drinkware
+
+- SKU FGB-006 | material: acrylic | capacity: 12 oz | MOQ: 500 pcs | decoration: Screen print, Heat transfer, Colour-change ink, UV print, Pad print | accessories: Lid
+- SKU FGB-007 | material: acrylic | capacity: 12 oz | MOQ: 500 pcs | decoration: Screen print, Heat transfer, Colour-change ink, UV print, Pad print | accessories: Lid
+- Page: https://www.boomdrinkware.com/products/light-up-multicolor-led-pilsner-cup/
+
+### /products/light-up-slow-change-led-shot/ — Custom 2 oz Light Up Slow Change LED | FGB-016 | BOOM Drinkware
+
+- SKU FGB-016 | material: acrylic | capacity: 2 oz | MOQ: 500 pcs | decoration: Screen print, Heat transfer, UV print
+- Page: https://www.boomdrinkware.com/products/light-up-slow-change-led-shot/
+
+### /products/long-stem-led-light-up-champagne/ — Custom Outdoor LED Light-Up Stemmed Champagne Flute | FGB-019 | BOOM Drinkware
+
+- SKU FGB-019 | material: acrylic | capacity: 6 oz | MOQ: 500 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- SKU FGB-020 | material: PS | capacity: 6 oz | MOQ: 500 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- SKU FGB-022 | material: acrylic | capacity: 6 oz | MOQ: 500 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- Page: https://www.boomdrinkware.com/products/long-stem-led-light-up-champagne/
+
+
+- SKU SJZH-021 | capacity: 70 oz | material: plastic | MOQ: 1,000 pcs | decoration: Screen print, UV print, Heat transfer
+
+### /products/manual-wine-opener-kit-s-4/ — Custom Manual Wine Opener Kit | KPQ-007 | BOOM Drinkware
+
+- SKU KPQ-007 | material: Main opener: ABS; accessories vary | MOQ: 60 pcs | decoration: Pad print, Laser engraving
+- Page: https://www.boomdrinkware.com/products/manual-wine-opener-kit-s-4/
+
+
+- SKU JBPJ-063 | material: PC | capacity: 54 oz | MOQ: 1,000 pcs | decoration: Screen print, UV print, Heat transfer
+
+### /products/medical-mug/ — /products/medical-mug/
+
+- SKU MKB-019 | material: PP | capacity: 32 oz | MOQ: 1,000 pcs | decoration: Screen print, Heat transfer, UV print | accessories: Lid
+- Page: https://www.boomdrinkware.com/products/medical-mug/
+
+
+- SKU KPQ-034 | material: zinc alloy | MOQ: 500 pcs | decoration: Pad print, Laser engraving | sourcing: metal parts from vetted partner suppliers, not made in-house
+
+
+- SKU KPQ-031 | material: zinc alloy | MOQ: 500 pcs | decoration: Pad print, Laser engraving | sourcing: metal parts from vetted partner suppliers, not made in-house
+
+
+- SKU BT-009 | material: acrylic | capacity: 8 L | MOQ: 100 pcs | decoration: Screen print, UV print, Hydro dip
+
+
+- SKU BT-015 | factory model: YJ303 | material: PP + PS | capacity: 3.2 L | dimensions: 21.3 × 14.2 × 30.2 cm | unit weight: 635 g (PP) / 740 g (PS) | case pack: 10 pcs / carton (77 × 46 × 26 cm, 9 kg gross) | MOQ on site: 50 pcs | decoration: Screen print, UV print, Hydro dip | MOQ: 50 pcs
+
+### /products/moet-sipper-with-moet-logo/ — Custom ABS Sipper with logo with Logo | JS-040 | BOOM Drinkware
+
+- SKU JS-040 | material: ABS | MOQ: 100 pcs | decoration: Pad print, Laser engraving
+- Page: https://www.boomdrinkware.com/products/moet-sipper-with-moet-logo/
+
+
+- SKU JBPJ-013 | material: plastic | MOQ: 10,000 pcs | decoration: Pad print, Laser engraving
+
+### /products/multi-color-light-up-led-mason/ — Custom 18 oz Multi Color Light Up LED | FGB-037 | BOOM Drinkware
+
+- SKU FGB-037 | material: acrylic | capacity: 18 oz | MOQ: 500 pcs | decoration: Screen print, Heat transfer, UV print | accessories: Lid
+- Page: https://www.boomdrinkware.com/products/multi-color-light-up-led-mason/
+
+
+- SKU JBPJ-023 | material: PP | MOQ: 500 pcs | decoration: Pad print, Laser engraving
+
+
+- SKU FGB-003 | material: PS | MOQ: 500 pcs | decoration: Screen print, UV print
+
+### /products/multicolor-led-light-up-to-go/ — Custom 16 oz Multicolor LED Light Up | FGB-027 | BOOM Drinkware
+
+- SKU FGB-027 | material: PS | capacity: 16 oz | MOQ: 3,000 pcs | decoration: Heat transfer, UV print, Screen print, Laser engraving | accessories: Lid, Straw
+- SKU FGB-029 | material: acrylic | capacity: 18 oz | MOQ: 500 pcs | decoration: Heat transfer, UV print, Screen print, Laser engraving | accessories: Lid, Straw
+- Page: https://www.boomdrinkware.com/products/multicolor-led-light-up-to-go/
+
+### /products/multicolor-light-up-spiral-stemmed-wine/ — Custom Outdoor LED Light-Up Wine Glass | FGB-017 | BOOM Drinkware
+
+- SKU FGB-017 | material: acrylic | capacity: 8 oz | MOQ: 500 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- SKU FGB-018 | material: acrylic | capacity: 8 oz | MOQ: 500 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- SKU FGB-026 | material: acrylic | capacity: 10 oz | MOQ: 500 pcs | decoration: Screen print, UV print, Colour-change ink
+- Page: https://www.boomdrinkware.com/products/multicolor-light-up-spiral-stemmed-wine/
+
+
+- SKU BTAO-003 | material: rubber | capacity: 12 oz | MOQ: 500 pcs | decoration: Screen print, Pad print
+
+
+- SKU JBPJ-037 | material: silicone | MOQ: 500 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print
+
+### /products/oliver-acrylic-mug-with-straw/ — Custom Outdoor Oversized Beer Tumbler - 40 oz | SJB-024 | BOOM Drinkware
+
+- SKU SJB-024 | material: acrylic | capacity: 40 oz | MOQ: 500 pcs | decoration: Heat transfer, UV print, Screen print | accessories: Lid, Straw
+- SKU SJB-025 | material: acrylic | capacity: 40 oz | MOQ: 500 pcs | decoration: Heat transfer, UV print, Screen print | accessories: Lid, Straw
+- SKU SJB-049 | material: acrylic | capacity: 30 oz | MOQ: 500 pcs | decoration: Heat transfer, UV print, Screen print | accessories: Lid, Straw
+- SKU SJSB-001 | material: Tritan + PP + silicone | capacity: 48 oz | MOQ: 500 pcs | decoration: Heat transfer, UV print, Screen print | accessories: Lid, Straw
+- Page: https://www.boomdrinkware.com/products/oliver-acrylic-mug-with-straw/
+
+### /products/orbit-tumbler-mkb020/ — /products/orbit-tumbler-mkb020/
+
+- SKU MKB-020 | material: PS + PP | capacity: 16 oz / 24 oz | MOQ: 3,000 pcs | decoration: Heat transfer, UV print, Screen print, Laser engraving | accessories: Lid, Straw
+- Page: https://www.boomdrinkware.com/products/orbit-tumbler-mkb020/
+
+### /products/plastic-beer-opener/ — Custom ABS Plastic Beer Opener with Logo | KPQ-005 | BOOM Drinkware
+
+- SKU KPQ-005 | material: ABS | MOQ: 120 pcs | decoration: Pad print, Laser engraving
+- Page: https://www.boomdrinkware.com/products/plastic-beer-opener/
+
+### /products/plastic-double-wall-gel-mug-for/ — /products/plastic-double-wall-gel-mug-for/
+
+- SKU PJB-048 | material: Tritan | capacity: 580 ml | MOQ: 1,000 pcs | decoration: Screen print, Heat transfer, UV print, Pad print | accessories: Lid
+- SKU PJB-049 | material: PS | capacity: 1.3 litres total; serving line at 2 pints | MOQ: 1,000 pcs | decoration: Screen print, Heat transfer, UV print, Pad print | accessories: Lid
+- SKU SJB-034 | material: PS | capacity: 15 oz | MOQ: 1,000 pcs | decoration: Screen print, Heat transfer, UV print, Pad print | accessories: Lid
+- Page: https://www.boomdrinkware.com/products/plastic-double-wall-gel-mug-for/
+
+### /products/plastic-ice-bucket/ — Custom 3 L PP Plastic Ice bucket with Logo | BT-017 | BOOM Drinkware
+
+- SKU BT-017 | factory model: FJ-IB01 | material: PP + PS | capacity: 3 L | dimensions: 19.3 × 19 × 24 cm | unit weight: 330 g (PP) / 460 g (PS) | case pack: 24 pcs / carton (43 × 43 × 54 cm, 13 kg gross) | MOQ on site: 48 pcs | decoration: Screen print, UV print, Hydro dip | MOQ: 48 pcs
+- Page: https://www.boomdrinkware.com/products/plastic-ice-bucket/
+
+
+- SKU JBPJ-020 | material: plastic | MOQ: 500 pcs | decoration: Pad print, Laser engraving
+
+### /products/plastic-wine-glass-with-gold-rim/ — Custom Plastic Wine Glass with Gold Rim | HJB-053 | BOOM Drinkware
+
+- SKU HJB-053 | material: plastic | MOQ: 1,000 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- Page: https://www.boomdrinkware.com/products/plastic-wine-glass-with-gold-rim/
+
+### /products/plastic-wine-goblet-with-gold-plating/ — Custom Plastic Wine Goblet with Gold | HJB-072 | BOOM Drinkware
+
+- SKU HJB-072 | material: plastic | MOQ: 50 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- Page: https://www.boomdrinkware.com/products/plastic-wine-goblet-with-gold-plating/
+
+
+- SKU KPQ-026 | material: zinc alloy | MOQ: 500 pcs | decoration: Pad print, Laser engraving | sourcing: metal parts from vetted partner suppliers, not made in-house
+
+### /products/promotional-bpa-free-plastic-mason-jar/ — /products/promotional-bpa-free-plastic-mason-jar/
+
+- SKU MSB-008 | material: PP + PC | capacity: 500 ml | MOQ: 300 pcs | decoration: Screen print, Heat transfer, UV print, Colour-change ink | accessories: Lid
+- Page: https://www.boomdrinkware.com/products/promotional-bpa-free-plastic-mason-jar/
+
+### /products/purple-led-light-up-shot-glass/ — Custom 1.5 oz Purple LED Light Up Shot | JBPJ-101 | BOOM Drinkware
+
+- SKU JBPJ-101 | material: acrylic | capacity: 1.5 oz | MOQ: 500 pcs | decoration: Screen print, Heat transfer, UV print
+- Page: https://www.boomdrinkware.com/products/purple-led-light-up-shot-glass/
+
+### /products/rechargeable-wine-aerator-dispenser/ — Custom Rechargeable Wine Aerator | JBPJ-073 | BOOM Drinkware
+
+- SKU JBPJ-073 | material: ABS + silicone | MOQ: 36 pcs | decoration: Pad print, Laser engraving
+- Page: https://www.boomdrinkware.com/products/rechargeable-wine-aerator-dispenser/
+
+### /products/rechargeable-wine-opener/ — Custom Aluminum Rechargeable Wine Opener | KPQ-011 | BOOM Drinkware
+
+- SKU KPQ-011 | material: ABS + PC | MOQ: 50 pcs | decoration: Pad print, Laser engraving | sourcing: metal parts from vetted partner suppliers, not made in-house
+- SKU KPQ-012 | material: Aluminum and ABS components | MOQ: 10 pcs | decoration: Pad print, Laser engraving | sourcing: metal parts from vetted partner suppliers, not made in-house
+- SKU KPQ-013 | material: aluminium alloy + stainless steel + PC | MOQ: 30 pcs | decoration: Pad print, Laser engraving | sourcing: metal parts from vetted partner suppliers, not made in-house
+- SKU KPQ-014 | material: Aluminum and ABS components | MOQ: 25 pcs | decoration: Pad print, Laser engraving | sourcing: metal parts from vetted partner suppliers, not made in-house
+- SKU KPQ-015 | material: Aluminum and ABS components | MOQ: 25 pcs | decoration: Pad print, Laser engraving | sourcing: metal parts from vetted partner suppliers, not made in-house
+- SKU KPQ-018 | material: Aluminum and ABS components | MOQ: 10 pcs | decoration: Pad print, Laser engraving | sourcing: metal parts from vetted partner suppliers, not made in-house
+- SKU KPQ-019 | material: Aluminum and ABS components | MOQ: 25 pcs | decoration: Pad print, Laser engraving | sourcing: metal parts from vetted partner suppliers, not made in-house
+- SKU KPQ-020 | material: Aluminum and ABS components | MOQ: 10 pcs | decoration: Pad print, Laser engraving | sourcing: metal parts from vetted partner suppliers, not made in-house
+- SKU KPQ-021 | material: Aluminum and ABS components | MOQ: 10 pcs | decoration: Pad print, Laser engraving | sourcing: metal parts from vetted partner suppliers, not made in-house
+- Page: https://www.boomdrinkware.com/products/rechargeable-wine-opener/
+
+### /products/regal-polycarbonate-pint-glasses/ — /products/regal-polycarbonate-pint-glasses/
+
+- SKU PJB-024 | material: Tritan | capacity: 568 ml / 20 oz / 380 ml / 13.4 oz | MOQ: 1,000 pcs | decoration: Screen print, Heat transfer, UV print, Colour-change ink | accessories: Lid
+- Page: https://www.boomdrinkware.com/products/regal-polycarbonate-pint-glasses/
+
+### /products/reusable-plastic-party-cup/ — /products/reusable-plastic-party-cup/
+
+- SKU SJB-006 | material: PP | capacity: 17 oz | MOQ: 500 pcs | decoration: Screen print, Heat transfer, UV print | accessories: Lid, Straw
+- SKU SJB-026 | material: PP | capacity: 10 oz | MOQ: 500 pcs | decoration: Screen print, Heat transfer, UV print | accessories: Lid, Straw
+- SKU SJB-027 | material: PP | capacity: 16 oz | MOQ: 500 pcs | decoration: Screen print, Heat transfer, UV print, Colour-change ink | accessories: Lid
+- SKU SJB-030 | material: PS | capacity: 2 oz | MOQ: 500 pcs | decoration: Screen print, Heat transfer, UV print | accessories: Lid, Straw
+- SKU SJB-031 | material: PS | capacity: 2 oz | MOQ: 500 pcs | decoration: Screen print, Heat transfer, UV print | accessories: Lid, Straw
+- SKU TYCB-001 | material: PP | capacity: 2 oz / 10 oz / 12 oz / 16 oz / 17 oz / 20 oz / 22 oz / 24 oz | MOQ: 500 pcs | decoration: Screen print, Heat transfer, UV print | accessories: Lid, Straw
+- SKU TYCB-002 | material: PP | capacity: 22 oz / 32 oz | MOQ: 500 pcs | decoration: Screen print, Heat transfer, UV print | accessories: Lid, Straw
+- SKU TYCB-003 | material: PP | capacity: 16 oz | MOQ: 500 pcs | decoration: Screen print, Heat transfer, UV print | accessories: Lid, Straw
+- SKU TYCB-004 | material: PP | capacity: 24 oz / 20 oz | MOQ: 500 pcs | decoration: Screen print, Heat transfer, UV print | accessories: Lid, Straw
+- SKU TYCB-005 | material: PP | capacity: 20 oz / 24 oz | MOQ: 500 pcs | decoration: Screen print, Heat transfer, UV print | accessories: Lid, Straw
+- SKU TYCB-006 | material: PP | capacity: 16 oz | MOQ: 500 pcs | decoration: Screen print, Heat transfer, UV print | accessories: Lid, Straw
+- Page: https://www.boomdrinkware.com/products/reusable-plastic-party-cup/
+
+
+- SKU BTAO-002 | material: silicone | capacity: 12 oz | MOQ: 500 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print
+
+### /products/silicone-1-5oz-ljb001/ — Custom 1.5 oz Silicone Silishot - Color | LJB-001 | BOOM Drinkware
+
+- SKU LJB-001 | material: silicone | capacity: 1.5 oz | MOQ: 500 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print | accessories: Lid
+- SKU LJB-006 | material: silicone | capacity: 1.5 oz | MOQ: 500 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print | accessories: Lid
+- SKU LJB-010 | material: silicone | capacity: 1.5 oz | MOQ: 500 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print | accessories: Lid
+- Page: https://www.boomdrinkware.com/products/silicone-1-5oz-ljb001/
+
+### /products/silicone-16oz-siliparty-party/ — Custom 16 oz Silicone SiliParty Cup | BPJJ-006 | BOOM Drinkware
+
+- SKU BPJJ-006 | material: silicone | capacity: 16 oz | MOQ: 600 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print | accessories: Lid
+- Page: https://www.boomdrinkware.com/products/silicone-16oz-siliparty-party/
+
+### /products/silicone-20oz-pint-glass/ — Custom 20 oz Silicone Pint Glass | BPJJ-008 | BOOM Drinkware
+
+- SKU BPJJ-008 | material: silicone | capacity: 20 oz | MOQ: 500 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print | accessories: Lid
+- SKU GJB-001 | material: silicone | capacity: 16 oz | MOQ: 600 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print | accessories: Lid
+- SKU GJB-004 | material: silicone | capacity: 16 oz | MOQ: 500 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print | accessories: Lid
+- SKU GJB-021 | material: silicone | capacity: 16 oz | MOQ: 500 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print | accessories: Lid
+- Page: https://www.boomdrinkware.com/products/silicone-20oz-pint-glass/
+
+### /products/silicone-25oz-handled-barrel-bpjj005/ — Custom 25 oz Silicone Handled Barrel | BPJJ-005 | BOOM Drinkware
+
+- SKU BPJJ-005 | material: silicone | capacity: 25 oz | MOQ: 500 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print | accessories: Lid
+- SKU GJB-024 | material: silicone | capacity: 25 oz | MOQ: 500 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print | accessories: Lid
+- Page: https://www.boomdrinkware.com/products/silicone-25oz-handled-barrel-bpjj005/
+
+### /products/silicone-28oz-beer-stein-gjb016/ — Custom 28 oz Silicone Beer Stein - | GJB-016 | BOOM Drinkware
+
+- SKU GJB-016 | material: silicone | capacity: 28 oz | MOQ: 500 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print | accessories: Lid
+- SKU GJB-018 | material: silicone | capacity: 28 oz | MOQ: 500 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print | accessories: Lid
+- Page: https://www.boomdrinkware.com/products/silicone-28oz-beer-stein-gjb016/
+
+### /products/silicone-2oz-shumbler-shot-ljb002/ — Custom 2 oz Silicone Shumbler - Custom | LJB-002 | BOOM Drinkware
+
+- SKU LJB-002 | material: silicone | capacity: 2 oz | MOQ: 500 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print | accessories: Lid
+- SKU LJB-008 | material: silicone | capacity: 2 oz | MOQ: 500 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print | accessories: Lid
+- Page: https://www.boomdrinkware.com/products/silicone-2oz-shumbler-shot-ljb002/
+
+### /products/silicone-32oz-bomber-cup/ — Custom 32 oz Silicone Bomber Cup | BPJJ-002 | BOOM Drinkware
+
+- SKU BPJJ-002 | material: silicone | capacity: 32 oz | MOQ: 100 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print | accessories: Lid
+- Page: https://www.boomdrinkware.com/products/silicone-32oz-bomber-cup/
+
+### /products/silicone-6oz-flight-taster/ — Custom 6 oz Silicone Flight Taster | BPJJ-004 | BOOM Drinkware
+
+- SKU BPJJ-004 | material: silicone | capacity: 6 oz | MOQ: 500 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print
+- Page: https://www.boomdrinkware.com/products/silicone-6oz-flight-taster/
+
+
+- SKU BD-001 | material: silicone | MOQ: 10 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print
+
+
+- SKU BD-002 | material: silicone | MOQ: 100 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print
+
+
+- SKU JBPJ-003 | material: silicone | MOQ: 500 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print
+
+
+- SKU JBPJ-038 | material: silicone | MOQ: 500 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print
+
+
+- SKU GJXG-001 | material: silicone | MOQ: 100 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print
+
+### /products/sipper-pourer-universal-ver-for-16/ — Custom Sipper &amp; Wine Pourer for 16-19mm | JBPJ-067 | BOOM Drinkware
+
+- SKU JBPJ-067 | material: ABS + silicone | MOQ: 100 pcs | decoration: Pad print, Laser engraving
+- Page: https://www.boomdrinkware.com/products/sipper-pourer-universal-ver-for-16/
+
+### /products/sipper-pourer-universal-version-for-16/ — Custom Sipper &amp; Wine Pourer - Universal | JBPJ-064 | BOOM Drinkware
+
+- SKU JBPJ-064 | material: ABS + silicone | MOQ: 10 pcs | decoration: Pad print, Laser engraving
+- Page: https://www.boomdrinkware.com/products/sipper-pourer-universal-version-for-16/
+
+
+- SKU BTAO-001 | material: silicone | capacity: 12 oz | MOQ: 500 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print
+
+
+- SKU JBPJ-019 | material: plastic | MOQ: 10,000 pcs | decoration: Pad print, Laser engraving
+
+
+- SKU BT-005 | material: PS | capacity: 5 L | MOQ: 200 pcs | decoration: Screen print, UV print, Hydro dip
+
+
+- SKU MKB-001 | material: PP | capacity: 414 ml / 14 oz | MOQ: 500 pcs | decoration: Screen print, Heat transfer, UV print, Pad print | accessories: Lid
+- SKU MKB-002 | material: PP | capacity: 414 ml / 14 oz | MOQ: 500 pcs | decoration: Screen print, Heat transfer, UV print, Pad print | accessories: Lid
+- SKU MKB-003 | material: PP | capacity: 591 ml / 20 oz | MOQ: 500 pcs | decoration: Screen print, Heat transfer, UV print, Pad print | accessories: Lid
+
+
+- SKU SJZH-020 | capacity: 1.5 L | material: plastic | MOQ: 1,000 pcs | decoration: Screen print, UV print, Heat transfer
+
+### /products/stainless-steel-credit-card-bottle-opener/ — Custom Stainless Steel Credit Card | KPQ-025 | BOOM Drinkware
+
+- SKU KPQ-025 | material: stainless steel + zinc alloy | MOQ: 500 pcs | decoration: Pad print, Laser engraving | sourcing: metal parts from vetted partner suppliers, not made in-house
+- Page: https://www.boomdrinkware.com/products/stainless-steel-credit-card-bottle-opener/
+
+### /products/stopper-pourer-2-in-1-with/ — Custom Stopper &amp; Wine Pourer | JBPJ-066 | BOOM Drinkware
+
+- SKU JBPJ-066 | material: PP + silicone + aluminium foil | MOQ: 100 pcs | decoration: Pad print, Laser engraving
+- Page: https://www.boomdrinkware.com/products/stopper-pourer-2-in-1-with/
+
+
+- SKU BT-006 | material: PET | capacity: 3L | MOQ: 100 pcs | decoration: Screen print, UV print, Hydro dip
+
+### /products/traveler-double-walled-wine-tumbler-by/ — Custom Outdoor Double Wall Insulated Wine Tumbler | SXB-010 | BOOM Drinkware
+
+- SKU SXB-010 | material: acrylic | capacity: 10 oz | MOQ: 500 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- Page: https://www.boomdrinkware.com/products/traveler-double-walled-wine-tumbler-by/
+
+### /products/traveling-purple-wine-tumbler-adult-sippy/ — /products/traveling-purple-wine-tumbler-adult-sippy/
+
+- SKU SXB-011 | material: acrylic | MOQ: 500 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- Page: https://www.boomdrinkware.com/products/traveling-purple-wine-tumbler-adult-sippy/
+
+### /products/vacuum-pump-4x-stopper-s-5/ — Custom ABS Vacuum Pump + 4x stopper | JBPJ-072 | BOOM Drinkware
+
+- SKU JBPJ-072 | material: ABS + silicone | MOQ: 48 pcs | decoration: Pad print, Laser engraving
+- Page: https://www.boomdrinkware.com/products/vacuum-pump-4x-stopper-s-5/
+
+
+- SKU JS-042 | material: PP + silicone | MOQ: 10 pcs | decoration: Pad print, Laser engraving
+
+### /products/vacuum-wine-stopper-keep-fresh-7days/ — Custom Vacuum Wine Stopper-Keep fresh | JS-033 | BOOM Drinkware
+
+- SKU JS-033 | material: PC + TPE | MOQ: 300 pcs | decoration: Pad print, Laser engraving
+- Page: https://www.boomdrinkware.com/products/vacuum-wine-stopper-keep-fresh-7days/
+
+### /products/vacuum-wine-stopper-with-31-date/ — Custom Vacuum Wine Stopper with 31 Date | JS-038 | BOOM Drinkware
+
+- SKU JS-038 | material: stainless steel | MOQ: 96 pcs | decoration: Pad print, Laser engraving
+- Page: https://www.boomdrinkware.com/products/vacuum-wine-stopper-with-31-date/
+
+### /products/white-led-light-up-ice-bucket/ — Custom White LED Light Up Ice Bucket | FGB-002 | BOOM Drinkware
+
+- SKU FGB-002 | material: plastic | MOQ: 500 pcs | decoration: Screen print, UV print, Hydro dip
+- Lighting: Small runs single colour (white or yellow); 100 pcs up 7 colours — red, orange, yellow, green, white, blue and purple (RGB, custom shade on request); LED shape can be tooled to a customer drawing
+- Page: https://www.boomdrinkware.com/products/white-led-light-up-ice-bucket/
+
+### /products/wholesale-acrylic-coupe-glass-7oz/ — /products/wholesale-acrylic-coupe-glass-7oz/
+
+- SKU HJB-036 | material: acrylic | capacity: 7 oz | MOQ: 500 pcs | decoration: Screen print, Heat transfer, UV print, Colour-change ink | accessories: Lid
+- Page: https://www.boomdrinkware.com/products/wholesale-acrylic-coupe-glass-7oz/
+
+### /products/wholesale-acrylic-martini-glass-8-5oz/ — Custom 8.5 oz Acrylic Martini Glass | HJB-031 | BOOM Drinkware
+
+- SKU HJB-031 | material: acrylic | capacity: 8.5 oz | MOQ: 500 pcs | decoration: Screen print, UV print, Colour-change ink
+- SKU HJB-032 | material: acrylic | capacity: 10 oz | MOQ: 500 pcs | decoration: Screen print, UV print, Colour-change ink
+- Page: https://www.boomdrinkware.com/products/wholesale-acrylic-martini-glass-8-5oz/
+
+### /products/wholesale-acrylic-ribbed-balloon-glass-19oz/ — /products/wholesale-acrylic-ribbed-balloon-glass-19oz/
+
+- SKU HJB-019 | material: acrylic | capacity: 19 oz | MOQ: 500 pcs | decoration: Screen print, Heat transfer, UV print, Colour-change ink | accessories: Lid
+- Page: https://www.boomdrinkware.com/products/wholesale-acrylic-ribbed-balloon-glass-19oz/
+
+
+- SKU JBPJ-001 | material: rubber | MOQ: 500 pcs | decoration: Screen print
+
+### /products/wholesale-go-anywhere-red-wine/ — Custom 16 oz plastic wine cups | HJB-020 | BOOM Drinkware
+
+- SKU HJB-020 | capacity: 16 oz | material: plastic | MOQ: 500 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- Page: https://www.boomdrinkware.com/products/wholesale-go-anywhere-red-wine/
+
+### /products/wholesale-outdoor-red-wine-glass-22oz/ — Custom 22 oz Outdoor Red Wine Glass | HJB-013 | BOOM Drinkware
+
+- SKU HJB-013 | material: acrylic | capacity: 22 oz | MOQ: 500 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- Page: https://www.boomdrinkware.com/products/wholesale-outdoor-red-wine-glass-22oz/
+
+### /products/wholesale-plastic-flute-6oz-champagne/ — Custom 6 oz Wholesale Plastic Flute, | HJB-025 | BOOM Drinkware
+
+- SKU HJB-021 | material: acrylic | capacity: 4 oz | MOQ: 500 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- SKU HJB-023 | material: acrylic | capacity: 7 oz | MOQ: 500 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- SKU HJB-024 | material: acrylic | capacity: 5 oz | MOQ: 500 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- SKU HJB-025 | capacity: 6 oz | material: plastic | MOQ: 500 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- SKU HJB-026 | capacity: 5 oz | material: plastic | MOQ: 500 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- SKU HJB-029 | material: Tritan + acrylic | capacity: 9 oz | MOQ: 500 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- SKU HJB-030 | material: Tritan + acrylic | capacity: 9 oz | MOQ: 500 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- SKU HJB-066 | material: Tritan | capacity: 150 ml / 5 oz | MOQ: 160 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- SKU SJB-035 | material: PS + AS/SAN | capacity: 6 oz | MOQ: 500 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- Page: https://www.boomdrinkware.com/products/wholesale-plastic-flute-6oz-champagne/
+
+### /products/wholesale-plastic-stemless-wine-glass-12oz/ — Custom 12 oz Wholesale Plastic Stemless | HJB-001 | BOOM Drinkware
+
+- SKU HJB-001 | capacity: 12 oz / 2 oz | material: plastic | MOQ: 500 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- SKU HJB-002 | capacity: 18 oz / 3 oz | material: plastic | MOQ: 500 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- SKU HJB-003 | capacity: 14 oz | material: plastic | MOQ: 500 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- SKU HJB-005 | material: acrylic | capacity: 2 oz | MOQ: 500 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- SKU HJB-011 | material: acrylic | capacity: 16 oz | MOQ: 500 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- SKU HJB-014 | material: acrylic | capacity: 19 oz | MOQ: 500 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- SKU HJB-022 | material: acrylic | capacity: 2 oz | MOQ: 500 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- SKU HJB-037 | material: PET | capacity: 12 oz / 16 oz / 350 ml / 470 ml | MOQ: 500 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- SKU HJB-040 | material: PET | capacity: 350 ml / 12 oz | MOQ: 500 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- SKU HJB-043 | material: PET | capacity: 410 ml / 14 oz | MOQ: 500 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- Page: https://www.boomdrinkware.com/products/wholesale-plastic-stemless-wine-glass-12oz/
+
+### /products/wholesale-standard-acrylic-wine-glass/ — Custom 16 oz Wholesale Standard Acrylic | HJB-006 | BOOM Drinkware
+
+- SKU HJB-004 | capacity: 14 oz / 2 oz | material: plastic | MOQ: 500 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- SKU HJB-006 | material: acrylic | capacity: 16 oz | MOQ: 500 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- SKU HJB-007 | material: acrylic | capacity: 4 oz | MOQ: 500 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- SKU HJB-008 | material: Tritan + acrylic | capacity: 16 oz | MOQ: 500 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- SKU HJB-009 | material: Tritan + acrylic | capacity: 16 oz | MOQ: 500 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- SKU HJB-010 | material: acrylic | capacity: 16 oz | MOQ: 500 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- SKU HJB-015 | material: acrylic | capacity: 18 oz | MOQ: 500 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- SKU HJB-016 | material: acrylic | capacity: 14 oz | MOQ: 500 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- SKU HJB-017 | material: acrylic | capacity: 8 oz | MOQ: 500 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- SKU HJB-018 | material: acrylic | capacity: 15 oz | MOQ: 500 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- SKU HJB-047 | material: AS/SAN | capacity: 588 ml / 20.5 oz | MOQ: 10 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- SKU HJB-052 | material: acrylic | capacity: 460 ml / 16 oz | MOQ: 96 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- SKU HJB-055 | material: acrylic | capacity: 600 ml / 21 oz | MOQ: 10 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- SKU HJB-063 | material: PP + PS | capacity: 300 ml / 10.5 oz | MOQ: 500 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- SKU HJB-064 | material: acrylic | capacity: 400 ml / 14 oz | MOQ: 10 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- SKU HJB-067 | material: PS | capacity: 210 ml / 7 oz | MOQ: 100 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- SKU HJB-071 | material: PS | capacity: 540 ml / 18 oz | MOQ: 96 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- SKU HJB-075 | material: PS | capacity: 90 ml / 3 oz | MOQ: 10 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- SKU HJB-077 | material: PS | capacity: 225 ml / 7.5 oz | MOQ: 90 pcs | decoration: Screen print, Laser engraving, UV print, Heat transfer
+- Page: https://www.boomdrinkware.com/products/wholesale-standard-acrylic-wine-glass/
+
+### /products/wholesale-tritan-martini-glass-9oz/ — Custom 9 oz TRITAN Martini Plastic Glass | HJB-035 | BOOM Drinkware
+
+- SKU HJB-033 | material: Tritan + acrylic | capacity: 8 oz | MOQ: 500 pcs | decoration: Screen print, UV print, Colour-change ink
+- SKU HJB-034 | material: Tritan + acrylic | capacity: 6 oz | MOQ: 500 pcs | decoration: Screen print, UV print, Colour-change ink
+- SKU HJB-035 | material: Tritan + acrylic | capacity: 9 oz | MOQ: 500 pcs | decoration: Screen print, UV print, Colour-change ink
+- Page: https://www.boomdrinkware.com/products/wholesale-tritan-martini-glass-9oz/
+
+### /products/wine-aerator-pourer/ — Custom Acrylic Wine Aerator Pourer | JBPJ-040 | BOOM Drinkware
+
+- SKU JBPJ-040 | material: stainless steel + acrylic | MOQ: 200 pcs | decoration: Pad print, Laser engraving
+- Page: https://www.boomdrinkware.com/products/wine-aerator-pourer/
+
+### /products/wine-pourer-and-stopper-2-in/ — Custom Wine Pourer and Stopper | JBPJ-039 | BOOM Drinkware
+
+- SKU JBPJ-039 | material: ABS + silicone | MOQ: 200 pcs | decoration: Pad print, Laser engraving
+- SKU JBPJ-046 | material: ABS + silicone | MOQ: 240 pcs | decoration: Pad print, Laser engraving
+- Page: https://www.boomdrinkware.com/products/wine-pourer-and-stopper-2-in/
+
+### /products/wing-corkscrew/ — Custom Zinc alloy Wing Corkscrew Wine | JS-039 | BOOM Drinkware
+
+- SKU JS-039 | material: zinc alloy | MOQ: 39 pcs | decoration: Pad print, Laser engraving | sourcing: metal parts from vetted partner suppliers, not made in-house
+- Page: https://www.boomdrinkware.com/products/wing-corkscrew/
+
+
+- SKU JBPJ-030 | material: silicone | MOQ: 500 pcs | decoration: Colour in the material, Moulded-in 3D logo, Silicone print, UV print
+
+## Chinese mirror
+
+- Every English model page has a Chinese mirror at https://www.boomdrinkware.com/zh<route>
+- Chinese guide index: https://www.boomdrinkware.com/zh/blog/
+
+## All pages
+
+- [10.5ozPS竖纹鸡尾酒杯 | HJB-060 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/10-5oz-ribbed-plastic-coupe-glasses/)
+- [15ozPS玛格丽特杯 | HJB-074 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/15oz-plastic-margarita-glass/)
+- [16 oz Custom Cup References | BOOM Drinkware](https://www.boomdrinkware.com/16-oz-custom-cups/)
+- [16 oz 定制杯参考 | BOOM Drinkware](https://www.boomdrinkware.com/zh/16-oz-custom-cups/)
+- [18.5ozTritan红酒杯 | HJB-057 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/18-5oz-tritan-wine-glass/)
+- [2oz LED慢变色子弹杯 | FGB-016 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/light-up-slow-change-led-shot/)
+- [4.5ozPS香槟杯 | HJB-069 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/4-5oz-plastic-champagne-flute-injected/)
+- [5.8ozPS香槟杯 | HJB-048 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/5-8oz-plastic-champagne-flute/)
+- [6.3ozPS马天尼杯 | HJB-056 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/6-3oz-plastic-martini-glass/)
+- [7.5ozTritan品酒杯 | HJB-073 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/7-5oz-plasic-iso-standard-wine/)
+- [7ozPS鸡尾酒杯 | HJB-076 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/7oz-plastic-cocktail-glass/)
+- [8ozPS红酒杯 | HJB-054 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/8oz-plastic-wine-glasses/)
+- [9ozPET无柄香槟杯 | HJB-042 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/9oz-stemless-pet-champagne-flute/)
+- [ABS Moet 香槟吸饮器 | JS-040 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/moet-sipper-with-moet-logo/)
+- [ABS 香槟瓶嘴塞 CS02（16.1mm 瓶口） | JBPJ-042 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/champagne-sipper-for-16-1-mm/)
+- [ABS+PC充电式红酒开瓶器 | KPQ-011 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/rechargeable-wine-opener/)
+- [ABS+硅胶 倒酒器/酒塞二合一 WP-003 | JBPJ-039 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/wine-pourer-and-stopper-2-in/)
+- [ABS+硅胶 香槟塞 SP-011（17.5-18mm） | JBPJ-045 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/champagne-stopper-for-17-5/)
+- [ABS+硅胶充电式醒酒分酒器 KD-7 | JBPJ-073 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/rechargeable-wine-aerator-dispenser/)
+- [ABS+硅胶吸饮器+倒酒器二合一 CS04 | JBPJ-067 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/sipper-pourer-universal-ver-for-16/)
+- [ABS+硅胶吸饮器+倒酒器二合一 CS05 | JBPJ-064 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/sipper-pourer-universal-version-for-16/)
+- [ABS+硅胶真空泵+4酒塞套装 KVS-20 | JBPJ-072 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/vacuum-pump-4x-stopper-s-5/)
+- [ABS+硅胶真空酒塞 | JS-038 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/vacuum-wine-stopper-with-31-date/)
+- [ABS+硅胶酒塞 | JS-034 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/bottle-stopper-funny-design/)
+- [ABS塑料啤酒开瓶器 | KPQ-005 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/plastic-beer-opener/)
+- [ABS盐边器 | JBPJ-048 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/bar-salt-glass-rimmer-3-tier/)
+- [ABS科罗娜玛格丽特夹 | JBPJ-050 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/corona-margarita-clip-straight-version/)
+- [AQL 验货能看出什么、看不出什么 | BOOM Drinkware](https://www.boomdrinkware.com/zh/blog/what-aql-inspection-tells-you/)
+- [AS+硅胶 鹰嘴醒酒倒酒器 WP150 | JBPJ-041 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/hawk-wine-aerator-pourer/)
+- [About BOOM Drinkware | Custom Drinkware Factory &amp; Capabilities](https://www.boomdrinkware.com/factory/about/)
+- [Alternatives to Glass Drinkware | BOOM Drinkware](https://www.boomdrinkware.com/unbreakable-drinkware/)
+- [Application &amp; Project Planning Examples | BOOM Drinkware](https://www.boomdrinkware.com/case-studies/)
+- [Bulk Drinkware Model References | BOOM Drinkware](https://www.boomdrinkware.com/bulk-drinkware/)
+- [Certificates, Test Reports &amp; Production Process | BOOM Drinkware](https://www.boomdrinkware.com/certificates/)
+- [Choose Drinkware Materials by the Actual Use | BOOM Drinkware](https://www.boomdrinkware.com/cup-materials-guide/)
+- [Clear Drinkware References | BOOM Drinkware](https://www.boomdrinkware.com/clear-plastic-cups/)
+- [Cold Color Change | BOOM Drinkware](https://www.boomdrinkware.com/color-changing-ink/)
+- [Custom 1.5 oz Purple LED Light Up Shot | JBPJ-101 | BOOM Drinkware](https://www.boomdrinkware.com/products/purple-led-light-up-shot-glass/)
+- [Custom 1.5 oz Silicone Silishot - Color | LJB-001 | BOOM Drinkware](https://www.boomdrinkware.com/products/silicone-1-5oz-ljb001/)
+- [Custom 10.5 oz Ribbed Plastic Coupe | HJB-060 | BOOM Drinkware](https://www.boomdrinkware.com/products/10-5oz-ribbed-plastic-coupe-glasses/)
+- [Custom 12 oz Acrylic LED Short Tumbler | FGB-030 | BOOM Drinkware](https://www.boomdrinkware.com/products/led-short-tumbler/)
+- [Custom 12 oz Silicone Wine Glass - | GJB-008 | BOOM Drinkware](https://www.boomdrinkware.com/products/customized-silicone-12oz-wine-gjb008/)
+- [Custom 12 oz Wholesale Plastic Stemless | HJB-001 | BOOM Drinkware](https://www.boomdrinkware.com/products/wholesale-plastic-stemless-wine-glass-12oz/)
+- [Custom 12 oz Wine Glass + Gold Rim | HJB-040 | BOOM Drinkware](https://www.boomdrinkware.com/products/12oz-stemless-wine-glass-gold-rim-hjb040/)
+- [Custom 15 oz PS Plastic Margarita glass | HJB-074 | BOOM Drinkware](https://www.boomdrinkware.com/products/15oz-plastic-margarita-glass/)
+- [Custom 16 oz LED Light Up Color | FGB-034 | BOOM Drinkware](https://www.boomdrinkware.com/products/led-light-up-color-changing-glow/)
+- [Custom 16 oz Light Up Beer Boot Mug LED | FGB-012 | BOOM Drinkware](https://www.boomdrinkware.com/products/light-up-beer-boot-mug-led/)
+- [Custom 16 oz Multicolor LED Light Up | FGB-027 | BOOM Drinkware](https://www.boomdrinkware.com/products/multicolor-led-light-up-to-go/)
+- [Custom 16 oz Silicone SiliParty Cup | BPJJ-006 | BOOM Drinkware](https://www.boomdrinkware.com/products/silicone-16oz-siliparty-party/)
+- [Custom 16 oz Silicone Straw Tumbler - | GJB-007 | BOOM Drinkware](https://www.boomdrinkware.com/products/customized-silicone-16oz-straw/)
+- [Custom 16 oz Wholesale Standard Acrylic | HJB-006 | BOOM Drinkware](https://www.boomdrinkware.com/products/wholesale-standard-acrylic-wine-glass/)
+- [Custom 16 oz plastic wine cups | HJB-020 | BOOM Drinkware](https://www.boomdrinkware.com/products/wholesale-go-anywhere-red-wine/)
+- [Custom 18 oz Multi Color Light Up LED | FGB-037 | BOOM Drinkware](https://www.boomdrinkware.com/products/multi-color-light-up-led-mason/)
+- [Custom 18.5 oz Tritan Wine Glass | HJB-057 | BOOM Drinkware](https://www.boomdrinkware.com/products/18-5oz-tritan-wine-glass/)
+- [Custom 2 oz Light Up Slow Change LED | FGB-016 | BOOM Drinkware](https://www.boomdrinkware.com/products/light-up-slow-change-led-shot/)
+- [Custom 2 oz Silicone Shumbler - Custom | LJB-002 | BOOM Drinkware](https://www.boomdrinkware.com/products/silicone-2oz-shumbler-shot-ljb002/)
+- [Custom 20 oz LED Disco Ball Tumbler | FGB-031 | BOOM Drinkware](https://www.boomdrinkware.com/products/led-disco-ball-tumbler-cups-deluxe/)
+- [Custom 20 oz Silicone Pint Glass | BPJJ-008 | BOOM Drinkware](https://www.boomdrinkware.com/products/silicone-20oz-pint-glass/)
+- [Custom 20.5 oz PP Wine Tasting Ice Bucket | BT-016 | BOOM Drinkware](https://www.boomdrinkware.com/products/3-7l/)
+- [Custom 22 oz Outdoor Red Wine Glass | HJB-013 | BOOM Drinkware](https://www.boomdrinkware.com/products/wholesale-outdoor-red-wine-glass-22oz/)
+- [Custom 25 oz Silicone Handled Barrel | BPJJ-005 | BOOM Drinkware](https://www.boomdrinkware.com/products/silicone-25oz-handled-barrel-bpjj005/)
+- [Custom 28 oz Silicone Beer Stein - | GJB-016 | BOOM Drinkware](https://www.boomdrinkware.com/products/silicone-28oz-beer-stein-gjb016/)
+- [Custom 32 oz Silicone Bomber Cup | BPJJ-002 | BOOM Drinkware](https://www.boomdrinkware.com/products/silicone-32oz-bomber-cup/)
+- [Custom 4.5 oz Plastic Champagne Flute | HJB-069 | BOOM Drinkware](https://www.boomdrinkware.com/products/4-5oz-plastic-champagne-flute-injected/)
+- [Custom 5.8 oz PS Plastic Champagne flute | HJB-048 | BOOM Drinkware](https://www.boomdrinkware.com/products/5-8oz-plastic-champagne-flute/)
+- [Custom 6 oz Silicone Flight Taster | BPJJ-004 | BOOM Drinkware](https://www.boomdrinkware.com/products/silicone-6oz-flight-taster/)
+- [Custom 6 oz Wholesale Plastic Flute, | HJB-025 | BOOM Drinkware](https://www.boomdrinkware.com/products/wholesale-plastic-flute-6oz-champagne/)
+- [Custom 6.3 oz PS Plastic Martini Glass | HJB-056 | BOOM Drinkware](https://www.boomdrinkware.com/products/6-3oz-plastic-martini-glass/)
+- [Custom 7 oz PS Plastic Cocktail Glass | HJB-076 | BOOM Drinkware](https://www.boomdrinkware.com/products/7oz-plastic-cocktail-glass/)
+- [Custom 7.5 oz Plasic ISO Standard Wine | HJB-073 | BOOM Drinkware](https://www.boomdrinkware.com/products/7-5oz-plasic-iso-standard-wine/)
+- [Custom 8 L Asymmetric Hollow-Logo | BT-011 | BOOM Drinkware](https://www.boomdrinkware.com/products/8l-asymmetric-hollow-logo-designer-led/)
+- [Custom 8 L Irregular Shape LED | BT-003 | BOOM Drinkware](https://www.boomdrinkware.com/products/irregular-shape-led-bottom-lit-ice/)
+- [Custom 8 oz LED Light Up Multicolor Rock | FGB-013 | BOOM Drinkware](https://www.boomdrinkware.com/products/led-light-up-multicolor-whiskey-glass/)
+- [Custom 8 oz Light Up Disco Ball Light | FGB-038 | BOOM Drinkware](https://www.boomdrinkware.com/products/light-up-disco-ball-light-projecting/)
+- [Custom 8 oz PS Plastic Wine Glasses | HJB-054 | BOOM Drinkware](https://www.boomdrinkware.com/products/8oz-plastic-wine-glasses/)
+- [Custom 8.5 oz Acrylic Martini Glass | HJB-031 | BOOM Drinkware](https://www.boomdrinkware.com/products/wholesale-acrylic-martini-glass-8-5oz/)
+- [Custom 9 oz Stemless PET Champagne | HJB-042 | BOOM Drinkware](https://www.boomdrinkware.com/products/9oz-stemless-pet-champagne-flute/)
+- [Custom 9 oz TRITAN Martini Plastic Glass | HJB-035 | BOOM Drinkware](https://www.boomdrinkware.com/products/wholesale-tritan-martini-glass-9oz/)
+- [Custom ABS Bar Salt Glass Rimmer-3 Tier | JBPJ-048 | BOOM Drinkware](https://www.boomdrinkware.com/products/bar-salt-glass-rimmer-3-tier/)
+- [Custom ABS Goose head Manual Wine Opener | KPQ-006 | BOOM Drinkware](https://www.boomdrinkware.com/products/goose-head-manual-wine-opener/)
+- [Custom ABS Plastic Beer Opener with Logo | KPQ-005 | BOOM Drinkware](https://www.boomdrinkware.com/products/plastic-beer-opener/)
+- [Custom ABS Sipper with logo with Logo | JS-040 | BOOM Drinkware](https://www.boomdrinkware.com/products/moet-sipper-with-moet-logo/)
+- [Custom ABS Vacuum Pump + 4x stopper | JBPJ-072 | BOOM Drinkware](https://www.boomdrinkware.com/products/vacuum-pump-4x-stopper-s-5/)
+- [Custom ABS Wine Bottle stopper-Funny | JS-034 | BOOM Drinkware](https://www.boomdrinkware.com/products/bottle-stopper-funny-design/)
+- [Custom AS Hawk Wine Aerator Pourer | JBPJ-041 | BOOM Drinkware](https://www.boomdrinkware.com/products/hawk-wine-aerator-pourer/)
+- [Custom Acrylic Bottle Pourer with Logo | JBPJ-068 | BOOM Drinkware](https://www.boomdrinkware.com/products/bottle-pourer/)
+- [Custom Acrylic Drinkware | BOOM Drinkware](https://www.boomdrinkware.com/acrylic-drinkware/)
+- [Custom Acrylic Wine Aerator Pourer | JBPJ-040 | BOOM Drinkware](https://www.boomdrinkware.com/products/wine-aerator-pourer/)
+- [Custom Aluminum Rechargeable Wine Opener | KPQ-011 | BOOM Drinkware](https://www.boomdrinkware.com/products/rechargeable-wine-opener/)
+- [Custom BBQ &amp; Outdoor Gathering Cups | BOOM Drinkware](https://www.boomdrinkware.com/backyard-bbq-cups/)
+- [Custom Bachelorette Event Cups | BOOM Drinkware](https://www.boomdrinkware.com/bachelorette-party-cups/)
+- [Custom Bar Mats | BOOM Drinkware](https://www.boomdrinkware.com/custom-bar-mats/)
+- [Custom Barware &amp; Gift Accessories | BOOM Drinkware](https://www.boomdrinkware.com/bar-accessories/)
+- [Custom Beach-Event Drinkware | BOOM Drinkware](https://www.boomdrinkware.com/beach-party-cups/)
+- [Custom Beer Mugs &amp; Cups | BOOM Drinkware](https://www.boomdrinkware.com/custom-beer-mugs/)
+- [Custom Birthday Event Cups | BOOM Drinkware](https://www.boomdrinkware.com/birthday-party-cups/)
+- [Custom Bottle &amp; Wine Openers | BOOM Drinkware](https://www.boomdrinkware.com/custom-bottle-openers/)
+- [Custom Bottle Stopper and Wine Charm | JBPJ-044 | BOOM Drinkware](https://www.boomdrinkware.com/products/bottle-stopper-and-wine-charm-2/)
+- [Custom Bottle Wine Pourer - Tulip shape | JBPJ-065 | BOOM Drinkware](https://www.boomdrinkware.com/products/bottle-pourer-tulip-shape/)
+- [Custom Camping &amp; Outdoor Drinkware | BOOM Drinkware](https://www.boomdrinkware.com/camping-drinkware/)
+- [Custom Champagne &amp; Stemware References | BOOM Drinkware](https://www.boomdrinkware.com/custom-champagne-flutes/)
+- [Custom Champagne Sipper for 16 1 mm | JBPJ-042 | BOOM Drinkware](https://www.boomdrinkware.com/products/champagne-sipper-for-16-1-mm/)
+- [Custom Champagne Stopper for 17 5-18 mm | JBPJ-045 | BOOM Drinkware](https://www.boomdrinkware.com/products/champagne-stopper-for-17-5/)
+- [Custom Champagne Wine stopper | JS-037 | BOOM Drinkware](https://www.boomdrinkware.com/products/champagne-stopper-with-plating-painting/)
+- [Custom Collapsible Pint - Travel Pack | GJZD-014 | BOOM Drinkware](https://www.boomdrinkware.com/products/hydaway-collapsible-pint/)
+- [Custom Collapsible Silicone Cups | BOOM Drinkware](https://www.boomdrinkware.com/collapsible-cups/)
+- [Custom Collapsible Tumbler with Lid | GJZD-016 | BOOM Drinkware](https://www.boomdrinkware.com/products/hydaway-collapsible-tumbler-with-lid/)
+- [Custom Color-Changing Cup Series | PP or PS, 12-22 oz | BOOM Drinkware](https://www.boomdrinkware.com/products/16-oz-color-changing-plastic-stadium-bsb002/)
+- [Custom Color-Changing Cups | BOOM Drinkware](https://www.boomdrinkware.com/color-changing-cups/)
+- [Custom Cup Lead Times: Sampling &amp; Production | BOOM Drinkware](https://www.boomdrinkware.com/blog/custom-cup-lead-times/)
+- [Custom Drinkware &amp; Barware Product Catalog | BOOM Drinkware](https://www.boomdrinkware.com/products/)
+- [Custom Drinkware FAQ: MOQ, Samples, Tooling, Shipping | BOOM Drinkware](https://www.boomdrinkware.com/faq/)
+- [Custom Drinkware OEM &amp; ODM Manufacturing | BOOM Drinkware](https://www.boomdrinkware.com/oem-manufacturer/)
+- [Custom Drinkware for Night Events | BOOM Drinkware](https://www.boomdrinkware.com/open-air-nightclub/)
+- [Custom Drinkware for Promotional Buyers | BOOM Drinkware](https://www.boomdrinkware.com/promotional-drinkware-supplier/)
+- [Custom Graduation Event Cups | BOOM Drinkware](https://www.boomdrinkware.com/graduation-party-cups/)
+- [Custom LED Drinkware &amp; Bar Accessories | BOOM Drinkware](https://www.boomdrinkware.com/custom-led-drinkware/)
+- [Custom LED Drinkware | BOOM Drinkware](https://www.boomdrinkware.com/led-light-up-cups/)
+- [Custom LED Ice Buckets | BOOM Drinkware](https://www.boomdrinkware.com/custom-ice-buckets/)
+- [Custom LED Light UP Ice Bucket | FGB-001 | BOOM Drinkware](https://www.boomdrinkware.com/products/led-light-up-ice-bucket-with/)
+- [Custom Logo Coasters | BOOM Drinkware](https://www.boomdrinkware.com/custom-coasters/)
+- [Custom Manual Wine Opener Kit | KPQ-007 | BOOM Drinkware](https://www.boomdrinkware.com/products/manual-wine-opener-kit-s-4/)
+- [Custom Margarita clip - Straight | JBPJ-050 | BOOM Drinkware](https://www.boomdrinkware.com/products/corona-margarita-clip-straight-version/)
+- [Custom Outdoor American Beer Mug | PJB-014 | BOOM Drinkware](https://www.boomdrinkware.com/products/12oz-plastic-stein-cups-with-1/)
+- [Custom Outdoor Beer Mug with Handle | PJB-008 | BOOM Drinkware](https://www.boomdrinkware.com/products/22oz-plastic-beer-mug/)
+- [Custom Outdoor Double Wall Insulated Beer Tumbler | SXB-012 | BOOM Drinkware](https://www.boomdrinkware.com/products/acrylic-party-beer-tumbler/)
+- [Custom Outdoor Double Wall Insulated Tumbler | SXB-008 | BOOM Drinkware](https://www.boomdrinkware.com/products/12-oz-double-wall-plastic-tumbler/)
+- [Custom Outdoor Double Wall Insulated Wine Tumbler | SXB-010 | BOOM Drinkware](https://www.boomdrinkware.com/products/traveler-double-walled-wine-tumbler-by/)
+- [Custom Outdoor Half Pint Cup | PJB-018 | BOOM Drinkware](https://www.boomdrinkware.com/products/katerglass-plastic-pint-tumblers-22oz-lce/)
+- [Custom Outdoor LED Light-Up Beer Cup without Handle | FGB-006 | BOOM Drinkware](https://www.boomdrinkware.com/products/light-up-multicolor-led-pilsner-cup/)
+- [Custom Outdoor LED Light-Up Beer Mug with Handle | FGB-010 | BOOM Drinkware](https://www.boomdrinkware.com/products/led-light-up-beer-mug/)
+- [Custom Outdoor LED Light-Up Cocktail Glass | FGB-023 | BOOM Drinkware](https://www.boomdrinkware.com/products/led-light-up-spiral-stem-martini/)
+- [Custom Outdoor LED Light-Up Stemmed Champagne Flute | FGB-019 | BOOM Drinkware](https://www.boomdrinkware.com/products/long-stem-led-light-up-champagne/)
+- [Custom Outdoor LED Light-Up Wine Glass | FGB-017 | BOOM Drinkware](https://www.boomdrinkware.com/products/multicolor-light-up-spiral-stemmed-wine/)
+- [Custom Outdoor Long-Tube Beer Bat Cup | PJB-013 | BOOM Drinkware](https://www.boomdrinkware.com/products/beverage-beer-bat-cup/)
+- [Custom Outdoor Oversized Beer Tumbler - 40 oz | SJB-024 | BOOM Drinkware](https://www.boomdrinkware.com/products/oliver-acrylic-mug-with-straw/)
+- [Custom Outdoor Pilsner Cup | PJB-002 | BOOM Drinkware](https://www.boomdrinkware.com/products/41140-footed-pilsner-x4-414ml/)
+- [Custom Outdoor Tulip Beer Cup | PJB-021 | BOOM Drinkware](https://www.boomdrinkware.com/products/elite-nucleated-polycarbonate-pint-tumblers/)
+- [Custom PET Drinkware | BOOM Drinkware](https://www.boomdrinkware.com/pet-plastic-cups/)
+- [Custom PP Plastic Ice bucket with Logo | BT-017 | BOOM Drinkware](https://www.boomdrinkware.com/products/plastic-ice-bucket/)
+- [Custom Packaging for Drinkware: Boxes, Inserts and Cartons | BOOM Drinkware](https://www.boomdrinkware.com/packaging/)
+- [Custom Plastic &amp; Tritan Drinkware | BOOM Drinkware](https://www.boomdrinkware.com/custom-plastic-cups/)
+- [Custom Plastic Stadium Cups | 2-24 oz, Lid & Straw, Full Color | BOOM Drinkware](https://www.boomdrinkware.com/custom-stadium-cups/)
+- [Custom Plastic Stadium Cups | 2-24 oz, Lid & Straw, Full Color | BOOM Drinkware](https://www.boomdrinkware.com/products/16-oz-stadium-cup-smooth/)
+- [Custom Plastic Wine Glass with Gold Rim | HJB-053 | BOOM Drinkware](https://www.boomdrinkware.com/products/plastic-wine-glass-with-gold-rim/)
+- [Custom Plastic Wine Goblet with Gold | HJB-072 | BOOM Drinkware](https://www.boomdrinkware.com/products/plastic-wine-goblet-with-gold-plating/)
+- [Custom Pool &amp; Venue Drinkware | BOOM Drinkware](https://www.boomdrinkware.com/pool-party-cups/)
+- [Custom Rechargeable Wine Aerator | JBPJ-073 | BOOM Drinkware](https://www.boomdrinkware.com/products/rechargeable-wine-aerator-dispenser/)
+- [Custom Seasonal &amp; Holiday Drinkware | BOOM Drinkware](https://www.boomdrinkware.com/holiday-party-cups/)
+- [Custom Shot Cups | BOOM Drinkware](https://www.boomdrinkware.com/custom-shot-glasses/)
+- [Custom Silicone Drinkware | BOOM Drinkware](https://www.boomdrinkware.com/custom-silicone-cups/)
+- [Custom Silicone XLite Collapsible Mug | GJZD-009 | BOOM Drinkware](https://www.boomdrinkware.com/products/collapsible-mug/)
+- [Custom Sipper &amp; Wine Pourer - Universal | JBPJ-064 | BOOM Drinkware](https://www.boomdrinkware.com/products/sipper-pourer-universal-version-for-16/)
+- [Custom Sipper &amp; Wine Pourer for 16-19mm | JBPJ-067 | BOOM Drinkware](https://www.boomdrinkware.com/products/sipper-pourer-universal-ver-for-16/)
+- [Custom Sports Team Drinkware | BOOM Drinkware](https://www.boomdrinkware.com/sports-team-cups/)
+- [Custom Stainless Steel Credit Card | KPQ-025 | BOOM Drinkware](https://www.boomdrinkware.com/products/stainless-steel-credit-card-bottle-opener/)
+- [Custom Stainless steel Champagne stopper | JS-031 | BOOM Drinkware](https://www.boomdrinkware.com/products/champagne-stopper/)
+- [Custom Stopper &amp; Wine Pourer | JBPJ-066 | BOOM Drinkware](https://www.boomdrinkware.com/products/stopper-pourer-2-in-1-with/)
+- [Custom Straws | BOOM Drinkware](https://www.boomdrinkware.com/custom-reusable-straws/)
+- [Custom Tailgate &amp; Team-Event Cups | BOOM Drinkware](https://www.boomdrinkware.com/tailgate-party-cups/)
+- [Custom Tooling &amp; Mould Cost: What Commits You to 3,000 pcs | BOOM Drinkware](https://www.boomdrinkware.com/tooling/)
+- [Custom Travel &amp; Collapsible Cups | BOOM Drinkware](https://www.boomdrinkware.com/collapsible-travel-cups/)
+- [Custom Tritan Drinkware | BOOM Drinkware](https://www.boomdrinkware.com/tritan-drinkware/)
+- [Custom Tumbler Wrap Decals & Cup Stickers | BOOM Drinkware](https://www.boomdrinkware.com/custom-drinkware-decals/)
+- [Custom Tumblers | BOOM Drinkware](https://www.boomdrinkware.com/custom-tumblers/)
+- [Custom Vacuum Wine Stopper with 31 Date | JS-038 | BOOM Drinkware](https://www.boomdrinkware.com/products/vacuum-wine-stopper-with-31-date/)
+- [Custom Vacuum Wine Stopper-Keep fresh | JS-033 | BOOM Drinkware](https://www.boomdrinkware.com/products/vacuum-wine-stopper-keep-fresh-7days/)
+- [Custom Wedding &amp; Reception Drinkware | BOOM Drinkware](https://www.boomdrinkware.com/wedding-cups/)
+- [Custom White LED Light Up Ice Bucket | FGB-002 | BOOM Drinkware](https://www.boomdrinkware.com/products/white-led-light-up-ice-bucket/)
+- [Custom Wine &amp; Cocktail Cups | BOOM Drinkware](https://www.boomdrinkware.com/custom-wine-glasses/)
+- [Custom Wine Pourer and Stopper | JBPJ-039 | BOOM Drinkware](https://www.boomdrinkware.com/products/wine-pourer-and-stopper-2-in/)
+- [Custom Yacht &amp; Marina Drinkware | BOOM Drinkware](https://www.boomdrinkware.com/yacht-party-cups/)
+- [Custom Zinc alloy Wing Corkscrew Wine | JS-039 | BOOM Drinkware](https://www.boomdrinkware.com/products/wing-corkscrew/)
+- [Define Your Product &amp; Market Requirements | BOOM Drinkware](https://www.boomdrinkware.com/compliance/)
+- [Does Your Custom Cup Need a New Mould? Cost and Timing | BOOM Drinkware](https://www.boomdrinkware.com/blog/mould-or-no-mould/)
+- [Drinkware Manufacturing &amp; Buying Guides | BOOM Drinkware](https://www.boomdrinkware.com/blog/)
+- [Drinkware Samples &amp; Artwork Approval | BOOM Drinkware](https://www.boomdrinkware.com/free-samples/)
+- [Drinkware Supply for Distributors &amp; Agencies | BOOM Drinkware](https://www.boomdrinkware.com/distributor-program/)
+- [Drinkware for Adult Tasting Events | BOOM Drinkware](https://www.boomdrinkware.com/tasting-events-drinkware/)
+- [Drinkware for Blank-Supply Enquiries | BOOM Drinkware](https://www.boomdrinkware.com/blank-drinkware/)
+- [Drinkware for Family Events | BOOM Drinkware](https://www.boomdrinkware.com/family-event-cups/)
+- [Enquiry Information &amp; File Handling | BOOM Drinkware](https://www.boomdrinkware.com/privacy/)
+- [Glow &amp; Lighting Cup References | BOOM Drinkware](https://www.boomdrinkware.com/glow-in-the-dark-cups/)
+- [Govino 16oz「go anywhere」塑料红酒杯（防碎 · 可重复使用） | HJB-020 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/wholesale-go-anywhere-red-wine/)
+- [Heat Transfer Printing for Custom Cups | BOOM Drinkware](https://www.boomdrinkware.com/heat-transfer-printing/)
+- [How Many Custom Cups Should You Order? MOQ Arithmetic | BOOM Drinkware](https://www.boomdrinkware.com/blog/how-many-custom-cups-to-order/)
+- [How Your Cups Are Made: Process, Capacity and Lead Time | BOOM Drinkware](https://www.boomdrinkware.com/manufacturing-process/)
+- [How to Work With Us | Custom Drinkware Ordering Process | BOOM Drinkware](https://www.boomdrinkware.com/how-to-work-with-us/)
+- [Hydaway 折叠啤酒杯 16oz | GJZD-014 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/hydaway-collapsible-pint/)
+- [Hydaway 折叠随行杯带盖 16oz | GJZD-016 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/hydaway-collapsible-tumbler-with-lid/)
+- [LED 冰桶定制 | BOOM Drinkware](https://www.boomdrinkware.com/zh/custom-ice-buckets/)
+- [LED 发光杯与酒具定制 | BOOM Drinkware](https://www.boomdrinkware.com/zh/custom-led-drinkware/)
+- [LED 发光杯具定制 | BOOM Drinkware](https://www.boomdrinkware.com/zh/led-light-up-cups/)
+- [LED发光冰桶（遥控+充电款） | FGB-001 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/led-light-up-ice-bucket-with/)
+- [LED发光啤酒靴杯（红白蓝） | FGB-012 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/light-up-beer-boot-mug-led/)
+- [LED发光威士忌杯（多色） | FGB-013 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/led-light-up-multicolor-whiskey-glass/)
+- [LED发光梅森罐旅行杯（多色） | FGB-037 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/multi-color-light-up-led-mason/)
+- [LED发光短杯（16oz · 5色可选） | FGB-034 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/led-light-up-color-changing-glow/)
+- [LED发光随行杯（多色） | FGB-027 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/multicolor-led-light-up-to-go/)
+- [LED珠串挂杯子弹杯（紫/粉） | JBPJ-101 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/purple-led-light-up-shot-glass/)
+- [LED短款随行杯 | FGB-030 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/led-short-tumbler/)
+- [LED迪斯科球投影杯 | FGB-038 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/light-up-disco-ball-light-projecting/)
+- [LED迪斯科球随行杯（豪华灯座） | FGB-031 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/led-disco-ball-tumbler-cups-deluxe/)
+- [Laser Decoration for Drinkware: Fit Review | BOOM Drinkware](https://www.boomdrinkware.com/laser-engraving/)
+- [Logo 杯垫定制 | BOOM Drinkware](https://www.boomdrinkware.com/zh/custom-coasters/)
+- [New Arrivals: Custom Cups, LED Drinkware &amp; Bar Tools | BOOM Drinkware](https://www.boomdrinkware.com/new-arrivals/)
+- [Custom Barware Wholesale | BOOM Drinkware](https://www.boomdrinkware.com/)
+- [OEM / ODM 杯具与配件定制制造 | BOOM Drinkware](https://www.boomdrinkware.com/zh/)
+- [OEM / ODM 硅胶与塑胶定制制造 | BOOM Drinkware](https://www.boomdrinkware.com/zh/oem-manufacturer/)
+- [Our Service: Pre-Sales, Production and After-Sales | BOOM Drinkware](https://www.boomdrinkware.com/our-service/)
+- [PC+TPE真空酒塞 | JS-033 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/vacuum-wine-stopper-keep-fresh-7days/)
+- [PET 杯具定制 | BOOM Drinkware](https://www.boomdrinkware.com/zh/pet-plastic-cups/)
+- [PP+PS冰桶 | BT-017 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/plastic-ice-bucket/)
+- [PP+硅胶 酒塞/酒杯挂饰二合一 CS50 | JBPJ-044 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/bottle-stopper-and-wine-charm-2/)
+- [PP品酒吐酒桶（3.7L / 20.5oz） | BT-016 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/3-7l/)
+- [Personalized Drinkware for Business | BOOM Drinkware](https://www.boomdrinkware.com/personalized-drinkware/)
+- [Private Label Drinkware for Your Brand | BOOM Drinkware](https://www.boomdrinkware.com/private-label-drinkware/)
+- [Product Demonstrations &amp; Sample Review | BOOM Drinkware](https://www.boomdrinkware.com/videos/)
+- [Product Development: Three Routes From Idea to Production | BOOM Drinkware](https://www.boomdrinkware.com/product-development/)
+- [Quality Control &amp; Testing for Plastic and Silicone Drinkware | BOOM Drinkware](https://www.boomdrinkware.com/quality-control/)
+- [Quality Control &amp; Testing | BOOM Drinkware Custom Drinkware](https://www.boomdrinkware.com/factory/quality-control/)
+- [Quality Testing Methods &amp; Acceptance Criteria | BOOM Drinkware](https://www.boomdrinkware.com/factory/testing/)
+- [Request a Current Drinkware Catalog | BOOM Drinkware](https://www.boomdrinkware.com/catalog-download/)
+- [Request a Model-Specific Quote | BOOM Drinkware](https://www.boomdrinkware.com/contact/)
+- [Rush Drinkware &amp; Event Arrival Planning | BOOM Drinkware](https://www.boomdrinkware.com/rush-production/)
+- [Screen Printed Cups with Custom Logos | BOOM Drinkware](https://www.boomdrinkware.com/screen-printing/)
+- [Silicone &amp; Plastic Manufacturing for Your Brand | BOOM Drinkware](https://www.boomdrinkware.com/factory/)
+- [Silicone vs Plastic Cups: Use, Print, Freight and Cost | BOOM Drinkware](https://www.boomdrinkware.com/blog/silicone-vs-plastic-cups/)
+- [Small-Batch Custom Cups, From 10 Pieces | BOOM Drinkware](https://www.boomdrinkware.com/low-moq-custom-cups/)
+- [Small-Order Custom Drinkware Enquiries | BOOM Drinkware](https://www.boomdrinkware.com/no-minimum-custom-cups/)
+- [This service entry has been retired | BOOM Drinkware](https://www.boomdrinkware.com/hydro-dipping/)
+- [Tritan 杯具定制 | BOOM Drinkware](https://www.boomdrinkware.com/zh/tritan-drinkware/)
+- [UV Printed Cups &amp; Custom Logo Decoration | BOOM Drinkware](https://www.boomdrinkware.com/uv-printing/)
+- [What You Can Customize on a Drinkware Order | BOOM Drinkware](https://www.boomdrinkware.com/customization/)
+- [What an AQL Inspection Tells You — and What It Cannot | BOOM Drinkware](https://www.boomdrinkware.com/blog/what-aql-inspection-tells-you/)
+- [Why Your Cup Colour Doesn't Match the Pantone Chip | BOOM Drinkware](https://www.boomdrinkware.com/blog/plastic-colour-matching/)
+- [上新：五大类目各 4 款主打 | BOOM Drinkware](https://www.boomdrinkware.com/zh/new-arrivals/)
+- [不锈钢+TPR香槟塞 | JS-031 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/champagne-stopper/)
+- [不锈钢+TPR香槟塞 | JS-037 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/champagne-stopper-with-plating-painting/)
+- [不锈钢卡式开瓶器（信用卡尺寸） | KPQ-025 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/stainless-steel-credit-card-bottle-opener/)
+- [丝网印刷杯具定制 | BOOM Drinkware](https://www.boomdrinkware.com/zh/screen-printing/)
+- [亚克力+TPE 醒酒倒酒嘴 WP-011 | JBPJ-040 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/wine-aerator-pourer/)
+- [亚克力+TPE倒酒器 WP-002 | JBPJ-065 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/bottle-pourer-tulip-shape/)
+- [亚克力+TPE倒酒器 WP-015 | JBPJ-068 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/bottle-pourer/)
+- [亚克力杯具定制 | BOOM Drinkware](https://www.boomdrinkware.com/zh/acrylic-drinkware/)
+- [产品演示与样品审核 | BOOM Drinkware](https://www.boomdrinkware.com/zh/videos/)
+- [企业品牌杯具定制 | BOOM Drinkware](https://www.boomdrinkware.com/zh/personalized-drinkware/)
+- [关于 BOOM Drinkware｜定制饮具工厂与产能实力](https://www.boomdrinkware.com/zh/factory/about/)
+- [加急杯具与活动到货规划 | BOOM Drinkware](https://www.boomdrinkware.com/zh/rush-production/)
+- [单身派对活动杯定制 | BOOM Drinkware](https://www.boomdrinkware.com/zh/bachelorette-party-cups/)
+- [变色杯定制 | BOOM Drinkware](https://www.boomdrinkware.com/zh/color-changing-cups/)
+- [吧台垫定制 | BOOM Drinkware](https://www.boomdrinkware.com/zh/custom-bar-mats/)
+- [吸管定制 | BOOM Drinkware](https://www.boomdrinkware.com/zh/custom-reusable-straws/)
+- [啤酒杯定制 | BOOM Drinkware](https://www.boomdrinkware.com/zh/custom-beer-mugs/)
+- [塑胶与 Tritan 杯具定制 | BOOM Drinkware](https://www.boomdrinkware.com/zh/custom-plastic-cups/)
+- [夜光与灯效杯具参考 | BOOM Drinkware](https://www.boomdrinkware.com/zh/glow-in-the-dark-cups/)
+- [夜间活动杯具定制 | BOOM Drinkware](https://www.boomdrinkware.com/zh/open-air-nightclub/)
+- [婚礼与接待杯具定制 | BOOM Drinkware](https://www.boomdrinkware.com/zh/wedding-cups/)
+- [季节与节庆杯具定制 | BOOM Drinkware](https://www.boomdrinkware.com/zh/holiday-party-cups/)
+- [定制 LED 香槟桶 8L（异形 · 镂空 logo 发光） | BT-011 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/8l-asymmetric-hollow-logo-designer-led/)
+- [定制12oz塑料无柄红酒杯（再生料 · 可叠 · BPA Free） | HJB-001 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/wholesale-plastic-stemless-wine-glass-12oz/)
+- [定制12oz无柄红酒杯金边 | HJB-040 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/12oz-stemless-wine-glass-gold-rim-hjb040/)
+- [定制16oz亚克力标准高脚红酒杯（加厚耐用） | HJB-006 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/wholesale-standard-acrylic-wine-glass/)
+- [定制22oz户外亚克力红酒杯（细柄大肚 · 防碎） | HJB-013 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/wholesale-outdoor-red-wine-glass-22oz/)
+- [定制6oz塑料香槟笛型杯（柄可拆 · 再生料 · 可叠） | HJB-025 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/wholesale-plastic-flute-6oz-champagne/)
+- [定制8.5oz亚克力马天尼杯（BPA Free · 洗碗机可用） | HJB-031 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/wholesale-acrylic-martini-glass-8-5oz/)
+- [定制9oz Tritan无柄马天尼杯（高透 · 防碎） | HJB-035 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/wholesale-tritan-martini-glass-9oz/)
+- [定制发光亚克力冰桶 8L（异形 · 底部 LED） | BT-003 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/irregular-shape-led-bottom-lit-ice/)
+- [定制变色杯系列 | 材质 PP／PS · 容量 12–22 oz | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/16-oz-color-changing-plastic-stadium-bsb002/)
+- [定制户外体育场杯系列 | 2–24 oz · 带盖吸管 · 全彩 | BOOM Drinkware](https://www.boomdrinkware.com/zh/custom-stadium-cups/)
+- [定制户外体育场杯系列 | 2–24 oz · 带盖吸管 · 全彩 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/16-oz-stadium-cup-smooth/)
+- [定制户外双层保冷啤酒杯 | SXB-012 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/acrylic-party-beer-tumbler/)
+- [定制户外双层保冷红酒杯 | SXB-010 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/traveler-double-walled-wine-tumbler-by/)
+- [定制户外双层保冷随行杯 | SXB-008 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/12-oz-double-wall-plastic-tumbler/)
+- [定制户外长筒排队杯/棒球棒长筒杯 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/beverage-beer-bat-cup/)
+- [定制杯具与酒具产品目录 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/)
+- [定制杯到底该订多少只？起订量与数量算法 | BOOM Drinkware](https://www.boomdrinkware.com/zh/blog/how-many-custom-cups-to-order/)
+- [定制杯打样与生产周期：天数都花在哪 | BOOM Drinkware](https://www.boomdrinkware.com/zh/blog/custom-cup-lead-times/)
+- [定制杯要不要开模？一副模具什么时候才回本 | BOOM Drinkware](https://www.boomdrinkware.com/zh/blog/mould-or-no-mould/)
+- [定制杯身贴纸与转印贴服务 | BOOM Drinkware](https://www.boomdrinkware.com/zh/custom-drinkware-decals/)
+- [家庭活动杯具 | BOOM Drinkware](https://www.boomdrinkware.com/zh/family-event-cups/)
+- [小批量杯具定制，适用项目 10 件起 | BOOM Drinkware](https://www.boomdrinkware.com/zh/low-moq-custom-cups/)
+- [少量定制杯具询价 | BOOM Drinkware](https://www.boomdrinkware.com/zh/no-minimum-custom-cups/)
+- [尾箱派对与球队活动杯 | BOOM Drinkware](https://www.boomdrinkware.com/zh/tailgate-party-cups/)
+- [带吸管硅胶随行杯 | GJB-007 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/customized-silicone-16oz-straw/)
+- [应用与项目规划参考 | BOOM Drinkware](https://www.boomdrinkware.com/zh/case-studies/)
+- [成人品鉴活动杯具 | BOOM Drinkware](https://www.boomdrinkware.com/zh/tasting-events-drinkware/)
+- [我们的服务：售前、售中与售后 | BOOM Drinkware](https://www.boomdrinkware.com/zh/our-service/)
+- [户外定制LED发光带柄啤酒杯 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/led-light-up-beer-mug/)
+- [户外定制LED发光带柄香槟杯 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/long-stem-led-light-up-champagne/)
+- [户外定制LED发光无柄啤酒杯 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/light-up-multicolor-led-pilsner-cup/)
+- [户外定制LED发光红酒杯 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/multicolor-light-up-spiral-stemmed-wine/)
+- [户外定制LED发光鸡尾酒杯 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/led-light-up-spiral-stem-martini/)
+- [户外定制半品脱杯 | PJB-018 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/katerglass-plastic-pint-tumblers-22oz-lce/)
+- [户外定制带柄啤酒杯 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/22oz-plastic-beer-mug/)
+- [户外定制皮尔斯杯 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/41140-footed-pilsner-x4-414ml/)
+- [户外定制美式啤酒杯 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/12oz-plastic-stein-cups-with-1/)
+- [户外定制郁金香杯 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/elite-nucleated-polycarbonate-pint-tumblers/)
+- [户外超大号啤酒随行杯 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/oliver-acrylic-mug-with-straw/)
+- [手动红酒开瓶器 | KPQ-007 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/manual-wine-opener-kit-s-4/)
+- [批量杯具采购选型 | BOOM Drinkware](https://www.boomdrinkware.com/zh/bulk-drinkware/)
+- [折叠硅胶杯定制 | BOOM Drinkware](https://www.boomdrinkware.com/zh/collapsible-cups/)
+- [折叠马克杯(Mug) | GJZD-009 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/collapsible-mug/)
+- [按实际用途选择杯具材料 | BOOM Drinkware](https://www.boomdrinkware.com/zh/cup-materials-guide/)
+- [推广礼品采购杯具定制 | BOOM Drinkware](https://www.boomdrinkware.com/zh/promotional-drinkware-supplier/)
+- [旅行与折叠杯定制 | BOOM Drinkware](https://www.boomdrinkware.com/zh/collapsible-travel-cups/)
+- [杯具 UV 印刷定制 | BOOM Drinkware](https://www.boomdrinkware.com/zh/uv-printing/)
+- [杯具定制指南：颜色、Logo、配件与包装 | BOOM Drinkware](https://www.boomdrinkware.com/zh/customization/)
+- [杯具定制采购常见问题 | BOOM Drinkware](https://www.boomdrinkware.com/zh/faq/)
+- [杯具样品与图稿确认 | BOOM Drinkware](https://www.boomdrinkware.com/zh/free-samples/)
+- [杯具激光标记定制 | BOOM Drinkware](https://www.boomdrinkware.com/zh/laser-engraving/)
+- [杯具热转印定制 | BOOM Drinkware](https://www.boomdrinkware.com/zh/heat-transfer-printing/)
+- [杯子颜色为什么对不上潘通色卡？色差与确认方法 | BOOM Drinkware](https://www.boomdrinkware.com/zh/blog/plastic-colour-matching/)
+- [此服务入口已调整 | BOOM Drinkware](https://www.boomdrinkware.com/zh/hydro-dipping/)
+- [毕业活动杯具定制 | BOOM Drinkware](https://www.boomdrinkware.com/zh/graduation-party-cups/)
+- [泳池与场地杯具定制 | BOOM Drinkware](https://www.boomdrinkware.com/zh/pool-party-cups/)
+- [海滩活动杯具定制 | BOOM Drinkware](https://www.boomdrinkware.com/zh/beach-party-cups/)
+- [游艇与码头接待杯具 | BOOM Drinkware](https://www.boomdrinkware.com/zh/yacht-party-cups/)
+- [烈酒杯定制 | BOOM Drinkware](https://www.boomdrinkware.com/zh/custom-shot-glasses/)
+- [烧烤与户外聚会杯具 | BOOM Drinkware](https://www.boomdrinkware.com/zh/backyard-bbq-cups/)
+- [玻璃替代杯具选型 | BOOM Drinkware](https://www.boomdrinkware.com/zh/unbreakable-drinkware/)
+- [瓶用与葡萄酒开瓶器定制 | BOOM Drinkware](https://www.boomdrinkware.com/zh/custom-bottle-openers/)
+- [生日活动杯具定制 | BOOM Drinkware](https://www.boomdrinkware.com/zh/birthday-party-cups/)
+- [申请型号报价 | BOOM Drinkware](https://www.boomdrinkware.com/zh/contact/)
+- [白色LED冰桶（瓶装服务款） | FGB-002 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/white-led-light-up-ice-bucket/)
+- [硅胶品脱杯 20 oz | BPJJ-008 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/silicone-20oz-pint-glass/)
+- [硅胶品鉴杯 6 oz | BPJJ-004 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/silicone-6oz-flight-taster/)
+- [硅胶啤酒杯 | GJB-016 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/silicone-28oz-beer-stein-gjb016/)
+- [硅胶大肚杯 32 oz | BPJJ-002 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/silicone-32oz-bomber-cup/)
+- [硅胶带柄啤酒桶杯 25 oz | BPJJ-005 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/silicone-25oz-handled-barrel-bpjj005/)
+- [硅胶杯具定制 | BOOM Drinkware](https://www.boomdrinkware.com/zh/custom-silicone-cups/)
+- [硅胶杯还是塑料杯：手感、印刷、运费全对比 | BOOM Drinkware](https://www.boomdrinkware.com/zh/blog/silicone-vs-plastic-cups/)
+- [硅胶派对杯 16 oz | BPJJ-006 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/silicone-16oz-siliparty-party/)
+- [硅胶烈酒杯 | LJB-001 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/silicone-1-5oz-ljb001/)
+- [硅胶烈酒杯 | LJB-002 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/silicone-2oz-shumbler-shot-ljb002/)
+- [硅胶红酒杯 | GJB-008 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/customized-silicone-12oz-wine-gjb008/)
+- [空白杯供货选型 | BOOM Drinkware](https://www.boomdrinkware.com/zh/blank-drinkware/)
+- [索取当前杯具与酒具目录 | BOOM Drinkware](https://www.boomdrinkware.com/zh/catalog-download/)
+- [红酒杯金边 | HJB-053 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/plastic-wine-glass-with-gold-rim/)
+- [经销商与代理商杯具供货 | BOOM Drinkware](https://www.boomdrinkware.com/zh/distributor-program/)
+- [自有品牌杯具定制 | BOOM Drinkware](https://www.boomdrinkware.com/zh/private-label-drinkware/)
+- [葡萄酒与鸡尾酒杯定制 | BOOM Drinkware](https://www.boomdrinkware.com/zh/custom-wine-glasses/)
+- [询盘资料与文件处理说明 | BOOM Drinkware](https://www.boomdrinkware.com/zh/privacy/)
+- [质量控制与检测｜BOOM Drinkware 饮具定制](https://www.boomdrinkware.com/zh/factory/quality-control/)
+- [质量测试项目与判定标准｜硅胶与塑胶酒杯｜BOOM Drinkware](https://www.boomdrinkware.com/zh/factory/testing/)
+- [资质证书、检测报告与生产流程 | BOOM Drinkware](https://www.boomdrinkware.com/zh/certificates/)
+- [运动球队杯具定制 | BOOM Drinkware](https://www.boomdrinkware.com/zh/sports-team-cups/)
+- [透明杯具定制参考 | BOOM Drinkware](https://www.boomdrinkware.com/zh/clear-plastic-cups/)
+- [遇冷变色杯定制方案与效果确认 | BOOM Drinkware](https://www.boomdrinkware.com/zh/color-changing-ink/)
+- [酒具与礼品配件定制 | BOOM Drinkware](https://www.boomdrinkware.com/zh/bar-accessories/)
+- [酒塞+倒酒器二合一 CS55S | JBPJ-066 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/stopper-pourer-2-in-1-with/)
+- [采购指南：起订量、交期、材料、开模、颜色、验货 | BOOM Drinkware](https://www.boomdrinkware.com/zh/blog/)
+- [锌合金+ABS鹅颈手动开瓶器 | KPQ-006 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/goose-head-manual-wine-opener/)
+- [锌合金蝶形开塞钻 | JS-039 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/wing-corkscrew/)
+- [随行杯与直身杯定制 | BOOM Drinkware](https://www.boomdrinkware.com/zh/custom-tumblers/)
+- [露营与户外杯具定制 | BOOM Drinkware](https://www.boomdrinkware.com/zh/camping-drinkware/)
+- [面向品牌项目的硅胶与塑胶制造 | BOOM Drinkware](https://www.boomdrinkware.com/zh/factory/)
+- [香槟与高脚杯定制参考 | BOOM Drinkware](https://www.boomdrinkware.com/zh/custom-champagne-flutes/)
+- [高脚酒杯镀金 | HJB-072 | BOOM Drinkware](https://www.boomdrinkware.com/zh/products/plastic-wine-goblet-with-gold-plating/)
+
+## Factory spec-sheet ice buckets (added 2026-11-13)
+> Model codes follow the factory spec sheet 自有品起订量及包装规格261106.xls. Two groups: non-LED and LED light-up. Minimum order shown on site: 10 pieces.
+
+### /products/ice-bucket-fj-ib0683d/ — Custom Ice bucket 4L - Double Wall | FJ-IB0683D | BOOM Drinkware
+- SKU FJ-IB0683D | group: Non-LED | material: PS | capacity: 4 L | dimensions: 27*19.5*19.5cm | unit weight: 560 g | case pack: 10 只/箱（43*30*47cm，7kgs） | MOQ on site: 50 pcs | factory spec row: 383 | MOQ: 50 pcs
+- Page: https://www.boomdrinkware.com/products/ice-bucket-fj-ib0683d/
+- Chinese mirror: https://www.boomdrinkware.com/zh/products/ice-bucket-fj-ib0683d/
+
+### /products/ice-bucket-xj-2895/ — Custom PET Ice Bucket 12L | XJ-2895 | BOOM Drinkware
+- SKU XJ-2895 | group: Non-LED | material: PET | capacity: 12 L | dimensions: 39*30.5*26cm | unit weight: 540 g | case pack: 36 只/箱（41*35*56cm，22kgs） | MOQ on site: 36 pcs | factory spec row: 383 | MOQ: 36 pcs
+- Page: https://www.boomdrinkware.com/products/ice-bucket-xj-2895/
+- Chinese mirror: https://www.boomdrinkware.com/zh/products/ice-bucket-xj-2895/
+
+### /products/ice-bucket-xj-2898/ — Custom PET Ice Bucket 8L | XJ-2898 | BOOM Drinkware
+- SKU XJ-2898 | group: Non-LED | material: PET | capacity: 8 L | dimensions: 38*31*22.5cm | unit weight: 500 g | case pack: 36 只/箱（41*35*42cm，20kgs） | MOQ on site: 36 pcs | factory spec row: 383 | MOQ: 36 pcs
+- Page: https://www.boomdrinkware.com/products/ice-bucket-xj-2898/
+- Chinese mirror: https://www.boomdrinkware.com/zh/products/ice-bucket-xj-2898/
+
+### /products/ice-bucket-xj-2896/ — Custom Ice Bucket 12L | XJ-2896 | BOOM Drinkware
+- SKU XJ-2896 | group: Non-LED | material: PET | capacity: 12 L | dimensions: 36*25*18.5cm | unit weight: 542 g | case pack: 36 只/箱（55*38*60cm，22kgs） | MOQ on site: 36 pcs | factory spec row: 388 | MOQ: 36 pcs
+- Page: https://www.boomdrinkware.com/products/ice-bucket-xj-2896/
+- Chinese mirror: https://www.boomdrinkware.com/zh/products/ice-bucket-xj-2896/
+
+### /products/ice-bucket-xj-2897/ — Custom PET Ice Bucket 18L | XJ-2897 | BOOM Drinkware
+- SKU XJ-2897 | group: Non-LED | material: PET | capacity: 18 L | dimensions: 41*30*21.5cm | unit weight: 860 g | case pack: 24 只/箱（45*33*75cm，22kgs） | MOQ on site: 24 pcs | factory spec row: 388 | MOQ: 24 pcs
+- Page: https://www.boomdrinkware.com/products/ice-bucket-xj-2897/
+- Chinese mirror: https://www.boomdrinkware.com/zh/products/ice-bucket-xj-2897/
+
+### /products/ice-bucket-yj314/ — Custom LED Ice Bucket 4L | YJ314 | BOOM Drinkware
+- SKU YJ314 | group: LED light-up | material: PS + ABS | capacity: 4 L | dimensions: 27*19.5*23cm | unit weight: 650 g | case pack: 10 只/箱（44*31*46cm，9kgs） | MOQ on site: 10 pcs | factory spec row: 404 | lighting: 5 颗灯 / 1000mAh / 带充电器 | MOQ: 10 pcs
+- Lighting: Small runs single colour (white or yellow); 100 pcs up 7 colours — red, orange, yellow, green, white, blue and purple (RGB, custom shade on request); LED shape can be tooled to a customer drawing
+- Page: https://www.boomdrinkware.com/products/ice-bucket-yj314/
+- Chinese mirror: https://www.boomdrinkware.com/zh/products/ice-bucket-yj314/
+
+### /products/ice-bucket-yj318/ — Custom LED Ice Bucket 8L | YJ318 | BOOM Drinkware
+- SKU YJ318 | group: LED light-up | material: PS + ABS | capacity: 8 L | dimensions: 35*18*28.5cm | unit weight: 1.1 kgs | case pack: 5 只/箱（38*30*55cm，7kgs） | MOQ on site: 10 pcs | factory spec row: 404 | lighting: 6 颗灯 / 1000mAh / 带充电器 | MOQ: 5 pcs
+- Lighting: Small runs single colour (white or yellow); 100 pcs up 7 colours — red, orange, yellow, green, white, blue and purple (RGB, custom shade on request); LED shape can be tooled to a customer drawing
+- Page: https://www.boomdrinkware.com/products/ice-bucket-yj318/
+- Chinese mirror: https://www.boomdrinkware.com/zh/products/ice-bucket-yj318/
+
+### /products/ice-bucket-yj312/ — Custom LED Ice Bucket 12L | YJ312 | BOOM Drinkware
+- SKU YJ312 | group: LED light-up | material: PS + ABS | capacity: 12 L | dimensions: 41.5*28*29cm | unit weight: 1.6 kgs | case pack: 5 只/箱（45*32*57cm，10kgs） | MOQ on site: 10 pcs | factory spec row: 404 | lighting: 20 颗灯 / 1000mAh / 带充电器 | MOQ: 5 pcs
+- Lighting: Small runs single colour (white or yellow); 100 pcs up 7 colours — red, orange, yellow, green, white, blue and purple (RGB, custom shade on request); LED shape can be tooled to a customer drawing
+- Page: https://www.boomdrinkware.com/products/ice-bucket-yj312/
+- Chinese mirror: https://www.boomdrinkware.com/zh/products/ice-bucket-yj312/
+
+### /products/ice-bucket-yj314c/ — Custom LED Ice Bucket - RGB 7 Colors | YJ314C | BOOM Drinkware
+- SKU YJ314C | group: LED light-up | material: PS + ABS | capacity: 4 L / 8 L / 12 L | dimensions: 同 YJ314 / YJ318 / YJ312 | unit weight: 同单色版 | case pack: 同单色版 | MOQ on site: 10 pcs | factory spec row: 410 | lighting: RGB 七彩变色
+- Lighting: Small runs single colour (white or yellow); 100 pcs up 7 colours — red, orange, yellow, green, white, blue and purple (RGB, custom shade on request); LED shape can be tooled to a customer drawing
+- Page: https://www.boomdrinkware.com/products/ice-bucket-yj314c/
+- Chinese mirror: https://www.boomdrinkware.com/zh/products/ice-bucket-yj314c/
+
+### /products/ice-bucket-yj323f/ — Custom LED Ice Bucket 5L | YJ323F | BOOM Drinkware
+- SKU YJ323F | group: LED light-up | material: PS | capacity: 5 L | dimensions: 33.5*25.5*24.5cm | unit weight: 1.1 kgs | case pack: 5 只/箱（37*30*46cm，7kgs） | MOQ on site: 10 pcs | factory spec row: 410 | lighting: 6 颗灯 / 1000mAh / 带充电器 | MOQ: 5 pcs
+- Lighting: Small runs single colour (white or yellow); 100 pcs up 7 colours — red, orange, yellow, green, white, blue and purple (RGB, custom shade on request); LED shape can be tooled to a customer drawing
+- Page: https://www.boomdrinkware.com/products/ice-bucket-yj323f/
+- Chinese mirror: https://www.boomdrinkware.com/zh/products/ice-bucket-yj323f/
+
+### /products/ice-bucket-yj316f/ — Custom LED Ice Bucket 5.5L | YJ316F | BOOM Drinkware
+- SKU YJ316F | group: LED light-up | material: PS | capacity: 5.5 L | dimensions: 43*16*23cm | unit weight: 1 kgs | case pack: 10 只/箱（46*38*53cm，13kgs） | MOQ on site: 10 pcs | factory spec row: 410 | lighting: 14 颗灯 / 1000mAh / 带充电器 | MOQ: 10 pcs
+- Lighting: Small runs single colour (white or yellow); 100 pcs up 7 colours — red, orange, yellow, green, white, blue and purple (RGB, custom shade on request); LED shape can be tooled to a customer drawing
+- Page: https://www.boomdrinkware.com/products/ice-bucket-yj316f/
+- Chinese mirror: https://www.boomdrinkware.com/zh/products/ice-bucket-yj316f/
+
+### /products/ice-bucket-yj383f/ — Custom LED Bucket 7L | YJ383F | BOOM Drinkware
+- SKU YJ383F | group: LED light-up | material: PS | capacity: 7 L | dimensions: 40*15*17.5cm | unit weight: 1.3 kgs | case pack: 6 只/箱（48*45*40cm，10kgs） | MOQ on site: 10 pcs | factory spec row: 416 | lighting: 20 颗灯 + 2000mAh / 带充电器 | MOQ: 6 pcs
+- Lighting: Small runs single colour (white or yellow); 100 pcs up 7 colours — red, orange, yellow, green, white, blue and purple (RGB, custom shade on request); LED shape can be tooled to a customer drawing
+- Page: https://www.boomdrinkware.com/products/ice-bucket-yj383f/
+- Chinese mirror: https://www.boomdrinkware.com/zh/products/ice-bucket-yj383f/
+
+### /products/ice-bucket-yj384/ — Custom LED Bucket 12L | YJ384 | BOOM Drinkware
+- SKU YJ384 | group: LED light-up | material: PS | capacity: 12 L | dimensions: 50*19.5*19cm | unit weight: 1.8 kgs | case pack: 4 只/箱（55*45*43cm，9kgs） | MOQ on site: 10 pcs | factory spec row: 416 | lighting: 26 颗灯 + 2000mAh | MOQ: 4 pcs
+- Lighting: Small runs single colour (white or yellow); 100 pcs up 7 colours — red, orange, yellow, green, white, blue and purple (RGB, custom shade on request); LED shape can be tooled to a customer drawing
+- Page: https://www.boomdrinkware.com/products/ice-bucket-yj384/
+- Chinese mirror: https://www.boomdrinkware.com/zh/products/ice-bucket-yj384/
+
+### /products/ice-bucket-yj385f/ — Custom LED Bucket 12L / 13L | YJ385F | BOOM Drinkware
+- SKU YJ385F | group: LED light-up | material: PS | capacity: 12 L / 13 L | dimensions: 50*28*18.5cm | unit weight: 2 kgs | case pack: 5 只/箱（53*32*62cm，12kgs） | MOQ on site: 10 pcs | factory spec row: 416 | lighting: 20 颗灯 + 2000mAh | MOQ: 5 pcs
+- Lighting: Small runs single colour (white or yellow); 100 pcs up 7 colours — red, orange, yellow, green, white, blue and purple (RGB, custom shade on request); LED shape can be tooled to a customer drawing
+- Page: https://www.boomdrinkware.com/products/ice-bucket-yj385f/
+- Chinese mirror: https://www.boomdrinkware.com/zh/products/ice-bucket-yj385f/

@@ -1,0 +1,23 @@
+{
+  "root": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-21\\referenced-chatgpt-conversation-this-is-an-2\\work\\safety-tests-1795444232355",
+  "checks": [
+    "preview does not write",
+    "preview has changed real head",
+    "special characters roundtrip",
+    "stale save rejected",
+    "noindex requires confirmation",
+    "confirmed noindex saved",
+    "explicit clear removes robots",
+    "cross-domain requires confirmation",
+    "javascript canonical rejected",
+    "core schema removal rejected",
+    "invalid schema rejected",
+    "SKU mismatch rejected",
+    "single schema edit preserves Product",
+    "history restoration",
+    "restore preserves unrelated content",
+    "restore preserves image edits",
+    "history logged",
+    "path traversal rejected"
+  ]
+}

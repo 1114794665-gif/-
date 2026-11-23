@@ -1,0 +1,203 @@
+{
+  "remoteHead": "30cc524d0a048b94e8b5f039a27b5604a423bd93",
+  "backup": "C:/Users/Administrator/WorkBuddy/2026-10-10-21-06-28/evercup-site/_internal/remote-merge-1795442737671",
+  "merged": [
+    {
+      "path": "acrylic-drinkware/index.html",
+      "route": "/acrylic-drinkware/",
+      "remoteBlob": "56436788b03bd2352aa7df37bc1ee5765031074c"
+    },
+    {
+      "path": "bar-accessories/index.html",
+      "route": "/bar-accessories/",
+      "remoteBlob": "353f154355ad19a14bb2c754f14c31c574702836"
+    },
+    {
+      "path": "custom-bottle-openers/index.html",
+      "route": "/custom-bottle-openers/",
+      "remoteBlob": "699cb0807cf4dd04b7d654ddb6cdeba670cae5a5"
+    },
+    {
+      "path": "custom-champagne-flutes/index.html",
+      "route": "/custom-champagne-flutes/",
+      "remoteBlob": "287154ec293f15a4763505bc3791c109aac28b70"
+    },
+    {
+      "path": "custom-drinkware-decals/index.html",
+      "route": "/custom-drinkware-decals/",
+      "remoteBlob": "8f36aa6f2f1a369a444ff6d6fe050acf4838bfcd"
+    },
+    {
+      "path": "custom-ice-buckets/index.html",
+      "route": "/custom-ice-buckets/",
+      "remoteBlob": "97a0ce544beecb4ec812ed59dd34624c0a3ee4f6"
+    },
+    {
+      "path": "custom-led-drinkware/index.html",
+      "route": "/custom-led-drinkware/",
+      "remoteBlob": "868cfef29dff1b2a78e3b695f63aa14b569006f7"
+    },
+    {
+      "path": "custom-plastic-cups/index.html",
+      "route": "/custom-plastic-cups/",
+      "remoteBlob": "72fa85f1441cacb4c0df226a9a1ae660cfcbeecd"
+    },
+    {
+      "path": "custom-shot-glass-oem-odm/index.html",
+      "route": "/custom-shot-glass-oem-odm/",
+      "remoteBlob": "9dbd205b34893e5a38668beffbfd5915da644e3d"
+    },
+    {
+      "path": "custom-silicone-cups/index.html",
+      "route": "/custom-silicone-cups/",
+      "remoteBlob": "6b1afdbce66837f1f731c6d6646eddd5a5e49a87"
+    },
+    {
+      "path": "custom-tumblers/index.html",
+      "route": "/custom-tumblers/",
+      "remoteBlob": "008edf89846f2a67da132440a84e0f2310992f23"
+    },
+    {
+      "path": "index.html",
+      "route": "/",
+      "remoteBlob": "4fb2d5734232f27f5dccba245a2fe6f60c92dc4f"
+    },
+    {
+      "path": "led-light-up-cups/index.html",
+      "route": "/led-light-up-cups/",
+      "remoteBlob": "41346c8c2549ee6840d20b71ce4eec14a4907330"
+    },
+    {
+      "path": "manufacturing-process/index.html",
+      "route": "/manufacturing-process/",
+      "remoteBlob": "f5b575cbb53ad72a81bc755e5d15d77f86a30b96"
+    },
+    {
+      "path": "new-arrivals/index.html",
+      "route": "/new-arrivals/",
+      "remoteBlob": "62426cb3fc8c2084aae72184a1888b38791ed2c4"
+    },
+    {
+      "path": "products/champagne-stopper/index.html",
+      "route": "/products/champagne-stopper/",
+      "remoteBlob": "c54203ec8c71c96d721ea4028ede5dbab61c3c49"
+    },
+    {
+      "path": "products/index.html",
+      "route": "/products/",
+      "remoteBlob": "feba32c85aa471d3900eb392cd55c1d7203163df"
+    },
+    {
+      "path": "wine-tasting-accessories/index.html",
+      "route": "/wine-tasting-accessories/",
+      "remoteBlob": "da64d028fde5f9fa0b8c79162cb315116838a6c9"
+    }
+  ],
+  "excluded": [
+    {
+      "path": "site/custom-coasters/index.html",
+      "reason": "Outside the confirmed active page set"
+    },
+    {
+      "path": "site/data/api-products-snapshot.json",
+      "reason": "Regenerate from confirmed 105 products"
+    },
+    {
+      "path": "site/data/redirects-20261029.json",
+      "reason": "Keep confirmed local retired-URL rules"
+    },
+    {
+      "path": "site/products/32-oz-plastic-ice-scoop/index.html",
+      "reason": "Outside the confirmed active page set"
+    },
+    {
+      "path": "site/products/34oz-ice-bucket/index.html",
+      "reason": "Outside the confirmed active page set"
+    },
+    {
+      "path": "site/products/4l-8l-12l-ice-bucket/index.html",
+      "reason": "Outside the confirmed active page set"
+    },
+    {
+      "path": "site/products/5l-boat-shape-ice-bucket/index.html",
+      "reason": "Outside the confirmed active page set"
+    },
+    {
+      "path": "site/products/bar-mats/index.html",
+      "reason": "Outside the confirmed active page set"
+    },
+    {
+      "path": "site/products/boston-shaker-kit/index.html",
+      "reason": "Outside the confirmed active page set"
+    },
+    {
+      "path": "site/products/christmas-silicone-bottle-cap-opener/index.html",
+      "reason": "Outside the confirmed active page set"
+    },
+    {
+      "path": "site/products/crystal-clear-high-gloss-acrylic-promotional/index.html",
+      "reason": "Outside the confirmed active page set"
+    },
+    {
+      "path": "site/products/custom-silicone-grip-bottle-opener/index.html",
+      "reason": "Outside the confirmed active page set"
+    },
+    {
+      "path": "site/products/eco-friendly-premium-molded-acrylic-ice/index.html",
+      "reason": "Outside the confirmed active page set"
+    },
+    {
+      "path": "site/products/high-capacity-acrylic-ice-bucket-with/index.html",
+      "reason": "Outside the confirmed active page set"
+    },
+    {
+      "path": "site/products/high-transparency-round-acrylic-ice-bucket/index.html",
+      "reason": "Outside the confirmed active page set"
+    },
+    {
+      "path": "site/products/ice-tong/index.html",
+      "reason": "Outside the confirmed active page set"
+    },
+    {
+      "path": "site/products/keychain-bottle-opener/index.html",
+      "reason": "Outside the confirmed active page set"
+    },
+    {
+      "path": "site/products/koala-shaped-silicone-wine-glass-charms/index.html",
+      "reason": "Outside the confirmed active page set"
+    },
+    {
+      "path": "site/products/large-capacity-acrylic-ice-bucket/index.html",
+      "reason": "Outside the confirmed active page set"
+    },
+    {
+      "path": "site/products/metallic-lustre-touch-asymmetric-acrylic-led/index.html",
+      "reason": "Outside the confirmed active page set"
+    },
+    {
+      "path": "site/products/moet-champagne-ice-bucket/index.html",
+      "reason": "Outside the confirmed active page set"
+    },
+    {
+      "path": "site/products/molded-swizzle-sticks/index.html",
+      "reason": "Outside the confirmed active page set"
+    },
+    {
+      "path": "site/products/silicone-coaster-gummy/index.html",
+      "reason": "Outside the confirmed active page set"
+    },
+    {
+      "path": "site/products/square-acrylic-ice-bucket-with-lid/index.html",
+      "reason": "Outside the confirmed active page set"
+    },
+    {
+      "path": "site/products/translucent-frosted-effect-acrylic-ice-bucket/index.html",
+      "reason": "Outside the confirmed active page set"
+    },
+    {
+      "path": "site/products/vacuum-soda-stopper-pump-air-in/index.html",
+      "reason": "Outside the confirmed active page set"
+    }
+  ],
+  "policy": "Confirmed 105 retained pages take precedence over reintroducing inactive models."
+}

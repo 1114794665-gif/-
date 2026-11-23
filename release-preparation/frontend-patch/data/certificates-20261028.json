@@ -1,0 +1,338 @@
+{
+ "en": {
+  "kicker": "BOOM Drinkware / QUALITY & COMPLIANCE FILE",
+  "h1": "Certificates, Test Reports & Production Process",
+  "lead": "Every claim on this site should trace back to a document. These are the files we actually hold — management system certificates, two granted patents on detachable drinkware, test reports on finished cups, and material reports from the resin suppliers we buy from. Each entry names the holder and the number, so you can check it yourself.",
+  "stats": [
+   { "n": "11", "l": "files on this page" },
+   { "n": "2", "l": "ISO certificates in force to 2028" },
+   { "n": "2", "l": "granted utility model patents" }
+  ],
+  "holderNote": "Files are grouped by holder. Hongrun New Material Technology is our affiliated production plant for moulded and blow-moulded drinkware; material reports are issued to the resin supplier, not to us. When you ask for a file against an order, we send only the one whose scope covers your model.",
+  "groups": [
+   {
+    "id": "management",
+    "eyebrow": "01 / MANAGEMENT SYSTEMS",
+    "title": "Quality and environmental management",
+    "blurb": "Audited management systems, not decorative badges. Both certificates are current, and the scope names blow-moulded drinkware specifically rather than a vague \"manufacturing\".",
+    "holder": "Held by Shenzhen Hongrun New Material Technology Co., Ltd. — our affiliated plant for moulded and blow-moulded drinkware, Pinghu, Longgang, Shenzhen.",
+    "items": [
+     {
+      "img": "iso9001",
+      "title": "ISO 9001:2015 — Quality management system",
+      "meta": "Certificate no. 80682025Q1503R05 · issued 11 Dec 2025 · valid to 10 Dec 2028",
+      "scope": "Scope: production and sales of blow-moulded products (plastic cups), excluding products requiring licensing qualifications.",
+      "issuer": "Beijing Kun Biao Certification & Inspection Co., Ltd. (V.BRZ) · IAF and CNAS accredited"
+     },
+     {
+      "img": "iso14001",
+      "title": "ISO 14001:2015 — Environmental management system",
+      "meta": "Certificate no. 80682025E0828R05 · issued 11 Dec 2025 · valid to 10 Dec 2028",
+      "scope": "Scope: environmental management activities related to the production and sales of blow-moulded plastic products.",
+      "issuer": "Beijing Kun Biao Certification & Inspection Co., Ltd. (V.BRZ) · IAF and CNAS accredited"
+     }
+    ]
+   },
+   {
+    "id": "patents",
+    "eyebrow": "02 / UTILITY MODEL PATENTS",
+    "title": "Two granted patents on detachable drinkware",
+    "blurb": "The detachable stem is not a marketing story — it is a registered structure. Bowl and stem separate, so a damaged half is replaced instead of the whole glass, and the packed volume drops for freight.",
+    "holder": "Patentee: Shenzhen Hongrun New Material Technology Co., Ltd. · inventor Zhai Sifeng · every number below is searchable in CNIPA.",
+    "items": [
+     {
+      "img": "patent-cert-218246685",
+      "title": "Utility model certificate — Detachable wine glass",
+      "meta": "Patent no. ZL 2022 2 1579532.1 · publication CN 218246685 U · filed 22 Jun 2022 · granted 10 Jan 2023",
+      "scope": "Certificate no. 18240714. Term is ten years from the filing date.",
+      "issuer": "China National Intellectual Property Administration"
+     },
+     {
+      "img": "patent-spec-213488223",
+      "title": "Specification — Detachable plastic stemmed glass",
+      "meta": "Publication CN 213488223 U · filed 04 Dec 2020 · granted 22 Jun 2021",
+      "scope": "Claims and drawings for a plastic glass whose bowl seats into a cavity on the stem, giving a detachable joint.",
+      "issuer": "China National Intellectual Property Administration"
+     },
+     {
+      "img": "patent-spec-218246685",
+      "title": "Specification — Detachable wine glass",
+      "meta": "Publication CN 218246685 U · filed 22 Jun 2022 · granted 10 Jan 2023",
+      "scope": "Claims and drawings describing the split bowl-and-base construction and the food-grade PET body.",
+      "issuer": "China National Intellectual Property Administration"
+     }
+    ]
+   },
+   {
+    "id": "product-tests",
+    "eyebrow": "03 / FINISHED PRODUCT TESTING",
+    "title": "Reports run on the finished cup",
+    "blurb": "These two were submitted on finished drinkware — plastic champagne flutes and plastic wine glasses — which is the level a buyer usually needs when a market asks for food-contact evidence. A resin report alone does not answer that question.",
+    "holder": "Client named on both reports: Shenzhen Hongrun New Material Technology Co., Ltd.",
+    "items": [
+     {
+      "img": "sgs-champagne-fda",
+      "title": "SGS — Plastic champagne flutes",
+      "meta": "Report CANEC2223328810 · 10 Nov 2022 · SGS-CSTC Standards Technical Services, Guangzhou",
+      "scope": "Test requested: FDA 21 CFR 177.1630 — chloroform-soluble extractive residues. Results are on the following pages of the report.",
+      "issuer": "SGS"
+     },
+     {
+      "img": "stc-wine-glass",
+      "title": "STC — Plastic wine glasses and champagne glasses",
+      "meta": "Report DP25042142 · 06 May 2025 · STC (Guangdong) Company Limited",
+      "scope": "Thirteen-page report covering plastic wine glasses and plastic champagne glasses; manufacturer recorded as Hongrun.",
+      "issuer": "STC"
+     }
+    ]
+   },
+   {
+    "id": "materials",
+    "eyebrow": "04 / MATERIAL-LEVEL REPORTS",
+    "title": "What the resin supplier tested",
+    "blurb": "Material reports belong to the resin maker. They tell you which grade was tested and against what rule — useful when you are writing a specification, but not a substitute for testing the cup you receive.",
+    "holder": "Issued to the material supplier named on each report, not to us. Grade references are kept exactly as printed.",
+    "items": [
+     {
+      "img": "tritan-tx1001-rohs",
+      "title": "Eastman Tritan™ TX1001 / TX1501HF / TX2001 — RoHS",
+      "meta": "Intertek report SHAH01078942CH · 04 Apr 2019 · applicant: Eastman (China) Investment Management",
+      "scope": "Restriction of hazardous substances under Directive 2011/65/EU and (EU) 2015/863. Scope of the report is the resin grades named above.",
+      "issuer": "Intertek Testing Services, Shanghai"
+     },
+     {
+      "img": "revode-sgs",
+      "title": "Hisun REVODE 110 — SGS report",
+      "meta": "SGS report NGBFD1803262901 · 03 Jul 2018 · SGS-CSTC Ningbo",
+      "scope": "Sample identified as REVODE 110, a polylactic acid resin. Test items are listed on the following pages.",
+      "issuer": "SGS"
+     },
+     {
+      "img": "revode-cnpl",
+      "title": "Hisun REVODE 110 — national plastics test centre",
+      "meta": "Report 国塑检[2022]C0318 · 19 Jul 2022 · National Plastic Products Quality Inspection and Testing Centre (Beijing)",
+      "scope": "Commissioned inspection. Sample: polylactic acid resin, grade REVODE110, trademark REVODE.",
+      "issuer": "Light Industry Plastics Processing Application Research Institute"
+     },
+     {
+      "img": "revode-sds",
+      "title": "REVODE series — safety data sheet",
+      "meta": "SDS version 1.0 · 31 Jul 2023 · prepared under REACH (EC) 1907/2006 as amended",
+      "scope": "The grades are not classified as hazardous under CLP: no hazard pictogram, no signal word, no hazard statement.",
+      "issuer": "Zhejiang Hisun Biomaterials Co., Ltd."
+     }
+    ]
+   }
+  ],
+  "testNote": "A report proves only the sample and the test items printed inside it. Before you rely on one for a market filing, ask us for the full PDF and check that the model, material and test standard match your order.",
+  "process": {
+   "eyebrow": "05 / PRODUCTION PROCESS",
+   "title": "Nine steps from a drawing to a packed carton",
+   "blurb": "This is the sequence an order actually follows. Which moulding step applies depends on the product: injection for rigid parts and stems, blow moulding for thin-wall cups, compression moulding for silicone. No temperature, cycle time or inspection threshold is published here — those are agreed per project.",
+   "steps": [
+    { "n": "01", "t": "Design and 3D review", "d": "Work from your artwork or a reference sample. A 3D file is issued and signed off before anything is cut." },
+    { "n": "02", "t": "Tooling and trial", "d": "CNC-cut mould, then trial shots. Dimensions and appearance are checked on the trial part, not on a promise." },
+    { "n": "03", "t": "Material and colour", "d": "Resin grade or silicone compound is fixed, and colour is matched to an approved chip or Pantone reference." },
+    { "n": "04", "t": "Moulding", "d": "Injection for rigid parts, blow moulding for thin-wall cups, compression moulding for silicone. Process parameters are locked per mould." },
+    { "n": "05", "t": "Trimming and deflashing", "d": "Gates and flash are removed and the rim and joint faces are dressed so parts assemble without force." },
+    { "n": "06", "t": "Decoration", "d": "Screen print, pad print, heat transfer, water transfer, laser or colour-change ink — chosen per design, not per convenience." },
+    { "n": "07", "t": "Post-cure", "d": "Silicone parts get a second high-temperature cure to stabilise the compound and drive off residual odour." },
+    { "n": "08", "t": "Inspection", "d": "Appearance, key dimensions, seal and assembly fit are checked against the approved sample before packing." },
+    { "n": "09", "t": "Packing and dispatch", "d": "Cartons are labelled to your specification and photographed before the container is sealed." }
+   ]
+  },
+  "faq": [
+   {
+    "q": "Can I see the full report, not just page one?",
+    "a": "Yes. Tell us the model and the market you are selling into, and we send the PDF that actually covers it. What we will not do is send a report for a different grade and call it close enough."
+   },
+   {
+    "q": "Whose certificates are these?",
+    "a": "The management system certificates and the patents are held by Hongrun New Material Technology, our affiliated production plant. The material reports are issued to the resin suppliers. Every file is labelled by holder on this page, so nothing is implied."
+   },
+   {
+    "q": "Does a patent give me the right to sell the design?",
+    "a": "No. The patent protects the structure. Your right to sell a particular design comes from the agreement we sign. Tell us the market and we will say what applies before you commit to a quantity."
+   },
+   {
+    "q": "Will you test my order?",
+    "a": "Third-party testing can be arranged against the standard your market requires. Scope, sample and cost are agreed before it starts, and the report is issued to you or to us as you prefer."
+   }
+  ],
+  "cta": {
+   "kicker": "YOUR NEXT STEP",
+   "title": "Ask for the file that matches your model",
+   "body": "Send the model number, the market you are selling into and the document your buyer asked for. We will tell you which of these files applies, and which test still has to be run.",
+   "button": "Request a Project Quote",
+   "href": "/contact/?models=Certificate%20and%20test%20report%20request"
+  }
+ },
+ "zh": {
+  "kicker": "BOOM Drinkware / 资质与检测文件",
+  "h1": "资质证书、检测报告与生产流程",
+  "lead": "网站上说的每一句，都应该能落到一份文件上。这一页是我们实际持有的资料：体系认证证书、两件可拆卸酒具的实用新型专利、成品杯的检测报告，以及我们所用原料的供应商报告。每份都写了持有人和编号，你可以自己去查。",
+  "stats": [
+   { "n": "11", "l": "本页文件份数" },
+   { "n": "2", "l": "有效期至 2028 年的体系证书" },
+   { "n": "2", "l": "已授权实用新型专利" }
+  ],
+  "holderNote": "文件按持有人分组。宏润新材料是我们做模压与吹塑酒具的关联生产工厂；原料报告是出具给树脂供应商的，不是出具给我们的。你要对着订单要文件，我们只给覆盖你这个型号范围的那一份。",
+  "groups": [
+   {
+    "id": "management",
+    "eyebrow": "01 / 体系认证",
+    "title": "质量与环境管理体系",
+    "blurb": "这是审过的管理体系，不是贴在墙上的奖状。两张证都在有效期内，而且范围写的是吹塑杯具，不是含糊的「制造业」。",
+    "holder": "持有人：深圳市宏润新材料科技有限公司 —— 我们做模压与吹塑酒具的关联工厂，深圳龙岗平湖。",
+    "items": [
+     {
+      "img": "iso9001",
+      "title": "ISO 9001:2015 质量管理体系",
+      "meta": "证书号 80682025Q1503R05 · 2025 年 12 月 11 日签发 · 有效期至 2028 年 12 月 10 日",
+      "scope": "认证范围：吹塑产品（塑料杯）的生产与销售，不含需取得许可资质的产品。",
+      "issuer": "北京坤标检验认证有限公司（V.BRZ）· IAF、CNAS 认可"
+     },
+     {
+      "img": "iso14001",
+      "title": "ISO 14001:2015 环境管理体系",
+      "meta": "证书号 80682025E0828R05 · 2025 年 12 月 11 日签发 · 有效期至 2028 年 12 月 10 日",
+      "scope": "认证范围：吹塑塑料制品生产与销售相关的环境管理活动。",
+      "issuer": "北京坤标检验认证有限公司（V.BRZ）· IAF、CNAS 认可"
+     }
+    ]
+   },
+   {
+    "id": "patents",
+    "eyebrow": "02 / 实用新型专利",
+    "title": "两件可拆卸酒具专利",
+    "blurb": "可拆分的高脚不是说法，是登记过的结构。杯身和杯座分开，坏一半换一半，不用整只丢；装箱体积也更小，运费跟着降。",
+    "holder": "专利权人：深圳市宏润新材料科技有限公司 · 发明人翟斯峰 · 下面每个号码都能在知识产权局网站查到。",
+    "items": [
+     {
+      "img": "patent-cert-218246685",
+      "title": "实用新型专利证书 —— 可拆卸酒杯",
+      "meta": "专利号 ZL 2022 2 1579532.1 · 授权公告号 CN 218246685 U · 2022 年 6 月 22 日申请 · 2023 年 1 月 10 日授权",
+      "scope": "证书号 18240714。专利权期限十年，自申请日起算。",
+      "issuer": "国家知识产权局"
+     },
+     {
+      "img": "patent-spec-213488223",
+      "title": "说明书 —— 一种可拆卸式塑料高脚杯",
+      "meta": "授权公告号 CN 213488223 U · 2020 年 12 月 4 日申请 · 2021 年 6 月 22 日授权",
+      "scope": "权利要求与附图：杯身坐进杯座顶部容腔，形成可拆卸连接。",
+      "issuer": "国家知识产权局"
+     },
+     {
+      "img": "patent-spec-218246685",
+      "title": "说明书 —— 可拆卸酒杯",
+      "meta": "授权公告号 CN 218246685 U · 2022 年 6 月 22 日申请 · 2023 年 1 月 10 日授权",
+      "scope": "权利要求与附图：上下分体结构，杯体采用食品级 PET 材料。",
+      "issuer": "国家知识产权局"
+     }
+    ]
+   },
+   {
+    "id": "product-tests",
+    "eyebrow": "03 / 成品检测",
+    "title": "测的是成品杯，不只是原料",
+    "blurb": "这两份送检的是成品：塑料香槟杯和塑料红酒杯。客户被市场要求提供食品接触证明时，要的正好是这个层级 —— 只有一份树脂报告，答不了这个问题。",
+    "holder": "两份报告的委托方：深圳市宏润新材料科技有限公司。",
+    "items": [
+     {
+      "img": "sgs-champagne-fda",
+      "title": "SGS —— 塑料香槟杯",
+      "meta": "报告号 CANEC2223328810 · 2022 年 11 月 10 日 · 通标标准技术服务有限公司广州分公司",
+      "scope": "检测项目：FDA 21 CFR 177.1630 —— 氯仿可溶萃取物。具体结果在报告后续页面。",
+      "issuer": "SGS"
+     },
+     {
+      "img": "stc-wine-glass",
+      "title": "STC —— 塑料红酒杯与香槟杯",
+      "meta": "报告号 DP25042142 · 2025 年 5 月 6 日 · 东莞标检产品检测有限公司",
+      "scope": "共 13 页，样品为塑料红酒杯与塑料香槟杯，报告记载生产商为宏润。",
+      "issuer": "STC"
+     }
+    ]
+   },
+   {
+    "id": "materials",
+    "eyebrow": "04 / 原料报告",
+    "title": "原料供应商测了什么",
+    "blurb": "原料报告属于树脂厂家。它说明的是这个牌号测过什么、按什么标准测，写规格书时用得上；但它替代不了对你收到的那只杯子的检测。",
+    "holder": "出具给各报告上写明的材料供应商，不是出具给我们。牌号按报告原文照录。",
+    "items": [
+     {
+      "img": "tritan-tx1001-rohs",
+      "title": "伊士曼 Tritan™ TX1001 / TX1501HF / TX2001 —— RoHS",
+      "meta": "Intertek 报告 SHAH01078942CH · 2019 年 4 月 4 日 · 申请公司：伊士曼（中国）投资管理有限公司",
+      "scope": "按 2011/65/EU 及 (EU) 2015/863 指令限制有害物质，范围即上述三个牌号。",
+      "issuer": "上海天祥质量技术服务有限公司（Intertek）"
+     },
+     {
+      "img": "revode-sgs",
+      "title": "海正 REVODE 110 —— SGS 报告",
+      "meta": "SGS 报告 NGBFD1803262901 · 2018 年 7 月 3 日 · 宁波",
+      "scope": "样品为 REVODE 110 聚乳酸树脂，检测项目列于报告后续页面。",
+      "issuer": "SGS"
+     },
+     {
+      "img": "revode-cnpl",
+      "title": "海正 REVODE 110 —— 国家塑料制品检测中心",
+      "meta": "报告号 国塑检[2022]C0318 · 2022 年 7 月 19 日 · 国家塑料制品质量检验检测中心（北京）",
+      "scope": "委托检验。样品名称：聚乳酸树脂；规格型号 REVODE110；商标 REVODE。",
+      "issuer": "轻工业塑料加工应用研究所"
+     },
+     {
+      "img": "revode-sds",
+      "title": "REVODE 系列 —— 安全数据表",
+      "meta": "SDS 版本 1.0 · 2023 年 7 月 31 日 · 依据 REACH (EC) 1907/2006 及其修订",
+      "scope": "按 CLP 法规不属危险品：无危险象形图、无信号词、无危险性说明。",
+      "issuer": "浙江海正生物材料股份有限公司"
+     }
+    ]
+   }
+  ],
+  "testNote": "一份报告只能证明它里面写的那份样品和那几个项目。要拿去做市场备案之前，跟我们拿完整 PDF，把型号、材质、检测标准逐项对一遍。",
+  "process": {
+   "eyebrow": "05 / 生产流程",
+   "title": "从一张图到一箱货，九道工序",
+   "blurb": "订单实际走的就是这条线。用哪种成型取决于产品：硬质件和杯柄注塑，薄壁杯吹塑，硅胶件模压。这里不写温度、周期和检验阈值 —— 那些按项目单独约定，写死在网页上就是骗人。",
+   "steps": [
+    { "n": "01", "t": "设计与 3D 确认", "d": "从你的图稿或参照样品开始。先出 3D，确认签字后才动刀。" },
+    { "n": "02", "t": "开模与试模", "d": "CNC 加工模具，再试模。尺寸和外观在试模件上看，不听口头保证。" },
+    { "n": "03", "t": "选料与配色", "d": "定树脂牌号或硅胶胶料，颜色对批准过的色卡或潘通号。" },
+    { "n": "04", "t": "成型", "d": "硬质件注塑、薄壁杯吹塑、硅胶件模压。工艺参数按每副模具锁定。" },
+    { "n": "05", "t": "修边去毛刺", "d": "去浇口、去飞边，杯口和配合面修整到位，装配不用使蛮力。" },
+    { "n": "06", "t": "表面处理", "d": "丝印、移印、热转印、水转印、激光或变色油墨，按设计选，不按省事选。" },
+    { "n": "07", "t": "二次烘烤", "d": "硅胶件做高温二次硫化，稳定材料性能，把残留气味烘掉。" },
+    { "n": "08", "t": "全检", "d": "外观、关键尺寸、密封和装配配合，对照批准样品逐项过。" },
+    { "n": "09", "t": "包装出货", "d": "按你的要求贴标装箱，封柜前拍照留档。" }
+   ]
+  },
+  "faq": [
+   {
+    "q": "能不能看完整报告，不只第一页？",
+    "a": "可以。告诉我们型号和你卖去哪个市场，我们发真正覆盖它的那份 PDF。我们不会拿别的牌号的报告糊弄你说差不多。"
+   },
+   {
+    "q": "这些证书是谁的？",
+    "a": "体系证书和专利由宏润新材料持有 —— 那是我们做酒具的关联生产工厂。原料报告是出给树脂供应商的。这一页每份文件都标了持有人，不含糊。"
+   },
+   {
+    "q": "有专利是不是我就能随便卖这个造型？",
+    "a": "不是。专利保护的是结构。你能卖哪个造型，取决于我们签的协议。告诉我们目标市场，我们在你定数量之前把适用范围说清楚。"
+   },
+   {
+    "q": "我的订单能送检吗？",
+    "a": "可以按你目标市场要求的标准安排第三方检测。范围、样品和费用在开始前谈定，报告出给你或者出给我们，你定。"
+   }
+  ],
+  "cta": {
+   "kicker": "下一步",
+   "title": "要哪份文件，报个型号",
+   "body": "把型号、卖去哪个市场、买家要的是哪份文件发给我们。我们会告诉你手上哪份能用，哪一项还得重新做检测。",
+   "button": "索取项目报价",
+   "href": "/contact/?models=Certificate%20and%20test%20report%20request"
+  }
+ }
+}

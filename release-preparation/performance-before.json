@@ -1,0 +1,1190 @@
+[
+  {
+    "route": "/",
+    "lcp": 884,
+    "cls": 0.00007096640219913506,
+    "navigation": {
+      "name": "http://localhost:8781/",
+      "entryType": "navigation",
+      "startTime": 0,
+      "duration": 447.69999998807907,
+      "navigationId": 9501,
+      "initiatorType": "navigation",
+      "deliveryType": "",
+      "nextHopProtocol": "http/1.1",
+      "renderBlockingStatus": "non-blocking",
+      "contentType": "text/html",
+      "contentEncoding": "",
+      "workerStart": 0,
+      "workerRouterEvaluationStart": 0,
+      "workerCacheLookupStart": 0,
+      "workerMatchedRouterSource": "",
+      "workerFinalRouterSource": "",
+      "workerMatchedSourceType": "",
+      "workerFinalSourceType": "",
+      "redirectStart": 0,
+      "redirectEnd": 0,
+      "fetchStart": 5.5,
+      "domainLookupStart": 5.5,
+      "domainLookupEnd": 5.5,
+      "connectStart": 5.5,
+      "secureConnectionStart": 0,
+      "connectEnd": 5.5,
+      "requestStart": 7.599999964237213,
+      "responseStart": 11.799999952316284,
+      "firstInterimResponseStart": 0,
+      "finalResponseHeadersStart": 11.799999952316284,
+      "responseEnd": 12.799999952316284,
+      "transferSize": 56316,
+      "encodedBodySize": 56016,
+      "decodedBodySize": 56016,
+      "responseStatus": 200,
+      "serverTiming": [],
+      "unloadEventStart": 0,
+      "unloadEventEnd": 0,
+      "domInteractive": 324.5999999642372,
+      "domContentLoadedEventStart": 425.2999999523163,
+      "domContentLoadedEventEnd": 425.7999999523163,
+      "domComplete": 447.5999999642372,
+      "loadEventStart": 447.5999999642372,
+      "loadEventEnd": 447.69999998807907,
+      "type": "navigate",
+      "redirectCount": 0,
+      "activationStart": 0,
+      "criticalCHRestart": 0,
+      "notRestoredReasons": null,
+      "confidence": {
+        "randomizedTriggerRate": 0.4994798,
+        "value": "low"
+      }
+    },
+    "resources": [
+      {
+        "url": "http://localhost:8781/assets/fonts-latin-20261029.speed-20261107.css",
+        "bytes": 7968,
+        "duration": 11.5,
+        "type": "link"
+      },
+      {
+        "url": "http://localhost:8781/assets/index-factory-first-frame-18dac5b0447c-niles-18dac5b0447c-niles-313344025e64-niles-9e0ab33f2ece.js?v=20261112-brand1",
+        "bytes": 1478620,
+        "duration": 41.90000003576279,
+        "type": "script"
+      },
+      {
+        "url": "http://localhost:8781/assets/bundle-ffe1afec.speed-20261107.css",
+        "bytes": 306586,
+        "duration": 19.599999964237213,
+        "type": "link"
+      },
+      {
+        "url": "http://localhost:8781/assets/shared-toast-088c433398e7.speed-20261107.css",
+        "bytes": 14425,
+        "duration": 21.5,
+        "type": "link"
+      },
+      {
+        "url": "http://localhost:8781/assets/ec-links-20261029.css",
+        "bytes": 1607,
+        "duration": 29.30000001192093,
+        "type": "link"
+      },
+      {
+        "url": "http://localhost:8781/assets/of-rfq-20261031.css?v=20261112-brand1",
+        "bytes": 4196,
+        "duration": 29.69999998807907,
+        "type": "link"
+      },
+      {
+        "url": "http://localhost:8781/assets/factory-specialist-20261103.speed-20261107.css",
+        "bytes": 3035,
+        "duration": 30.100000023841858,
+        "type": "link"
+      },
+      {
+        "url": "http://localhost:8781/assets/fast-sample-20261031.css?v=20261112-brand1",
+        "bytes": 5553,
+        "duration": 30.900000035762787,
+        "type": "link"
+      },
+      {
+        "url": "http://localhost:8781/assets/occasion-pairings-20261024.speed-20261107.css",
+        "bytes": 6963,
+        "duration": 31.19999998807907,
+        "type": "link"
+      },
+      {
+        "url": "http://localhost:8781/assets/product-scenarios-20261026.speed-20261107.css",
+        "bytes": 3362,
+        "duration": 33.200000047683716,
+        "type": "link"
+      },
+      {
+        "url": "http://localhost:8781/assets/whole-repair-20261026.speed-20261107.css",
+        "bytes": 4720,
+        "duration": 34.5,
+        "type": "link"
+      },
+      {
+        "url": "http://localhost:8781/assets/oem-focus-20261026.speed-20261107.css",
+        "bytes": 25889,
+        "duration": 36.39999997615814,
+        "type": "link"
+      },
+      {
+        "url": "http://localhost:8781/assets/of-nav-smooth-20261027.speed-20261107.css",
+        "bytes": 1211,
+        "duration": 36.80000001192093,
+        "type": "link"
+      },
+      {
+        "url": "http://localhost:8781/assets/ec-cat-nest-20261030.css",
+        "bytes": 1191,
+        "duration": 37.19999998807907,
+        "type": "link"
+      },
+      {
+        "url": "http://localhost:8781/assets/buyer-experience-20261026.speed-20261107.css",
+        "bytes": 30340,
+        "duration": 37.69999998807907,
+        "type": "link"
+      },
+      {
+        "url": "http://localhost:8781/assets/brand-boom-20261106.css?v=20261114-logo1",
+        "bytes": 891,
+        "duration": 38.30000001192093,
+        "type": "link"
+      },
+      {
+        "url": "http://localhost:8781/assets/ui-upgrade-20261106.speed-20261107.css",
+        "bytes": 4513,
+        "duration": 38.80000001192093,
+        "type": "link"
+      },
+      {
+        "url": "http://localhost:8781/data/runtime-shared-niles-20261111.json",
+        "bytes": 1804391,
+        "duration": 79,
+        "type": "link"
+      },
+      {
+        "url": "http://localhost:8781/data/runtime-pages-niles-20261111/index.json",
+        "bytes": 71372,
+        "duration": 55.5,
+        "type": "link"
+      },
+      {
+        "url": "http://localhost:8781/assets/industrial-theme-20261109.css",
+        "bytes": 17714,
+        "duration": 39.39999997615814,
+        "type": "link"
+      },
+      {
+        "url": "http://localhost:8781/assets/niles-contact-layout-20261111.css",
+        "bytes": 1100,
+        "duration": 42.69999998807907,
+        "type": "link"
+      },
+      {
+        "url": "http://localhost:8781/assets/mobile-hit-20261114.css?v=20261114-hit6",
+        "bytes": 3604,
+        "duration": 43.69999998807907,
+        "type": "link"
+      },
+      {
+        "url": "http://localhost:8781/img/factory-20261104/factory-1-building.webp",
+        "bytes": 184692,
+        "duration": 58.700000047683716,
+        "type": "img"
+      },
+      {
+        "url": "http://localhost:8781/assets/growth-measurement-20261026.speed-20261107-niles-1bac52961b9a-niles-1bac52961b9a-niles-1bac52961b9a.js?v=20261112-brand1",
+        "bytes": 6505,
+        "duration": 58.5,
+        "type": "script"
+      },
+      {
+        "url": "http://localhost:8781/assets/floating-enquiry-20261023.speed-20261107-niles-ae7a7e97bde6-niles-ae7a7e97bde6-niles-ae7a7e97bde6.js?v=20261112-brand1",
+        "bytes": 18518,
+        "duration": 58,
+        "type": "script"
+      },
+      {
+        "url": "http://localhost:8781/assets/ec-nav-patch-20261029.speed-20261107-niles-3752d38cc75b-niles-3752d38cc75b-niles-3752d38cc75b.js?v=20261112-brand1",
+        "bytes": 2865,
+        "duration": 60.40000003576279,
+        "type": "script"
+      },
+      {
+        "url": "http://localhost:8781/assets/product-options-20261028.speed-20261107-niles-c89f68fc753b-niles-c89f68fc753b-niles-c89f68fc753b.js?v=20261112-brand1",
+        "bytes": 11662,
+        "duration": 63,
+        "type": "script"
+      },
+      {
+        "url": "http://localhost:8781/assets/ec-links-20261029.speed-20261107-niles-07cdcbbb0448-niles-07cdcbbb0448-niles-07cdcbbb0448.js?v=20261112-brand1",
+        "bytes": 12857,
+        "duration": 63.10000002384186,
+        "type": "script"
+      },
+      {
+        "url": "http://localhost:8781/assets/of-rfq-20261031.speed-20261107-niles-24b899b40406-niles-24b899b40406-niles-24b899b40406.js?v=20261112-brand1",
+        "bytes": 5716,
+        "duration": 64.30000001192093,
+        "type": "script"
+      },
+      {
+        "url": "http://localhost:8781/assets/fast-sample-20261031.speed-20261107-niles-72060a10d8a4-niles-72060a10d8a4-niles-72060a10d8a4.js?v=20261112-brand1",
+        "bytes": 7513,
+        "duration": 64.59999996423721,
+        "type": "script"
+      },
+      {
+        "url": "http://localhost:8781/assets/ec-family-page-20261102.speed-20261107-niles-94d873a90018-niles-94d873a90018-niles-94d873a90018.js?v=20261112-brand1",
+        "bytes": 8558,
+        "duration": 65.19999998807907,
+        "type": "script"
+      },
+      {
+        "url": "http://localhost:8781/assets/ec-direct-links-seo-86209c2302a2-niles-86209c2302a2-niles-86209c2302a2-niles-86209c2302a2.js?v=20261112-brand1",
+        "bytes": 64664,
+        "duration": 67.90000003576279,
+        "type": "script"
+      },
+      {
+        "url": "http://localhost:8781/assets/boom-cms.js?v=layout1",
+        "bytes": 6992,
+        "duration": 69,
+        "type": "script"
+      },
+      {
+        "url": "http://localhost:8781/assets/industrial-theme-5e5785d02da3-niles-5e5785d02da3-niles-5e5785d02da3-niles-5e5785d02da3.js",
+        "bytes": 7848,
+        "duration": 56.30000001192093,
+        "type": "script"
+      },
+      {
+        "url": "http://localhost:8781/assets/boom-cms-layout.js?v=layout1",
+        "bytes": 2927,
+        "duration": 69.10000002384186,
+        "type": "script"
+      },
+      {
+        "url": "http://localhost:8781/assets/boom-cms-free-layout.js?v=20261112-brand1",
+        "bytes": 6050,
+        "duration": 72.10000002384186,
+        "type": "script"
+      },
+      {
+        "url": "http://localhost:8781/local-new-products.js",
+        "bytes": 1968,
+        "duration": 71.79999995231628,
+        "type": "script"
+      },
+      {
+        "url": "http://localhost:8781/assets/boom-fivepage-update-20261123.js?v=1",
+        "bytes": 14961,
+        "duration": 73.79999995231628,
+        "type": "script"
+      },
+      {
+        "url": "http://localhost:8781/brand-logo.svg?v=20261114-logo1",
+        "bytes": 1460,
+        "duration": 14.899999976158142,
+        "type": "css"
+      },
+      {
+        "url": "http://localhost:8781/img/factory-owner-supplied-20261109/factory-panorama.png",
+        "bytes": 282185,
+        "duration": 15.200000047683716,
+        "type": "css"
+      },
+      {
+        "url": "http://localhost:8781/assets/fonts/ibm-plex-mono-latin-52086.woff2",
+        "bytes": 14708,
+        "duration": 185.4000000357628,
+        "type": "css"
+      },
+      {
+        "url": "http://localhost:8781/assets/fonts/manrope-latin-79860.woff2",
+        "bytes": 24532,
+        "duration": 186,
+        "type": "css"
+      },
+      {
+        "url": "http://localhost:8781/img/cat-tiles-20261028/led-620.webp",
+        "bytes": 8200,
+        "duration": 2,
+        "type": "img"
+      },
+      {
+        "url": "http://localhost:8781/img/oem-caps-20261028/cap-01-print.webp",
+        "bytes": 108104,
+        "duration": 2.800000011920929,
+        "type": "img"
+      },
+      {
+        "url": "http://localhost:8781/data/growth-measurement-config.json",
+        "bytes": 292,
+        "duration": 2,
+        "type": "fetch"
+      },
+      {
+        "url": "http://localhost:8781/data/product-series-20261029.json?v=20261106-boom1",
+        "bytes": 131620,
+        "duration": 2.400000035762787,
+        "type": "xmlhttprequest"
+      },
+      {
+        "url": "http://localhost:8781/api/cms/public?path=%2F",
+        "bytes": 31,
+        "duration": 1.600000023841858,
+        "type": "fetch"
+      },
+      {
+        "url": "http://localhost:8781/api/cms/public?path=%2F",
+        "bytes": 31,
+        "duration": 1.600000023841858,
+        "type": "fetch"
+      },
+      {
+        "url": "http://localhost:8781/api/cms/public?path=%2F",
+        "bytes": 31,
+        "duration": 1.5,
+        "type": "fetch"
+      },
+      {
+        "url": "http://localhost:8781/api/local-products",
+        "bytes": 2,
+        "duration": 1.2000000476837158,
+        "type": "fetch"
+      },
+      {
+        "url": "http://localhost:8781/assets/of-nav-smooth-20261027.js",
+        "bytes": 2415,
+        "duration": 2,
+        "type": "script"
+      },
+      {
+        "url": "http://localhost:8781/data/product-media-20261027.json",
+        "bytes": 318240,
+        "duration": 3.100000023841858,
+        "type": "fetch"
+      },
+      {
+        "url": "http://localhost:8781/img/real-shots-20261028/product-close/sil-01-gjb-001-1200.webp",
+        "bytes": 44320,
+        "duration": 2.100000023841858,
+        "type": "img"
+      },
+      {
+        "url": "http://localhost:8781/favicon.ico",
+        "bytes": 4763,
+        "duration": 2,
+        "type": "other"
+      },
+      {
+        "url": "http://localhost:8781/api/trpc/auth.me?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
+        "bytes": 7366,
+        "duration": 2.5,
+        "type": "fetch"
+      },
+      {
+        "url": "http://localhost:8781/img/v88-20261023/fgb-016-9915464962.webp",
+        "bytes": 80994,
+        "duration": 2.300000011920929,
+        "type": "img"
+      }
+    ]
+  },
+  {
+    "route": "/products/10-5oz-ribbed-plastic-coupe-glasses/",
+    "lcp": 244,
+    "cls": 0.10392059360743906,
+    "navigation": {
+      "name": "http://localhost:8781/products/10-5oz-ribbed-plastic-coupe-glasses/",
+      "entryType": "navigation",
+      "startTime": 0,
+      "duration": 360.0999999642372,
+      "navigationId": 770,
+      "initiatorType": "navigation",
+      "deliveryType": "",
+      "nextHopProtocol": "http/1.1",
+      "renderBlockingStatus": "non-blocking",
+      "contentType": "text/html",
+      "contentEncoding": "",
+      "workerStart": 0,
+      "workerRouterEvaluationStart": 0,
+      "workerCacheLookupStart": 0,
+      "workerMatchedRouterSource": "",
+      "workerFinalRouterSource": "",
+      "workerMatchedSourceType": "",
+      "workerFinalSourceType": "",
+      "redirectStart": 0,
+      "redirectEnd": 0,
+      "fetchStart": 1.899999976158142,
+      "domainLookupStart": 1.899999976158142,
+      "domainLookupEnd": 1.899999976158142,
+      "connectStart": 1.899999976158142,
+      "secureConnectionStart": 0,
+      "connectEnd": 1.899999976158142,
+      "requestStart": 2.799999952316284,
+      "responseStart": 5.299999952316284,
+      "firstInterimResponseStart": 0,
+      "finalResponseHeadersStart": 5.299999952316284,
+      "responseEnd": 5.799999952316284,
+      "transferSize": 47119,
+      "encodedBodySize": 46819,
+      "decodedBodySize": 46819,
+      "responseStatus": 200,
+      "serverTiming": [],
+      "unloadEventStart": 0,
+      "unloadEventEnd": 0,
+      "domInteractive": 278.89999997615814,
+      "domContentLoadedEventStart": 333.19999998807907,
+      "domContentLoadedEventEnd": 333.5999999642372,
+      "domComplete": 360,
+      "loadEventStart": 360,
+      "loadEventEnd": 360.0999999642372,
+      "type": "navigate",
+      "redirectCount": 0,
+      "activationStart": 0,
+      "criticalCHRestart": 0,
+      "notRestoredReasons": null,
+      "confidence": {
+        "randomizedTriggerRate": 0.4994798,
+        "value": "low"
+      }
+    },
+    "resources": [
+      {
+        "url": "http://localhost:8781/assets/fonts-latin-20261029.speed-20261107.css",
+        "bytes": 7968,
+        "duration": 7.300000011920929,
+        "type": "link"
+      },
+      {
+        "url": "http://localhost:8781/assets/index-factory-first-frame-18dac5b0447c-niles-18dac5b0447c-niles-313344025e64-niles-9e0ab33f2ece.js?v=20261112-brand1",
+        "bytes": 1478620,
+        "duration": 28.099999964237213,
+        "type": "script"
+      },
+      {
+        "url": "http://localhost:8781/assets/bundle-8817ceb0.speed-20261107.css",
+        "bytes": 279127,
+        "duration": 11.300000011920929,
+        "type": "link"
+      },
+      {
+        "url": "http://localhost:8781/assets/shared-toast-088c433398e7.speed-20261107.css",
+        "bytes": 14425,
+        "duration": 12.200000047683716,
+        "type": "link"
+      },
+      {
+        "url": "http://localhost:8781/assets/ec-links-20261029.css",
+        "bytes": 1607,
+        "duration": 17.80000001192093,
+        "type": "link"
+      },
+      {
+        "url": "http://localhost:8781/assets/fast-sample-20261031.css?v=20261112-brand1",
+        "bytes": 5553,
+        "duration": 19.399999976158142,
+        "type": "link"
+      },
+      {
+        "url": "http://localhost:8781/assets/product-scenarios-20261026.speed-20261107.css",
+        "bytes": 3362,
+        "duration": 22,
+        "type": "link"
+      },
+      {
+        "url": "http://localhost:8781/assets/factory-specialist-20261103.speed-20261107.css",
+        "bytes": 3035,
+        "duration": 21,
+        "type": "link"
+      },
+      {
+        "url": "http://localhost:8781/assets/occasion-pairings-20261024.speed-20261107.css",
+        "bytes": 6963,
+        "duration": 21.599999964237213,
+        "type": "link"
+      },
+      {
+        "url": "http://localhost:8781/assets/ec-product-fields-20261102.speed-20261107-niles-502a4100015c-niles-502a4100015c-niles-502a4100015c.js?v=20261112-brand1",
+        "bytes": 4936,
+        "duration": 39.89999997615814,
+        "type": "script"
+      },
+      {
+        "url": "http://localhost:8781/assets/whole-repair-20261026.speed-20261107.css",
+        "bytes": 4720,
+        "duration": 22.69999998807907,
+        "type": "link"
+      },
+      {
+        "url": "http://localhost:8781/assets/oem-focus-20261026.speed-20261107.css",
+        "bytes": 25889,
+        "duration": 24.80000001192093,
+        "type": "link"
+      },
+      {
+        "url": "http://localhost:8781/assets/of-nav-smooth-20261027.speed-20261107.css",
+        "bytes": 1211,
+        "duration": 25.19999998807907,
+        "type": "link"
+      },
+      {
+        "url": "http://localhost:8781/assets/ec-cat-nest-20261030.css",
+        "bytes": 1191,
+        "duration": 25.399999976158142,
+        "type": "link"
+      },
+      {
+        "url": "http://localhost:8781/assets/buyer-experience-20261026.speed-20261107.css",
+        "bytes": 30340,
+        "duration": 25.900000035762787,
+        "type": "link"
+      },
+      {
+        "url": "http://localhost:8781/assets/brand-boom-20261106.css?v=20261114-logo1",
+        "bytes": 891,
+        "duration": 26.5,
+        "type": "link"
+      },
+      {
+        "url": "http://localhost:8781/assets/ui-upgrade-20261106.speed-20261107.css",
+        "bytes": 4513,
+        "duration": 28.399999976158142,
+        "type": "link"
+      },
+      {
+        "url": "http://localhost:8781/data/runtime-pages-niles-20261111/products/10-5oz-ribbed-plastic-coupe-glasses/index.json",
+        "bytes": 252,
+        "duration": 37.69999998807907,
+        "type": "link"
+      },
+      {
+        "url": "http://localhost:8781/data/runtime-shared-niles-20261111.json",
+        "bytes": 1804391,
+        "duration": 69.30000001192093,
+        "type": "link"
+      },
+      {
+        "url": "http://localhost:8781/assets/industrial-theme-20261109.css",
+        "bytes": 17714,
+        "duration": 28.799999952316284,
+        "type": "link"
+      },
+      {
+        "url": "http://localhost:8781/assets/niles-contact-layout-20261111.css",
+        "bytes": 1100,
+        "duration": 28.900000035762787,
+        "type": "link"
+      },
+      {
+        "url": "http://localhost:8781/assets/mobile-hit-20261114.css?v=20261114-hit6",
+        "bytes": 3604,
+        "duration": 29.19999998807907,
+        "type": "link"
+      },
+      {
+        "url": "http://localhost:8781/assets/boom-priority-pages-20261119.css?v=1",
+        "bytes": 3267,
+        "duration": 29.5,
+        "type": "link"
+      },
+      {
+        "url": "http://localhost:8781/assets/boom-technical-20261119.js?v=1",
+        "bytes": 77789,
+        "duration": 39.89999997615814,
+        "type": "script"
+      },
+      {
+        "url": "http://localhost:8781/img/v88-20261023/hjb-060-253525cc43.webp",
+        "bytes": 61574,
+        "duration": 38.60000002384186,
+        "type": "link"
+      },
+      {
+        "url": "http://localhost:8781/assets/boom-product-questions-20261119.js?v=1",
+        "bytes": 3105,
+        "duration": 40.30000001192093,
+        "type": "script"
+      },
+      {
+        "url": "http://localhost:8781/assets/boom-seo-head-20261119.js?v=1",
+        "bytes": 6034,
+        "duration": 42.200000047683716,
+        "type": "script"
+      },
+      {
+        "url": "http://localhost:8781/assets/growth-measurement-20261026.speed-20261107-niles-1bac52961b9a-niles-1bac52961b9a-niles-1bac52961b9a.js?v=20261112-brand1",
+        "bytes": 6505,
+        "duration": 43.89999997615814,
+        "type": "script"
+      },
+      {
+        "url": "http://localhost:8781/assets/floating-enquiry-20261023.speed-20261107-niles-ae7a7e97bde6-niles-ae7a7e97bde6-niles-ae7a7e97bde6.js?v=20261112-brand1",
+        "bytes": 18518,
+        "duration": 43.30000001192093,
+        "type": "script"
+      },
+      {
+        "url": "http://localhost:8781/assets/card-options-20261028.speed-20261107-niles-5d8c18e5f88e-niles-5d8c18e5f88e-niles-5d8c18e5f88e.js",
+        "bytes": 1721,
+        "duration": 44.09999996423721,
+        "type": "script"
+      },
+      {
+        "url": "http://localhost:8781/assets/ec-links-20261029.speed-20261107-niles-07cdcbbb0448-niles-07cdcbbb0448-niles-07cdcbbb0448.js?v=20261112-brand1",
+        "bytes": 12857,
+        "duration": 45.30000001192093,
+        "type": "script"
+      },
+      {
+        "url": "http://localhost:8781/assets/fast-sample-20261031.speed-20261107-niles-72060a10d8a4-niles-72060a10d8a4-niles-72060a10d8a4.js?v=20261112-brand1",
+        "bytes": 7513,
+        "duration": 45.90000003576279,
+        "type": "script"
+      },
+      {
+        "url": "http://localhost:8781/assets/product-options-20261028.speed-20261107-niles-c89f68fc753b-niles-c89f68fc753b-niles-c89f68fc753b.js?v=20261112-brand1",
+        "bytes": 11662,
+        "duration": 44.90000003576279,
+        "type": "script"
+      },
+      {
+        "url": "http://localhost:8781/assets/ec-family-20261102.speed-20261107-niles-9a8c9c299952-niles-9a8c9c299952-niles-9a8c9c299952.js?v=20261112-brand1",
+        "bytes": 10766,
+        "duration": 46.80000001192093,
+        "type": "script"
+      },
+      {
+        "url": "http://localhost:8781/assets/ec-family-page-20261102.speed-20261107-niles-94d873a90018-niles-94d873a90018-niles-94d873a90018.js?v=20261112-brand1",
+        "bytes": 8558,
+        "duration": 47.19999998807907,
+        "type": "script"
+      },
+      {
+        "url": "http://localhost:8781/assets/ec-nav-patch-20261029.speed-20261107-niles-3752d38cc75b-niles-3752d38cc75b-niles-3752d38cc75b.js?v=20261112-brand1",
+        "bytes": 2865,
+        "duration": 48.30000001192093,
+        "type": "script"
+      },
+      {
+        "url": "http://localhost:8781/assets/boom-cms.js?v=layout1",
+        "bytes": 6992,
+        "duration": 50.10000002384186,
+        "type": "script"
+      },
+      {
+        "url": "http://localhost:8781/assets/ec-direct-links-seo-86209c2302a2-niles-86209c2302a2-niles-86209c2302a2-niles-86209c2302a2.js?v=20261112-brand1",
+        "bytes": 64664,
+        "duration": 49.60000002384186,
+        "type": "script"
+      },
+      {
+        "url": "http://localhost:8781/assets/industrial-theme-5e5785d02da3-niles-5e5785d02da3-niles-5e5785d02da3-niles-5e5785d02da3.js",
+        "bytes": 7848,
+        "duration": 38.30000001192093,
+        "type": "script"
+      },
+      {
+        "url": "http://localhost:8781/assets/boom-cms-layout.js?v=layout1",
+        "bytes": 2927,
+        "duration": 50.39999997615814,
+        "type": "script"
+      },
+      {
+        "url": "http://localhost:8781/local-new-products.js",
+        "bytes": 1968,
+        "duration": 50.69999998807907,
+        "type": "script"
+      },
+      {
+        "url": "http://localhost:8781/assets/boom-cms-free-layout.js?v=20261112-brand1",
+        "bytes": 6050,
+        "duration": 50.799999952316284,
+        "type": "script"
+      },
+      {
+        "url": "http://localhost:8781/assets/product-image-alt-local-20261123.js",
+        "bytes": 32687,
+        "duration": 51.19999998807907,
+        "type": "script"
+      },
+      {
+        "url": "http://localhost:8781/brand-logo.svg?v=20261114-logo1",
+        "bytes": 1460,
+        "duration": 6.100000023841858,
+        "type": "css"
+      },
+      {
+        "url": "http://localhost:8781/assets/fonts/ibm-plex-mono-latin-52086.woff2",
+        "bytes": 14708,
+        "duration": 146,
+        "type": "css"
+      },
+      {
+        "url": "http://localhost:8781/assets/fonts/manrope-latin-79860.woff2",
+        "bytes": 24532,
+        "duration": 146.80000001192093,
+        "type": "css"
+      },
+      {
+        "url": "http://localhost:8781/assets/fonts/ibm-plex-mono-latin-9687.woff2",
+        "bytes": 14888,
+        "duration": 147.60000002384186,
+        "type": "css"
+      },
+      {
+        "url": "http://localhost:8781/img/master-scenes-real-20261028/hjb-060-26f1e8b1a6a2.webp",
+        "bytes": 265298,
+        "duration": 4.099999964237213,
+        "type": "img"
+      },
+      {
+        "url": "http://localhost:8781/img/main-packaging-20261029/hjb-060-51b6e284c60b.webp",
+        "bytes": 249970,
+        "duration": 5,
+        "type": "img"
+      },
+      {
+        "url": "http://localhost:8781/data/product-fields.json?v=20261102d-29923938",
+        "bytes": 67341,
+        "duration": 2.900000035762787,
+        "type": "xmlhttprequest"
+      },
+      {
+        "url": "http://localhost:8781/data/buyer-copy-20261119/products/10-5oz-ribbed-plastic-coupe-glasses/index.json",
+        "bytes": 2928,
+        "duration": 3.099999964237213,
+        "type": "fetch"
+      },
+      {
+        "url": "http://localhost:8781/data/seo-page-metadata-20261119.json",
+        "bytes": 519699,
+        "duration": 8,
+        "type": "fetch"
+      },
+      {
+        "url": "http://localhost:8781/data/growth-measurement-config.json",
+        "bytes": 292,
+        "duration": 4.800000011920929,
+        "type": "fetch"
+      },
+      {
+        "url": "http://localhost:8781/data/product-series-20261029.json?v=20261106-boom1",
+        "bytes": 131620,
+        "duration": 5,
+        "type": "xmlhttprequest"
+      },
+      {
+        "url": "http://localhost:8781/data/fast-sample-20261031.json?v=20261107-speed1",
+        "bytes": 10452,
+        "duration": 4.600000023841858,
+        "type": "fetch"
+      },
+      {
+        "url": "http://localhost:8781/data/product-families.json?v=20261106-boom120261102a-498732",
+        "bytes": 65402,
+        "duration": 3.699999988079071,
+        "type": "xmlhttprequest"
+      },
+      {
+        "url": "http://localhost:8781/data/product-families.json?v=20261106-boom120261102a-498732",
+        "bytes": 65402,
+        "duration": 6.100000023841858,
+        "type": "xmlhttprequest"
+      },
+      {
+        "url": "http://localhost:8781/api/cms/public?path=%2Fproducts%2F10-5oz-ribbed-plastic-coupe-glasses%2F",
+        "bytes": 31,
+        "duration": 1.5,
+        "type": "fetch"
+      },
+      {
+        "url": "http://localhost:8781/api/cms/public?path=%2Fproducts%2F10-5oz-ribbed-plastic-coupe-glasses%2F",
+        "bytes": 31,
+        "duration": 2.100000023841858,
+        "type": "fetch"
+      },
+      {
+        "url": "http://localhost:8781/api/cms/public?path=%2Fproducts%2F10-5oz-ribbed-plastic-coupe-glasses%2F",
+        "bytes": 31,
+        "duration": 2.100000023841858,
+        "type": "fetch"
+      },
+      {
+        "url": "http://localhost:8781/api/local-products",
+        "bytes": 2,
+        "duration": 1.699999988079071,
+        "type": "fetch"
+      },
+      {
+        "url": "http://localhost:8781/assets/of-nav-smooth-20261027.js",
+        "bytes": 2415,
+        "duration": 3,
+        "type": "script"
+      },
+      {
+        "url": "http://localhost:8781/data/product-media-20261027.json",
+        "bytes": 318240,
+        "duration": 3.700000047683716,
+        "type": "fetch"
+      },
+      {
+        "url": "http://localhost:8781/img/byf-parameters-20261031/hjb-060.webp",
+        "bytes": 73238,
+        "duration": 3.600000023841858,
+        "type": "img"
+      },
+      {
+        "url": "http://localhost:8781/favicon.ico",
+        "bytes": 4763,
+        "duration": 2.800000011920929,
+        "type": "other"
+      },
+      {
+        "url": "http://localhost:8781/data/product-media-20261027.json",
+        "bytes": 318240,
+        "duration": 3.799999952316284,
+        "type": "fetch"
+      },
+      {
+        "url": "http://localhost:8781/api/trpc/auth.me?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D",
+        "bytes": 7366,
+        "duration": 2.399999976158142,
+        "type": "fetch"
+      },
+      {
+        "url": "http://localhost:8781/img/product-media-20261027/HJB-060_decoration.webp",
+        "bytes": 219336,
+        "duration": 3.199999988079071,
+        "type": "img"
+      }
+    ]
+  },
+  {
+    "route": "/blog/silicone-vs-plastic-cups/",
+    "lcp": 192,
+    "cls": 0.009331249038915084,
+    "navigation": {
+      "name": "http://localhost:8781/blog/silicone-vs-plastic-cups/",
+      "entryType": "navigation",
+      "startTime": 0,
+      "duration": 298.7000000476837,
+      "navigationId": 5023,
+      "initiatorType": "navigation",
+      "deliveryType": "",
+      "nextHopProtocol": "http/1.1",
+      "renderBlockingStatus": "non-blocking",
+      "contentType": "text/html",
+      "contentEncoding": "",
+      "workerStart": 0,
+      "workerRouterEvaluationStart": 0,
+      "workerCacheLookupStart": 0,
+      "workerMatchedRouterSource": "",
+      "workerFinalRouterSource": "",
+      "workerMatchedSourceType": "",
+      "workerFinalSourceType": "",
+      "redirectStart": 0,
+      "redirectEnd": 0,
+      "fetchStart": 1.300000011920929,
+      "domainLookupStart": 1.300000011920929,
+      "domainLookupEnd": 1.300000011920929,
+      "connectStart": 1.300000011920929,
+      "secureConnectionStart": 0,
+      "connectEnd": 1.300000011920929,
+      "requestStart": 2.100000023841858,
+      "responseStart": 15.800000011920929,
+      "firstInterimResponseStart": 0,
+      "finalResponseHeadersStart": 15.800000011920929,
+      "responseEnd": 16.200000047683716,
+      "transferSize": 52812,
+      "encodedBodySize": 52512,
+      "decodedBodySize": 52512,
+      "responseStatus": 200,
+      "serverTiming": [],
+      "unloadEventStart": 0,
+      "unloadEventEnd": 0,
+      "domInteractive": 168.9000000357628,
+      "domContentLoadedEventStart": 203.70000004768372,
+      "domContentLoadedEventEnd": 204,
+      "domComplete": 272.4000000357628,
+      "loadEventStart": 272.4000000357628,
+      "loadEventEnd": 298.7000000476837,
+      "type": "navigate",
+      "redirectCount": 0,
+      "activationStart": 0,
+      "criticalCHRestart": 0,
+      "notRestoredReasons": null,
+      "confidence": {
+        "randomizedTriggerRate": 0.4994798,
+        "value": "high"
+      }
+    },
+    "resources": [
+      {
+        "url": "http://localhost:8781/assets/fonts-latin-20261029.speed-20261107.css",
+        "bytes": 7968,
+        "duration": 6.099999964237213,
+        "type": "link"
+      },
+      {
+        "url": "http://localhost:8781/assets/bundle-ffe1afec.speed-20261107.css",
+        "bytes": 306586,
+        "duration": 9.400000035762787,
+        "type": "link"
+      },
+      {
+        "url": "http://localhost:8781/assets/tn-clone-20261029.speed-20261107.css",
+        "bytes": 18721,
+        "duration": 9.699999988079071,
+        "type": "link"
+      },
+      {
+        "url": "http://localhost:8781/assets/fast-sample-20261031.css?v=20261112-brand1",
+        "bytes": 5553,
+        "duration": 9.899999976158142,
+        "type": "link"
+      },
+      {
+        "url": "http://localhost:8781/assets/factory-specialist-20261103.speed-20261107.css",
+        "bytes": 3035,
+        "duration": 10.099999964237213,
+        "type": "link"
+      },
+      {
+        "url": "http://localhost:8781/assets/brand-boom-20261106.css?v=20261114-logo1",
+        "bytes": 891,
+        "duration": 10.399999976158142,
+        "type": "link"
+      },
+      {
+        "url": "http://localhost:8781/assets/growth-measurement-20261026.speed-20261107-niles-1bac52961b9a-niles-1bac52961b9a-niles-1bac52961b9a.js?v=20261112-brand1",
+        "bytes": 6505,
+        "duration": 15,
+        "type": "script"
+      },
+      {
+        "url": "http://localhost:8781/assets/ui-upgrade-20261106.speed-20261107.css",
+        "bytes": 4513,
+        "duration": 10.600000023841858,
+        "type": "link"
+      },
+      {
+        "url": "http://localhost:8781/assets/industrial-theme-20261109.css",
+        "bytes": 17714,
+        "duration": 10.399999976158142,
+        "type": "link"
+      },
+      {
+        "url": "http://localhost:8781/assets/niles-contact-layout-20261111.css",
+        "bytes": 1100,
+        "duration": 12.099999964237213,
+        "type": "link"
+      },
+      {
+        "url": "http://localhost:8781/assets/mobile-hit-20261114.css?v=20261114-hit6",
+        "bytes": 3604,
+        "duration": 13.099999964237213,
+        "type": "link"
+      },
+      {
+        "url": "http://localhost:8781/assets/boom-buyer-rewrite.js?v=2",
+        "bytes": 1554,
+        "duration": 15.700000047683716,
+        "type": "script"
+      },
+      {
+        "url": "http://localhost:8781/assets/boom-seo-head-20261119.js?v=1",
+        "bytes": 6034,
+        "duration": 14.800000011920929,
+        "type": "script"
+      },
+      {
+        "url": "http://localhost:8781/assets/boom-technical-20261119.js?v=1",
+        "bytes": 77789,
+        "duration": 14.900000035762787,
+        "type": "script"
+      },
+      {
+        "url": "http://localhost:8781/assets/boom-priority-pages-20261119.css?v=1",
+        "bytes": 3267,
+        "duration": 13.300000011920929,
+        "type": "link"
+      },
+      {
+        "url": "http://localhost:8781/assets/ec-static-shell-20261029.speed-20261107-niles-8a69f95c137c-niles-8a69f95c137c-niles-8a69f95c137c.js",
+        "bytes": 1261,
+        "duration": 15.899999976158142,
+        "type": "script"
+      },
+      {
+        "url": "http://localhost:8781/assets/ec-article-20261029.speed-20261107-niles-97d38d3902c5-niles-97d38d3902c5-niles-97d38d3902c5.js",
+        "bytes": 657,
+        "duration": 16.5,
+        "type": "script"
+      },
+      {
+        "url": "http://localhost:8781/assets/fast-sample-20261031.speed-20261107-niles-72060a10d8a4-niles-72060a10d8a4-niles-72060a10d8a4.js?v=20261112-brand1",
+        "bytes": 7513,
+        "duration": 16.599999964237213,
+        "type": "script"
+      },
+      {
+        "url": "http://localhost:8781/assets/ec-family-page-20261102.speed-20261107-niles-94d873a90018-niles-94d873a90018-niles-94d873a90018.js?v=20261112-brand1",
+        "bytes": 8558,
+        "duration": 16.5,
+        "type": "script"
+      },
+      {
+        "url": "http://localhost:8781/assets/ec-nav-patch-20261029.speed-20261107-niles-3752d38cc75b-niles-3752d38cc75b-niles-3752d38cc75b.js?v=20261112-brand1",
+        "bytes": 2865,
+        "duration": 16.900000035762787,
+        "type": "script"
+      },
+      {
+        "url": "http://localhost:8781/assets/floating-enquiry-20261023.speed-20261107-niles-ae7a7e97bde6-niles-ae7a7e97bde6-niles-ae7a7e97bde6.js?v=20261112-brand1",
+        "bytes": 18518,
+        "duration": 17.200000047683716,
+        "type": "script"
+      },
+      {
+        "url": "http://localhost:8781/assets/industrial-theme-5e5785d02da3-niles-5e5785d02da3-niles-5e5785d02da3-niles-5e5785d02da3.js",
+        "bytes": 7848,
+        "duration": 13.699999988079071,
+        "type": "script"
+      },
+      {
+        "url": "http://localhost:8781/assets/boom-cms-layout.js?v=layout1",
+        "bytes": 2927,
+        "duration": 18.899999976158142,
+        "type": "script"
+      },
+      {
+        "url": "http://localhost:8781/assets/boom-cms.js?v=layout1",
+        "bytes": 6992,
+        "duration": 18.19999998807907,
+        "type": "script"
+      },
+      {
+        "url": "http://localhost:8781/assets/ec-direct-links-seo-86209c2302a2-niles-86209c2302a2-niles-86209c2302a2-niles-86209c2302a2.js?v=20261112-brand1",
+        "bytes": 64664,
+        "duration": 18.100000023841858,
+        "type": "script"
+      },
+      {
+        "url": "http://localhost:8781/local-new-products.js",
+        "bytes": 1968,
+        "duration": 19.099999964237213,
+        "type": "script"
+      },
+      {
+        "url": "http://localhost:8781/assets/boom-cms-free-layout.js?v=20261112-brand1",
+        "bytes": 6050,
+        "duration": 19.19999998807907,
+        "type": "script"
+      },
+      {
+        "url": "http://localhost:8781/brand-logo.svg?v=20261114-logo1",
+        "bytes": 1460,
+        "duration": 1.800000011920929,
+        "type": "css"
+      },
+      {
+        "url": "http://localhost:8781/img/factory-article-scenes-20261103/materials-6971a859e37d.webp",
+        "bytes": 221774,
+        "duration": 3.300000011920929,
+        "type": "css"
+      },
+      {
+        "url": "http://localhost:8781/assets/fonts/ibm-plex-mono-latin-52086.woff2",
+        "bytes": 14708,
+        "duration": 107.30000001192093,
+        "type": "css"
+      },
+      {
+        "url": "http://localhost:8781/assets/fonts/poppins-latin-600-normal.woff2",
+        "bytes": 8000,
+        "duration": 107.80000001192093,
+        "type": "css"
+      },
+      {
+        "url": "http://localhost:8781/assets/fonts/manrope-latin-79860.woff2",
+        "bytes": 24532,
+        "duration": 108.89999997615814,
+        "type": "css"
+      },
+      {
+        "url": "http://localhost:8781/assets/fonts/poppins-latin-500-normal.woff2",
+        "bytes": 7748,
+        "duration": 109.30000001192093,
+        "type": "css"
+      },
+      {
+        "url": "http://localhost:8781/assets/fonts/poppins-latin-400-normal.woff2",
+        "bytes": 7884,
+        "duration": 110.5,
+        "type": "css"
+      },
+      {
+        "url": "http://localhost:8781/assets/fonts/poppins-latin-700-normal.woff2",
+        "bytes": 7816,
+        "duration": 111,
+        "type": "css"
+      },
+      {
+        "url": "http://localhost:8781/data/growth-measurement-config.json",
+        "bytes": 292,
+        "duration": 1.699999988079071,
+        "type": "fetch"
+      },
+      {
+        "url": "http://localhost:8781/data/seo-page-metadata-20261119.json",
+        "bytes": 519699,
+        "duration": 4.199999988079071,
+        "type": "fetch"
+      },
+      {
+        "url": "http://localhost:8781/data/buyer-copy-20261119/blog/silicone-vs-plastic-cups/index.json",
+        "bytes": 1811,
+        "duration": 3.200000047683716,
+        "type": "fetch"
+      },
+      {
+        "url": "http://localhost:8781/api/cms/public?path=%2Fblog%2Fsilicone-vs-plastic-cups%2F",
+        "bytes": 31,
+        "duration": 1.5,
+        "type": "fetch"
+      },
+      {
+        "url": "http://localhost:8781/api/cms/public?path=%2Fblog%2Fsilicone-vs-plastic-cups%2F",
+        "bytes": 31,
+        "duration": 2,
+        "type": "fetch"
+      },
+      {
+        "url": "http://localhost:8781/api/cms/public?path=%2Fblog%2Fsilicone-vs-plastic-cups%2F",
+        "bytes": 31,
+        "duration": 2,
+        "type": "fetch"
+      },
+      {
+        "url": "http://localhost:8781/api/local-products",
+        "bytes": 2,
+        "duration": 1,
+        "type": "fetch"
+      },
+      {
+        "url": "http://localhost:8781/favicon.ico",
+        "bytes": 4763,
+        "duration": 2.199999988079071,
+        "type": "other"
+      }
+    ]
+  }
+]

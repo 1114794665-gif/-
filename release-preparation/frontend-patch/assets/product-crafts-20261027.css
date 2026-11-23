@@ -1,0 +1,32 @@
+/* 工艺与效果模块（2026-10-27）
+   同一个杯身做成不同工艺（夜光、UV 满印、丝印）时的展示卡。
+   产品页是前端渲染的，所以这张卡也由脚本在渲染完成后插进真实 DOM，
+   样式沿用站点现有的 bx-* 变量，跟「同系列」模块是一套视觉。
+
+   布局用 auto-fit：2 张卡时并排各占一半，3 张卡时正好一排三张，不会留下空位。 */
+
+.bx-craft-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:18px}
+.bx-craft-card{display:flex;flex-direction:column;min-width:0;background:#fff;
+  border:1px solid var(--bx-line,#e2e6df);border-radius:6px;padding:14px 14px 12px}
+.bx-craft-figure{display:block;margin:0 0 13px;border:1px solid var(--bx-line,#e2e6df);border-radius:5px;
+  overflow:hidden;background:#fbfbf8}
+.bx-craft-figure img{display:block;width:100%;height:auto;aspect-ratio:4/3;object-fit:cover;
+  background:#fbfbf8}
+.bx-craft-label{margin:0 0 7px;font-size:9px;font-weight:800;letter-spacing:.16em;text-transform:uppercase;
+  color:var(--bx-copper,#a86b3c)}
+.bx-craft-title{font-family:Manrope,Arial,sans-serif;font-size:15px;font-weight:700;line-height:1.3;
+  margin:0 0 7px;letter-spacing:-.01em;color:var(--bx-ink,#1c2b24)}
+.bx-craft-desc{font-size:12px;line-height:1.7;color:var(--bx-muted,#6b756c);margin:0 0 14px}
+.bx-craft-cta{margin-top:auto;display:flex;align-items:center;justify-content:space-between;gap:10px;
+  border-top:1px solid var(--bx-line,#e2e6df);padding-top:11px;font-size:11px;font-weight:800;
+  letter-spacing:.03em;color:var(--bx-green,#2f6650);text-decoration:none}
+.bx-craft-cta:hover{text-decoration:underline;text-underline-offset:3px}
+.bx-craft-ref{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:10px;font-weight:600;
+  color:var(--bx-muted,#6b756c);letter-spacing:.03em;white-space:nowrap}
+/* 从老型号页跳过来时，把那张工艺卡闪一下，方便一眼找到 */
+.bx-craft-card.is-flash{border-color:#2f6650;box-shadow:0 0 0 3px rgba(47,102,80,.22);
+  transition:box-shadow .3s,border-color .3s}
+
+@media(max-width:1023px){.bx-craft-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:599px){.bx-craft-grid{grid-template-columns:1fr}.bx-craft-card{padding:12px}
+  .bx-craft-title{font-size:14px}.bx-craft-desc{font-size:11.5px}}

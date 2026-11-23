@@ -1,0 +1,7 @@
+{
+  "countCap": true,
+  "perFile2MB": true,
+  "total5MB": true,
+  "noSubmission": true,
+  "errors": []
+}

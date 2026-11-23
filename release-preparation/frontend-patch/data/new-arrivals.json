@@ -1,0 +1,296 @@
+{
+ "updated": "2026-10-21",
+ "note": "上新活页：每个酒具类目各 3 款热门。改这个 JSON 后跑 node evercup-workflow/scripts/newarr_build_v75.js 即可更新站点。",
+ "criteria": "有真实报价(非黄底占位) + 上架位多 + 参数齐全",
+ "groups": [
+  {
+   "cat": "酒具配件定制",
+   "cat_en": "Bar Accessories & Tools",
+   "slug": "/bar-accessories/",
+   "items": [
+    {
+     "sku": "JBPJ-061",
+     "name": "16 oz. Light Up Acrylic Shaker - Full Color",
+     "zh": "定制16oz发光亚克力雪克壶（全彩印刷 · 底部按键多色）",
+     "image": "/img/newarr/na-jbpj-061.jpg",
+     "price": "$9.52 ｜ 制版费 $50",
+     "spec": "杯型：发光调酒壶 Shaker ｜ 材质：BPA-free 亚克力 · 美国制造 ｜ 容量：16 oz ｜ 尺寸：8″H ｜ 8 色可选 ｜ 特性：底部按键切换多色光效，暗处最佳 ｜ 印刷方法：全彩数字印，印区 1-7/8″W × 2″H",
+     "chips": [
+      "FROM $9.52",
+      "BAR ACCESSORIES & TOOLS",
+      "MOQ 10",
+      "FACTORY DIRECT"
+     ],
+     "anchor": "bar accessories & tools",
+     "oneLiner": "acrylic body — molded in-house, printed with your logo, MOQ from 10 pcs.",
+     "slug": "/bar-accessories/"
+    },
+    {
+     "sku": "JBPJ-060",
+     "name": "24 oz. Acrylic Cocktail Mixer - 3-Piece Set",
+     "zh": "定制24oz亚克力调酒雪克壶三件套（含量盖 · 美国产）",
+     "image": "/img/newarr/na-jbpj-060.jpg",
+     "price": "$5.52 ｜ 制版费 $50",
+     "spec": "杯型：调酒壶 Cocktail Mixer（三件套：壶身 + 滤网盖 + 量盖） ｜ 材质：BPA-free 聚苯乙烯 Styrene · 美国制造 ｜ 容量：24 oz ｜ 尺寸：11″H ｜ 印刷方法：1 色丝印，印区 3″W × 3″H ｜ 轻量耐用 · 手洗",
+     "chips": [
+      "FROM $5.52",
+      "BAR ACCESSORIES & TOOLS",
+      "MOQ 10",
+      "FACTORY DIRECT"
+     ],
+     "anchor": "bar accessories & tools",
+     "oneLiner": "plastic body — molded in-house, printed with your logo, MOQ from 10 pcs.",
+     "slug": "/bar-accessories/"
+    },
+    {
+     "sku": "JBPJ-062",
+     "name": "Boston Shaker Kit",
+     "zh": "定制波士顿雪克壶套装（吧台调酒工具组 · 美国）",
+     "image": "/img/newarr/na-jbpj-062.jpg",
+     "price": "$56.25 ｜ 免制版费",
+     "spec": "杯型：波士顿雪克壶套装 Boston Shaker Kit ｜ 材质：塑料 / 亚克力主体 ｜ 酒吧调酒工具组合 ｜ 印刷方法：移印 Pad Printed ｜ 可定制 logo",
+     "chips": [
+      "FROM $56.25",
+      "BAR ACCESSORIES & TOOLS",
+      "MOQ 10",
+      "FACTORY DIRECT"
+     ],
+     "anchor": "bar accessories & tools",
+     "oneLiner": "acrylic + plastic body — molded in-house, printed with your logo, MOQ from 10 pcs.",
+     "slug": "/bar-accessories/"
+    }
+   ]
+  },
+  {
+   "cat": "塑料杯定制",
+   "cat_en": "Custom Plastic Cups",
+   "slug": "/custom-plastic-cups/",
+   "items": [
+    {
+     "sku": "JBPJ-058",
+     "name": "37 oz. Acrylic Pitcher",
+     "zh": "定制37oz小容量带盖亚克力分酒壶（人体工学手柄 · 防滴嘴）",
+     "image": "/img/newarr/na-jbpj-058.jpg",
+     "price": "$31.25 ｜ 免制版费",
+     "spec": "杯型：分酒壶 Pitcher（人体工学手柄 + 防滴壶嘴） ｜ 材质：亚克力 Acrylic · BPA Free · 防碎 ｜ 容量：37 oz ｜ 可拆卸盖（可放冰块 / 果块 / 茶包）｜ 冷热饮通用 ｜ 印刷方法：移印 Pad Printed",
+     "chips": [
+      "FROM $31.25",
+      "PLASTIC CUPS",
+      "MOQ 10",
+      "FACTORY DIRECT"
+     ],
+     "anchor": "custom plastic cups",
+     "oneLiner": "acrylic body — molded in-house, printed with your logo, MOQ from 10 pcs.",
+     "slug": "/custom-plastic-cups/"
+    },
+    {
+     "sku": "JBPJ-063",
+     "name": "Margarita Cocktail Drink Pitcher - 54 oz",
+     "zh": "定制54oz玛格丽特鸡尾酒扎壶（PC 防碎 · 美国）",
+     "image": "/img/newarr/na-jbpj-063.jpg",
+     "price": "$31.25 ｜ 免制版费",
+     "spec": "杯型：鸡尾酒扎壶 Drink Pitcher ｜ 材质：聚碳酸酯 PC ｜ 容量：54 oz ｜ 特性：防摔防裂 · 耐雾化 · 可洗碗机 ｜ 室内外通用 ｜ 印刷方法：移印 Pad Printed（正反面可印）",
+     "chips": [
+      "FROM $31.25",
+      "PLASTIC CUPS",
+      "MOQ 10",
+      "FACTORY DIRECT"
+     ],
+     "anchor": "custom plastic cups",
+     "oneLiner": "PC body — molded in-house, printed with your logo, MOQ from 10 pcs.",
+     "slug": "/custom-plastic-cups/"
+    },
+    {
+     "sku": "MKB-001",
+     "name": "Beer Stein - 14 oz",
+     "zh": "定制14oz塑料啤酒马克杯（#5 PP·美国产·大D形手柄）",
+     "image": "/img/newarr/na-mkb-001.jpg",
+     "price": "制版费 $50",
+     "spec": "杯型：啤酒杯 Stein（大 D 形手柄带拇指握纹） ｜ 材质：单层 #5 PP 塑料 ｜ 容量：14 oz ｜ 全件 BPA Free ｜ 印刷方法：1 色丝印正反面，印区 2.25″H × 2.1875″W",
+     "chips": [
+      "FROM 制版费 $50",
+      "PLASTIC CUPS",
+      "MOQ 10",
+      "FACTORY DIRECT"
+     ],
+     "anchor": "custom plastic cups",
+     "oneLiner": "PP + plastic body — molded in-house, printed with your logo, MOQ from 10 pcs.",
+     "slug": "/custom-plastic-cups/"
+    }
+   ]
+  },
+  {
+   "cat": "硅胶杯定制",
+   "cat_en": "Custom Silicone Cups",
+   "slug": "/custom-silicone-cups/",
+   "items": [
+    {
+     "sku": "LJB-006",
+     "name": "Silicone 1.5 oz Glow In The Dark Silishot Shot Glass",
+     "zh": "硅胶烈酒杯",
+     "image": "/img/newarr/na-ljb-006.jpg",
+     "price": "4.95",
+     "spec": "1.5 oz · 食品级硅胶 · unbreakable",
+     "chips": [
+      "SILICONE CUPS",
+      "MOQ 10",
+      "FACTORY DIRECT"
+     ],
+     "anchor": "custom silicone cups",
+     "oneLiner": "food-grade silicone body — molded in-house, printed with your logo, MOQ from 10 pcs.",
+     "slug": "/custom-silicone-cups/"
+    },
+    {
+     "sku": "LJB-008",
+     "name": "Silicone 2 oz Glow Green Shumbler Shot Glass",
+     "zh": "硅胶烈酒杯",
+     "image": "/img/newarr/na-ljb-008.jpg",
+     "price": "5.95",
+     "spec": "2 oz · 食品级硅胶 · unbreakable",
+     "chips": [
+      "SILICONE CUPS",
+      "MOQ 10",
+      "FACTORY DIRECT"
+     ],
+     "anchor": "custom silicone cups",
+     "oneLiner": "food-grade silicone body — molded in-house, printed with your logo, MOQ from 10 pcs.",
+     "slug": "/custom-silicone-cups/"
+    },
+    {
+     "sku": "LJB-001",
+     "name": "Silicone 1.5 oz Silishot Shot Glass",
+     "zh": "硅胶烈酒杯",
+     "image": "/img/newarr/na-ljb-001.jpg",
+     "price": "$3.45",
+     "spec": "1.5 oz · 食品级硅胶 · unbreakable",
+     "chips": [
+      "FROM $3.45",
+      "SILICONE CUPS",
+      "MOQ 10",
+      "FACTORY DIRECT"
+     ],
+     "anchor": "custom silicone cups",
+     "oneLiner": "food-grade silicone body — molded in-house, printed with your logo, MOQ from 10 pcs.",
+     "slug": "/custom-silicone-cups/"
+    }
+   ]
+  },
+  {
+   "cat": "LED发光杯定制",
+   "cat_en": "LED Light-Up Cups",
+   "slug": "/led-light-up-cups/",
+   "items": [
+    {
+     "sku": "MKB-004",
+     "name": "Light-Up Boot Mug - 16 oz.",
+     "zh": "定制16oz发光靴型塑料马克杯（带大侧手柄）",
+     "image": "/img/newarr/na-mkb-004.jpg",
+     "price": "$5.15 ｜ 制版费 $55",
+     "spec": "杯型：靴型 Mug（大侧手柄）｜ 材质：塑料 ｜ 容量：16 oz ｜ 全件 BPA Free ｜ 特性：红白蓝三色 LED，8 种灯光模式，配 3 颗可更换 AG13 电池 ｜ 印刷方法：1 色丝印，印区 2.1875″H × 1.5″W，最多 4 色",
+     "chips": [
+      "FROM $5.15",
+      "LED LIGHT-UP CUPS",
+      "MOQ 10",
+      "FACTORY DIRECT"
+     ],
+     "anchor": "led light-up cups",
+     "oneLiner": "plastic body — molded in-house, printed with your logo, MOQ from 10 pcs.",
+     "slug": "/led-light-up-cups/"
+    },
+    {
+     "sku": "FGB-006",
+     "name": "Light Up Multicolor LED Pilsner Cup",
+     "zh": "LED发光皮尔森杯（多色）",
+     "image": "/img/newarr/na-fgb-006.jpg",
+     "price": "低至 $4.64 ｜ 首档 1-11件 $5.29",
+     "spec": "PS塑料+LED灯座（电池已装）｜可选色：多色｜装箱现货 美国仓直发",
+     "chips": [
+      "FROM 低至 $4.64",
+      "LED LIGHT-UP CUPS",
+      "MOQ 10",
+      "FACTORY DIRECT"
+     ],
+     "anchor": "led light-up cups",
+     "oneLiner": "plastic body — molded in-house, printed with your logo, MOQ from 10 pcs.",
+     "slug": "/led-light-up-cups/"
+    },
+    {
+     "sku": "FGB-007",
+     "name": "Red White & Blue Pilsner Light Up Glass",
+     "zh": "LED发光皮尔森杯（红白蓝）",
+     "image": "/img/newarr/na-fgb-007.jpg",
+     "price": "低至 $4.64 ｜ 首档 1-11件 $5.29",
+     "spec": "PS塑料+LED灯座（电池已装）｜可选色：多色｜装箱现货 美国仓直发",
+     "chips": [
+      "FROM 低至 $4.64",
+      "LED LIGHT-UP CUPS",
+      "MOQ 10",
+      "FACTORY DIRECT"
+     ],
+     "anchor": "led light-up cups",
+     "oneLiner": "plastic body — molded in-house, printed with your logo, MOQ from 10 pcs.",
+     "slug": "/led-light-up-cups/"
+    }
+   ]
+  },
+  {
+   "cat": "LED冰桶定制",
+   "cat_en": "Custom Ice Buckets",
+   "slug": "/custom-ice-buckets/",
+   "items": [
+    {
+     "sku": "BT-001",
+     "name": "Crystal-Clear High-Gloss Acrylic Promotional Ice Bucket",
+     "zh": "定制亚克力冰桶（高透高光 · 商用标准容量）",
+     "image": "/img/newarr/na-bt-001.jpg",
+     "price": "FOB $35.00+",
+     "spec": "100% 全新料光学级亚克力（Virgin Optical-Grade）｜ 标准商用吧台容量 ｜ 玻璃级通透 ｜ 防碎｜图示多器皿 1 件同框（多种型号/颜色）",
+     "chips": [
+      "FROM FOB $35.00+",
+      "ICE BUCKETS",
+      "MOQ 10",
+      "FACTORY DIRECT"
+     ],
+     "anchor": "custom ice buckets",
+     "oneLiner": "acrylic body — molded in-house, printed with your logo, MOQ from 10 pcs.",
+     "slug": "/custom-ice-buckets/"
+    },
+    {
+     "sku": "BT-002",
+     "name": "Eco-Friendly Premium Molded Acrylic Ice Bucket",
+     "zh": "定制注塑亚克力冰桶（环保 PMMA · 250×240×255mm）",
+     "image": "/img/newarr/na-bt-002.jpg",
+     "price": "FOB $35.00+",
+     "spec": "高等级可回收亚克力（PMMA）｜ 250 × 240 × 255 mm ｜ 一体注塑成型 ｜ 高清晰印刷面",
+     "chips": [
+      "FROM FOB $35.00+",
+      "ICE BUCKETS",
+      "MOQ 10",
+      "FACTORY DIRECT"
+     ],
+     "anchor": "custom ice buckets",
+     "oneLiner": "acrylic body, 250 × 240 × 255 mm — molded in-house, printed with your logo, MOQ from 10 pcs.",
+     "slug": "/custom-ice-buckets/"
+    },
+    {
+     "sku": "BT-003",
+     "name": "Irregular Shape LED Bottom-Lit Ice Bucket (8L)",
+     "zh": "定制发光亚克力冰桶 8L（异形 · 底部 LED）",
+     "image": "/img/newarr/na-bt-003.jpg",
+     "price": "FOB $23.00 - $30.00",
+     "spec": "亚克力 ｜ 8L ｜ 异形（可来图定制）｜ 底部 LED 发光 ｜ 水感应自动开关（Liquid-Activated）",
+     "chips": [
+      "FROM FOB $23.00 - $30.00",
+      "ICE BUCKETS",
+      "MOQ 10",
+      "FACTORY DIRECT"
+     ],
+     "anchor": "custom ice buckets",
+     "oneLiner": "acrylic body — molded in-house, printed with your logo, MOQ from 10 pcs.",
+     "slug": "/custom-ice-buckets/"
+    }
+   ]
+  }
+ ],
+ "_superseded": "2026-10-28 起改用 data/new-arrivals-20261028.json（五类目各 4 款，中英双语），本文件仅作历史存档。"
+}

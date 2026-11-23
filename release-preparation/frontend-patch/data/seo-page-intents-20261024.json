@@ -1,0 +1,663 @@
+{
+  "updatedAt": "2026-10-24T21:31:20.659105+08:00",
+  "pages": [
+    {
+      "route": "/low-moq-custom-cups/",
+      "primary": "low MOQ custom cups",
+      "title": {
+        "en": "Custom Cups with Low MOQ: Plan a Small-Batch Enquiry | BOOM Drinkware",
+        "zh": "低起订定制杯：准备小批量采购需求 | BOOM Drinkware"
+      },
+      "related": [
+        "/wholesale/",
+        "/free-samples/",
+        "/collapsible-cups/",
+        "/contact/"
+      ]
+    },
+    {
+      "route": "/free-samples/",
+      "primary": "custom drinkware samples",
+      "title": {
+        "en": "Custom Drinkware Samples & Logo Proofs | BOOM Drinkware",
+        "zh": "定制杯样品与 Logo 审核 | BOOM Drinkware"
+      },
+      "related": [
+        "/low-moq-custom-cups/",
+        "/custom-led-drinkware/",
+        "/contact/"
+      ]
+    },
+    {
+      "route": "/rush-production/",
+      "primary": "rush custom cups",
+      "title": {
+        "en": "Rush Custom Cups: Review Your Required Arrival Date | BOOM Drinkware",
+        "zh": "加急定制杯：评估所需到货日期 | BOOM Drinkware"
+      },
+      "related": [
+        "/free-samples/",
+        "/wholesale/",
+        "/contact/"
+      ]
+    },
+    {
+      "route": "/case-studies/",
+      "primary": "custom drinkware applications",
+      "title": {
+        "en": "Custom Drinkware Applications & Project Planning | BOOM Drinkware",
+        "zh": "定制杯应用与项目规划 | BOOM Drinkware"
+      },
+      "related": [
+        "/wedding-cups/",
+        "/distributor-program/",
+        "/custom-led-drinkware/",
+        "/contact/"
+      ]
+    },
+    {
+      "route": "/wholesale/",
+      "primary": "wholesale custom drinkware",
+      "title": {
+        "en": "Wholesale Custom Drinkware: Models, Logo & Bulk Quotes | BOOM Drinkware",
+        "zh": "批发定制杯：型号、Logo 与批量报价 | BOOM Drinkware"
+      },
+      "related": [
+        "/products/",
+        "/custom-coasters/",
+        "/custom-bottle-openers/",
+        "/contact/"
+      ]
+    },
+    {
+      "route": "/oem-manufacturer/",
+      "primary": "OEM drinkware manufacturer",
+      "title": {
+        "en": "Custom Drinkware OEM & ODM Project Planning | BOOM Drinkware",
+        "zh": "定制杯 OEM／ODM 项目规划 | BOOM Drinkware"
+      },
+      "related": [
+        "/factory/",
+        "/free-samples/",
+        "/custom-led-drinkware/",
+        "/contact/"
+      ]
+    },
+    {
+      "route": "/distributor-program/",
+      "primary": "custom drinkware for distributors & resellers",
+      "title": {
+        "en": "Custom Drinkware for Distributors & Resellers | BOOM Drinkware",
+        "zh": "经销商与转售商定制杯采购 | BOOM Drinkware"
+      },
+      "related": [
+        "/wholesale/",
+        "/custom-coasters/",
+        "/custom-bottle-openers/",
+        "/contact/"
+      ]
+    },
+    {
+      "route": "/cup-materials-guide/",
+      "primary": "cup materials guide",
+      "title": {
+        "en": "Plastic & Silicone Cup Materials: A Model-Based Buying Guide | BOOM Drinkware",
+        "zh": "塑料与硅胶杯材料：按型号选型指南 | BOOM Drinkware"
+      },
+      "related": [
+        "/custom-plastic-cups/",
+        "/custom-silicone-cups/",
+        "/collapsible-cups/",
+        "/certificates/"
+      ]
+    },
+    {
+      "route": "/blog/how-much-do-custom-cups-cost/",
+      "primary": "custom cup pricing",
+      "title": {
+        "en": "How Much Do Custom Cups Cost? Build a Comparable Quote | BOOM Drinkware",
+        "zh": "定制杯多少钱？如何准备可比较的报价 | BOOM Drinkware"
+      },
+      "related": [
+        "/wholesale/",
+        "/low-moq-custom-cups/",
+        "/free-samples/",
+        "/contact/"
+      ]
+    },
+    {
+      "route": "/blog/led-drinkware-101/",
+      "primary": "how LED drinkware works",
+      "title": {
+        "en": "How LED Drinkware Works: Lighting, Power & Model Selection | BOOM Drinkware",
+        "zh": "LED 发光酒具原理：灯效、供电与型号选择 | BOOM Drinkware"
+      },
+      "related": [
+        "/led-light-up-cups/",
+        "/custom-led-drinkware/",
+        "/custom-ice-buckets/",
+        "/contact/"
+      ]
+    },
+    {
+      "route": "/blog/how-to-order-custom-cups-step-by-step/",
+      "primary": "how to order custom cups",
+      "title": {
+        "en": "How to Order Custom Cups: From Brief to Approval | BOOM Drinkware",
+        "zh": "如何定制定制杯：从需求到订单确认 | BOOM Drinkware"
+      },
+      "related": [
+        "/products/",
+        "/free-samples/",
+        "/wholesale/",
+        "/contact/"
+      ]
+    },
+    {
+      "route": "/blog/screen-printing-vs-uv-printing-on-cups/",
+      "primary": "screen printing vs UV printing on cups",
+      "title": {
+        "en": "Screen Printing vs UV Printing on Cups: What to Compare | BOOM Drinkware",
+        "zh": "杯具丝印与 UV 印刷：如何比较 | BOOM Drinkware"
+      },
+      "related": [
+        "/screen-printing/",
+        "/uv-printing/",
+        "/heat-transfer-printing/",
+        "/contact/"
+      ]
+    },
+    {
+      "route": "/blog/how-to-verify-a-cup-supplier/",
+      "primary": "how to verify a cup supplier",
+      "title": {
+        "en": "How to Review a Custom Cup Supplier Before Ordering | BOOM Drinkware",
+        "zh": "下单前如何核对定制杯供应商 | BOOM Drinkware"
+      },
+      "related": [
+        "/factory/",
+        "/certificates/",
+        "/free-samples/",
+        "/contact/"
+      ]
+    },
+    {
+      "route": "/catalog-download/",
+      "primary": "custom drinkware model catalogue & shortlist",
+      "title": {
+        "en": "Custom Drinkware Model Catalogue & Shortlist | BOOM Drinkware",
+        "zh": "定制杯型号目录与选型清单 | BOOM Drinkware"
+      },
+      "related": [
+        "/products/",
+        "/collapsible-cups/",
+        "/custom-coasters/",
+        "/contact/"
+      ]
+    },
+    {
+      "route": "/",
+      "title": {
+        "en": "Custom Drinkware, Silicone & Plastic Processing | BOOM Drinkware",
+        "zh": "品牌定制杯具与酒具配件 | BOOM Drinkware"
+      },
+      "related": [
+        "/bar-accessories/",
+        "/blog/",
+        "/collapsible-cups/",
+        "/custom-plastic-cups/",
+        "/custom-silicone-cups/",
+        "/faq/",
+        "/led-light-up-cups/",
+        "/low-moq-custom-cups/",
+        "/new-arrivals/",
+        "/oem-manufacturer/",
+        "/rush-production/",
+        "/wholesale/"
+      ],
+      "primary": "custom drinkware"
+    },
+    {
+      "route": "/custom-plastic-cups/",
+      "title": {
+        "en": "Custom Plastic Cups with Logo for Events | BOOM Drinkware",
+        "zh": "塑胶杯型号与品牌定制 | BOOM Drinkware"
+      },
+      "related": [
+        "/screen-printing/",
+        "/uv-printing/",
+        "/cup-materials-guide/",
+        "/backyard-bbq-cups/"
+      ],
+      "primary": "custom plastic cups"
+    },
+    {
+      "route": "/custom-silicone-cups/",
+      "title": {
+        "en": "Custom Silicone Cups & Collapsible Cups | BOOM Drinkware",
+        "zh": "硅胶杯型号与品牌定制 | BOOM Drinkware"
+      },
+      "related": [
+        "/collapsible-cups/",
+        "/camping-drinkware/",
+        "/beach-party-cups/",
+        "/cup-materials-guide/",
+        "/free-samples/"
+      ],
+      "primary": "custom silicone cups"
+    },
+    {
+      "route": "/led-light-up-cups/",
+      "title": {
+        "en": "Custom LED Cups with Logo | Light-Up Drinkware | BOOM Drinkware",
+        "zh": "LED杯型号与品牌定制 | BOOM Drinkware"
+      },
+      "related": [
+        "/custom-ice-buckets/",
+        "/bar-accessories/",
+        "/certificates/",
+        "/contact/"
+      ],
+      "primary": "custom LED cups"
+    },
+    {
+      "route": "/custom-ice-buckets/",
+      "title": {
+        "en": "Custom LED Ice Buckets for Bottle Service | BOOM Drinkware",
+        "zh": "LED冰桶型号与品牌定制 | BOOM Drinkware"
+      },
+      "related": [
+        "/led-light-up-cups/",
+        "/bar-accessories/",
+        "/uv-printing/",
+        "/free-samples/"
+      ],
+      "primary": "custom LED ice buckets"
+    },
+    {
+      "route": "/bar-accessories/",
+      "title": {
+        "en": "Custom Can Coolers, Coasters & Bar Accessories | BOOM Drinkware",
+        "zh": "酒具配件型号与品牌定制 | BOOM Drinkware"
+      },
+      "related": [
+        "/custom-coasters/",
+        "/custom-bottle-openers/",
+        "/custom-plastic-cups/",
+        "/custom-silicone-cups/",
+        "/corporate-gifts/",
+        "/free-samples/"
+      ],
+      "primary": "custom bar accessories"
+    },
+    {
+      "route": "/collapsible-cups/",
+      "title": {
+        "en": "Custom Collapsible Silicone Cups | BOOM Drinkware",
+        "zh": "定制折叠硅胶杯采购指南 | BOOM Drinkware"
+      },
+      "related": [
+        "/beach-party-cups/",
+        "/camping-drinkware/",
+        "/laser-engraving/",
+        "/screen-printing/"
+      ],
+      "primary": "custom collapsible silicone cups"
+    },
+    {
+      "route": "/custom-coasters/",
+      "title": {
+        "en": "Custom Coasters with Logo | Silicone, Acrylic & LED | BOOM Drinkware",
+        "zh": "定制 Logo 杯垫批量采购 | BOOM Drinkware"
+      },
+      "related": [],
+      "primary": "custom coasters with logo"
+    },
+    {
+      "route": "/custom-bottle-openers/",
+      "title": {
+        "en": "Custom Bottle & Wine Openers | Logo & Model Guide | BOOM Drinkware",
+        "zh": "定制开瓶器与红酒开瓶器采购 | BOOM Drinkware"
+      },
+      "related": [],
+      "primary": "custom bottle openers"
+    },
+    {
+      "route": "/factory/",
+      "title": {
+        "en": "Silicone & Plastic Processing Factory | BOOM Drinkware",
+        "zh": "硅胶与塑胶加工工厂 | BOOM Drinkware"
+      },
+      "related": [],
+      "primary": "silicone and plastic processing factory"
+    },
+    {
+      "route": "/faq/",
+      "title": {
+        "en": "Custom Cups & Bar Accessories FAQ | BOOM Drinkware",
+        "zh": "定制杯具与配件采购常见问题 | BOOM Drinkware"
+      },
+      "related": [
+        "/bar-accessories/",
+        "/birthday-party-cups/",
+        "/collapsible-cups/",
+        "/custom-plastic-cups/",
+        "/custom-silicone-cups/",
+        "/free-samples/",
+        "/holiday-party-cups/",
+        "/led-light-up-cups/",
+        "/low-moq-custom-cups/",
+        "/oem-manufacturer/",
+        "/rush-production/",
+        "/uv-printing/",
+        "/wedding-cups/"
+      ],
+      "primary": "custom cups FAQ"
+    },
+    {
+      "route": "/backyard-bbq-cups/",
+      "primary": "custom bbq cups",
+      "title": {
+        "en": "Custom BBQ Cups for Cookouts & Events | BOOM Drinkware",
+        "zh": "Custom BBQ Cups for Events | Bulk Custom Drinkware, Low MOQ"
+      },
+      "related": [
+        "/custom-plastic-cups/",
+        "/bar-accessories/",
+        "/free-samples/",
+        "/contact/"
+      ]
+    },
+    {
+      "route": "/beach-party-cups/",
+      "primary": "beach cups",
+      "title": {
+        "en": "Custom Beach Cups for Parties & Resorts | BOOM Drinkware",
+        "zh": "海滩派对｜四组酒具搭配参考 | BOOM Drinkware"
+      },
+      "related": [
+        "/custom-plastic-cups/",
+        "/custom-silicone-cups/",
+        "/free-samples/",
+        "/contact/"
+      ]
+    },
+    {
+      "route": "/pool-party-cups/",
+      "primary": "pool party cups",
+      "title": {
+        "en": "Custom Pool Party Cups with Logos | BOOM Drinkware",
+        "zh": "Pool Party Cups for Events | Bulk Custom Drinkware, Low MOQ"
+      },
+      "related": [
+        "/custom-plastic-cups/",
+        "/custom-silicone-cups/",
+        "/free-samples/",
+        "/contact/"
+      ]
+    },
+    {
+      "route": "/holiday-party-cups/",
+      "primary": "holiday party cups",
+      "title": {
+        "en": "Custom Holiday Party Cups | BOOM Drinkware",
+        "zh": "节日派对定制杯 | BOOM Drinkware"
+      },
+      "related": [
+        "/custom-plastic-cups/",
+        "/led-light-up-cups/",
+        "/free-samples/",
+        "/contact/"
+      ]
+    },
+    {
+      "route": "/birthday-party-cups/",
+      "primary": "birthday cups",
+      "title": {
+        "en": "Custom Birthday Party Cups | BOOM Drinkware",
+        "zh": "生日派对定制杯 | BOOM Drinkware"
+      },
+      "related": [
+        "/custom-plastic-cups/",
+        "/uv-printing/",
+        "/free-samples/",
+        "/contact/"
+      ]
+    },
+    {
+      "route": "/camping-drinkware/",
+      "primary": "camping cups",
+      "title": {
+        "en": "Custom Camping Cups & Outdoor Drinkware | BOOM Drinkware",
+        "zh": "露营与烧烤｜四组酒具搭配参考 | BOOM Drinkware"
+      },
+      "related": [
+        "/custom-silicone-cups/",
+        "/cup-materials-guide/",
+        "/free-samples/",
+        "/contact/"
+      ]
+    },
+    {
+      "route": "/tailgate-party-cups/",
+      "primary": "tailgate cups",
+      "title": {
+        "en": "Custom Tailgate Cups for Game Day Events | BOOM Drinkware",
+        "zh": "尾门派对｜四组酒具搭配参考 | BOOM Drinkware"
+      },
+      "related": [
+        "/custom-plastic-cups/",
+        "/bar-accessories/",
+        "/free-samples/",
+        "/contact/"
+      ]
+    },
+    {
+      "route": "/wedding-cups/",
+      "primary": "wedding cups",
+      "title": {
+        "en": "Custom Wedding Cups | BOOM Drinkware",
+        "zh": "婚礼定制杯 | BOOM Drinkware"
+      },
+      "related": [
+        "/custom-plastic-cups/",
+        "/custom-silicone-cups/",
+        "/free-samples/",
+        "/contact/"
+      ]
+    },
+    {
+      "route": "/bachelorette-party-cups/",
+      "primary": "bachelorette cups",
+      "title": {
+        "en": "Custom Bachelorette Party Cups | BOOM Drinkware",
+        "zh": "告别单身派对定制杯 | BOOM Drinkware"
+      },
+      "related": [
+        "/custom-plastic-cups/",
+        "/uv-printing/",
+        "/free-samples/",
+        "/contact/"
+      ]
+    },
+    {
+      "route": "/corporate-gifts/",
+      "primary": "corporate drinkware gifts",
+      "title": {
+        "en": "Custom Corporate Drinkware Gifts with Logos | BOOM Drinkware",
+        "zh": "企业户外活动｜四组酒具搭配参考 | BOOM Drinkware"
+      },
+      "related": [
+        "/custom-silicone-cups/",
+        "/bar-accessories/",
+        "/free-samples/",
+        "/contact/"
+      ]
+    },
+    {
+      "route": "/graduation-party-cups/",
+      "primary": "graduation cups",
+      "title": {
+        "en": "Custom Graduation Cups | BOOM Drinkware",
+        "zh": "毕业活动定制杯 | BOOM Drinkware"
+      },
+      "related": [
+        "/custom-plastic-cups/",
+        "/screen-printing/",
+        "/free-samples/",
+        "/contact/"
+      ]
+    },
+    {
+      "route": "/uv-printing/",
+      "primary": "UV printed cups",
+      "title": {
+        "en": "UV Printed Cups & Custom Logo Decoration | BOOM Drinkware",
+        "zh": "UV Printed Cups Services | Custom Drinkware Factory"
+      },
+      "related": [
+        "/custom-plastic-cups/",
+        "/custom-silicone-cups/",
+        "/free-samples/",
+        "/contact/"
+      ]
+    },
+    {
+      "route": "/screen-printing/",
+      "primary": "screen printed cups",
+      "title": {
+        "en": "Screen Printed Cups with Custom Logos | BOOM Drinkware",
+        "zh": "丝网印刷杯具定制 | BOOM Drinkware"
+      },
+      "related": [
+        "/custom-plastic-cups/",
+        "/custom-silicone-cups/",
+        "/free-samples/",
+        "/contact/"
+      ]
+    },
+    {
+      "route": "/heat-transfer-printing/",
+      "primary": "heat transfer cups",
+      "title": {
+        "en": "Heat Transfer Printing for Custom Cups | BOOM Drinkware",
+        "zh": "Heat Transfer Cups Services | Custom Drinkware Factory"
+      },
+      "related": [
+        "/custom-plastic-cups/",
+        "/custom-silicone-cups/",
+        "/free-samples/",
+        "/contact/"
+      ]
+    },
+    {
+      "route": "/laser-engraving/",
+      "primary": "laser engraved cups",
+      "title": {
+        "en": "Laser Decoration for Drinkware: Fit Review | BOOM Drinkware",
+        "zh": "Laser Marked Cups Services | Custom Drinkware Factory"
+      },
+      "related": [
+        "/custom-plastic-cups/",
+        "/custom-silicone-cups/",
+        "/free-samples/",
+        "/contact/"
+      ]
+    },
+    {
+      "route": "/blog/",
+      "primary": "custom drinkware guides",
+      "title": {
+        "en": "Custom Drinkware Guides for B2B Buyers | BOOM Drinkware",
+        "zh": "Custom Drinkware Guides | BOOM Drinkware Blog"
+      },
+      "related": [
+        "/cup-materials-guide/",
+        "/oem-manufacturer/",
+        "/wholesale/",
+        "/free-samples/"
+      ]
+    },
+    {
+      "route": "/new-arrivals/",
+      "primary": "new custom drinkware",
+      "title": {
+        "en": "BOOM Drinkware Product Highlights | BOOM Drinkware",
+        "zh": "BOOM Drinkware Product Highlights | BOOM Drinkware"
+      },
+      "related": [
+        "/bar-accessories/",
+        "/collapsible-cups/",
+        "/custom-plastic-cups/",
+        "/led-light-up-cups/",
+        "/uv-printing/"
+      ]
+    },
+    {
+      "route": "/contact/",
+      "primary": "custom drinkware enquiry",
+      "title": {
+        "en": "Custom Drinkware Project Enquiries | BOOM Drinkware",
+        "zh": "提交杯具与酒具定制询盘 | BOOM Drinkware"
+      },
+      "related": []
+    },
+    {
+      "route": "/certificates/",
+      "primary": "certificate placeholder previews",
+      "title": {
+        "en": "Certificate Placeholder Previews & Project Documents | BOOM Drinkware",
+        "zh": "证书占位图与项目资料说明 | BOOM Drinkware"
+      },
+      "related": []
+    },
+    {
+      "route": "/videos/",
+      "primary": "custom drinkware production",
+      "title": {
+        "en": "Custom Drinkware Production & Factory Media | BOOM Drinkware",
+        "zh": "工厂视频：定制杯具是如何制造的 | BOOM Drinkware"
+      },
+      "related": []
+    },
+    {
+      "route": "/products/",
+      "primary": "custom drinkware products",
+      "title": {
+        "en": "Custom Drinkware Products & Logo Options | BOOM Drinkware",
+        "zh": "BOOM Drinkware Product Models | BOOM Drinkware"
+      },
+      "related": []
+    },
+    {
+      "route": "/custom-led-drinkware/",
+      "primary": "custom LED drinkware",
+      "title": {
+        "en": "Custom LED Drinkware & Bar Accessories | BOOM Drinkware",
+        "zh": "LED 发光杯与酒具定制 | BOOM Drinkware"
+      },
+      "related": [
+        "/led-light-up-cups/",
+        "/custom-ice-buckets/",
+        "/custom-coasters/",
+        "/bar-accessories/",
+        "/contact/"
+      ]
+    },
+    {
+      "route": "/custom-drinkware-decals/",
+      "primary": "custom tumbler wrap decals",
+      "title": {
+        "en": "Custom Tumbler Wrap Decals & Cup Stickers | BOOM Drinkware",
+        "zh": "定制杯身贴纸与转印贴服务 | BOOM Drinkware"
+      },
+      "related": [
+        "/custom-plastic-cups/",
+        "/screen-printing/",
+        "/uv-printing/",
+        "/contact/"
+      ]
+    }
+  ],
+  "keywordPolicy": "Natural primary query is separate from display title. Search volume remains unverified."
+}

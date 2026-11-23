@@ -1,0 +1,197 @@
+{
+  "source": "https://byfpm.en.alibaba.com/company_profile.html",
+  "downloaded": [
+    {
+      "id": 0,
+      "description": "Raw Material",
+      "url": "https://sc01.alicdn.com/kf/S146351a9f2354bb49ab944a50ebbbf86I.jpg",
+      "file": "work\\alibaba-factory\\0.jpg",
+      "ok": true
+    },
+    {
+      "id": 1,
+      "description": "Installing Mold",
+      "url": "https://sc01.alicdn.com/kf/S3b7c65dfb0624687bebe5487f5f7bddcQ.jpg",
+      "file": "work\\alibaba-factory\\1.jpg",
+      "ok": true
+    },
+    {
+      "id": 2,
+      "description": "Injection Moulding",
+      "url": "https://sc01.alicdn.com/kf/Sdf07a40ff1d8421f8071bd05b90e324ef.jpg",
+      "file": "work\\alibaba-factory\\2.jpg",
+      "ok": true
+    },
+    {
+      "id": 3,
+      "description": "QC Checking",
+      "url": "https://sc01.alicdn.com/kf/S058ed7b92a014f8fb352bafb9a083674l.jpg",
+      "file": "work\\alibaba-factory\\3.jpg",
+      "ok": true
+    },
+    {
+      "id": 4,
+      "description": "Packing",
+      "url": "https://sc01.alicdn.com/kf/Sdd60e2fbab9e493082cf70ab8a6a0e6bb.jpg",
+      "file": "work\\alibaba-factory\\4.jpg",
+      "ok": true
+    },
+    {
+      "id": 5,
+      "description": "CNC ",
+      "url": "https://sc01.alicdn.com/kf/S07456d186f4e4b55abd995c0f8ab95dac.jpg",
+      "file": "work\\alibaba-factory\\5.jpg",
+      "ok": true
+    },
+    {
+      "id": 6,
+      "description": "EMD Machine",
+      "url": "https://sc01.alicdn.com/kf/S98ab39fbc48440eb961e96d44ff3afbcP.jpg",
+      "file": "work\\alibaba-factory\\6.jpg",
+      "ok": true
+    },
+    {
+      "id": 7,
+      "description": "Grinding Machine",
+      "url": "https://sc01.alicdn.com/kf/S04ce570fb66a47cd9f24878887c9d434H.jpg",
+      "file": "work\\alibaba-factory\\7.jpg",
+      "ok": true
+    },
+    {
+      "id": 8,
+      "description": "Milling Machine",
+      "url": "https://sc01.alicdn.com/kf/S1c6db1ec945547cfbc027b1bee3d8900M.jpg",
+      "file": "work\\alibaba-factory\\8.jpg",
+      "ok": true
+    },
+    {
+      "id": 9,
+      "description": "Injection Machine",
+      "url": "https://sc01.alicdn.com/kf/Sa6bc35a2523f4fdeba872cbc03c69f18n.jpg",
+      "file": "work\\alibaba-factory\\9.jpg",
+      "ok": true
+    },
+    {
+      "id": 10,
+      "description": "Hydraulic Press",
+      "url": "https://sc01.alicdn.com/kf/S9f239db2dfb94795ad2c99389075b966a.jpg",
+      "file": "work\\alibaba-factory\\10.jpg",
+      "ok": true
+    },
+    {
+      "id": 11,
+      "description": "Rubber Refiner",
+      "url": "https://sc01.alicdn.com/kf/S3266a1dca5004efc8a1cf9251eae57f6M.jpg",
+      "file": "work\\alibaba-factory\\11.jpg",
+      "ok": true
+    },
+    {
+      "id": 12,
+      "description": "Ultrasonic Welder",
+      "url": "https://sc01.alicdn.com/kf/Saea6cad4b3544140a6749db1751b48ca0.jpg",
+      "file": "work\\alibaba-factory\\12.jpg",
+      "ok": true
+    },
+    {
+      "id": 13,
+      "description": "Oven",
+      "url": "https://sc01.alicdn.com/kf/S2c994874c1d8488ab74f72ba71dbade9u.jpg",
+      "file": "work\\alibaba-factory\\13.jpg",
+      "ok": true
+    }
+  ],
+  "assetNames": [
+    "raw-material",
+    "installing-mould",
+    "injection-moulding",
+    "qc-checking",
+    "packing",
+    "cnc",
+    "edm",
+    "grinding",
+    "milling",
+    "injection-machine",
+    "hydraulic-press",
+    "rubber-refiner",
+    "ultrasonic-welder",
+    "oven"
+  ],
+  "replacements": {
+    "/img/plant-20261028/plant-01-tooling-1400.webp": "/img/archive-real-20261103/070-bf8b50e360.webp",
+    "/img/plant-20261028/plant-01-tooling-700.webp": "/img/archive-real-20261103/070-bf8b50e360.webp",
+    "/img/plant-20261028/plant-02-moulding-1400.webp": "/img/archive-real-20261103/081-56ed5ab019.webp",
+    "/img/plant-20261028/plant-02-moulding-700.webp": "/img/archive-real-20261103/081-56ed5ab019.webp",
+    "/img/plant-20261028/plant-03-welding-1400.webp": "/img/alibaba-factory-20261031/ultrasonic-welder.jpg",
+    "/img/plant-20261028/plant-03-welding-700.webp": "/img/alibaba-factory-20261031/ultrasonic-welder.jpg",
+    "/img/plant-20261028/plant-04-inspect-1400.webp": "/img/alibaba-factory-20261031/qc-checking.jpg",
+    "/img/plant-20261028/plant-04-inspect-700.webp": "/img/alibaba-factory-20261031/qc-checking.jpg",
+    "/img/plant-20261028/plant-05-packing-1400.webp": "/img/alibaba-factory-20261031/packing.jpg",
+    "/img/plant-20261028/plant-05-packing-700.webp": "/img/alibaba-factory-20261031/packing.jpg"
+  },
+  "changedFiles": [
+    "index.html",
+    "assets\\ec-oem-patch-20261029.js",
+    "assets\\index-image-verified-6f84829e8e1c.js",
+    "assets\\index-image-verified-9f9c5c36bc4d.js",
+    "assets\\index-main-packaging-42f8901990f5.js",
+    "assets\\index-main-packaging-4af2fe54bcfd.js",
+    "assets\\index-main-packaging-dd9456876d9f.js",
+    "assets\\index-master-scenes-real-cd3adc12f9c1.js",
+    "assets\\index-variant-media-a0a8ba284f62.js",
+    "assets\\index-variant-media-a4c7a847754f.js",
+    "blog\\index.html",
+    "blog\\custom-cup-lead-times\\index.html",
+    "blog\\how-many-custom-cups-to-order\\index.html",
+    "blog\\mould-or-no-mould\\index.html",
+    "blog\\plastic-colour-matching\\index.html",
+    "blog\\silicone-vs-plastic-cups\\index.html",
+    "blog\\what-aql-inspection-tells-you\\index.html",
+    "customization\\index.html",
+    "data\\factory-cluster\\customization.json",
+    "data\\factory-cluster\\faq.json",
+    "data\\factory-cluster\\manufacturing-process.json",
+    "data\\factory-cluster\\packaging.json",
+    "data\\factory-cluster\\product-development.json",
+    "data\\factory-cluster\\quality-control.json",
+    "data\\factory-cluster\\tooling.json",
+    "data\\tn-clone\\blog-custom-cup-lead-times.json",
+    "data\\tn-clone\\blog-how-many-custom-cups-to-order.json",
+    "data\\tn-clone\\blog-mould-or-no-mould.json",
+    "data\\tn-clone\\blog-plastic-colour-matching.json",
+    "data\\tn-clone\\blog-silicone-vs-plastic-cups.json",
+    "data\\tn-clone\\blog-what-aql-inspection-tells-you.json",
+    "data\\tn-clone\\blog.json",
+    "data\\tn-clone\\how-to-work-with-us.json",
+    "data\\tn-clone\\_bak_blog-silicone-20261029b.json",
+    "data\\tn-clone\\zh\\zh-blog-custom-cup-lead-times.json",
+    "data\\tn-clone\\zh\\zh-blog-how-many-custom-cups-to-order.json",
+    "data\\tn-clone\\zh\\zh-blog-mould-or-no-mould.json",
+    "data\\tn-clone\\zh\\zh-blog-plastic-colour-matching.json",
+    "data\\tn-clone\\zh\\zh-blog-silicone-vs-plastic-cups.json",
+    "data\\tn-clone\\zh\\zh-blog-what-aql-inspection-tells-you.json",
+    "data\\tn-clone\\zh\\_bak_zh-silicone-20261029b.json",
+    "factory\\index.html",
+    "faq\\index.html",
+    "how-to-work-with-us\\index.html",
+    "manufacturing-process\\index.html",
+    "packaging\\index.html",
+    "product-development\\index.html",
+    "quality-control\\index.html",
+    "tooling\\index.html",
+    "zh\\index.html",
+    "zh\\blog\\index.html",
+    "zh\\blog\\custom-cup-lead-times\\index.html",
+    "zh\\blog\\how-many-custom-cups-to-order\\index.html",
+    "zh\\blog\\mould-or-no-mould\\index.html",
+    "zh\\blog\\plastic-colour-matching\\index.html",
+    "zh\\blog\\silicone-vs-plastic-cups\\index.html",
+    "zh\\blog\\what-aql-inspection-tells-you\\index.html",
+    "zh\\factory\\index.html"
+  ],
+  "limits": [
+    "QC and packing images show factory operations, not identified cup SKUs",
+    "No building exterior verified; factory-building image left unchanged",
+    "Alibaba QC inspector count 4 differs from previously observed site count 10; business confirmation needed",
+    "No product SKU photographs replaced without identity match"
+  ]
+}

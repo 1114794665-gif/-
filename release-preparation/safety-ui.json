@@ -1,0 +1,7 @@
+{
+  "title": "Preview only SEO safety check",
+  "risks": "{\n  \"changes\": [\n    {\n      \"field\": \"title\",\n      \"before\": \"Free Design | 10.5 Oz Ribbed Plastic Coupe Glasses Cocktail\",\n      \"after\": \"Preview only SEO safety check\",\n      \"mode\": \"set\"\n    },\n    {\n      \"field\": \"robots\",\n      \"before\": \"\",\n      \"after\": \"noindex,follow\",\n      \"mode\": \"set\"\n    }\n  ],\n  \"risks\": [\n    \"页面将限制索引或摘要展示\"\n  ]\n}",
+  "schemaBlocks": 4,
+  "noPageWrite": true,
+  "errors": []
+}

@@ -1,0 +1,1405 @@
+{
+  "backup": "C:\\Users\\Administrator\\WorkBuddy\\2026-10-10-21-06-28\\evercup-site\\_internal\\image-performance-1795436697742",
+  "images": [
+    {
+      "path": "/img/archive-real-20261103/070-bf8b50e360.webp",
+      "before": 234824,
+      "after": 84974,
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "path": "/img/archive-real-20261103/081-56ed5ab019.webp",
+      "before": 170140,
+      "after": 80212,
+      "width": 1600,
+      "height": 1067
+    },
+    {
+      "path": "/img/manufacturing-20261105/qc-mask-cap-optimized.webp",
+      "before": 1537826,
+      "after": 134858,
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "path": "/img/qc-logistics-20261103/075.webp",
+      "before": 163350,
+      "after": 75098,
+      "width": 1600,
+      "height": 1067
+    },
+    {
+      "path": "/img/shipping-20261031/ups-courier-step.webp",
+      "before": 127596,
+      "after": 104694,
+      "width": 1200,
+      "height": 739
+    },
+    {
+      "path": "/img/qc-logistics-20261103/064.webp",
+      "before": 208712,
+      "after": 107380,
+      "width": 1600,
+      "height": 1200
+    },
+    {
+      "path": "/img/shipping-20261031/ups-courier-optimized.webp",
+      "before": 191972,
+      "after": 161504,
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "path": "/img/v88-20261023/fgb-008-9a88c844bc.webp",
+      "before": 154212,
+      "after": 85796,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/v88-20261023/fgb-011-e851c14f9d.webp",
+      "before": 126994,
+      "after": 71046,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/v88-20261023/fgb-013-cb3e8e5e38.webp",
+      "before": 152982,
+      "after": 83146,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/v88-20261023/fgb-014-6b7b00dc4e.webp",
+      "before": 160494,
+      "after": 84712,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/v88-20261023/jbpj-045-ed2c07edf3.webp",
+      "before": 123032,
+      "after": 46916,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/v88-20261023/jbpj-048-0e1b2d945e.webp",
+      "before": 125228,
+      "after": 78144,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/v88-20261023/jbpj-050-fc48bc907b.webp",
+      "before": 159272,
+      "after": 66436,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/v88-20261023/hjb-076-f5d213a353.webp",
+      "before": 121132,
+      "after": 74536,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/v88-20261023/pjb-008-c94f3daeb6.webp",
+      "before": 121770,
+      "after": 72370,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/v88-20261023/pjb-018-63f1c66a19.webp",
+      "before": 120966,
+      "after": 61116,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/v88-20261023/pjb-020-c4ee69de21.webp",
+      "before": 125594,
+      "after": 66740,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/v88-20261023/pjb-048-4d4f799570.webp",
+      "before": 129048,
+      "after": 72714,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/v88-20261023/sxb-009-a5c6a84ed7.webp",
+      "before": 158758,
+      "after": 91948,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/archive-real-20261103/045-c400fed33c.webp",
+      "before": 409210,
+      "after": 191302,
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "path": "/img/archive-real-20261103/069-06bb45674b.webp",
+      "before": 283000,
+      "after": 135206,
+      "width": 1600,
+      "height": 899
+    },
+    {
+      "path": "/img/factory-article-scenes-20261103/materials-6971a859e37d.webp",
+      "before": 221774,
+      "after": 92400,
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "path": "/img/archive-real-20261103/072-884500fb18.webp",
+      "before": 244444,
+      "after": 79576,
+      "width": 1600,
+      "height": 1200
+    },
+    {
+      "path": "/img/archive-real-20261103/084-771efa29cf.webp",
+      "before": 220976,
+      "after": 111386,
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "path": "/img/factory-article-scenes-20261103/inspection-ac2e151863fc.webp",
+      "before": 203872,
+      "after": 88212,
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "path": "/img/cold-live-20261024/process-1.webp",
+      "before": 180182,
+      "after": 93714,
+      "width": 1500,
+      "height": 1000
+    },
+    {
+      "path": "/img/ice-buckets-20261113/ice-bucket-yj316f.webp",
+      "before": 154310,
+      "after": 130788,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/archive-real-20261103/065-5f4299408d.webp",
+      "before": 618216,
+      "after": 277976,
+      "width": 1600,
+      "height": 1214
+    },
+    {
+      "path": "/img/archive-real-20261103/082-101b3036e2.webp",
+      "before": 227712,
+      "after": 117574,
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "path": "/img/heat-process-closeup-20261023/step-1.webp",
+      "before": 216216,
+      "after": 115100,
+      "width": 1500,
+      "height": 1000
+    },
+    {
+      "path": "/img/heat-edit-20261023/msb-002.webp",
+      "before": 157094,
+      "after": 91776,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/buyer-experience/oem-development-restyle.webp",
+      "before": 144932,
+      "after": 120750,
+      "width": 1200,
+      "height": 780
+    },
+    {
+      "path": "/img/buyer-experience/oem-development-one-part.webp",
+      "before": 126826,
+      "after": 107034,
+      "width": 1200,
+      "height": 780
+    },
+    {
+      "path": "/img/case-story-20261103/case-01-656d75e021ad.webp",
+      "before": 224816,
+      "after": 88330,
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "path": "/img/case-story-20261103/case-02-67feb3220736.webp",
+      "before": 198598,
+      "after": 82508,
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "path": "/img/case-story-20261103/case-03-f6295256e44f.webp",
+      "before": 216894,
+      "after": 100528,
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/hjb-060-26f1e8b1a6a2.webp",
+      "before": 265298,
+      "after": 134098,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/backgrounds/real-yacht-02-697cca98bb.jpg",
+      "before": 573800,
+      "after": 287572,
+      "width": 1067,
+      "height": 1600
+    },
+    {
+      "path": "/img/main-packaging-20261029/hjb-060-51b6e284c60b.webp",
+      "before": 249970,
+      "after": 124744,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/sxb-008-9e2600a84d90.webp",
+      "before": 229836,
+      "after": 114572,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/sxb-008-00b292331e91.webp",
+      "before": 221584,
+      "after": 111550,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/pjb-014-3817ffbdd44f.webp",
+      "before": 324336,
+      "after": 151448,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/backgrounds/bbq-13-8385490360.webp",
+      "before": 422214,
+      "after": 226122,
+      "width": 1067,
+      "height": 1600
+    },
+    {
+      "path": "/img/main-packaging-20261029/pjb-014-399c9edf6de2.webp",
+      "before": 235990,
+      "after": 121498,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/hjb-074-903c64a0d390.webp",
+      "before": 196182,
+      "after": 109940,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/hjb-074-35bc3697680c.webp",
+      "before": 226176,
+      "after": 113540,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/bsb-002-db90f00b5aca.webp",
+      "before": 359404,
+      "after": 212250,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/backgrounds/car-02-9c6246d43e.webp",
+      "before": 510688,
+      "after": 315020,
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "path": "/img/main-packaging-20261029/bsb-002-d3e47a8642a6.webp",
+      "before": 210658,
+      "after": 117950,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/hjb-057-447f39ab28f9.webp",
+      "before": 253522,
+      "after": 134222,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/hjb-057-30c3acce4e60.webp",
+      "before": 232134,
+      "after": 115816,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/pjb-008-acdf63a57969.webp",
+      "before": 240888,
+      "after": 125572,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/pjb-008-23e7528607e9.webp",
+      "before": 268260,
+      "after": 143836,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/bt-016-89cd7aa9b01f.webp",
+      "before": 183546,
+      "after": 79788,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/hjb-069-fa4437afaef9.webp",
+      "before": 261950,
+      "after": 132592,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/hjb-069-2d4c38d9978b.webp",
+      "before": 217274,
+      "after": 104604,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/pjb-002-50d28822962f.webp",
+      "before": 260066,
+      "after": 134564,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/pjb-002-991381a24bf6.webp",
+      "before": 230734,
+      "after": 120828,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/hjb-048-a017208061ef.webp",
+      "before": 260480,
+      "after": 131944,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/hjb-048-b68207102ba7.webp",
+      "before": 213868,
+      "after": 103340,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/hjb-056-479e5c91f139.webp",
+      "before": 159900,
+      "after": 92212,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/hjb-056-58d53fdd95e0.webp",
+      "before": 224052,
+      "after": 103056,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/hjb-073-2c65845dea28.webp",
+      "before": 200580,
+      "after": 115274,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/hjb-073-0cb0badbf507.webp",
+      "before": 238666,
+      "after": 120926,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/hjb-076-6cc4e873104a.webp",
+      "before": 193764,
+      "after": 107086,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/hjb-076-750ac7b5b30d.webp",
+      "before": 223028,
+      "after": 113698,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/bt-011-46133398db0d.webp",
+      "before": 261746,
+      "after": 147420,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/bt-011-aa9abf0bee70.webp",
+      "before": 174090,
+      "after": 70360,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/hjb-054-bc0b15d063d5.webp",
+      "before": 259056,
+      "after": 128602,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/hjb-054-760ef97b1666.webp",
+      "before": 220512,
+      "after": 108912,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/hjb-042-a6a99b83d4a0.webp",
+      "before": 264936,
+      "after": 137258,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/hjb-042-053177311a95.webp",
+      "before": 211776,
+      "after": 102950,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/sxb-012-d262153f34cc.webp",
+      "before": 202156,
+      "after": 110942,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/sxb-012-d9c5b91f8bb4.webp",
+      "before": 211504,
+      "after": 110982,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/jbpj-048-7387c578e8e3.webp",
+      "before": 208636,
+      "after": 99674,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/jbpj-065-86daf359977d.webp",
+      "before": 203672,
+      "after": 95656,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/jbpj-068-46a442e77d38.webp",
+      "before": 188046,
+      "after": 90950,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/jbpj-044-ffc264a9eb4a.webp",
+      "before": 206054,
+      "after": 99244,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/v88-20261023/jbpj-046-51abab1453.webp",
+      "before": 143104,
+      "after": 59056,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/js-034-66a211fefec2.webp",
+      "before": 202204,
+      "after": 100516,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/jbpj-042-189b61751218.webp",
+      "before": 201500,
+      "after": 97712,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/jbpj-045-d24da8a737b6.webp",
+      "before": 204260,
+      "after": 94038,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/js-037-c7ab813bee12.webp",
+      "before": 204360,
+      "after": 93902,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/js-031-10df521c2b10.webp",
+      "before": 176926,
+      "after": 86320,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/gjzd-009-ff0145d1df0e.webp",
+      "before": 179336,
+      "after": 100270,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/gjzd-009-d1fe0363c837.webp",
+      "before": 206298,
+      "after": 105154,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/jbpj-050-f1d23834160b.webp",
+      "before": 195608,
+      "after": 92388,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/gjb-008-ac1932cdb0c3.webp",
+      "before": 296820,
+      "after": 142702,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/backgrounds/real-beach-01-d41a032043.jpg",
+      "before": 378742,
+      "after": 218745,
+      "width": 1067,
+      "height": 1600
+    },
+    {
+      "path": "/img/main-packaging-20261029/gjb-008-5eb932e1bca7.webp",
+      "before": 225058,
+      "after": 112008,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/gjb-007-f4f4d8585174.webp",
+      "before": 293728,
+      "after": 141146,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/gjb-007-3f7c34255a88.webp",
+      "before": 220580,
+      "after": 113430,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/pjb-021-35aa86d36975.webp",
+      "before": 205480,
+      "after": 118350,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/pjb-021-9f943f0bff88.webp",
+      "before": 227338,
+      "after": 115616,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/kpq-006-83d2012c8590.webp",
+      "before": 209424,
+      "after": 95116,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/jbpj-041-23607d9a4bbc.webp",
+      "before": 179764,
+      "after": 85084,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/gjzd-014-9b69da5fcd15.webp",
+      "before": 174672,
+      "after": 99598,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/gjzd-014-6e69947ad96c.webp",
+      "before": 199328,
+      "after": 100738,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/gjzd-016-69fe9323b08a.webp",
+      "before": 180722,
+      "after": 103246,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/gjzd-016-6f1489cb6c4d.webp",
+      "before": 203378,
+      "after": 97562,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/bt-003-6ef0a616c32f.webp",
+      "before": 261932,
+      "after": 151232,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/backgrounds/real-bar-02-d3cb40c316.jpg",
+      "before": 471136,
+      "after": 221809,
+      "width": 900,
+      "height": 1600
+    },
+    {
+      "path": "/img/main-packaging-20261029/bt-003-1b986b33a966.webp",
+      "before": 187704,
+      "after": 83958,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/pjb-018-e9cd5be25674.webp",
+      "before": 236008,
+      "after": 129062,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/pjb-018-8b9995c7fbb1.webp",
+      "before": 228592,
+      "after": 114670,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/fgb-031-480f72a99490.webp",
+      "before": 226800,
+      "after": 128892,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/fgb-031-ca02053b2711.webp",
+      "before": 251052,
+      "after": 129516,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/fgb-010-6dfc089b4259.webp",
+      "before": 201486,
+      "after": 108062,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/fgb-010-4837e2d00deb.webp",
+      "before": 257064,
+      "after": 138908,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/backgrounds/bar-10-02900d10d4.jpg",
+      "before": 421686,
+      "after": 146891,
+      "width": 1067,
+      "height": 1600
+    },
+    {
+      "path": "/img/main-packaging-20261029/fgb-034-c654ebb43416.webp",
+      "before": 222396,
+      "after": 118652,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/fgb-001-3681aea03f6e.webp",
+      "before": 266614,
+      "after": 151716,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/fgb-001-493cc02e867a.webp",
+      "before": 194888,
+      "after": 85188,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/fgb-013-ac7858c96aec.webp",
+      "before": 277542,
+      "after": 164284,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/fgb-013-2faba225c8fa.webp",
+      "before": 276862,
+      "after": 144934,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/fgb-023-4171ef432d2f.webp",
+      "before": 226962,
+      "after": 118250,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/fgb-030-4ff285c31284.webp",
+      "before": 297920,
+      "after": 178262,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/fgb-030-100081915ad4.webp",
+      "before": 259092,
+      "after": 132664,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/fgb-012-9c6ea46db5a9.webp",
+      "before": 253218,
+      "after": 144428,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/fgb-012-2d03131c3218.webp",
+      "before": 269852,
+      "after": 141736,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/fgb-038-14ced372e5c4.webp",
+      "before": 255264,
+      "after": 131496,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/fgb-006-6fa37cf7161b.webp",
+      "before": 242060,
+      "after": 137732,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/fgb-006-91f8e6d81799.webp",
+      "before": 231130,
+      "after": 117222,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/fgb-016-897d5856763a.webp",
+      "before": 250692,
+      "after": 144730,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/fgb-016-2d671ae7cab3.webp",
+      "before": 228516,
+      "after": 116554,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/fgb-019-8b234ac31488.webp",
+      "before": 293790,
+      "after": 170476,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/fgb-019-aae908e89a88.webp",
+      "before": 204412,
+      "after": 98544,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/kpq-007-d7af1b2c0b0b.webp",
+      "before": 202900,
+      "after": 96992,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/js-040-62ac46d4d907.webp",
+      "before": 192366,
+      "after": 90292,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/fgb-037-7d35e3c73105.webp",
+      "before": 319486,
+      "after": 191752,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/fgb-037-aa8a5e3f7256.webp",
+      "before": 267820,
+      "after": 140674,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/fgb-027-2a966c9765ff.webp",
+      "before": 296186,
+      "after": 179332,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/fgb-027-9a3bbe2f0c0d.webp",
+      "before": 237128,
+      "after": 125222,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/fgb-017-4000a2cb8bab.webp",
+      "before": 270522,
+      "after": 148080,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/backgrounds/yacht-03-6eb5e9b493.webp",
+      "before": 423802,
+      "after": 195156,
+      "width": 1067,
+      "height": 1600
+    },
+    {
+      "path": "/img/main-packaging-20261029/fgb-017-0795db0864aa.webp",
+      "before": 221776,
+      "after": 114466,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/sjb-024-2633e09b88d9.webp",
+      "before": 314052,
+      "after": 154556,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/sjb-024-2c5f9fa050a6.webp",
+      "before": 253140,
+      "after": 129422,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/kpq-005-b14d7e47fecc.webp",
+      "before": 261160,
+      "after": 145706,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/kpq-005-43bff3704d4c.webp",
+      "before": 210506,
+      "after": 106018,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/bt-017-279bf7536d9c.webp",
+      "before": 166128,
+      "after": 68078,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/hjb-053-1421537cb1b9.webp",
+      "before": 259464,
+      "after": 130338,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/hjb-053-78038112de42.webp",
+      "before": 232408,
+      "after": 112890,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/hjb-072-7c2830c8438a.webp",
+      "before": 269450,
+      "after": 134772,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/hjb-072-8a84df75ff63.webp",
+      "before": 211300,
+      "after": 98260,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/jbpj-101-faf01397afa6.webp",
+      "before": 293418,
+      "after": 175962,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/jbpj-101-0d44f0b88757.webp",
+      "before": 252852,
+      "after": 131744,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/ljb-001-3c7eda5d09da.webp",
+      "before": 313906,
+      "after": 153062,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/ljb-001-942c4cf90114.webp",
+      "before": 243470,
+      "after": 126530,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/bpjj-006-74e61772fc54.webp",
+      "before": 292120,
+      "after": 142922,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/bpjj-006-0e1ed3e7ea02.webp",
+      "before": 232636,
+      "after": 121598,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/bpjj-008-a7388c5f3b72.webp",
+      "before": 283448,
+      "after": 137744,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/bpjj-008-ebc5d339c4f8.webp",
+      "before": 215444,
+      "after": 110210,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/bpjj-005-d24dbcb0dcb1.webp",
+      "before": 279732,
+      "after": 138546,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/bpjj-005-a93f4c5322c0.webp",
+      "before": 213018,
+      "after": 108276,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/gjb-016-6c7891f1d6b8.webp",
+      "before": 284866,
+      "after": 137688,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/gjb-016-8f2ccb2f79cb.webp",
+      "before": 241156,
+      "after": 126630,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/ljb-002-1cdb2f1b7cc7.webp",
+      "before": 291118,
+      "after": 141064,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/ljb-002-4b06c1134155.webp",
+      "before": 220048,
+      "after": 112956,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/bpjj-002-de0f554212a8.webp",
+      "before": 282766,
+      "after": 138032,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/bpjj-002-acc2ab10d411.webp",
+      "before": 197442,
+      "after": 94070,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/bpjj-004-9237c88d1fe2.webp",
+      "before": 300522,
+      "after": 146472,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/bpjj-004-656e16d8d3ae.webp",
+      "before": 227020,
+      "after": 119234,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/jbpj-067-765cd4a9340b.webp",
+      "before": 198246,
+      "after": 92892,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/jbpj-064-a8a08226ea80.webp",
+      "before": 190690,
+      "after": 92394,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/kpq-025-ef76fc701129.webp",
+      "before": 229822,
+      "after": 131686,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/kpq-025-d0bf2b583069.webp",
+      "before": 196308,
+      "after": 94366,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/jbpj-066-a6b07430b3f7.webp",
+      "before": 207146,
+      "after": 98898,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/sxb-010-777cf66098a3.webp",
+      "before": 221622,
+      "after": 116662,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/sxb-010-5be3cec918fd.webp",
+      "before": 242438,
+      "after": 128178,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/jbpj-072-079ef981e960.webp",
+      "before": 216730,
+      "after": 104074,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/js-033-79e615e65fb8.webp",
+      "before": 201536,
+      "after": 95188,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/js-038-30670c44b3f1.webp",
+      "before": 200776,
+      "after": 92418,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/fgb-002-91285a3a1f46.webp",
+      "before": 242200,
+      "after": 132392,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/fgb-002-63cb57fd2908.webp",
+      "before": 170220,
+      "after": 73452,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/hjb-031-234924c6f06b.webp",
+      "before": 183550,
+      "after": 102182,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/hjb-031-b344f712b422.webp",
+      "before": 221120,
+      "after": 104190,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/hjb-020-bd1d1f866f8b.webp",
+      "before": 266438,
+      "after": 132274,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/hjb-020-bc614d2d9aaf.webp",
+      "before": 204036,
+      "after": 98354,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/hjb-013-0d97e388c469.webp",
+      "before": 258302,
+      "after": 136316,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/hjb-013-4680b094ee37.webp",
+      "before": 238026,
+      "after": 116374,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/hjb-025-da116ba583c4.webp",
+      "before": 257780,
+      "after": 133864,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/hjb-025-b75beb6ae46f.webp",
+      "before": 222072,
+      "after": 104876,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/hjb-001-99745764cad6.webp",
+      "before": 251362,
+      "after": 130704,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/hjb-001-0618cb4b2b50.webp",
+      "before": 224328,
+      "after": 109956,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/hjb-006-9599e3df919e.webp",
+      "before": 261640,
+      "after": 129918,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/hjb-006-5b4e06879853.webp",
+      "before": 209044,
+      "after": 104790,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/master-scenes-real-20261028/hjb-035-aa12ad45314b.webp",
+      "before": 186054,
+      "after": 103378,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/hjb-035-f391c1662f54.webp",
+      "before": 235562,
+      "after": 118824,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/jbpj-040-6a77e38257c6.webp",
+      "before": 202952,
+      "after": 94536,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/jbpj-039-c458d335582d.webp",
+      "before": 203394,
+      "after": 95936,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/main-packaging-20261029/js-039-d9a3b97d9238.webp",
+      "before": 218306,
+      "after": 105352,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/screen-scenes-20261024/step-4-optimized.webp",
+      "before": 209198,
+      "after": 175886,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "path": "/img/screen-scenes-20261024/step-1-optimized.webp",
+      "before": 163776,
+      "after": 134026,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "path": "/img/screen-scenes-20261024/step-2-optimized.webp",
+      "before": 147314,
+      "after": 117946,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "path": "/img/screen-scenes-20261024/step-3-optimized.webp",
+      "before": 154278,
+      "after": 127468,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "path": "/img/uv-process-closeup-20261023/step-1.webp",
+      "before": 244992,
+      "after": 140592,
+      "width": 1500,
+      "height": 1000
+    },
+    {
+      "path": "/img/uv-edit-20261023/tycb-003.webp",
+      "before": 177664,
+      "after": 95578,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "/img/repairs-20261101/pjb-013_packingmain-240068c12f1d.webp",
+      "before": 228426,
+      "after": 93552,
+      "width": 1200,
+      "height": 1200
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "path": "cloudflare-worker.js",
+    "baselineMatchesRemote": true,
+    "original": "cloudflare-worker.js.before-seo-auth-1795443002091.bak",
+    "remoteBlob": "1b9759aa49a271d2c6d544b701a624fb1eddcb15"
+  },
+  {
+    "path": "build-cloudflare.cjs",
+    "baselineMatchesRemote": true,
+    "original": "build-cloudflare.cjs.before-schema-build-1795443002187.bak",
+    "remoteBlob": "5f3dba687aff486fddb9bd46c6324618ba9ef0dd"
+  },
+  {
+    "path": "build-api-snapshot.cjs",
+    "baselineMatchesRemote": true,
+    "original": "build-api-snapshot.cjs.before-active-sitemap-1795437342852.bak",
+    "remoteBlob": "a07ade3e9890c881edbf5c9f9ad1b3e361d67fb9"
+  },
+  {
+    "path": "wrangler.json",
+    "baselineMatchesRemote": true,
+    "original": "wrangler.json",
+    "remoteBlob": "37696eb9f471a70f9ed718307ab5f12d0117d682"
+  },
+  {
+    "path": "package.json",
+    "baselineMatchesRemote": true,
+    "original": "package.json",
+    "remoteBlob": "53fd01913d0a45bd51d9a23c1605dd968940e627"
+  }
+]
