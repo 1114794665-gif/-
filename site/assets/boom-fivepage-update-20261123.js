@@ -25,7 +25,7 @@
   };
   var MODELS = [{"sku":"GJZD-011","label":"COLLAPSIBLE SET","name":"BOOM Drinkware XLite Collapsible Shot Set","facts":"silicone + nylon · collapsible set","route":"/products/collapsible-mug/#model-GJZD-011","image":"/img/v88-20261023/gjzd-011-32cc88b089.webp"},{"sku":"LJB-001","label":"LJB-001","name":"BOOM Drinkware Silicone 1.5 oz Silishot - Color & Custom Print Options","facts":"silicone · 1.5 oz","route":"/products/silicone-1-5oz-ljb001/","image":"/img/v88-20261023/ljb-001-e9310d6e9d.webp"},{"sku":"LJB-006","label":"LJB-001 / GLOW","name":"BOOM Drinkware Silicone 1.5 oz Glow In The Dark Silishot Shot Glass","facts":"silicone · 1.5 oz","route":"/products/silicone-1-5oz-ljb001/#model-LJB-006","image":"/img/v88-20261023/ljb-006-2d9f4746c4.webp"},{"sku":"LJB-010","label":"LJB-001 / CLEAR","name":"BOOM Drinkware Silicone 1.5 oz Crystal Clear Shot Glass","facts":"silicone · 1.5 oz","route":"/products/silicone-1-5oz-ljb001/#model-LJB-010","image":"/img/v88-20261023/ljb-010-104756c340.webp"},{"sku":"LJB-002","label":"LJB-002","name":"BOOM Drinkware Silicone 2 oz Shumbler","facts":"silicone · 2 oz","route":"/products/silicone-2oz-shumbler-shot-ljb002/","image":"/img/v88-20261023/ljb-002-d60fbac562.webp"},{"sku":"LJB-008","label":"LJB-002 / GLOW","name":"BOOM Drinkware Silicone 2 oz Glow Green Shumbler Shot Glass","facts":"silicone · 2 oz","route":"/products/silicone-2oz-shumbler-shot-ljb002/#craft-LJB-008","image":"/img/v88-20261023/ljb-008-849b7d02a5.webp"},{"sku":"FGB-016","label":"FGB-016","name":"BOOM Drinkware Light Up Slow Change LED Shot Glass","facts":"acrylic · 2 oz","route":"/products/light-up-slow-change-led-shot/","image":"/img/v88-20261023/fgb-016-9915464962.webp"},{"sku":"JBPJ-101","label":"JBPJ-101","name":"BOOM Drinkware Purple LED Light Up Shot Glass Beaded Necklace","facts":"acrylic · 1.5 oz","route":"/products/purple-led-light-up-shot-glass/","image":"/img/v88-20261023/jbpj-101-6b11d474d5.webp"}];
   var CSS = ".boom-shot-guide{max-width:1240px;margin:0 auto;padding:12px 32px 64px}.boom-shot-guide h2{font-family:Manrope,Arial,sans-serif;font-size:clamp(24px,2.4vw,32px);line-height:1.16;letter-spacing:-.035em;margin:0 0 12px;color:#17362f;font-weight:700}.boom-shot-guide__lead{font-size:15px;color:#5f7169;max-width:680px;line-height:1.7;margin:0 0 24px}.boom-shot-guide__grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}.boom-shot-guide__card{background:#fff;border:1px solid #dbe2d9;border-radius:6px;padding:22px}.boom-shot-guide__num{font-family:ui-monospace,monospace;font-size:10px;letter-spacing:.14em;color:#a85f3c;font-weight:800;display:block;margin-bottom:10px}.boom-shot-guide__card h3{font-family:Manrope,Arial,sans-serif;font-size:19px;margin:0 0 8px;color:#17362f;line-height:1.3}.boom-shot-guide__card p{font-size:13px;color:#5f7169;line-height:1.7;margin:0}@media(max-width:767px){.boom-shot-guide{padding:4px 18px 44px}.boom-shot-guide__grid{grid-template-columns:1fr}}";
-  var HOME_LEAD = "Custom ice buckets, shot glasses and LED light-up cups, made for bars, events and branded programmes.";
+  var HOME_LEAD = "Custom Ice Buckets, Shot Glasses and LED Light Up Cups — OEM and ODM silicone, Tritan and plastic drinkware for brands, businesses and promotional projects.";
   var METAL_LINE = "Metal parts are sourced externally; they are not injection-molded in our factory.";
   var METAL_PATHS = [
     '/products/champagne-stopper/',
@@ -55,14 +55,6 @@
 
   function home() {
     if (PATH !== '/') return;
-    var lead = document.querySelector('.of-hero .of-lead');
-    if (lead && !document.querySelector('[data-boom-fivepage="home-lead"]')) {
-      var p = document.createElement('p');
-      p.className = 'of-lead of-lead-extra';
-      p.setAttribute('data-boom-fivepage', 'home-lead');
-      p.textContent = HOME_LEAD;
-      lead.insertAdjacentElement('afterend', p);
-    }
     var ledCard = document.querySelector('.of-products a[href="/led-light-up-cups/"]');
     if (ledCard && !document.querySelector('[data-boom-fivepage="home-shot-card"]')) {
       var c = ledCard.cloneNode(true);
