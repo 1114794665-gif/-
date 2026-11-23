@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800" role="img">
+<rect width="800" height="800" fill="#f7f4ef"/>
+<circle cx="400" cy="380" r="268" fill="#e6ddce" opacity="0.55"/>
+
+    <rect x="368" y="180" width="64" height="330" rx="30" fill="#dfe6ea" stroke="#8fa2ad" stroke-width="3"/>
+    <rect x="360" y="160" width="80" height="40" rx="14" fill="#e6ddce" stroke="#8fa2ad" stroke-width="3"/>
+    <path d="M400 510 Q400 570 400 610 M400 610 Q360 640 336 610 M400 610 Q440 640 464 610" fill="none" stroke="#8fa2ad" stroke-width="7" stroke-linecap="round"/>
+<text x="400" y="714" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#14171c">KJBQ-23X</text>
+<text x="400" y="754" text-anchor="middle" font-family="system-ui, Segoe UI, Arial, sans-serif" font-size="22" fill="#6b7280">Stainless steel and ABS · —</text>
+</svg>

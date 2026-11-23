@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800" role="img">
+<rect width="800" height="800" fill="#f7f4ef"/>
+<circle cx="400" cy="380" r="268" fill="#e6ddce" opacity="0.55"/>
+
+    <path d="M250 250 Q250 236 268 236 L532 236 Q550 236 550 250 Q550 330 490 356 Q440 378 400 380 Q360 378 310 356 Q250 330 250 250 Z"
+      fill="#dfe6ea" stroke="#8fa2ad" stroke-width="3"/>
+    <rect x="393" y="380" width="14" height="220" rx="6" fill="#8fa2ad"/>
+    <ellipse cx="400" cy="615" rx="105" ry="17" fill="#dfe6ea" stroke="#8fa2ad" stroke-width="3"/>
+<text x="400" y="714" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#14171c">YY1300</text>
+<text x="400" y="754" text-anchor="middle" font-family="system-ui, Segoe UI, Arial, sans-serif" font-size="22" fill="#6b7280">PS · 300 ml / 10.1 oz</text>
+</svg>

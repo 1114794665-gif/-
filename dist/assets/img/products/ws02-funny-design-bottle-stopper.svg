@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800" role="img">
+<rect width="800" height="800" fill="#f7f4ef"/>
+<circle cx="400" cy="380" r="268" fill="#e6ddce" opacity="0.55"/>
+
+    <path d="M352 300 L448 300 L448 600 Q448 618 430 618 L370 618 Q352 618 352 600 Z"
+      fill="#dfe6ea" stroke="#8fa2ad" stroke-width="3"/>
+    <rect x="336" y="230" width="128" height="80" rx="14" fill="#e6ddce" stroke="#8fa2ad" stroke-width="3"/>
+    <path d="M368 200 L432 200 L432 240 L368 240 Z" fill="#b08d4a" opacity=".8"/>
+    <path d="M370 460 L430 460" stroke="#b08d4a" stroke-width="3" opacity=".6"/>
+<text x="400" y="714" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#14171c">WS02</text>
+<text x="400" y="754" text-anchor="middle" font-family="system-ui, Segoe UI, Arial, sans-serif" font-size="22" fill="#6b7280">ABS and silicone · —</text>
+</svg>

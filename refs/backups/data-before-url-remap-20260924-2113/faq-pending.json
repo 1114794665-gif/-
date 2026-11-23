@@ -1,0 +1,83 @@
+{
+ "note": "Internal working list. These items are NOT published anywhere on the site. Fill the confirming record, then set the matching product field so the answer can be published.",
+ "updated": "2026-09-16",
+ "items": [
+  {
+   "id": "moq_by_family",
+   "question": "Exact MOQ for each product family",
+   "status": "published as quote_only",
+   "toConfirm": "Bind each SKU to a register entry (alibaba_listing_key + alibaba_moq_verified_date + moq_display_mode = published_verified) once the Alibaba listing is confirmed to match the exact configuration. Until then every SKU renders the approved MOQ fallback.",
+   "reference": "data/alibaba-moq-register.json"
+  },
+  {
+   "id": "fob_dispatch",
+   "question": "FOB dispatch ranges",
+   "status": "published from the pack",
+   "toConfirm": "Confirm the four ranges still hold, and tell us which SKUs are genuinely in stock so they can be moved to inventory_status = in_stock_sample.",
+   "reference": "Boomspring FOB dispatch policy"
+  },
+  {
+   "id": "sample_cost",
+   "question": "Sample price and whether it is credited against the first bulk order",
+   "status": "published without an amount",
+   "toConfirm": "Give the sample charge per model family and the credit rule, and we will publish it.",
+   "reference": "FAQ implementation pack, sample fallback"
+  },
+  {
+   "id": "payment_methods",
+   "question": "Payment methods accepted for orders placed through this website",
+   "status": "published as T/T + L/C negotiable, PayPal/credit card for samples",
+   "toConfirm": "Confirm which of these the independent site will actually accept, and whether card payment will be offered for bulk orders.",
+   "reference": "Alibaba storefront trade terms"
+  },
+  {
+   "id": "warranty",
+   "question": "Warranty term and defect policy for rechargeable products",
+   "status": "published as confirmed with the quotation",
+   "toConfirm": "Give the warranty months, the acceptance standard and the replacement policy, and we will publish the numbers.",
+   "reference": "Amazon review research, battery-life complaints"
+  },
+  {
+   "id": "new_mould",
+   "question": "New mould development: tooling cost, first-sample schedule, mould ownership",
+   "status": "published as confirmed with the quotation",
+   "toConfirm": "Give the tooling cost band, the first-sample lead time and whether the tooling is bought out or shared.",
+   "reference": "Alibaba company profile, ~200 new items per year"
+  },
+  {
+   "id": "battery_shipping",
+   "question": "Shipping restrictions for battery-powered products",
+   "status": "published as transport documentation confirmed per route",
+   "toConfirm": "Confirm whether a non-battery variant exists and whether UN38.3 / MSDS documentation is issued with the shipment.",
+   "reference": "FAQ implementation pack, SKU page template"
+  },
+  {
+   "id": "food_contact_reports",
+   "question": "Food-contact test reports (FDA / LFGB) per material",
+   "status": "published as arrange on request",
+   "toConfirm": "Confirm which materials currently hold a valid report and the certificate numbers, so the SKU pages can carry the reference.",
+   "reference": "Certificate list retrieved for BYF Precision Mould"
+  },
+  {
+   "id": "quality_control_record",
+   "question": "Approved quality-control record per SKU",
+   "status": "SKU QC question not published",
+   "toConfirm": "Provide the QC statement or inspection protocol so the QC question can be published on SKU pages.",
+   "reference": "FAQ implementation pack, SKU page Q9"
+  },
+  {
+   "id": "kb1_601901a_config",
+   "question": "KB1-601901A configuration: site says 'Set of 2', Alibaba backend lists a 4-in-1 set (opener + vacuum preserver + pourer + foil cutter) sold by piece at MOQ 10",
+   "status": "recorded, not published",
+   "toConfirm": "Confirm whether the site SKU KB1-601901A is the same build as Alibaba listing 1601455540735 before switching moq_display_mode to published_verified.",
+   "reference": "Boomspring handoff products.json conflicts[0]"
+  },
+  {
+   "id": "vbgs_k specs",
+   "question": "VBGS-KB1-602301 material, unit weight and case pack",
+   "status": "not captured in handoff",
+   "toConfirm": "Backend record for listing 1601143564692 did not include specifications_raw; confirm material (expected ABS family) and carton data before publishing spec claims.",
+   "reference": "Boomspring handoff products.json"
+  }
+ ]
+}

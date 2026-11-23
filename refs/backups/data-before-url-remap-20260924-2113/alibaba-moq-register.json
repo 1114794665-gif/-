@@ -1,0 +1,108 @@
+{
+ "brand": "Boomspring",
+ "type": "Alibaba MOQ source register",
+ "source": "https://byfpm.en.alibaba.com/",
+ "verificationDate": "2026-09-16",
+ "status": "source register only — not a category-wide MOQ table",
+ "rule": "An Alibaba MOQ can populate the independent-site SKU only when alibaba_listing_title, alibaba_product_url, material, configuration and unit all match the independent-site SKU. A category match or a visually similar product is not enough. Bind an entry with the product fields alibaba_listing_key + alibaba_moq_verified_date + moq_display_mode = published_verified; until then the SKU renders the MOQ fallback answer.",
+ "note": "Alibaba public MOQ is a commercial listing parameter. Before it is shown on the independent site, the owner must confirm that it remains commercially acceptable for the same current SKU, configuration and order route.",
+ "entries": [
+  {
+   "key": "electric-opener-30",
+   "listingTitle": "High Quality Cordless Red Wine Accessories Battery Operated Automatic Electric Wine Bottle Opener",
+   "moq": 30,
+   "unit": "pcs",
+   "safeUse": "Use only for the exact electric-opener configuration"
+  },
+  {
+   "key": "electric-opener-set-30",
+   "listingTitle": "OEM & ODM Wine Bottle Opener Battery Electric Wine Corkscrew Set Automatic Wine Opener Set",
+   "moq": 30,
+   "unit": "pcs",
+   "safeUse": "Use only for the exact electric-opener configuration"
+  },
+  {
+   "key": "air-pump-opener-240",
+   "listingTitle": "Custom Pen Style Bar Accessories Gifts Air Pump Wine Opener Corkscrew Wine Bottle Opener",
+   "moq": 240,
+   "unit": "pcs",
+   "safeUse": "Use only for the exact pen-style air-pump opener"
+  },
+  {
+   "key": "magnetic-beer-opener-20",
+   "listingTitle": "Hot Selling Automatic Beer Gifts Magnetic Beer Bottle Opener with Custom Logo Magnetic Bottle Opener",
+   "moq": 20,
+   "unit": "pcs",
+   "safeUse": "Use only for the exact magnetic opener"
+  },
+  {
+   "key": "acrylic-wine-cup-10",
+   "listingTitle": "Reusable Customized Colored Acrylic Wedding Red Wine Glass Unbreakable Plastic Wine Cup",
+   "moq": 10,
+   "unit": "pcs",
+   "safeUse": "Use only for the exact acrylic/plastic cup configuration"
+  },
+  {
+   "key": "electric-grinder-set-5",
+   "listingTitle": "New Design Salt and Pepper Grinder Electric Kitchen Gadgets for Cooking Electric Salt and Pepper Grinder Set",
+   "moq": 5,
+   "unit": "pcs",
+   "safeUse": "Use only for the exact electric-grinder set"
+  },
+  {
+   "key": "manual-corkscrew-set-20",
+   "listingTitle": "Tik Tok Hot Selling Portable Manual Wine Corkscrew Reusable Wine Bottle Opener and Foil Cutter Set",
+   "moq": 20,
+   "unit": "sets",
+   "safeUse": "Use only for the exact manual corkscrew set"
+  },
+  {
+   "key": "ice-bucket-50",
+   "listingTitle": "Transparent Wine Champagne Beer Plastic Ice Bucket with Handles Large Ice Buckets Ice Cooler for Party",
+   "moq": 50,
+   "unit": "pcs",
+   "safeUse": "Use only for the exact plastic ice bucket"
+  },
+  {
+   "key": "electric-opener-set-base-25",
+   "listingTitle": "Battery Operated Custom Logo Electric Wine Opener Set with Foil Cutter Vacuum Wine Stopper Pourer and Storage Base",
+   "moq": 25,
+   "unit": "sets",
+   "safeUse": "Use only for the exact electric opener set with foil cutter, vacuum stopper, pourer and storage base, sold by set",
+   "listingId": "1601143564692",
+   "sourceUrl": "https://post.alibaba.com/product/publish.htm?itemId=1601143564692",
+   "verifiedDate": "2026-09-16",
+   "source": "Alibaba backend editor record, Boomspring handoff 2026-09-16"
+  },
+  {
+   "key": "five-in-one-opener-set-25",
+   "listingTitle": "Wine Accessories 5 in 1 Battery Operated Electric Red Wine Bottle Opener Corkscrew Kit Set With Base",
+   "moq": 25,
+   "unit": "sets",
+   "safeUse": "Use only for the exact 5-in-1 electric-opener set"
+  },
+  {
+   "key": "mini-push-opener-10",
+   "listingId": "1601118713175",
+   "listingTitle": "Custom Automatic Novelty Wine Corkscrew Mini Push Down Electric Red Wine Bottle Opener Gift Box Packing",
+   "moq": 10,
+   "unit": "pcs",
+   "sourceUrl": "https://post.alibaba.com/product/publish.htm?itemId=1601118713175",
+   "verifiedDate": "2026-09-16",
+   "source": "Alibaba backend editor record, Boomspring handoff 2026-09-16",
+   "safeUse": "Use only for the exact mini push-down electric opener in gift box"
+  },
+  {
+   "key": "electric-opener-4in1-10",
+   "listingId": "1601455540735",
+   "listingTitle": "Custom Logo 4in 1 Battery Operated Electric Wine Opener Set With Vacuum Wine Preserver Wine Pourer and Foil Cutter",
+   "moq": 10,
+   "unit": "pcs",
+   "sourceUrl": "https://post.alibaba.com/product/publish.htm?itemId=1601455540735",
+   "verifiedDate": "2026-09-16",
+   "source": "Alibaba backend editor record, Boomspring handoff 2026-09-16",
+   "safeUse": "Use only for the exact 4-in-1 electric opener set (opener + vacuum preserver + pourer + foil cutter), sold by piece"
+  }
+ ],
+ "updated": "2026-09-16"
+}

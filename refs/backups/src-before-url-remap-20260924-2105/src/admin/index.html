@@ -1,0 +1,1096 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>BYF BOOM · 内容管理后台</title>
+<style>
+:root{
+  --ink:#14171c;--ink2:#22272f;--line:#e2ddd4;--line2:#cfc8bd;--bg:#f6f3ee;--panel:#fff;
+  --text:#2c3339;--muted:#6b7280;--brass:#a8802f;--brass-l:#c9a24a;
+  --ok:#3b6d11;--warn:#854f0b;--err:#a32d2d;--info:#185fa5;
+  --sans:system-ui,-apple-system,"Segoe UI",Roboto,"Microsoft YaHei",sans-serif;
+  --mono:ui-monospace,SFMono-Regular,Consolas,"Courier New",monospace;
+}
+*{box-sizing:border-box}
+body{margin:0;font-family:var(--sans);background:var(--bg);color:var(--text);font-size:14px;line-height:1.55}
+a{color:var(--info)}
+button,input,select,textarea{font-family:inherit;font-size:inherit}
+.hide{display:none!important}
+
+/* login */
+#login{min-height:100vh;display:flex;align-items:center;justify-content:center;background:var(--ink)}
+#login .card{background:#fff;border-radius:12px;padding:34px;width:min(400px,92vw)}
+#login h1{font-size:20px;margin:0 0 6px}
+#login p{color:var(--muted);margin:0 0 20px;font-size:13px}
+#login label{display:block;font-weight:600;font-size:12px;margin-bottom:14px}
+#login input{width:100%;padding:11px 12px;border:1px solid var(--line2);border-radius:6px;margin-top:5px}
+.err-msg{color:var(--err);font-size:12.5px;min-height:18px}
+
+/* shell */
+.shell{display:flex;min-height:100vh}
+.side{width:238px;background:var(--ink);color:#b9c0c8;flex-shrink:0;display:flex;flex-direction:column;position:sticky;top:0;height:100vh}
+.side .logo{padding:20px 20px 16px;border-bottom:1px solid #2f353d}
+.side .logo strong{color:#fff;font-size:15px;letter-spacing:.04em;display:block}
+.side .logo span{font-size:11px;color:#7c858e}
+.side nav{padding:12px 10px;flex:1;overflow:auto}
+.side nav button{display:flex;align-items:center;justify-content:space-between;width:100%;background:none;border:0;color:#b9c0c8;
+  text-align:left;padding:9px 12px;border-radius:6px;cursor:pointer;font-size:13.5px;margin-bottom:2px}
+.side nav button:hover{background:#22272f;color:#fff}
+.side nav button.on{background:var(--brass);color:#fff}
+.side nav .pill{background:rgba(255,255,255,.16);border-radius:999px;padding:1px 8px;font-size:11px}
+.pill-mode{display:inline-block;background:#eef2f7;border:1px solid #d5dde6;border-radius:999px;padding:1px 8px;font-size:11px;color:#2c3844;white-space:nowrap}
+.side .side-foot{padding:14px 20px;border-top:1px solid #2f353d;font-size:12px}
+.side .side-foot a{color:#98a1aa;margin-right:12px}
+
+.main{flex:1;min-width:0;padding:24px 28px 80px}
+.topbar{display:flex;align-items:center;justify-content:space-between;gap:16px;margin-bottom:22px;flex-wrap:wrap}
+.topbar h1{font-size:20px;margin:0}
+.topbar .sub{color:var(--muted);font-size:12.5px}
+.actions{display:flex;gap:8px;flex-wrap:wrap}
+
+.btn{border:1px solid var(--line2);background:#fff;color:var(--text);padding:8px 14px;border-radius:6px;cursor:pointer;font-size:13px}
+.btn:hover{border-color:var(--brass);color:var(--brass)}
+.btn.primary{background:var(--ink);border-color:var(--ink);color:#fff}
+.btn.primary:hover{background:var(--brass);border-color:var(--brass);color:#fff}
+.btn.danger{color:var(--err);border-color:#e3c4c4}
+.btn.danger:hover{background:#fcebeb;color:var(--err)}
+.btn.sm{padding:5px 10px;font-size:12.5px}
+
+.panel{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:20px;margin-bottom:18px}
+.panel h2{font-size:15px;margin:0 0 14px;padding-bottom:10px;border-bottom:1px solid var(--line)}
+.grid{display:grid;gap:14px}
+.g2{grid-template-columns:repeat(2,1fr)}
+.g3{grid-template-columns:repeat(3,1fr)}
+.g4{grid-template-columns:repeat(4,1fr)}
+@media(max-width:1000px){.g3,.g4{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:660px){.g2,.g3,.g4{grid-template-columns:1fr}}
+
+.kpi{background:#fff;border:1px solid var(--line);border-radius:10px;padding:16px}
+.kpi b{display:block;font-size:26px;color:var(--ink);line-height:1.2}
+.kpi span{font-size:12px;color:var(--muted)}
+
+label.f{display:block;margin-bottom:13px}
+label.f>span{display:block;font-size:12px;font-weight:600;color:var(--ink);margin-bottom:4px}
+label.f small{color:var(--muted);font-weight:400}
+input[type=text],input[type=number],input[type=email],select,textarea{
+  width:100%;padding:8px 10px;border:1px solid var(--line2);border-radius:6px;background:#fff;color:var(--text)}
+textarea{min-height:90px;resize:vertical;font-family:var(--mono);font-size:12.5px;line-height:1.6}
+input:focus,select:focus,textarea:focus{outline:2px solid var(--brass-l);outline-offset:0}
+.row{display:flex;gap:10px;align-items:flex-end;margin-bottom:8px}
+.row input{flex:1}
+.hint{font-size:11.5px;color:var(--muted);margin:-6px 0 12px}
+
+table.list{width:100%;border-collapse:collapse;font-size:13px}
+table.list th,table.list td{padding:9px 10px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}
+table.list th{font-size:11.5px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);font-weight:600}
+table.list tr:hover td{background:#faf8f5}
+table.list td.actions-cell{white-space:nowrap;text-align:right}
+.searchbox{max-width:340px;margin-bottom:14px}
+
+.tag{display:inline-block;padding:2px 8px;border-radius:999px;font-size:11px;background:#f1efe8;color:var(--muted)}
+.tag.err{background:#fcebeb;color:var(--err)}
+.tag.warn{background:#faeeda;color:var(--warn)}
+.tag.ok{background:#eaf3de;color:var(--ok)}
+.tag.info{background:#e6f1fb;color:var(--info)}
+.flash{position:sticky;top:0;z-index:20;padding:10px 14px;border-radius:6px;font-size:13px;margin-bottom:14px}
+.flash.ok{background:#eaf3de;color:var(--ok)}
+.flash.err{background:#fcebeb;color:var(--err)}
+.sectioncard{border:1px solid var(--line);border-radius:8px;padding:14px;margin-bottom:12px;background:#fdfcfa}
+.sectioncard .sc-head{display:flex;justify-content:space-between;align-items:center;margin-bottom:10px;font-size:12px;color:var(--muted)}
+pre.out{background:var(--ink);color:#d7dde3;padding:14px;border-radius:8px;font-family:var(--mono);font-size:12px;overflow:auto;max-height:340px}
+.muted{color:var(--muted);font-size:12.5px}
+.warnbox{background:#faeeda;border:1px solid #f0dcae;color:var(--warn);padding:12px 14px;border-radius:8px;font-size:13px;margin-bottom:16px}
+.issue-list{list-style:none;padding:0;margin:0;font-size:13px}
+.issue-list li{padding:7px 0;border-bottom:1px solid var(--line);display:flex;gap:10px;align-items:baseline}
+.issue-list code{font-family:var(--mono);font-size:12px;color:var(--muted)}
+#img-preview{display:flex;flex-wrap:wrap;gap:10px;margin:10px 0}
+.img-thumb{margin:0;width:86px;text-align:center}
+.img-thumb img{width:86px;height:86px;object-fit:cover;border:1px solid var(--line);border-radius:6px;display:block;background:#fff}
+.img-thumb.main img{outline:2px solid #2e7d4f;outline-offset:-2px}
+.img-thumb figcaption{font-size:11px;color:var(--muted);margin-top:3px}
+</style>
+</head>
+<body>
+
+<div id="login">
+  <form class="card" id="login-form">
+    <h1>BYF BOOM 内容管理后台</h1>
+    <p>本地运营控制台 · 修改内容后点「生成网站」即刷新静态站</p>
+    <label><span>管理密码</span><input type="password" id="pw" autocomplete="current-password" autofocus></label>
+    <p class="err-msg" id="login-err"></p>
+    <button class="btn primary" type="submit" style="width:100%">进入后台</button>
+  </form>
+</div>
+
+<div class="shell hide" id="shell">
+  <aside class="side">
+    <div class="logo"><strong>BYF BOOM</strong><span>Content console</span></div>
+    <nav id="nav">
+      <button data-view="dashboard">运营总览</button>
+      <button data-view="products">产品管理 <span class="pill" id="pill-products">0</span></button>
+      <button data-view="categories">分类管理 <span class="pill" id="pill-categories">0</span></button>
+      <button data-view="pages">页面 / 场景 <span class="pill" id="pill-pages">0</span></button>
+      <button data-view="posts">内容文章 <span class="pill" id="pill-posts">0</span></button>
+      <button data-view="inquiries">询价单 <span class="pill" id="pill-inquiries">0</span></button>
+      <button data-view="faq">FAQ 交付包 <span class="pill" id="pill-faq">0</span></button>
+      <button data-view="geo">SEO / GEO 检查</button>
+      <button data-view="settings">站点设置</button>
+      <button data-view="build">生成与发布</button>
+    </nav>
+    <div class="side-foot">
+      <a href="/" target="_blank">预览网站</a>
+      <a href="#" id="logout">退出</a>
+    </div>
+  </aside>
+  <main class="main">
+    <div class="topbar">
+      <div><h1 id="view-title">运营总览</h1><div class="sub" id="view-sub"></div></div>
+      <div class="actions" id="view-actions"></div>
+    </div>
+    <div id="flash"></div>
+    <div id="view"></div>
+  </main>
+</div>
+
+<script>
+(function () {
+  var DB = { products: [], categories: [], pages: [], posts: [], inquiries: [], settings: {}, audit: null, contract: null, register: null, faqPending: [] };
+  var view = "dashboard";
+  var editing = null;
+  var $ = function (s, r) { return (r || document).querySelector(s); };
+  var $$ = function (s, r) { return [].slice.call((r || document).querySelectorAll(s)); };
+  var esc = function (s) { return String(s == null ? "" : s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;"); };
+
+  function api(route, body) {
+    return fetch("/admin/api/" + route, {
+      method: body ? "POST" : "GET",
+      headers: body ? { "Content-Type": "application/json" } : {},
+      body: body ? JSON.stringify(body) : undefined
+    }).then(function (r) {
+      if (r.status === 401) { showLogin(); throw new Error("unauthorised"); }
+      return r.json();
+    });
+  }
+
+  function flash(msg, kind) {
+    var el = $("#flash");
+    el.innerHTML = msg ? '<div class="flash ' + (kind || "ok") + '">' + esc(msg) + "</div>" : "";
+    if (msg) setTimeout(function () { if (el.textContent.indexOf(msg) !== -1) el.innerHTML = ""; }, 4000);
+  }
+
+  function showLogin() { $("#login").classList.remove("hide"); $("#shell").classList.add("hide"); }
+  function showApp() { $("#login").classList.add("hide"); $("#shell").classList.remove("hide"); }
+
+  /* ---------- login ---------- */
+  $("#login-form").addEventListener("submit", function (e) {
+    e.preventDefault();
+    $("#login-err").textContent = "";
+    fetch("/admin/api/login", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ password: $("#pw").value })
+    }).then(function (r) { return r.json().then(function (j) { return { ok: r.ok, j: j }; }); })
+      .then(function (res) {
+        if (res.ok && res.j.ok) { showApp(); boot(); }
+        else $("#login-err").textContent = res.j.error || "登录失败";
+      });
+  });
+  $("#logout").addEventListener("click", function (e) {
+    e.preventDefault();
+    api("logout", {}).then(showLogin);
+  });
+
+  /* ---------- boot ---------- */
+  function boot() {
+    return api("bootstrap").then(function (d) {
+      DB = d;
+      $("#pill-products").textContent = d.products.length;
+      $("#pill-categories").textContent = d.categories.length;
+      $("#pill-pages").textContent = d.pages.length;
+      $("#pill-posts").textContent = d.posts.length;
+      $("#pill-inquiries").textContent = d.inquiries.length;
+      $("#pill-faq").textContent = ((d.faqPending || {}).items || []).length;
+      render();
+    });
+  }
+
+  var META = {
+    dashboard: ["运营总览", "内容健康度、SEO/GEO 状态与快捷操作"],
+    products: ["产品管理", "产品资料、规格、阶梯价与页面 SEO"],
+    categories: ["分类管理", "分类落地页内容与关键词"],
+    pages: ["页面 / 场景", "行业场景页与静态页"],
+    posts: ["内容文章", "GEO 收录用的指南文章"],
+    inquiries: ["询价单", "网站提交的报价请求"],
+    faq: ["FAQ 交付包", "起订量展示闸门、待确认事实与页型配额"],
+    geo: ["SEO / GEO 检查", "机器可读性与结构化数据体检"],
+    settings: ["站点设置", "品牌、联系方式、表单端点与统计"],
+    build: ["生成与发布", "重新生成静态站并查看部署说明"]
+  };
+
+  function setView(v, payload) {
+    view = v;
+    if (payload !== undefined) editing = payload;
+    $$("#nav button").forEach(function (b) { b.classList.toggle("on", b.getAttribute("data-view") === v); });
+    $("#view-title").textContent = META[v][0];
+    $("#view-sub").textContent = META[v][1];
+    render();
+  }
+
+  $$("#nav button").forEach(function (b) {
+    b.addEventListener("click", function () { setView(b.getAttribute("data-view"), null); });
+  });
+
+  function render() {
+    var el = $("#view"), act = $("#view-actions");
+    act.innerHTML = "";
+    if (view === "dashboard") return renderDashboard(el, act);
+    if (view === "products") return renderProducts(el, act);
+    if (view === "categories") return renderCategories(el, act);
+    if (view === "pages") return renderPages(el, act);
+    if (view === "posts") return renderPosts(el, act);
+    if (view === "inquiries") return renderInquiries(el, act);
+    if (view === "faq") return renderFaqPack(el, act);
+    if (view === "geo") return renderGeo(el, act);
+    if (view === "settings") return renderSettings(el, act);
+    if (view === "build") return renderBuild(el, act);
+  }
+
+  /* ---------- dashboard ---------- */
+  function renderDashboard(el, act) {
+    var a = DB.audit;
+    act.innerHTML = '<button class="btn primary" id="quick-build">生成网站</button>';
+    $("#quick-build").addEventListener("click", function () { setView("build"); });
+    var errs = a.issues.filter(function (i) { return i.level === "error"; }).length;
+    var warns = a.issues.filter(function (i) { return i.level === "warn"; }).length;
+    el.innerHTML =
+      '<div class="grid g4" style="margin-bottom:18px">' +
+        kpi(DB.products.length, "产品页面") + kpi(DB.categories.length, "分类落地页") +
+        kpi(DB.posts.length, "GEO 指南文章") + kpi(DB.inquiries.length, "已收到询价单") +
+      "</div>" +
+      '<div class="grid g4" style="margin-bottom:18px">' +
+        kpi(a.counts.faqs, "FAQ 条目（结构化问答）") + kpi(a.counts.tieredPrices, "阶梯价档位") +
+        kpi(a.geo.sitemaps, "站点地图文件") + kpi(errs + warns, "待处理内容问题") +
+      "</div>" +
+      '<div class="panel"><h2>内容体检</h2>' +
+        (a.issues.length
+          ? '<ul class="issue-list">' + a.issues.slice(0, 40).map(function (i) {
+              return '<li><span class="tag ' + (i.level === "error" ? "err" : i.level === "warn" ? "warn" : "info") + '">' + i.level + "</span><span>" + esc(i.area) + " <code>" + esc(i.item) + "</code></span></li>";
+            }).join("") + "</ul>" + (a.issues.length > 40 ? '<p class="muted">另有 ' + (a.issues.length - 40) + " 条，见 SEO/GEO 检查页。</p>" : "")
+          : '<p class="muted">未发现问题。</p>') +
+      "</div>" +
+      '<div class="panel"><h2>机器可读资产（GEO）</h2><table class="list"><tbody>' +
+        row2("llms.txt", a.geo.llmsTxt) + row2("llms-full.txt（含全部产品与指南全文）", a.geo.llmsFullTxt) +
+        row2("robots.txt（显式放行 AI 爬虫）", a.geo.robotsTxt) + row2("sitemap 文件数", a.geo.sitemaps) +
+        row2("结构化数据类型", a.geo.jsonLdTypes.join("、")) +
+        row2("静态站已生成", a.distBuilt ? "是" : "否 — 请到「生成与发布」执行") +
+      "</tbody></table></div>";
+  }
+  function kpi(n, label) { return '<div class="kpi"><b>' + n + "</b><span>" + esc(label) + "</span></div>"; }
+  function row2(k, v) {
+    var val = typeof v === "boolean" ? '<span class="tag ' + (v ? "ok" : "err") + '">' + (v ? "已生成" : "缺失") + "</span>" : esc(v);
+    return "<tr><th>" + esc(k) + "</th><td>" + val + "</td></tr>";
+  }
+
+  /* ---------- products ---------- */
+  var pQuery = "";
+  function renderProducts(el, act) {
+    if (editing) return renderProductEditor(el, act);
+    act.innerHTML = '<button class="btn primary" id="new-product">新增产品</button><button class="btn" id="build-now">生成网站</button>';
+    $("#new-product").addEventListener("click", function () {
+      editing = { slug: "", sku: "", name: "", category: DB.categories[0] ? DB.categories[0].slug : "", material: "Tritan copolyester", capacity: "", dimensions: "", unitWeight: "", carton: "", unitPrice: 0, tieredPrices: [], shortDescription: "", description: [""], features: [], applications: [], decorationOptions: [], packagingOptions: [], keywords: [], faqs: [], images: [], imageAlt: "", badges: [], featured: false, status: "published", seoTitle: "", seoDescription: "" };
+      editing.__new = true;
+      render();
+    });
+    $("#build-now").addEventListener("click", function () { setView("build"); });
+
+    var list = DB.products.filter(function (p) {
+      if (!pQuery) return true;
+      var h = (p.name + " " + p.sku + " " + p.categoryName + " " + p.material).toLowerCase();
+      return h.indexOf(pQuery.toLowerCase()) !== -1;
+    });
+    var catOpts = DB.categories.map(function (c) { return '<option value="' + c.slug + '">' + esc(c.name) + "</option>"; }).join("");
+    el.innerHTML =
+      '<input type="text" class="searchbox" id="pq" placeholder="搜索型号、名称、材质…" value="' + esc(pQuery) + '">' +
+      '<div class="panel"><h2>' + list.length + ' 个产品</h2><table class="list">' +
+      "<thead><tr><th>型号</th><th>名称</th><th>分类</th><th>报价方式</th><th>材质</th><th>内部参考单价</th><th>推荐</th><th></th></tr></thead><tbody>" +
+      list.slice(0, 400).map(function (p) {
+        return "<tr><td><code>" + esc(p.sku) + "</code></td><td>" + esc(p.name) + "</td><td>" + esc(p.categoryName || p.category) +
+          '</td><td><span class="pill-mode">仅询价</span></td><td>' + esc(p.material) + '</td><td class="muted">$' + Number(p.unitPrice || 0).toFixed(2) + "</td><td>" + (p.featured ? "★" : "") +
+          '</td><td class="actions-cell"><button class="btn sm" data-edit="' + esc(p.slug) + '">编辑</button> ' +
+          '<button class="btn sm danger" data-del="' + esc(p.slug) + '">删除</button></td></tr>';
+      }).join("") + "</tbody></table>" + (list.length > 400 ? '<p class="muted">仅显示前 400 条，请用搜索缩小范围。</p>' : "") + "</div>";
+
+    $("#pq").addEventListener("input", function () { pQuery = this.value; render(); });
+    $$("[data-edit]", el).forEach(function (b) {
+      b.addEventListener("click", function () {
+        var slug = b.getAttribute("data-edit");
+        editing = JSON.parse(JSON.stringify(DB.products.filter(function (p) { return p.slug === slug; })[0]));
+        render();
+      });
+    });
+    $$("[data-del]", el).forEach(function (b) {
+      b.addEventListener("click", function () {
+        var slug = b.getAttribute("data-del");
+        if (!confirm("确定删除产品 " + slug + "？此操作会直接写入数据文件。")) return;
+        api("delete", { type: "products", slug: slug }).then(function () { flash("已删除 " + slug); return boot(); });
+      });
+    });
+  }
+
+  function tierRows(tiers) {
+    var t = tiers && tiers.length ? tiers : [{ minQty: 1, unitPrice: 0, label: "" }, { minQty: 500, unitPrice: 0, label: "" }];
+    return t.map(function (x, i) {
+      return '<div class="row" data-tier="' + i + '">' +
+        '<label class="f" style="flex:1;margin:0"><span>起订量</span><input type="number" data-t="minQty" value="' + (x.minQty || 1) + '"></label>' +
+        '<label class="f" style="flex:1;margin:0"><span>单价 USD</span><input type="number" step="0.01" data-t="unitPrice" value="' + (x.unitPrice || 0) + '"></label>' +
+        '<label class="f" style="flex:2;margin:0"><span>档位说明</span><input type="text" data-t="label" value="' + esc(x.label || "") + '"></label>' +
+        '<button class="btn sm danger" type="button" data-rm-tier="' + i + '">删除</button></div>';
+    }).join("");
+  }
+
+  function faqEditor(faqs) {
+    return (faqs || []).map(function (f, i) {
+      return '<div class="sectioncard" data-faq="' + i + '"><div class="sc-head"><span>问答 ' + (i + 1) + '</span><button class="btn sm danger" type="button" data-rm-faq="' + i + '">删除</button></div>' +
+        '<label class="f"><span>问题</span><input type="text" data-f="q" value="' + esc(f.q) + '"></label>' +
+        '<label class="f"><span>答案</span><textarea data-f="a" style="min-height:70px">' + esc(f.a) + "</textarea></label></div>";
+    }).join("");
+  }
+
+  /* FAQ 交付包字段面板：MOQ 三种展示模式 / 阿里登记表绑定 / 装饰 / 理货。 */
+  function contractPanel(p) {
+    var c = DB.contract || {};
+    var modes = c.moqDisplayModes || {};
+    var mode = p.moq_display_mode || "quote_only";
+    var entries = (DB.register && DB.register.entries) || [];
+    var modeHints = {
+      quote_only: "不显示数字，使用交付包 MOQ 兜底话术（默认，全部 SKU 应处于此模式）",
+      published_verified: "仅当型号 / 订单路径与阿里登记表完全一致时才显示数字",
+      sample_private: "仅内部销售可见，前台不显示起订量或备货状态"
+    };
+    var options = ["quote_only", "published_verified", "sample_private"].map(function (m) {
+      return '<option value="' + m + '"' + (m === mode ? " selected" : "") + ">" + m + " — " + esc(modeHints[m] || (modes[m] || "")) + "</option>";
+    }).join("");
+    var entryOpts = '<option value="">（未绑定）</option>' + entries.map(function (e) {
+      return '<option value="' + esc(e.key) + '"' + (e.key === p.alibaba_listing_key ? " selected" : "") + ">" +
+        esc(e.key) + " — " + esc(e.moq) + " " + esc(e.unit) + "</option>";
+    }).join("");
+
+    return '<div class="panel"><h2>FAQ 交付包 · 起订量与事实字段</h2>' +
+      '<p class="hint"><b>MOQ 只能挂在 SKU / 型号上，绝不能作为类目字段公开。</b>公开数字的唯一路径是：展示模式 = published_verified，且已绑定阿里登记表条目、填写标准起订量与核验日期。' +
+      '禁止为了让表单看起来好填就把 MOQ 设成 500 或 1000。</p>' +
+      '<div class="grid g3">' +
+      field("MOQ 展示模式", '<select id="f-moq_display_mode">' + options + "</select>") +
+      field("标准起订量 <small>（standard_moq，留空 = 未确认）</small>", '<input type="number" id="f-standard_moq" value="' + (p.standard_moq || "") + '">') +
+      field("阿里登记表条目 <small>（alibaba_listing_key）</small>", '<select id="f-alibaba_listing_key">' + entryOpts + "</select>") +
+      field("起订量核验日期 <small>（alibaba_moq_verified_date）</small>", '<input type="date" id="f-alibaba_moq_verified_date" value="' + esc(p.alibaba_moq_verified_date || "") + '">') +
+      field("装饰起订量 <small>（decoration_moq）</small>", '<input type="number" id="f-decoration_moq" value="' + (p.decoration_moq || "") + '">') +
+      field("礼盒起订量 <small>（gift_box_moq）</small>", '<input type="number" id="f-gift_box_moq" value="' + (p.gift_box_moq || "") + '">') +
+      "</div>" +
+      '<div class="grid g3">' +
+      field("库存状态 <small>（决定 FOB 发运时效）</small>", '<select id="f-inventory_status">' +
+        ["build_to_order", "in_stock_sample", "no_stock"].map(function (v) {
+          return '<option value="' + v + '"' + (v === (p.inventory_status || "build_to_order") ? " selected" : "") + ">" + v + "</option>";
+        }).join("") + "</select>") +
+      field("数量档位", '<select id="f-order_quantity_band">' +
+        ["sample_or_small_batch", "1000_plus", "container"].map(function (v) {
+          return '<option value="' + v + '"' + (v === (p.order_quantity_band || "sample_or_small_batch") ? " selected" : "") + ">" + v + "</option>";
+        }).join("") + "</select>") +
+      field("产品系列", '<select id="f-product_family">' +
+        ["drinkware", "barware", "ice_bucket", "electric_appliance", "gift_set"].map(function (v) {
+          return '<option value="' + v + '"' + (v === (p.product_family || "drinkware") ? " selected" : "") + ">" + v + "</option>";
+        }).join("") + "</select>") +
+      "</div>" +
+      '<div class="grid g3">' +
+      field("可装饰工艺 <small>（一行一个）</small>", '<textarea id="f-decoration_methods" style="min-height:70px">' + esc((p.decoration_methods || []).join("\n")) + "</textarea>") +
+      field("可选 logo 位置 <small>（一行一个）</small>", '<textarea id="f-logo_positions" style="min-height:70px">' + esc((p.logo_positions || []).join("\n")) + "</textarea>") +
+      field("可组礼盒组合 <small>（一行一个）</small>", '<textarea id="f-available_gift_sets" style="min-height:70px">' + esc((p.available_gift_sets || []).join("\n")) + "</textarea>") +
+      "</div>" +
+      '<label class="f"><span>打样政策 <small>（sample_policy，留空则使用交付包兜底话术）</small></span><textarea id="f-sample_policy" style="min-height:60px">' + esc(p.sample_policy || "") + "</textarea></label>" +
+      '<label class="f"><span>材质与清洁说明 <small>（care_instructions）</small></span><textarea id="f-care_instructions" style="min-height:60px">' + esc(p.care_instructions || "") + "</textarea></label>" +
+      '<label class="f"><span>验货记录 <small>（quality_control_record，有记录才可对外引用）</small></span><textarea id="f-quality_control_record" style="min-height:60px">' + esc(p.quality_control_record || "") + "</textarea></label>" +
+      '<div class="grid g2">' +
+      field("标准包装", '<input type="text" id="f-standard_packaging" value="' + esc(p.standard_packaging || "") + '">') +
+      field("末次核验日期 <small>（last_verified_date）</small>", '<input type="date" id="f-last_verified_date" value="' + esc(p.last_verified_date || "") + '">') +
+      "</div></div>";
+  }
+
+  function renderProductEditor(el, act) {
+    var p = editing;
+    act.innerHTML = '<button class="btn primary" id="save-p">保存产品</button><button class="btn" id="cancel-p">返回列表</button>';
+    $("#cancel-p").addEventListener("click", function () { editing = null; render(); });
+    $("#save-p").addEventListener("click", saveProduct);
+
+    el.innerHTML =
+      '<div class="panel"><h2>' + (p.__new ? "新增产品" : "编辑：" + esc(p.sku)) + "</h2>" +
+      '<div class="grid g3">' +
+        field("型号 SKU", '<input type="text" id="f-sku" value="' + esc(p.sku) + '">') +
+        field("URL slug <small>（留空自动由型号生成）</small>", '<input type="text" id="f-slug" value="' + esc(p.slug) + '">') +
+        field("产品名称", '<input type="text" id="f-name" value="' + esc(p.name) + '">') +
+        field("分类", '<select id="f-category">' + DB.categories.map(function (c) {
+          return '<option value="' + c.slug + '"' + (c.slug === p.category ? " selected" : "") + ">" + esc(c.name) + "</option>";
+        }).join("") + "</select>") +
+        field("材质", '<input type="text" id="f-material" value="' + esc(p.material) + '">') +
+        field("容量", '<input type="text" id="f-capacity" value="' + esc(p.capacity) + '">') +
+        field("尺寸", '<input type="text" id="f-dimensions" value="' + esc(p.dimensions) + '">') +
+        field("单件重量", '<input type="text" id="f-unitWeight" value="' + esc(p.unitWeight) + '">') +
+        field("装箱 / 外箱", '<input type="text" id="f-carton" value="' + esc(p.carton) + '">') +
+        field("交期 <small>（FOB 发运时效，由库存状态 / 数量档位 / 产品系列自动推导，来自交付包四条规则）</small>", '<input type="text" id="f-leadTime" value="' + esc(p.leadTime || "FOB dispatch timing is confirmed against the selected SKU, approved artwork, packaging configuration, quantity, and agreed order route. Destination-specific freight arrival is quoted separately.") + '">') +
+        field("付款条款", '<input type="text" id="f-paymentTerms" value="' + esc(p.paymentTerms || "30% deposit, balance before shipment by bank transfer") + '">') +
+      "</div>" +
+      '<label class="f"><span>首页推荐</span><input type="checkbox" id="f-featured"' + (p.featured ? " checked" : "") + "> 在首页 Best sellers 中展示</label>" +
+      "</div>" +
+
+      '<div class="panel"><h2>短描述与正文</h2>' +
+      '<label class="f"><span>短描述 <small>（用于卡片与列表）</small></span><textarea id="f-shortDescription" style="min-height:60px">' + esc(p.shortDescription || "") + "</textarea></label>" +
+      '<label class="f"><span>正文段落 <small>（每段一行，空行分隔）</small></span><textarea id="f-description" style="min-height:180px">' + esc((p.description || []).join("\n\n")) + "</textarea></label>" +
+      '<div class="grid g2">' +
+      '<label class="f"><span>卖点特性 <small>（一行一条）</small></span><textarea id="f-features">' + esc((p.features || []).join("\n")) + "</textarea></label>" +
+      '<label class="f"><span>适用场景 <small>（一行一条）</small></span><textarea id="f-applications">' + esc((p.applications || []).join("\n")) + "</textarea></label>" +
+      "</div></div>" +
+
+      '<div class="panel"><h2>报价方式</h2><p class="hint">全站为<b>纯询价（quotation only）</b>。本厂支持 OEM / ODM 定制，颜色、印刷、包装、套装内容、电池规格与插头标准都可改，公开任何数字都不是这个 SKU 的真实成交价，所以前台不出现单价、价格区间、阶梯价与起订量数字。下面两项仅作后台内部参考，不会渲染到网站。</p>' +
+      '<div class="grid g2">' +
+      field("报价展示方式 <small>（固定为 quotation only）</small>", '<input type="text" id="f-pricingMode" value="quoteOnly" readonly>') +
+      field("内部基准单价 USD <small>（仅供报价测算，不对外展示）</small>", '<input type="number" step="0.01" id="f-unitPrice" value="' + (p.unitPrice || 0) + '">') +
+      "</div>" +
+      '<label class="f"><span>报价说明 <small>（展示在价格下方，英文；留空用默认文案）</small></span><textarea id="f-pricingNote" style="min-height:60px">' + esc(p.pricingNote || "") + "</textarea></label>" +
+      "</div>" +
+
+      '<div class="panel" id="tier-panel"><h2>阶梯价格（内部参考）</h2><p class="hint">这些档位<b>只用于内部报价测算，不在前台展示</b>。前台一律显示「Price on request · quoted per project」。报价时请按实际规格核算，不要把这里的数字直接当成交价发给客户。</p>' +
+      '<div id="tiers">' + tierRows(p.tieredPrices) + "</div>" +
+      '<button class="btn sm" type="button" id="add-tier">+ 增加档位</button></div>' +
+
+      contractPanel(p) +
+
+      '<div class="panel"><h2>页面 SEO</h2>' +
+      '<label class="f"><span>SEO 标题 <small>（建议 ≤66 字符，当前 <b id="c-title">0</b>）</small></span><input type="text" id="f-seoTitle" value="' + esc(p.seoTitle || "") + '"></label>' +
+      '<label class="f"><span>Meta 描述 <small>（建议 ≤158 字符，当前 <b id="c-desc">0</b>）</small></span><textarea id="f-seoDescription" style="min-height:60px">' + esc(p.seoDescription || "") + "</textarea></label>" +
+      '<label class="f"><span>图片 alt 文本</span><input type="text" id="f-imageAlt" value="' + esc(p.imageAlt || "") + '"></label>' +
+      '<label class="f"><span>关键词 <small>（一行一个）</small></span><textarea id="f-keywords" style="min-height:70px">' + esc((p.keywords || []).join("\n")) + "</textarea></label>" +
+      "</div>" +
+
+      '<div class="panel"><h2>产品图片 <small>（第一张为主图，用于产品页、列表卡片与社交分享 og:image）</small></h2>' +
+      '<label class="f"><span>图片列表 <small>（一行一个路径，如 /assets/img/products/xxx.jpg，可删可排序）</small></span><textarea id="f-images" style="min-height:100px">' + esc((p.images || []).join("\n")) + "</textarea></label>" +
+      '<div id="img-preview"></div>' +
+      '<label class="f"><span>上传新图片 <small>（可多选 jpg/png/webp/avif，自动按「型号-序号」命名，同名覆盖即换图）</small></span><input type="file" id="f-imgfile" accept="image/jpeg,image/png,image/webp,image/avif,image/gif" multiple></label>' +
+      '<p id="img-status" style="margin:4px 0 0;color:#5a6b7b;font-size:13px"></p>' +
+      "</div>" +
+
+      '<div class="panel"><h2>产品 FAQ <small>（会输出为 FAQPage 结构化数据，AI 搜索的重要入口）</small></h2>' +
+      '<div id="faqs">' + faqEditor(p.faqs) + "</div>" +
+      '<button class="btn sm" type="button" id="add-faq">+ 增加问答</button></div>';
+
+    $("#add-tier").addEventListener("click", function () {
+      $("#tiers").insertAdjacentHTML("beforeend", tierRows([{ minQty: 0, unitPrice: 0, label: "" }]));
+    });
+    $("#add-faq").addEventListener("click", function () {
+      $("#faqs").insertAdjacentHTML("beforeend", faqEditor([{ q: "", a: "" }]));
+    });
+    el.addEventListener("click", function (e) {
+      if (e.target.getAttribute("data-rm-tier") !== null && e.target.getAttribute("data-rm-tier") !== undefined) e.target.parentElement.remove();
+      if (e.target.getAttribute("data-rm-faq") !== null && e.target.getAttribute("data-rm-faq") !== undefined) e.target.parentElement.remove();
+    });
+    var upd = function () {
+      $("#c-title").textContent = $("#f-seoTitle").value.length;
+      $("#c-desc").textContent = $("#f-seoDescription").value.length;
+    };
+    $("#f-seoTitle").addEventListener("input", upd);
+    $("#f-seoDescription").addEventListener("input", upd);
+    upd();
+
+    // --- 产品图片：预览与上传 ---
+    var imgLines = function () { return lines($("#f-images").value); };
+    var refreshImgPreview = function () {
+      var imgs = imgLines();
+      $("#img-preview").innerHTML = imgs.length
+        ? imgs.map(function (src, i) {
+            return '<figure class="img-thumb' + (i === 0 ? " main" : "") + '"><img src="' + esc(src) + '" alt=""><figcaption>' + (i === 0 ? "主图" : i + 1) + "</figcaption></figure>";
+          }).join("")
+        : '<p style="color:#98a7b5;font-size:13px;margin:4px 0">暂无图片</p>';
+    };
+    $("#f-images").addEventListener("input", refreshImgPreview);
+    refreshImgPreview();
+
+    $("#f-imgfile").addEventListener("change", function (ev) {
+      var files = Array.prototype.slice.call(ev.target.files || []);
+      if (!files.length) return;
+      var base = slugify($("#f-slug").value.trim() || $("#f-sku").value.trim() || "product");
+      var existing = imgLines();
+      var counter = existing.filter(function (s) { return s.indexOf("/assets/img/products/" + base + "-") === 0; }).length + 1;
+      var status = $("#img-status");
+      var done = 0, ok = 0;
+      var finishOne = function () {
+        done++;
+        status.textContent = "上传中… " + done + "/" + files.length;
+        if (done === files.length) {
+          status.textContent = "上传完成：" + ok + "/" + files.length + " 张成功" + (ok === files.length ? "" : "（失败请检查文件格式）");
+          ev.target.value = "";
+          refreshImgPreview();
+        }
+      };
+      files.forEach(function (file) {
+        var ext = (file.name.match(/\.(jpe?g|png|webp|avif|gif)$/i) || ["", ".jpg"])[1].toLowerCase();
+        if (ext === "jpeg") ext = "jpg";
+        var fname = base + "-" + (counter < 10 ? "0" + counter : counter) + ext;
+        counter++;
+        fetch("/admin/api/upload-image?filename=" + encodeURIComponent(fname), {
+          method: "POST",
+          headers: { "Content-Type": file.type || "application/octet-stream" },
+          body: file
+        }).then(function (r) { return r.json(); }).then(function (j) {
+          if (j.ok && j.path && imgLines().indexOf(j.path) === -1) {
+            $("#f-images").value = ($("#f-images").value.replace(/\s+$/, "") + "\n" + j.path).trim();
+            ok++;
+          }
+          finishOne();
+        }).catch(function () { finishOne(); });
+      });
+    });
+  }
+
+  function field(label, input) { return '<label class="f"><span>' + label + "</span>" + input + "</label>"; }
+
+  function lines(v) { return v.split("\n").map(function (s) { return s.trim(); }).filter(Boolean); }
+
+  function saveProduct() {
+    var p = editing;
+    var catSlug = $("#f-category").value;
+    var cat = DB.categories.filter(function (c) { return c.slug === catSlug; })[0] || {};
+    var tiers = $$("#tiers .row").map(function (r) {
+      return {
+        minQty: Number($('[data-t="minQty"]', r).value) || 1,
+        unitPrice: Number($('[data-t="unitPrice"]', r).value) || 0,
+        label: $('[data-t="label"]', r).value
+      };
+    }).filter(function (t) { return t.unitPrice > 0; });
+    var faqs = $$("#faqs .sectioncard").map(function (c) {
+      return { q: $("[data-f=q]", c).value.trim(), a: $("[data-f=a]", c).value.trim() };
+    }).filter(function (f) { return f.q && f.a; });
+
+    // Pricing is quotation-only sitewide, so the mode is fixed and no MOQ field
+    // is written. tieredPrices and the base unit cost stay internal.
+    var pricingMode = "quoteOnly";
+    var prices = tiers.map(function (t) { return t.unitPrice; }).filter(function (n) { return n > 0; });
+    var modeLabels = { quoteOnly: "Quotation only" };
+    var defaultNotes = {
+      quoteOnly: "Priced per project. Logo, colour, packaging, set contents, battery format and plug standard are all configurable on our own tooling, so the unit price is quoted against your confirmed specification. OEM and ODM projects are welcome — send a drawing, a reference sample or a target cost and we return a firm quotation."
+    };
+
+    var item = {
+      sku: $("#f-sku").value.trim(),
+      slug: ($("#f-slug").value.trim() || slugify($("#f-sku").value + "-" + $("#f-name").value)),
+      name: $("#f-name").value.trim(),
+      category: catSlug,
+      categoryName: cat.name || catSlug,
+      material: $("#f-material").value.trim(),
+      capacity: $("#f-capacity").value.trim(),
+      dimensions: $("#f-dimensions").value.trim(),
+      unitWeight: $("#f-unitWeight").value.trim(),
+      carton: $("#f-carton").value.trim(),
+      unitPrice: Number($("#f-unitPrice").value) || 0,
+      pricingMode: pricingMode,
+      pricingLabel: modeLabels[pricingMode],
+      pricingNote: $("#f-pricingNote").value.trim() || defaultNotes[pricingMode],
+      priceFrom: prices.length ? Math.min.apply(null, prices) : 0,
+      priceHigh: prices.length ? Math.max.apply(null, prices) : 0,
+      // No moqQty is written: a price tier is not an MOQ, and the public MOQ
+      // comes from standard_moq + the Alibaba register only.
+      moqQty: null,
+      priceOnRequest: true,
+      tieredPrices: tiers,
+      leadTime: $("#f-leadTime").value.trim(),
+      paymentTerms: $("#f-paymentTerms").value.trim(),
+      featured: $("#f-featured").checked,
+      shortDescription: $("#f-shortDescription").value.trim(),
+      description: $("#f-description").value.split(/\n\s*\n/).map(function (s) { return s.trim(); }).filter(Boolean),
+      features: lines($("#f-features").value),
+      applications: lines($("#f-applications").value),
+      seoTitle: $("#f-seoTitle").value.trim(),
+      seoDescription: $("#f-seoDescription").value.trim(),
+      imageAlt: $("#f-imageAlt").value.trim(),
+      images: lines($("#f-images").value),
+      keywords: lines($("#f-keywords").value),
+      faqs: faqs,
+      decorationOptions: p.decorationOptions || [],
+      packagingOptions: p.packagingOptions || [],
+      badges: p.badges || [],
+      status: "published",
+      // --- FAQ 交付包字段 ---
+      moq_display_mode: $("#f-moq_display_mode").value,
+      standard_moq: Number($("#f-standard_moq").value) || null,
+      decoration_moq: Number($("#f-decoration_moq").value) || null,
+      gift_box_moq: Number($("#f-gift_box_moq").value) || null,
+      alibaba_listing_key: $("#f-alibaba_listing_key").value,
+      alibaba_moq_verified_date: $("#f-alibaba_moq_verified_date").value,
+      inventory_status: $("#f-inventory_status").value,
+      order_quantity_band: $("#f-order_quantity_band").value,
+      product_family: $("#f-product_family").value,
+      decoration_methods: lines($("#f-decoration_methods").value),
+      logo_positions: lines($("#f-logo_positions").value),
+      available_gift_sets: lines($("#f-available_gift_sets").value),
+      sample_policy: $("#f-sample_policy").value.trim(),
+      care_instructions: $("#f-care_instructions").value.trim(),
+      quality_control_record: $("#f-quality_control_record").value.trim(),
+      standard_packaging: $("#f-standard_packaging").value.trim(),
+      last_verified_date: $("#f-last_verified_date").value
+    };
+    if (!item.sku || !item.name) return flash("型号和名称必填", "err");
+
+    // 交付包硬规则：published_verified 必须同时具备登记表条目、标准起订量和核验日期。
+    if (item.moq_display_mode === "published_verified") {
+      if (!item.alibaba_listing_key) return flash("published_verified 必须先绑定阿里登记表条目", "err");
+      if (!item.standard_moq) return flash("published_verified 必须填写标准起订量", "err");
+      if (!item.alibaba_moq_verified_date) return flash("published_verified 必须填写起订量核验日期", "err");
+    }
+
+    api("data", { type: "products", item: item, originalSlug: p.__new ? null : p.slug }).then(function () {
+      flash("已保存 " + item.sku + "（记得点「生成网站」刷新静态站）");
+      editing = null;
+      return boot();
+    });
+  }
+
+  function slugify(s) {
+    return String(s).toLowerCase().replace(/[®™]/g, "").replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "").replace(/-+/g, "-");
+  }
+
+  /* ---------- categories ---------- */
+  function renderCategories(el, act) {
+    if (editing && editing.__kind === "category") return renderGenericEditor(el, act, "categories");
+    act.innerHTML = '<button class="btn primary" id="new-cat">新增分类</button>';
+    $("#new-cat").addEventListener("click", function () {
+      editing = { __kind: "category", __new: true, slug: "", name: "", kicker: "", h1: "", blurb: "", longDesc: "", materialFocus: "", bestFor: [], priceBand: "", seoTitle: "", seoDescription: "", keywords: [], faqs: [] };
+      render();
+    });
+    el.innerHTML = '<div class="panel"><h2>' + DB.categories.length + ' 个分类</h2><table class="list"><thead><tr><th>Slug</th><th>名称</th><th>产品数</th><th>SEO 标题</th><th></th></tr></thead><tbody>' +
+      DB.categories.map(function (c) {
+        return "<tr><td><code>" + esc(c.slug) + "</code></td><td>" + esc(c.name) + "</td><td>" + (c.productCount || 0) +
+          '</td><td class="muted">' + esc(c.seoTitle || "") + '</td><td class="actions-cell"><button class="btn sm" data-edit="' + esc(c.slug) + '">编辑</button></td></tr>';
+      }).join("") + "</tbody></table></div>";
+    $$("[data-edit]", el).forEach(function (b) {
+      b.addEventListener("click", function () {
+        editing = JSON.parse(JSON.stringify(DB.categories.filter(function (c) { return c.slug === b.getAttribute("data-edit"); })[0]));
+        editing.__kind = "category";
+        render();
+      });
+    });
+  }
+
+  /* ---------- pages ---------- */
+  function renderPages(el, act) {
+    if (editing && editing.__kind === "page") return renderGenericEditor(el, act, "pages");
+    act.innerHTML = '<button class="btn primary" id="new-page">新增页面</button>';
+    $("#new-page").addEventListener("click", function () {
+      editing = { __kind: "page", __new: true, slug: "", type: "industry", kicker: "Who we serve", h1: "", intro: "", title: "", seoTitle: "", seoDescription: "", keywords: [], painPoints: [], sections: [], recommendedCollections: [], faqs: [] };
+      render();
+    });
+    el.innerHTML = '<div class="panel"><h2>' + DB.pages.length + ' 个页面</h2><table class="list"><thead><tr><th>Slug</th><th>类型</th><th>H1</th><th>FAQ</th><th></th></tr></thead><tbody>' +
+      DB.pages.map(function (p) {
+        return "<tr><td><code>" + esc(p.slug) + "</code></td><td><span class=\"tag " + (p.type === "industry" ? "info" : "") + "\">" + esc(p.type) + "</span></td><td>" + esc(p.h1) +
+          "</td><td>" + ((p.faqs || []).length) + '</td><td class="actions-cell"><button class="btn sm" data-edit="' + esc(p.slug) + '">编辑</button> ' +
+          '<button class="btn sm danger" data-del="' + esc(p.slug) + '">删除</button></td></tr>';
+      }).join("") + "</tbody></table></div>";
+    $$("[data-edit]", el).forEach(function (b) {
+      b.addEventListener("click", function () {
+        editing = JSON.parse(JSON.stringify(DB.pages.filter(function (p) { return p.slug === b.getAttribute("data-edit"); })[0]));
+        editing.__kind = "page";
+        render();
+      });
+    });
+    $$("[data-del]", el).forEach(function (b) {
+      b.addEventListener("click", function () {
+        var slug = b.getAttribute("data-del");
+        if (!confirm("删除页面 " + slug + "？")) return;
+        api("delete", { type: "pages", slug: slug }).then(function () { return boot(); });
+      });
+    });
+  }
+
+  /* ---------- posts ---------- */
+  function renderPosts(el, act) {
+    if (editing && editing.__kind === "post") return renderGenericEditor(el, act, "posts");
+    act.innerHTML = '<button class="btn primary" id="new-post">新增文章</button>';
+    $("#new-post").addEventListener("click", function () {
+      editing = { __kind: "post", __new: true, slug: "", title: "", h1: "", date: new Date().toISOString().slice(0, 10), author: "BYF BOOM Product Team", category: "Sourcing guide", excerpt: "", seoTitle: "", seoDescription: "", keywords: [], readingMinutes: 5, sections: [], faqs: [] };
+      render();
+    });
+    el.innerHTML = '<div class="panel"><h2>' + DB.posts.length + ' 篇文章</h2><table class="list"><thead><tr><th>日期</th><th>标题</th><th>分类</th><th>FAQ</th><th></th></tr></thead><tbody>' +
+      DB.posts.map(function (p) {
+        return "<tr><td class=\"muted\">" + esc(p.date) + "</td><td>" + esc(p.title) + "</td><td>" + esc(p.category) + "</td><td>" + ((p.faqs || []).length) +
+          '</td><td class="actions-cell"><button class="btn sm" data-edit="' + esc(p.slug) + '">编辑</button> ' +
+          '<button class="btn sm danger" data-del="' + esc(p.slug) + '">删除</button></td></tr>';
+      }).join("") + "</tbody></table></div>";
+    $$("[data-edit]", el).forEach(function (b) {
+      b.addEventListener("click", function () {
+        editing = JSON.parse(JSON.stringify(DB.posts.filter(function (p) { return p.slug === b.getAttribute("data-edit"); })[0]));
+        editing.__kind = "post";
+        render();
+      });
+    });
+    $$("[data-del]", el).forEach(function (b) {
+      b.addEventListener("click", function () {
+        var slug = b.getAttribute("data-del");
+        if (!confirm("删除文章 " + slug + "？")) return;
+        api("delete", { type: "posts", slug: slug }).then(function () { return boot(); });
+      });
+    });
+  }
+
+  /* ---------- generic editor for categories / pages / posts ---------- */
+  function sectionEditor(sections) {
+    return (sections || []).map(function (s, i) {
+      return '<div class="sectioncard" data-sec="' + i + '"><div class="sc-head"><span>章节 ' + (i + 1) + '</span>' +
+        '<button class="btn sm danger" type="button" data-rm-sec="' + i + '">删除</button></div>' +
+        '<label class="f"><span>小标题 H2</span><input type="text" data-s="h2" value="' + esc(s.h2) + '"></label>' +
+        '<label class="f"><span>正文段落 <small>（每段一行）</small></span><textarea data-s="body">' + esc((s.body || []).join("\n")) + "</textarea></label>" +
+        '<label class="f"><span>要点列表 <small>（一行一条，可留空）</small></span><textarea data-s="bullets" style="min-height:60px">' + esc((s.bullets || []).join("\n")) + "</textarea></label></div>";
+    }).join("");
+  }
+
+  function renderGenericEditor(el, act, type) {
+    var it = editing;
+    var isPost = type === "posts";
+    act.innerHTML = '<button class="btn primary" id="save-g">保存</button><button class="btn" id="cancel-g">返回列表</button>';
+    $("#cancel-g").addEventListener("click", function () { editing = null; render(); });
+    $("#save-g").addEventListener("click", function () {
+      var item = {
+        slug: $("#g-slug").value.trim() || slugify($("#g-h1").value || $("#g-name").value || "page"),
+        kicker: $("#g-kicker") ? $("#g-kicker").value.trim() : undefined,
+        h1: $("#g-h1").value.trim(),
+        name: $("#g-name") ? $("#g-name").value.trim() : undefined,
+        blurb: $("#g-blurb") ? $("#g-blurb").value.trim() : undefined,
+        longDesc: $("#g-longDesc") ? $("#g-longDesc").value.trim() : undefined,
+        materialFocus: $("#g-materialFocus") ? $("#g-materialFocus").value.trim() : undefined,
+        priceBand: $("#g-priceBand") ? $("#g-priceBand").value.trim() : undefined,
+        intro: $("#g-intro") ? $("#g-intro").value.trim() : undefined,
+        type: $("#g-type") ? $("#g-type").value : undefined,
+        title: $("#g-title") ? $("#g-title").value.trim() : undefined,
+        date: $("#g-date") ? $("#g-date").value : undefined,
+        author: $("#g-author") ? $("#g-author").value.trim() : undefined,
+        category: $("#g-category") ? $("#g-category").value.trim() : undefined,
+        readingMinutes: $("#g-reading") ? Number($("#g-reading").value) : undefined,
+        excerpt: $("#g-excerpt") ? $("#g-excerpt").value.trim() : undefined,
+        seoTitle: $("#g-seoTitle").value.trim(),
+        seoDescription: $("#g-seoDescription").value.trim(),
+        keywords: lines($("#g-keywords").value),
+        bestFor: $("#g-bestFor") ? lines($("#g-bestFor").value) : undefined,
+        painPoints: $("#g-painPoints") ? lines($("#g-painPoints").value) : undefined,
+        recommendedCollections: $("#g-recCollections") ? lines($("#g-recCollections").value) : undefined,
+        sections: $("#sections .sectioncard").map(function (c) {
+          return {
+            h2: $("[data-s=h2]", c).value.trim(),
+            body: lines($("[data-s=body]", c).value),
+            bullets: lines($("[data-s=bullets]", c).value)
+          };
+        }).filter(function (s) { return s.h2; }),
+        faqs: $$("#faqs .sectioncard").map(function (c) {
+          return { q: $("[data-f=q]", c).value.trim(), a: $("[data-f=a]", c).value.trim() };
+        }).filter(function (f) { return f.q && f.a; })
+      };
+      Object.keys(item).forEach(function (k) { if (item[k] === undefined) delete item[k]; });
+      if (type === "categories") item.order = Number($("#g-order").value) || 99;
+      api("data", { type: type, item: item, originalSlug: it.__new ? null : it.slug }).then(function () {
+        flash("已保存");
+        editing = null;
+        return boot();
+      });
+    });
+
+    el.innerHTML =
+      '<div class="panel"><h2>' + (it.__new ? "新增" : "编辑：" + esc(it.slug)) + "</h2><div class=\"grid g2\">" +
+      field("Slug", '<input type="text" id="g-slug" value="' + esc(it.slug) + '">') +
+      (type === "categories" ? field("排序", '<input type="number" id="g-order" value="' + (it.order || 99) + '">') : "") +
+      (type === "categories" ? field("简称", '<input type="text" id="g-name" value="' + esc(it.name) + '">') : "") +
+      (type !== "categories" ? field("顶部标签 kicker", '<input type="text" id="g-kicker" value="' + esc(it.kicker || "") + '">') : "") +
+      (type === "pages" ? field("页面类型", '<select id="g-type"><option value="industry"' + (it.type === "industry" ? " selected" : "") + '>industry（场景页）</option><option value="static"' + (it.type === "static" ? " selected" : "") + ">static（静态页）</option></select>") : "") +
+      (isPost ? field("发布日期", '<input type="date" id="g-date" value="' + esc(it.date || "") + '">') : "") +
+      (isPost ? field("作者", '<input type="text" id="g-author" value="' + esc(it.author || "") + '">') : "") +
+      (isPost ? field("文章分类", '<input type="text" id="g-category" value="' + esc(it.category || "") + '">') : "") +
+      (isPost ? field("阅读时长（分钟）", '<input type="number" id="g-reading" value="' + (it.readingMinutes || 5) + '">') : "") +
+      "</div>" +
+      field("H1 主标题", '<input type="text" id="g-h1" value="' + esc(it.h1 || "") + '">') +
+      (type === "categories" ? field("卡片简介 blurb", '<textarea id="g-blurb" style="min-height:60px">' + esc(it.blurb || "") + "</textarea>") : "") +
+      (type === "categories" ? field("长描述 longDesc", '<textarea id="g-longDesc">' + esc(it.longDesc || "") + "</textarea>") : "") +
+      (type !== "categories" ? field(isPost ? "摘要 excerpt" : "导语 intro", '<textarea id="g-' + (isPost ? "excerpt" : "intro") + '" style="min-height:70px">' + esc((isPost ? it.excerpt : it.intro) || "") + "</textarea>") : "") +
+      (type === "pages" ? field("页面 title", '<input type="text" id="g-title" value="' + esc(it.title || "") + '">') : "") +
+      (type === "categories" ? '<div class="grid g2">' + field("材质重点", '<input type="text" id="g-materialFocus" value="' + esc(it.materialFocus || "") + '">') + field("价格区间描述 <small>（内部参考，不对外展示）</small>", '<input type="text" id="g-priceBand" value="' + esc(it.priceBand || "") + '">') + "</div>" : "") +
+      (type === "categories" ? field("适用客户 <small>（一行一条）</small>", '<textarea id="g-bestFor">' + esc((it.bestFor || []).join("\n")) + "</textarea>") : "") +
+      (type === "pages" ? field("客户痛点 <small>（一行一条）</small>", '<textarea id="g-painPoints">' + esc((it.painPoints || []).join("\n")) + "</textarea>") : "") +
+      (type === "pages" ? field("推荐分类 slug <small>（一行一条）</small>", '<textarea id="g-recCollections" style="min-height:60px">' + esc((it.recommendedCollections || []).join("\n")) + "</textarea>") : "") +
+      "</div>" +
+
+      '<div class="panel"><h2>页面 SEO</h2>' +
+      field("SEO 标题 <small>（当前 <b id=\"c-title\">0</b> 字符）</small>", '<input type="text" id="g-seoTitle" value="' + esc(it.seoTitle || "") + '">') +
+      field("Meta 描述 <small>（当前 <b id=\"c-desc\">0</b> 字符）</small>", '<textarea id="g-seoDescription" style="min-height:60px">' + esc(it.seoDescription || "") + "</textarea>") +
+      field("关键词 <small>（一行一条）</small>", '<textarea id="g-keywords" style="min-height:70px">' + esc((it.keywords || []).join("\n")) + "</textarea>") +
+      "</div>" +
+
+      '<div class="panel"><h2>正文章节</h2><div id="sections">' + sectionEditor(it.sections) + '</div>' +
+      '<button class="btn sm" type="button" id="add-sec">+ 增加章节</button></div>' +
+
+      '<div class="panel"><h2>FAQ <small>（输出 FAQPage 结构化数据）</small></h2><div id="faqs">' + faqEditor(it.faqs) + '</div>' +
+      '<button class="btn sm" type="button" id="add-faq2">+ 增加问答</button></div>';
+
+    $("#add-sec").addEventListener("click", function () { $("#sections").insertAdjacentHTML("beforeend", sectionEditor([{ h2: "", body: [], bullets: [] }])); });
+    $("#add-faq2").addEventListener("click", function () { $("#faqs").insertAdjacentHTML("beforeend", faqEditor([{ q: "", a: "" }])); });
+    el.addEventListener("click", function (e) {
+      var t = e.target;
+      if (t.hasAttribute("data-rm-sec")) t.parentElement.parentElement.remove();
+      if (t.hasAttribute("data-rm-faq")) t.parentElement.parentElement.remove();
+    });
+    var upd = function () {
+      $("#c-title").textContent = $("#g-seoTitle").value.length;
+      $("#c-desc").textContent = $("#g-seoDescription").value.length;
+    };
+    $("#g-seoTitle").addEventListener("input", upd);
+    $("#g-seoDescription").addEventListener("input", upd);
+    upd();
+  }
+
+  /* ---------- inquiries ---------- */
+  function renderInquiries(el, act) {
+    act.innerHTML = '<a class="btn" href="/admin/api/export">导出 CSV</a><button class="btn" id="refresh-inq">刷新</button>';
+    $("#refresh-inq").addEventListener("click", boot);
+    if (!DB.inquiries.length) {
+      el.innerHTML = '<div class="panel"><h2>询价单</h2><p class="muted">还没有收到询价单。买家在网站 /quote/ 页提交后会出现在这里（需在「站点设置」里配置表单接收端点并指向本机 /api/inquiry，或直接使用邮件回退方案）。</p></div>';
+      return;
+    }
+    el.innerHTML = '<div class="panel"><h2>' + DB.inquiries.length + ' 条询价单</h2><table class="list"><thead><tr><th>时间</th><th>公司 / 联系人</th><th>邮箱</th><th>国家</th><th>客户类型</th><th>需求</th><th></th></tr></thead><tbody>' +
+      DB.inquiries.map(function (i) {
+        return "<tr><td class=\"muted\">" + esc((i.receivedAt || "").slice(0, 16).replace("T", " ")) + "</td><td>" + esc(i.company) + "<br><span class=\"muted\">" + esc(i.name) +
+          "</span></td><td><a href=\"mailto:" + esc(i.email) + "\">" + esc(i.email) + "</a></td><td>" + esc(i.country) + "</td><td>" + esc(i.buyerType) +
+          "</td><td class=\"muted\">" + esc((i.needs || "").slice(0, 60)) + '</td><td class="actions-cell"><button class="btn sm" data-view-inq="' + esc(i.id) + '">查看</button> ' +
+          '<button class="btn sm danger" data-del-inq="' + esc(i.id) + '">删除</button></td></tr>';
+      }).join("") + "</tbody></table></div>";
+    $$("[data-view-inq]", el).forEach(function (b) {
+      b.addEventListener("click", function () {
+        var i = DB.inquiries.filter(function (x) { return x.id === b.getAttribute("data-view-inq"); })[0];
+        alert(["公司: " + i.company, "联系人: " + i.name, "邮箱: " + i.email, "电话: " + i.phone, "国家: " + i.country,
+          "客户类型: " + i.buyerType, "需求: " + i.needs, "计价方式: 逐 SKU 报价（网站不公开价格）", "", "询价清单:", i.quoteList || "(空)", "", "备注: " + i.notes].join("\n"));
+      });
+    });
+    $$("[data-del-inq]", el).forEach(function (b) {
+      b.addEventListener("click", function () {
+        api("inquiries", { action: "delete", id: b.getAttribute("data-del-inq") }).then(function () { return boot(); });
+      });
+    });
+  }
+
+  /* ---------- FAQ 交付包 ---------- */
+  function renderFaqPack(el, act) {
+    act.innerHTML = '<button class="btn" id="reaudit-faq">重新检查</button>';
+    $("#reaudit-faq").addEventListener("click", function () { api("audit").then(function (a) { DB.audit = a; render(); flash("检查完成"); }); });
+
+    var c = DB.contract || {};
+    var modes = c.moqDisplayModes || {};
+    var bands = {
+      "首页": [4, 5], "类目页": [5, 8], "SKU 页": [6, 10], "指南页": [6, 10], "行业页": [5, 8]
+    };
+    var counts = { quote_only: 0, published_verified: 0, sample_private: 0 };
+    var unset = [];
+    DB.products.forEach(function (p) {
+      var m = p.moq_display_mode || "quote_only";
+      counts[m] = (counts[m] || 0) + 1;
+      if (!p.inventory_status) unset.push(p.sku);
+    });
+    var fams = {};
+    DB.products.forEach(function (p) { var f = p.product_family || "未设置"; fams[f] = (fams[f] || 0) + 1; });
+
+    var pending = (DB.faqPending && DB.faqPending.items) || [];
+    el.innerHTML =
+      '<div class="panel"><h2>公开闸门状态</h2>' +
+      '<p class="hint">交付包的硬规则：<b>没写进记录的 MOQ / 价格 / 交期 / 认证 / 运输 / 库存 / 材质 / 性能宣称，一律不对外发布。</b>下面三个计数必须满足：published_verified 的每一个 SKU 都绑定了阿里登记表条目，且 quote_only 之外的任何模式都不会绕过闸门。</p>' +
+      '<div class="grid g3">' +
+      statCard("quote_only（不公开数字）", counts.quote_only, "muted") +
+      statCard("published_verified（已核验）", counts.published_verified, counts.published_verified ? "ok" : "muted") +
+      statCard("sample_private（仅内部）", counts.sample_private, "muted") +
+      "</div>" +
+      '<p class="muted" style="margin-top:12px">' + esc(modes.quote_only || "") + "</p>" +
+      (unset.length ? '<p class="hint">未填库存状态的 SKU：' + unset.length + ' 个（FOB 发运时效推导依赖该字段）</p>' : "") +
+      "</div>" +
+
+      '<div class="panel"><h2>各页型 FAQ 配额</h2><table class="list"><thead><tr><th>页型</th><th>交付包区间</th><th>说明</th></tr></thead><tbody>' +
+      Object.keys(bands).map(function (k) {
+        return "<tr><td>" + k + "</td><td><b>" + bands[k][0] + "–" + bands[k][1] + "</b></td><td class=\"muted\">" +
+          ({ "首页": "4–5 条品牌与批发基础问题", "类目页": "5–8 条，只讲规则不讲类目 MOQ", "SKU 页": "6–10 条，9 问模板按字段门控", "指南页": "6–10 条", "行业页": "5–8 条" })[k] + "</td></tr>";
+      }).join("") + "</tbody></table>" +
+      '<p class="muted" style="margin-top:12px">当前全站 FAQ 总数：<b>' + DB.audit.counts.faqs.toLocaleString() + "</b> 条。构建时会逐页复核配额，越界会写进 dist/faq-audit.json。</p></div>" +
+
+      '<div class="panel"><h2>待你确认后才能公开的事实（' + pending.length + "）</h2>" +
+      '<p class="hint">这些问题的答案写进产品字段后，才能从 <code>quote_only</code> 切换到公开数字。在此之前网站一律使用交付包批准的兜底话术。<b>不要为了填表好看而随便给一个 500 / 1000。</b></p>' +
+      (pending.length
+        ? '<ul class="issue-list">' + pending.map(function (q) {
+            return '<li><span class="tag info">待确认</span><span><b>' + esc(q.question) + '</b><br><span class="muted">' +
+              esc(q.toConfirm || "") + '</span><br><span class="muted">参考：' + esc(q.reference || "—") + "</span></span></li>";
+          }).join("") + "</ul>"
+        : '<p class="muted">没有待确认事项。</p>') +
+      "</div>" +
+
+      '<div class="panel"><h2>产品系列分布</h2><table class="list"><tbody>' +
+      Object.keys(fams).map(function (f) { return row2(f, fams[f]); }).join("") +
+      "</tbody></table>" +
+      '<p class="muted" style="margin-top:12px">MOQ 是 SKU / 型号字段，绝不做成类目字段；产品系列只用来决定 FOB 发运时效与页面归属。</p></div>' +
+
+      '<div class="panel"><h2>事实兜底话术（交付包批准）</h2><table class="list"><tbody>' +
+      row2("MOQ", (c.fallbacks || {}).moq || "—") +
+      row2("发运时效", (c.fallbacks || {}).lead_time || "—") +
+      row2("打样", (c.fallbacks || {}).sample || "—") +
+      "</tbody></table></div>";
+  }
+
+  function statCard(label, value, tone) {
+    return '<div class="panel" style="margin:0"><div class="muted" style="font-size:12px">' + esc(label) + "</div>" +
+      '<div style="font-size:30px;font-weight:700;margin-top:4px">' + value + "</div></div>";
+  }
+
+  /* ---------- geo audit ---------- */
+  function renderGeo(el, act) {
+    act.innerHTML = '<button class="btn" id="reaudit">重新检查</button>';
+    $("#reaudit").addEventListener("click", function () { api("audit").then(function (a) { DB.audit = a; render(); flash("检查完成"); }); });
+    var a = DB.audit;
+    el.innerHTML =
+      '<div class="panel"><h2>机器可读资产</h2><table class="list"><tbody>' +
+        row2("llms.txt", a.geo.llmsTxt) +
+        row2("llms-full.txt", a.geo.llmsFullTxt) +
+        row2("robots.txt", a.geo.robotsTxt) +
+        row2("sitemap 文件数", a.geo.sitemaps) +
+        row2("结构化数据类型", a.geo.jsonLdTypes.join("、")) +
+        row2("可被 AI 抓取的产品数", a.geo.machineReadableProducts) +
+      "</tbody></table>" +
+      '<p class="muted" style="margin-top:12px">AI 搜索是否引用你，取决于三件事：机器可读的资产（上面这些）、站内可被摘录的问答型内容（FAQ 与指南）、以及站外第三方提及。前两项已自动化，第三项需要在内容运营里持续做。</p></div>' +
+      '<div class="panel"><h2>内容问题清单（' + a.issues.length + "）</h2>" +
+      (a.issues.length ? '<ul class="issue-list">' + a.issues.map(function (i) {
+        return '<li><span class="tag ' + (i.level === "error" ? "err" : i.level === "warn" ? "warn" : "info") + '">' + i.level + "</span><span>" + esc(i.area) + " <code>" + esc(i.item) + "</code></span></li>";
+      }).join("") + "</ul>" : '<p class="muted">未发现问题。</p>') + "</div>";
+  }
+
+  /* ---------- settings ---------- */
+  function renderSettings(el, act) {
+    var s = DB.settings;
+    act.innerHTML = '<button class="btn primary" id="save-s">保存设置</button>';
+    $("#save-s").addEventListener("click", function () {
+      var patch = {
+        brand: $("#s-brand").value.trim(),
+        tagline: $("#s-tagline").value.trim(),
+        domain: $("#s-domain").value.trim().replace(/\/$/, ""),
+        email: $("#s-email").value.trim(),
+        salesEmail: $("#s-salesEmail").value.trim(),
+        sampleEmail: $("#s-sampleEmail").value.trim(),
+        phone: $("#s-phone").value.trim(),
+        whatsapp: $("#s-whatsapp").value.trim(),
+        hours: $("#s-hours").value.trim(),
+        addressFull: $("#s-address").value.trim(),
+        addressShort: $("#s-addressShort").value.trim(),
+        defaultSeoDescription: $("#s-desc").value.trim(),
+        heroTitle: $("#s-heroTitle").value.trim(),
+        heroSubtitle: $("#s-heroSub").value.trim(),
+        announcement: $("#s-announce").value.trim(),
+        formEndpoint: $("#s-form").value.trim(),
+        adminPassword: $("#s-pw").value.trim() || s.adminPassword,
+        analytics: { provider: $("#s-analytics-provider").value, id: $("#s-analytics-id").value.trim() },
+        social: {
+          linkedin: $("#s-linkedin").value.trim(), instagram: $("#s-instagram").value.trim(),
+          facebook: $("#s-facebook").value.trim(), youtube: $("#s-youtube").value.trim(), alibaba: $("#s-alibaba").value.trim(),
+          tiktok: $("#s-tiktok").value.trim(), tiktokVideo: $("#s-tiktokVideo").value.trim()
+        },
+        geoFacts: lines($("#s-geoFacts").value),
+        quoteTerms: lines($("#s-quoteTerms").value)
+      };
+      api("settings", patch).then(function () { flash("设置已保存"); return boot(); });
+    });
+
+    el.innerHTML =
+      '<div class="panel"><h2>品牌与联系</h2><div class="grid g2">' +
+      field("品牌名", '<input type="text" id="s-brand" value="' + esc(s.brand) + '">') +
+      field("域名 <small>（必须与线上正式域名一致，影响 canonical / sitemap / 结构化数据）</small>", '<input type="text" id="s-domain" value="' + esc(s.domain) + '">') +
+      field("一句话定位", '<input type="text" id="s-tagline" value="' + esc(s.tagline) + '">') +
+      field("主邮箱", '<input type="text" id="s-email" value="' + esc(s.email) + '">') +
+      field("销售邮箱", '<input type="text" id="s-salesEmail" value="' + esc(s.salesEmail) + '">') +
+      field("样品邮箱", '<input type="text" id="s-sampleEmail" value="' + esc(s.sampleEmail) + '">') +
+      field("电话", '<input type="text" id="s-phone" value="' + esc(s.phone) + '">') +
+      field("WhatsApp", '<input type="text" id="s-whatsapp" value="' + esc(s.whatsapp) + '">') +
+      field("工作时间", '<input type="text" id="s-hours" value="' + esc(s.hours) + '">') +
+      field("地址（简短）", '<input type="text" id="s-addressShort" value="' + esc(s.addressShort) + '">') +
+      field("地址（完整）", '<input type="text" id="s-address" value="' + esc(s.addressFull) + '">') +
+      "</div></div>" +
+
+      '<div class="panel"><h2>首页文案</h2>' +
+      field("顶部公告条", '<input type="text" id="s-announce" value="' + esc(s.announcement) + '">') +
+      field("主标题", '<input type="text" id="s-heroTitle" value="' + esc(s.heroTitle) + '">') +
+      field("副标题", '<textarea id="s-heroSub">' + esc(s.heroSubtitle) + "</textarea>") +
+      field("默认 meta 描述 <small>（≤158 字符）</small>", '<textarea id="s-desc">' + esc(s.defaultSeoDescription) + "</textarea>") +
+      "</div>" +
+
+      '<div class="panel"><h2>表单与统计</h2>' +
+      '<div class="warnbox">询价表单接收端点：纯静态站没有后端。填入第三方表单服务地址（Formspree、Web3Forms、Basin 等）即可收到邮件通知；留空则买家提交时自动生成预填好的邮件草稿。若把站点部署在 VPS 上并运行本后台服务，可填 <code>https://你的域名/api/inquiry</code>，询价单会直接落到「询价单」列表里。</div>' +
+      field("表单端点 URL", '<input type="text" id="s-form" placeholder="https://formspree.io/f/xxxxxxx" value="' + esc(s.formEndpoint) + '">') +
+      '<div class="grid g2">' +
+      field("统计服务", '<select id="s-analytics-provider"><option value=""' + (!s.analytics.provider ? " selected" : "") + '>不启用</option><option value="plausible"' + (s.analytics.provider === "plausible" ? " selected" : "") + ">Plausible</option></select>") +
+      field("统计 ID / 域名", '<input type="text" id="s-analytics-id" value="' + esc(s.analytics.id || "") + '">') +
+      "</div></div>" +
+
+      '<div class="panel"><h2>社交资料 <small>（会写入 Organization 结构化数据的 sameAs，增强 AI 与搜索引擎的实体识别）</small></h2><div class="grid g2">' +
+      field("LinkedIn", '<input type="text" id="s-linkedin" value="' + esc(s.social.linkedin || "") + '">') +
+      field("Instagram", '<input type="text" id="s-instagram" value="' + esc(s.social.instagram || "") + '">') +
+      field("Facebook", '<input type="text" id="s-facebook" value="' + esc(s.social.facebook || "") + '">') +
+      field("YouTube", '<input type="text" id="s-youtube" value="' + esc(s.social.youtube || "") + '">') +
+      field("阿里国际站店铺", '<input type="text" id="s-alibaba" value="' + esc(s.social.alibaba || "") + '">') +
+      field("TikTok 主页 <small>（@用户名或主页链接，显示为窗口标题）</small>", '<input type="text" id="s-tiktok" value="' + esc(s.social.tiktok || "") + '">') +
+      field("TikTok 视频链接 <small>（粘贴单条视频链接，如 tiktok.com/@xxx/video/123…，首页右侧 16:9 播放）</small>", '<input type="text" id="s-tiktokVideo" value="' + esc(s.social.tiktokVideo || "") + '">') +
+      "</div></div>" +
+
+      '<div class="panel"><h2>GEO 事实清单 <small>（写入 llms.txt，供 AI 直接引用）</small></h2>' +
+      field("每行一条事实", '<textarea id="s-geoFacts" style="min-height:150px">' + esc((s.geoFacts || []).join("\n")) + "</textarea>") +
+      "</div>" +
+
+      '<div class="panel"><h2>报价条款 <small>（写入 llms.txt 与询价页）</small></h2>' +
+      field("每行一条", '<textarea id="s-quoteTerms" style="min-height:110px">' + esc((s.quoteTerms || []).join("\n")) + "</textarea>") +
+      "</div>" +
+
+      '<div class="panel"><h2>后台密码</h2>' +
+      field("管理密码 <small>（留空表示不修改）</small>", '<input type="text" id="s-pw" placeholder="' + esc(s.adminPassword) + '">') +
+      "</div>";
+  }
+
+  /* ---------- build ---------- */
+  function renderBuild(el, act) {
+    act.innerHTML = '<button class="btn primary" id="do-build">重新生成网站</button><a class="btn" href="/" target="_blank">打开预览</a>';
+    $("#do-build").addEventListener("click", function () {
+      var btn = this;
+      btn.disabled = true;
+      btn.textContent = "生成中…";
+      api("build", {}).then(function (r) {
+        btn.disabled = false;
+        btn.textContent = "重新生成网站";
+        $("#out").innerHTML = "<pre class='out'>" + esc(r.out) + "</pre>";
+        flash(r.code === 0 ? "生成完成" : "生成失败，请看输出", r.code === 0 ? "ok" : "err");
+        return boot();
+      });
+    });
+    el.innerHTML =
+      '<div class="panel"><h2>生成结果</h2><div id="out"><p class="muted">点击右上角「重新生成网站」后，这里会显示构建输出。</p></div></div>' +
+      '<div class="panel"><h2>发布说明</h2>' +
+      '<p>构建产物在项目目录的 <code>dist/</code>，是一套纯静态文件（HTML + CSS + 图片 + sitemap + llms.txt），没有任何后端依赖。</p>' +
+      '<p><strong>部署方式（任选）：</strong></p><ul class="issue-list" style="list-style:disc;padding-left:20px">' +
+      "<li>拖拽 <code>dist/</code> 目录到 Netlify / Cloudflare Pages / Vercel，绑定域名即可（<code>_headers</code> 与 <code>_redirects</code> 会被自动识别）。</li>" +
+      "<li>上传到自己的 VPS，用 Nginx 指向 <code>dist/</code>，并配置 <code>try_files $uri $uri/ $uri/index.html =404</code>。</li>" +
+      "<li>同步到对象存储（S3 / COS / OSS）并开启静态网站托管。</li></ul>" +
+      '<p><strong>发布后必做三件事：</strong></p><ol style="padding-left:20px">' +
+      "<li>到「站点设置」把域名改成正式域名，再重新生成一次（canonical、sitemap、结构化数据都依赖它）。</li>" +
+      "<li>把 <code>/sitemap.xml</code> 提交到 Google Search Console 与 Bing Webmaster Tools。</li>" +
+      "<li>配置表单端点，做一次真实的询价单提交测试。</li></ol>" +
+      '<p class="muted">注意：本后台服务仅用于本地内容管理与预览，不需要部署到线上。上线只发布 <code>dist/</code>。</p>' +
+      "</div>";
+  }
+
+  /* ---------- start ---------- */
+  api("session").then(function (s) {
+    if (s.authed) { showApp(); boot(); }
+    else showLogin();
+  });
+})();
+</script>
+</body>
+</html>

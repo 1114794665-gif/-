@@ -1,0 +1,92 @@
+{
+  "note": "Homepage FAQ from the Boomspring FAQ implementation pack. Edit scripts/faq.seed.json (homepage.faqs) and re-seed to change it.",
+  "page": "/",
+  "faqs": [
+    {
+      "q": "What products does BYF BOOM supply for wholesale buyers?",
+      "a": "BYF BOOM supplies moulded drinkware, bar tools, ice buckets and rechargeable wine and kitchen electrics for B2B buyers. The available options for each project depend on the selected SKU, branding method, packaging, quantity and delivery destination.",
+      "links": [
+        {
+          "label": "Wine glasses wholesale",
+          "href": "/collections/wine-glasses/"
+        },
+        {
+          "label": "Bar tools and openers",
+          "href": "/collections/corkscrews-openers/"
+        },
+        {
+          "label": "Custom barware gift sets",
+          "href": "/collections/bar-sets-gifts/"
+        },
+        {
+          "label": "Wholesale programme",
+          "href": "/wholesale/"
+        }
+      ]
+    },
+    {
+      "q": "Can I add my logo to the drinkware, tools and packaging?",
+      "a": "Branding can be evaluated for the selected product, including decoration on the item and customization of gift boxes or other packaging. Submit the SKU, logo artwork, quantity, preferred logo position, packaging requirement and destination so we can confirm the suitable method and the quotation basis.",
+      "links": [
+        {
+          "label": "Custom logo options",
+          "href": "/custom-branding/"
+        },
+        {
+          "label": "Logo decoration guide",
+          "href": "/resources/logo-decoration-on-barware-and-drinkware/"
+        },
+        {
+          "label": "Request a quote",
+          "href": "/quote/"
+        }
+      ]
+    },
+    {
+      "q": "What information do you need for a wholesale quotation?",
+      "a": "Please provide the product SKU or product link, order quantity, logo file, decoration requirement, packaging preference, destination country and target delivery date. These details determine the applicable MOQ, production route, packaging requirement and shipping quotation.",
+      "links": [
+        {
+          "label": "Request a quote",
+          "href": "/quote/"
+        },
+        {
+          "label": "How MOQ works",
+          "href": "/resources/custom-logo-drinkware-moq-and-print-methods/"
+        },
+        {
+          "label": "Gift box packaging guide",
+          "href": "/resources/gift-box-packaging-for-barware-and-drinkware/"
+        }
+      ]
+    },
+    {
+      "q": "Can I order a standard product or a custom gift set?",
+      "a": "Both routes are assessed against the selected SKUs. A standard product order is based on the confirmed stock or production specification. A custom gift set is assessed as a complete build, including the items, insert, gift box, logo treatment and outer packaging.",
+      "links": [
+        {
+          "label": "Barware gift sets",
+          "href": "/collections/bar-sets-gifts/"
+        },
+        {
+          "label": "Gift box packaging guide",
+          "href": "/resources/gift-box-packaging-for-barware-and-drinkware/"
+        }
+      ]
+    },
+    {
+      "q": "How do you control product and packaging details before production?",
+      "a": "The production brief aligns the approved SKU, artwork, decoration method, packaging configuration, quantity and destination. We confirm the applicable production details before an order moves forward. Product-specific quality checks and packaging details are stated in the final order documentation.",
+      "links": [
+        {
+          "label": "About the factory",
+          "href": "/about/"
+        },
+        {
+          "label": "Request a quote",
+          "href": "/quote/"
+        }
+      ]
+    }
+  ]
+}

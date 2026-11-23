@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800" role="img">
+<rect width="800" height="800" fill="#f7f4ef"/>
+<circle cx="400" cy="380" r="268" fill="#e6ddce" opacity="0.55"/>
+
+    <path d="M240 330 L312 330 L300 560 Q299 572 288 572 L252 572 Q241 572 240 560 Z" fill="#dfe6ea" stroke="#8fa2ad" stroke-width="3"/>
+    <path d="M356 260 L428 260 L418 560 Q417 574 406 574 L368 574 Q357 574 356 560 Z" fill="#dfe6ea" stroke="#8fa2ad" stroke-width="3"/>
+    <rect x="470" y="300" width="120" height="30" rx="10" fill="#e6ddce" stroke="#8fa2ad" stroke-width="3"/>
+    <rect x="470" y="360" width="120" height="30" rx="10" fill="#e6ddce" stroke="#8fa2ad" stroke-width="3"/>
+    <rect x="470" y="420" width="120" height="30" rx="10" fill="#e6ddce" stroke="#8fa2ad" stroke-width="3"/>
+<text x="400" y="714" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#14171c">KF-525</text>
+<text x="400" y="754" text-anchor="middle" font-family="system-ui, Segoe UI, Arial, sans-serif" font-size="22" fill="#6b7280">ABS · —</text>
+</svg>
