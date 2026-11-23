@@ -90,7 +90,7 @@
   }
 
   function card(m) {
-    return '<article class="ec-library-card" data-model="' + m.sku + '">' +
+    return '<article class="ec-library-card" data-model="' + m.label + '">' +
       '<a class="ec-library-image-link" href="' + m.route + '"><img src="' + m.image +
       '" width="600" height="600" loading="lazy" alt="' + m.name + ' — ' + m.sku +
       '" decoding="async"></a><div class="ec-library-card-copy"><p class="ec-library-model">' +
