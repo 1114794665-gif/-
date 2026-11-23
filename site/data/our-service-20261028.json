@@ -1,0 +1,276 @@
+{
+  "_note": "服务页内容源。改这里，跑 tools/build_our_service_20261028.py 一条命令重建中英文两页（页面、标题、站点地图一起更新）。",
+  "image": "/svc-factory.webp",
+  "ctaHref": {
+    "en": "/contact/?models=Our%20Service",
+    "zh": "/zh/contact/?models=%E6%88%91%E4%BB%AC%E7%9A%84%E6%9C%8D%E5%8A%A1"
+  },
+  "en": {
+    "title": "Our Service: Pre-Sales, Production and After-Sales | BOOM Drinkware",
+    "description": "How BOOM Drinkware handles a drinkware order: brief and quotation, production follow-up with photo approval, then tracking and after-sales correction.",
+    "crumb": "Our Service",
+    "homeLabel": "Home",
+    "kicker": "BAOYUANFENG / HOW WE WORK",
+    "h1": "Our Service",
+    "lead": "BOOM Drinkware moulds and injection-moulds plastic and silicone drinkware in Shenzhen. This page sets out what we actually do on an order — before the quote, while it runs, and after it ships.",
+    "primaryCta": "Request a Project Quote",
+    "secondaryCta": "Explore Product Models",
+    "secondaryHref": "/products/",
+    "imageAlt": "BOOM Drinkware drinkware factory — moulding and injection production floor",
+    "figcaption": "Factory reference · BOOM Drinkware (BYF), Shenzhen",
+    "intro": {
+      "kicker": "THE WHOLE LENGTH OF A PROJECT",
+      "h2": "Three stages, one team.",
+      "text": "A drinkware order is not a single transaction. It starts with a conversation about use and quantity, moves through tooling, moulding and decoration, and ends with goods that either match the brief or do not. All three stages stay with the same team, so nothing is translated second-hand.",
+      "cards": [
+        {
+          "num": "01",
+          "title": "Pre-sales",
+          "text": "Style, quantity and selling scenario are fixed before anything is priced."
+        },
+        {
+          "num": "02",
+          "title": "In-sales",
+          "text": "Production, decoration and packing are confirmed while the order runs."
+        },
+        {
+          "num": "03",
+          "title": "After-sales",
+          "text": "Tracking, delivery confirmation, and a follow-up once the goods land."
+        }
+      ]
+    },
+    "presales": {
+      "kicker": "01 / PRE-SALES SERVICE",
+      "h2": "Before the quote, the brief becomes specific.",
+      "leftTitle": "What we ask first",
+      "leftText": "A usable quotation needs more than a product name.",
+      "leftItems": [
+        "The style you have in mind — or the use case, if no model is chosen yet",
+        "Quantity per design, and whether this is a promotional event order or a regular retail order",
+        "The selling scenario: giveaway, hospitality service or resale, because it changes the specification",
+        "Destination country, and the date the goods have to be in hand"
+      ],
+      "rightTitle": "What you receive",
+      "rightText": "Everything needed to compare, not just a unit price.",
+      "rightItems": [
+        "A recommendation matched to the brief instead of a catalogue dump",
+        "A quotation broken down by specification and quantity, with the price basis explained",
+        "Freight through your China forwarder if you have one, or quoted by our logistics partners against your delivery address",
+        "One document holding product cost, freight, lead time, payment terms and the after-sales terms, agreed before the order is placed"
+      ],
+      "condition": "Promotional procurement and regular retail procurement are quoted differently. Tell us which one you are buying for, and the specification follows from that answer."
+    },
+    "insales": {
+      "kicker": "02 / IN-SALES SERVICE",
+      "h2": "While the order runs, you can see it running.",
+      "steps": [
+        {
+          "num": "01",
+          "title": "Production starts",
+          "text": "Production and packing are scheduled as soon as the order is confirmed and payment has cleared."
+        },
+        {
+          "num": "02",
+          "title": "Pre-production confirmation",
+          "text": "For custom or logo-printed work, artwork, colour and placement are confirmed with you before the mould or the press starts."
+        },
+        {
+          "num": "03",
+          "title": "Photos and video",
+          "text": "We photograph and film the run and the finished goods, and send them for your approval. Changes are welcome while the schedule still allows them."
+        },
+        {
+          "num": "04",
+          "title": "Packing and dispatch",
+          "text": "Packing is checked, the delivery address is confirmed again, and the goods leave on the agreed date."
+        }
+      ],
+      "condition": "Nothing is decorated on an assumption. If the artwork is ambiguous, production waits for your reply instead of guessing at it."
+    },
+    "aftersales": {
+      "kicker": "03 / AFTER-SALES SERVICE",
+      "h2": "After the goods leave.",
+      "leftTitle": "In transit",
+      "leftText": "The shipment is not finished until it is in your warehouse.",
+      "leftItems": [
+        "Shipment tracking, shared as the goods move",
+        "One contact who can say where the order is and what happens next"
+      ],
+      "rightTitle": "On arrival",
+      "rightText": "Checked against the specification you approved.",
+      "rightItems": [
+        "A follow-up to confirm the order arrived complete",
+        "A satisfaction check, with shortage, damage or a specification gap handled as a claim rather than a conversation",
+        "Replacement or correction arranged by the same team that ran the order"
+      ],
+      "condition": ""
+    },
+    "faq": {
+      "kicker": "BUYER QUESTIONS",
+      "h2": "Service questions, answered.",
+      "items": [
+        {
+          "q": "Do I need a model picked before enquiring?",
+          "a": "No. Describe the use, the quantity, the artwork situation and the arrival date. We will suggest models that fit and price them against your quantity."
+        },
+        {
+          "q": "Can you work with my forwarder in China?",
+          "a": "Yes. If you have a forwarder, we coordinate with them on the freight estimate and hand the goods over on your instructions. If you do not, we quote through our logistics partners against your delivery address."
+        },
+        {
+          "q": "Will I see the goods before they ship?",
+          "a": "Yes. Photos and video of the production run and the finished goods are sent for approval. On logo-printed orders, the artwork is confirmed before the press starts."
+        },
+        {
+          "q": "What happens if something is wrong on arrival?",
+          "a": "Send photos and the packing details. Shortages, damage and specification gaps are reviewed against the approved sample and specification, then corrected by the same team that ran the order."
+        },
+        {
+          "q": "Is the service different for 500 pieces and 10,000 pieces?",
+          "a": "The stages are the same. What changes is the tooling decision: 10,000 pieces may justify a new mould, while 500 pieces usually runs on an existing mould with printed or colour customization."
+        }
+      ]
+    },
+    "cta": {
+      "kicker": "NEXT STEP",
+      "h2": "Put the project in front of the team that will run it.",
+      "text": "Send the model or the idea, the quantity, the artwork and the arrival date. Specification, cost and schedule come back in one reply.",
+      "button": "Request a Project Quote"
+    }
+  },
+  "zh": {
+    "title": "我们的服务：售前、售中与售后 | BOOM Drinkware BOOM Drinkware",
+    "description": "BOOM Drinkware如何跑一张杯具订单：需求沟通与报价、生产跟进与照片确认、发货跟踪与售后处理。深圳模具与注塑工厂。",
+    "crumb": "我们的服务",
+    "homeLabel": "首页",
+    "kicker": "BOOM Drinkware / 服务怎么跑",
+    "h1": "我们的服务",
+    "lead": "BOOM Drinkware在深圳做塑胶与硅胶杯具的模具和注塑。这一页说明我们在一张订单上实际做的事：报价之前、生产当中、发货之后。",
+    "primaryCta": "提交项目询价",
+    "secondaryCta": "浏览产品型号",
+    "secondaryHref": "/zh/products/",
+    "imageAlt": "BOOM Drinkware杯具工厂——模具与注塑车间",
+    "figcaption": "工厂实景参考 · 深圳BOOM Drinkware（BYF）",
+    "intro": {
+      "kicker": "一张订单的全程",
+      "h2": "三个阶段，同一个团队。",
+      "text": "杯具订单不是一次买卖。它从用途和数量的沟通开始，经过开模、注塑与印刷，最后落在「货对不对得上当初说的」这件事上。三个阶段都留在同一个团队手里，中间不转述。",
+      "cards": [
+        {
+          "num": "01",
+          "title": "售前",
+          "text": "先定款式、数量与销售场景，再谈价格。"
+        },
+        {
+          "num": "02",
+          "title": "售中",
+          "text": "生产、印刷与包装在订单运行中逐步确认。"
+        },
+        {
+          "num": "03",
+          "title": "售后",
+          "text": "跟踪、到货确认，以及货到之后的回访。"
+        }
+      ]
+    },
+    "presales": {
+      "kicker": "01 / 售前服务",
+      "h2": "报价之前，先把需求说具体。",
+      "leftTitle": "我们先问什么",
+      "leftText": "一份能用的报价，需要的不只是一个产品名。",
+      "leftItems": [
+        "您想要的杯型或配件；还没选定，就先说用途",
+        "每款数量；这批是活动促销采购，还是常规零售采购",
+        "销售场景——派发赠品、餐饮服务还是转售，它决定规格",
+        "目的国，以及货必须到手的日期"
+      ],
+      "rightTitle": "您会拿到什么",
+      "rightText": "够用来比较的整套材料，不只一个单价。",
+      "rightItems": [
+        "按需求给的选型建议，而不是把目录甩给您",
+        "按规格和数量逐项拆开的报价，价格怎么算的说清楚",
+        "运费：您在中国有指定货代，就配合货代核；没有，就按您的收货地址用合作物流核",
+        "一份文件装齐货价、运费、交期、付款条件与售后条款，下单前确认"
+      ],
+      "condition": "活动促销采购和常规零售采购的报法不一样。告诉我们这批是哪种，规格就按哪种走。"
+    },
+    "insales": {
+      "kicker": "02 / 售中服务",
+      "h2": "订单在跑，您看得见它在跑。",
+      "steps": [
+        {
+          "num": "01",
+          "title": "排产开始",
+          "text": "订单确认、货款到账后，立刻安排生产与包装。"
+        },
+        {
+          "num": "02",
+          "title": "产前确认",
+          "text": "定制或印 Logo 的订单，图稿、颜色、位置在开模或上机之前先跟您确认。"
+        },
+        {
+          "num": "03",
+          "title": "照片与视频",
+          "text": "生产过程与成品拍照片、拍视频发您确认。排期还来得及的时候，随时可以改。"
+        },
+        {
+          "num": "04",
+          "title": "包装与发货",
+          "text": "包装复核，收货地址再确认一次，按约定日期发出。"
+        }
+      ],
+      "condition": "图案不靠猜。图稿有歧义，生产等您回复，不会自己拍板。"
+    },
+    "aftersales": {
+      "kicker": "03 / 售后服务",
+      "h2": "货走了之后。",
+      "leftTitle": "在途",
+      "leftText": "货没进您的仓库，这单就没算完。",
+      "leftItems": [
+        "物流跟踪信息，走到哪一步就同步到哪一步",
+        "一个能回答「货在哪、接下来怎么办」的对接人"
+      ],
+      "rightTitle": "到货",
+      "rightText": "对照您确认过的规格来核。",
+      "rightItems": [
+        "主动跟进，确认整单到齐",
+        "满意度回访；短少、破损或规格不符，按理赔处理，不停留在口头",
+        "补货或返修，由跑这张单的同一批人安排"
+      ],
+      "condition": ""
+    },
+    "faq": {
+      "kicker": "采购常见问题",
+      "h2": "关于服务，先把话说清楚。",
+      "items": [
+        {
+          "q": "还没选好款可以询价吗？",
+          "a": "可以。说明用途、数量、图稿情况和到货日期，我们按这些条件推荐型号，并按数量报价。"
+        },
+        {
+          "q": "可以用我在中国的货代吗？",
+          "a": "可以。您有货代，我们配合核运费，按您的指示交货；没有，就按收货地址用我们合作的物流核。"
+        },
+        {
+          "q": "发货前能看到货吗？",
+          "a": "能。生产过程和成品会拍照、拍视频发您确认。印 Logo 的订单在上机前先确认图稿。"
+        },
+        {
+          "q": "到货发现有问题怎么办？",
+          "a": "把照片和包装信息发过来。短少、破损和规格不符会对照确认过的样品与规格核对，由跑这张单的团队处理。"
+        },
+        {
+          "q": "500 件和 1 万件的服务不一样吗？",
+          "a": "阶段一样。变的是开模判断：一万件可能值得新开一副模具，五百件通常用现有模具加印刷或换色。"
+        }
+      ]
+    },
+    "cta": {
+      "kicker": "下一步",
+      "h2": "把项目交给真正跑它的人。",
+      "text": "型号或想法、数量、图稿、到货日期，一次说清。规格、价格和排期，一次回给您。",
+      "button": "提交项目询价"
+    }
+  }
+}

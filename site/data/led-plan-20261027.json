@@ -1,0 +1,166 @@
+{
+ "date": "20261027",
+ "merges": [
+  {
+   "frm": "MKB-004",
+   "to": "FGB-012",
+   "why": "16 oz 靴形啤酒杯，同一只杯两个编号",
+   "slug": "light-up-boot-mug",
+   "name": "Custom 16 oz Light-Up Boot Beer LED Mug",
+   "img": "/img/v88-20261023/mkb-004-7562224ac1.webp",
+   "main_slug": "light-up-beer-boot-mug-led",
+   "main_name": "Custom 16 oz Light Up Beer Boot Mug LED"
+  },
+  {
+   "frm": "FGB-032",
+   "to": "FGB-031",
+   "why": "20 oz 迪斯科球随行杯，同一只杯两个编号",
+   "slug": "deluxe-led-light-up-ball-tumbler",
+   "name": "Custom 20 oz Deluxe LED Light Up Ball",
+   "img": "/img/v88-20261023/fgb-032-59cd16adcb.webp",
+   "main_slug": "led-disco-ball-tumbler-cups-deluxe",
+   "main_name": "Custom 20 oz LED Disco Ball Tumbler"
+  },
+  {
+   "frm": "FGB-014",
+   "to": "FGB-013",
+   "why": "8 oz 变色岩石杯，与多彩威士忌杯同杯身",
+   "slug": "color-change-led-light-up-rocks",
+   "name": "Custom 8 oz Color Change LED Light Up",
+   "img": "/img/v88-20261023/fgb-014-6b7b00dc4e.webp",
+   "main_slug": "led-light-up-multicolor-whiskey-glass",
+   "main_name": "Custom 8 oz LED Light Up Multicolor Rock"
+  },
+  {
+   "frm": "FGB-018",
+   "to": "FGB-017",
+   "why": "8 oz 磨砂底发光红酒杯，与螺旋高脚红酒同杯型",
+   "slug": "frosted-led-light-up-wine-glass",
+   "name": "Custom 8 oz Frosted LED Light Up Wine",
+   "img": "/img/v88-20261023/fgb-018-99f4ef88df.webp",
+   "main_slug": "multicolor-light-up-spiral-stemmed-wine",
+   "main_name": "Custom 8 oz Multicolor Light Up Spiral"
+  },
+  {
+   "frm": "FGB-020",
+   "to": "FGB-019",
+   "why": "6 oz 磨砂黑底香槟杯，与长脚香槟同杯型",
+   "slug": "light-up-frosted-black-based-champagne",
+   "name": "Custom 6 oz Light Up Frosted LED",
+   "img": "/img/v88-20261023/fgb-020-e19de35373.webp",
+   "main_slug": "long-stem-led-light-up-champagne",
+   "main_name": "Custom 6 oz Long Stem LED Light Up"
+  },
+  {
+   "frm": "FGB-024",
+   "to": "FGB-023",
+   "why": "8 oz 磨砂黑杆马天尼，与螺旋高脚马天尼同杯型",
+   "slug": "frosted-multicolor-black-stemmed-martini-glass",
+   "name": "Custom 8 oz Frosted Multicolor Black LED",
+   "img": "/img/v88-20261023/fgb-024-aa4417bc94.webp",
+   "main_slug": "led-light-up-spiral-stem-martini",
+   "main_name": "Custom 8 oz LED Light Up Spiral Stem"
+  }
+ ],
+ "series": [
+  {
+   "main": "FGB-012",
+   "members": [
+    "MKB-004"
+   ],
+   "main_slug": "light-up-beer-boot-mug-led",
+   "main_name": "Custom 16 oz Light Up Beer Boot Mug LED",
+   "main_img": "/img/v88-20261023/fgb-012-2600f66153.webp"
+  },
+  {
+   "main": "FGB-031",
+   "members": [
+    "FGB-032"
+   ],
+   "main_slug": "led-disco-ball-tumbler-cups-deluxe",
+   "main_name": "Custom 20 oz LED Disco Ball Tumbler",
+   "main_img": "/img/v88-20261023/fgb-031-266cdcae2f.webp"
+  },
+  {
+   "main": "FGB-013",
+   "members": [
+    "FGB-014"
+   ],
+   "main_slug": "led-light-up-multicolor-whiskey-glass",
+   "main_name": "Custom 8 oz LED Light Up Multicolor Rock",
+   "main_img": "/img/v88-20261023/fgb-013-cb3e8e5e38.webp"
+  },
+  {
+   "main": "FGB-017",
+   "members": [
+    "FGB-018",
+    "FGB-026"
+   ],
+   "main_slug": "multicolor-light-up-spiral-stemmed-wine",
+   "main_name": "Custom 8 oz Multicolor Light Up Spiral",
+   "main_img": "/img/v88-20261023/fgb-017-fdbf0991c5.webp"
+  },
+  {
+   "main": "FGB-019",
+   "members": [
+    "FGB-020",
+    "FGB-022"
+   ],
+   "main_slug": "long-stem-led-light-up-champagne",
+   "main_name": "Custom 6 oz Long Stem LED Light Up",
+   "main_img": "/img/v88-20261023/fgb-019-65b3e3d390.webp"
+  },
+  {
+   "main": "FGB-023",
+   "members": [
+    "FGB-024",
+    "FGB-025"
+   ],
+   "main_slug": "led-light-up-spiral-stem-martini",
+   "main_name": "Custom 8 oz LED Light Up Spiral Stem",
+   "main_img": "/img/v88-20261023/fgb-023-cac69076e2.webp"
+  }
+ ],
+ "pending": [
+  {
+   "frm": "FGB-101",
+   "to": "FGB-016",
+   "why": "站点上查不到 FGB-101，待老板确认"
+  }
+ ],
+ "all_led": [
+  "FGB-001",
+  "FGB-002",
+  "FGB-003",
+  "FGB-004",
+  "FGB-005",
+  "FGB-006",
+  "FGB-008",
+  "FGB-009",
+  "FGB-010",
+  "FGB-011",
+  "FGB-012",
+  "FGB-013",
+  "FGB-014",
+  "FGB-015",
+  "FGB-016",
+  "FGB-017",
+  "FGB-018",
+  "FGB-019",
+  "FGB-020",
+  "FGB-021",
+  "FGB-023",
+  "FGB-024",
+  "FGB-027",
+  "FGB-028",
+  "FGB-030",
+  "FGB-031",
+  "FGB-032",
+  "FGB-033",
+  "FGB-034",
+  "FGB-035",
+  "FGB-036",
+  "FGB-037",
+  "FGB-038"
+ ]
+}

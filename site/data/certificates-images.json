@@ -1,0 +1,136 @@
+{
+ "items": [
+  {
+   "slug": "iso9001",
+   "source": "12.jpg",
+   "thumb": "/img/certificates-20261028/iso9001-620.webp",
+   "full": "/img/certificates-20261028/iso9001-1400.webp",
+   "w": 620,
+   "h": 877,
+   "fw": 1200,
+   "fh": 1697,
+   "thumbBytes": 85500,
+   "fullBytes": 206068
+  },
+  {
+   "slug": "iso14001",
+   "source": "11.jpg",
+   "thumb": "/img/certificates-20261028/iso14001-620.webp",
+   "full": "/img/certificates-20261028/iso14001-1400.webp",
+   "w": 620,
+   "h": 877,
+   "fw": 1200,
+   "fh": 1697,
+   "thumbBytes": 86430,
+   "fullBytes": 209656
+  },
+  {
+   "slug": "patent-cert-218246685",
+   "source": "01.jpg",
+   "thumb": "/img/certificates-20261028/patent-cert-218246685-620.webp",
+   "full": "/img/certificates-20261028/patent-cert-218246685-1400.webp",
+   "w": 620,
+   "h": 877,
+   "fw": 1000,
+   "fh": 1414,
+   "thumbBytes": 46260,
+   "fullBytes": 99204
+  },
+  {
+   "slug": "patent-spec-213488223",
+   "source": "02.png",
+   "thumb": "/img/certificates-20261028/patent-spec-213488223-620.webp",
+   "full": "/img/certificates-20261028/patent-spec-213488223-1400.webp",
+   "w": 620,
+   "h": 877,
+   "fw": 1400,
+   "fh": 1980,
+   "thumbBytes": 29780,
+   "fullBytes": 96464
+  },
+  {
+   "slug": "patent-spec-218246685",
+   "source": "03.png",
+   "thumb": "/img/certificates-20261028/patent-spec-218246685-620.webp",
+   "full": "/img/certificates-20261028/patent-spec-218246685-1400.webp",
+   "w": 620,
+   "h": 877,
+   "fw": 1400,
+   "fh": 1980,
+   "thumbBytes": 35530,
+   "fullBytes": 114852
+  },
+  {
+   "slug": "sgs-champagne-fda",
+   "source": "07.jpg",
+   "thumb": "/img/certificates-20261028/sgs-champagne-fda-620.webp",
+   "full": "/img/certificates-20261028/sgs-champagne-fda-1400.webp",
+   "w": 620,
+   "h": 877,
+   "fw": 1400,
+   "fh": 1980,
+   "thumbBytes": 51784,
+   "fullBytes": 165216
+  },
+  {
+   "slug": "stc-wine-glass",
+   "source": "08.png",
+   "thumb": "/img/certificates-20261028/stc-wine-glass-620.webp",
+   "full": "/img/certificates-20261028/stc-wine-glass-1400.webp",
+   "w": 620,
+   "h": 876,
+   "fw": 1400,
+   "fh": 1978,
+   "thumbBytes": 35144,
+   "fullBytes": 108630
+  },
+  {
+   "slug": "tritan-tx1001-rohs",
+   "source": "04.png",
+   "thumb": "/img/certificates-20261028/tritan-tx1001-rohs-620.webp",
+   "full": "/img/certificates-20261028/tritan-tx1001-rohs-1400.webp",
+   "w": 620,
+   "h": 877,
+   "fw": 1400,
+   "fh": 1980,
+   "thumbBytes": 38324,
+   "fullBytes": 123920
+  },
+  {
+   "slug": "revode-sgs",
+   "source": "05.jpg",
+   "thumb": "/img/certificates-20261028/revode-sgs-620.webp",
+   "full": "/img/certificates-20261028/revode-sgs-1400.webp",
+   "w": 620,
+   "h": 877,
+   "fw": 1400,
+   "fh": 1980,
+   "thumbBytes": 40644,
+   "fullBytes": 137222
+  },
+  {
+   "slug": "revode-cnpl",
+   "source": "06.jpg",
+   "thumb": "/img/certificates-20261028/revode-cnpl-620.webp",
+   "full": "/img/certificates-20261028/revode-cnpl-1400.webp",
+   "w": 620,
+   "h": 877,
+   "fw": 1400,
+   "fh": 1980,
+   "thumbBytes": 35838,
+   "fullBytes": 106780
+  },
+  {
+   "slug": "revode-sds",
+   "source": "09.png",
+   "thumb": "/img/certificates-20261028/revode-sds-620.webp",
+   "full": "/img/certificates-20261028/revode-sds-1400.webp",
+   "w": 620,
+   "h": 877,
+   "fw": 1400,
+   "fh": 1980,
+   "thumbBytes": 56006,
+   "fullBytes": 171620
+  }
+ ]
+}

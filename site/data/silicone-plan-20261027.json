@@ -1,0 +1,654 @@
+{
+ "date": "20261027",
+ "mains": [
+  "BPJJ-002",
+  "BPJJ-004",
+  "BPJJ-005",
+  "BPJJ-006",
+  "BPJJ-008",
+  "GJB-007",
+  "GJB-008",
+  "GJB-016",
+  "LJB-001",
+  "LJB-002",
+  "GJZD-009",
+  "GJZD-014",
+  "GJZD-016"
+ ],
+ "merges": [
+  {
+   "frm": "GJB-024",
+   "to": "BPJJ-005",
+   "craft": "glow",
+   "tag": "glow",
+   "name": "CustomBYF Silicone 25 oz Handled Barrel Glow Green",
+   "img": "/img/v88-20261023/gjb-024-d8158fd6bf.webp",
+   "slug": "silicone-25oz-handled-barrel-gjb024"
+  },
+  {
+   "frm": "GJB-021",
+   "to": "BPJJ-008",
+   "craft": "glow",
+   "tag": "glow",
+   "name": "CustomBYF Silicone 16 oz Glow In The Dark Pint Glass",
+   "img": "/img/v88-20261023/gjb-021-186944c62c.webp",
+   "slug": "silicone-16oz-glow-in-gjb021"
+  },
+  {
+   "frm": "LJB-008",
+   "to": "LJB-002",
+   "craft": "glow",
+   "tag": "glow",
+   "name": "CustomBYF Silicone 2 oz Glow Green Shumbler Shot Glass",
+   "img": "/img/v88-20261023/ljb-008-849b7d02a5.webp",
+   "slug": "silicone-2oz-glow-green"
+  },
+  {
+   "frm": "GJB-020",
+   "to": "GJB-008",
+   "craft": "glow",
+   "tag": "glow",
+   "name": "CustomBYF Silicone 12 oz Glow In The Dark Wine Glass",
+   "img": "/img/v88-20261023/gjb-020-4bc4774e0a.webp",
+   "slug": "silicone-12oz-glow-in-gjb020"
+  }
+ ],
+ "deletes": [
+  {
+   "sku": "GJB-004",
+   "to": "/products/silicone-20oz-pint-glass/",
+   "why": "与 GJB-021（16 oz 品脱杯）重复",
+   "slug": "silicone-16oz-crystal-clear",
+   "name": "CustomBYF Silicone 16 oz Crystal Clear Pint Glass – Monogram (A–T)"
+  },
+  {
+   "sku": "GJB-012",
+   "to": "/products/customized-silicone-16oz-straw/",
+   "why": "儿童硅胶杯整栏删除",
+   "slug": "silicone-8oz-kids-straw",
+   "name": "CustomBYF Silicone 8 oz Kids Straw Tumbler"
+  },
+  {
+   "sku": "GJB-022",
+   "to": "/products/customized-silicone-16oz-straw/",
+   "why": "儿童硅胶杯整栏删除",
+   "slug": "silicone-8oz-kids-glow",
+   "name": "CustomBYF Silicone 8 oz Kids Glow In The Dark Straw Tumbler"
+  },
+  {
+   "sku": "GJZD-010",
+   "to": "/products/collapsible-mug/",
+   "why": "折叠杯只留 009/014/016",
+   "slug": "frontier-ultralight-collapsible",
+   "name": "Custom Frontier Ultralight Collapsible – no longer listed – no longer listed"
+  },
+  {
+   "sku": "GJZD-011",
+   "to": "/products/collapsible-mug/",
+   "why": "折叠杯只留 009/014/016",
+   "slug": "collapsible-shot",
+   "name": "CustomBYF XLite Collapsible Shot Set"
+  },
+  {
+   "sku": "GJZD-017",
+   "to": "/products/hydaway-collapsible-tumbler-with-lid/",
+   "why": "折叠杯只留 009/014/016",
+   "slug": "hydaway-collapsible-insulated-drink-tumbler",
+   "name": "CustomBYF Collapsible Insulated Drink Tumbler - 16oz"
+  },
+  {
+   "sku": "GJZD-018",
+   "to": "/products/hydaway-collapsible-pint/",
+   "why": "折叠杯只留 009/014/016",
+   "slug": "ineeds-silicone-wine-glass",
+   "name": "CustomBYF Silicone Wine Glass (Foldable)"
+  },
+  {
+   "sku": "GJZD-019",
+   "to": "/products/collapsible-mug/",
+   "why": "折叠杯只留 009/014/016",
+   "slug": "ineeds-collapsible-silicone-cup",
+   "name": "CustomBYF Collapsible Silicone Cup - 350ml"
+  },
+  {
+   "sku": "GJZD-021",
+   "to": "/products/collapsible-mug/",
+   "why": "折叠杯只留 009/014/016",
+   "slug": "jin-sheu-collapsible-portable-silicone-water",
+   "name": "CustomBYF Collapsible Portable Silicone Water Cup"
+  },
+  {
+   "sku": "GJZD-012",
+   "to": "/products/collapsible-mug/",
+   "why": "硅胶瓶整栏删除",
+   "slug": "hydaway-collapsible-water-bottle-gjzd012",
+   "name": "Custom 25 oz Collapsible Water Bottle – no longer listed – no longer listed"
+  },
+  {
+   "sku": "GJB-023",
+   "to": "/products/customized-silicone-12oz-wine-gjb008/#craft-GJB-020",
+   "why": "12 oz 荧光岩石杯，并入 GJB-008 的荧光工艺",
+   "slug": "silicone-12oz-glow-in-gjb023",
+   "name": "CustomBYF Silicone 12 oz Glow In The Dark Rocks Glass"
+  },
+  {
+   "sku": "BPJJ-009",
+   "to": "/products/customized-silicone-12oz-wine-gjb008/#craft-GJB-020",
+   "why": "12 oz 岩石杯，与荧光版同款",
+   "slug": "silicone-12oz-rocks-glass",
+   "name": "CustomBYF Silicone 12 oz Rocks Glass"
+  }
+ ],
+ "drop_groups": [
+  {
+   "id": "silicone-kids-cups",
+   "name": "Silicone Cups for Kids",
+   "name_zh": "儿童硅胶杯"
+  },
+  {
+   "id": "silicone-bottles",
+   "name": "Silicone Bottles",
+   "name_zh": "硅胶瓶"
+  }
+ ],
+ "pages": [
+  {
+   "sku": "BPJJ-002",
+   "slug": "silicone-32oz-bomber-cup",
+   "crafts": [
+    {
+     "key": "uv",
+     "label_en": "UV FULL-COLOUR",
+     "label_zh": "UV 热转印",
+     "title_en": "Photographic artwork over the whole body",
+     "title_zh": "照片级图案，整只印满",
+     "desc_en": "Gradients, photos and multi-colour logos in one pass. Silicone takes a surface primer first, so the print holds through washing and daily handling.",
+     "desc_zh": "渐变、照片、多色 logo 一次印满整只杯。硅胶表面先做一层处理再印，洗过、日常磕碰都不容易掉色。",
+     "cta_en": "Ask for UV artwork pricing",
+     "cta_zh": "问 UV 满印的价格",
+     "img": "/proc-uv.webp",
+     "sku": null,
+     "ref": null
+    },
+    {
+     "key": "screen",
+     "label_en": "SCREEN PRINT",
+     "label_zh": "丝印",
+     "title_en": "1–3 spot colours, lowest unit cost",
+     "title_zh": "一到三色，单价最省",
+     "desc_en": "The cheapest way to put a one-colour brand mark on a silicone cup. Crisp edges; print area is confirmed per model before sampling.",
+     "desc_zh": "单色 logo 单价最低的做法，字边干净。每款能印多大面积，打样前逐款确认。",
+     "cta_en": "Ask for screen print pricing",
+     "cta_zh": "问丝印的价格",
+     "img": "/proc-screen.webp",
+     "sku": null,
+     "ref": null
+    }
+   ]
+  },
+  {
+   "sku": "BPJJ-004",
+   "slug": "silicone-6oz-flight-taster",
+   "crafts": [
+    {
+     "key": "uv",
+     "label_en": "UV FULL-COLOUR",
+     "label_zh": "UV 热转印",
+     "title_en": "Photographic artwork over the whole body",
+     "title_zh": "照片级图案，整只印满",
+     "desc_en": "Gradients, photos and multi-colour logos in one pass. Silicone takes a surface primer first, so the print holds through washing and daily handling.",
+     "desc_zh": "渐变、照片、多色 logo 一次印满整只杯。硅胶表面先做一层处理再印，洗过、日常磕碰都不容易掉色。",
+     "cta_en": "Ask for UV artwork pricing",
+     "cta_zh": "问 UV 满印的价格",
+     "img": "/proc-uv.webp",
+     "sku": null,
+     "ref": null
+    },
+    {
+     "key": "screen",
+     "label_en": "SCREEN PRINT",
+     "label_zh": "丝印",
+     "title_en": "1–3 spot colours, lowest unit cost",
+     "title_zh": "一到三色，单价最省",
+     "desc_en": "The cheapest way to put a one-colour brand mark on a silicone cup. Crisp edges; print area is confirmed per model before sampling.",
+     "desc_zh": "单色 logo 单价最低的做法，字边干净。每款能印多大面积，打样前逐款确认。",
+     "cta_en": "Ask for screen print pricing",
+     "cta_zh": "问丝印的价格",
+     "img": "/proc-screen.webp",
+     "sku": null,
+     "ref": null
+    }
+   ]
+  },
+  {
+   "sku": "BPJJ-005",
+   "slug": "silicone-25oz-handled-barrel-bpjj005",
+   "crafts": [
+    {
+     "label_en": "GLOW IN THE DARK",
+     "label_zh": "夜光工艺",
+     "title_en": "The same body, moulded in glow green",
+     "title_zh": "同一个杯身，做成夜光绿",
+     "desc_en": "Moulded in phosphorescent silicone. Charges under daylight or a phone torch and keeps glowing after the lights go down — no battery, no LED, no switch.",
+     "desc_zh": "用蓄光硅胶一体成型。白天或手机灯照一会儿就吸满光，天黑后自己亮几个小时，不用电池、不用灯珠、也没有开关。",
+     "cta_en": "Quote this finish",
+     "cta_zh": "按这个工艺询价",
+     "key": "glow-GJB-024",
+     "sku": "GJB-024",
+     "img": "/img/v88-20261023/gjb-024-d8158fd6bf.webp",
+     "ref": "GJB-024"
+    },
+    {
+     "key": "uv",
+     "label_en": "UV FULL-COLOUR",
+     "label_zh": "UV 热转印",
+     "title_en": "Photographic artwork over the whole body",
+     "title_zh": "照片级图案，整只印满",
+     "desc_en": "Gradients, photos and multi-colour logos in one pass. Silicone takes a surface primer first, so the print holds through washing and daily handling.",
+     "desc_zh": "渐变、照片、多色 logo 一次印满整只杯。硅胶表面先做一层处理再印，洗过、日常磕碰都不容易掉色。",
+     "cta_en": "Ask for UV artwork pricing",
+     "cta_zh": "问 UV 满印的价格",
+     "img": "/proc-uv.webp",
+     "sku": null,
+     "ref": null
+    },
+    {
+     "key": "screen",
+     "label_en": "SCREEN PRINT",
+     "label_zh": "丝印",
+     "title_en": "1–3 spot colours, lowest unit cost",
+     "title_zh": "一到三色，单价最省",
+     "desc_en": "The cheapest way to put a one-colour brand mark on a silicone cup. Crisp edges; print area is confirmed per model before sampling.",
+     "desc_zh": "单色 logo 单价最低的做法，字边干净。每款能印多大面积，打样前逐款确认。",
+     "cta_en": "Ask for screen print pricing",
+     "cta_zh": "问丝印的价格",
+     "img": "/proc-screen.webp",
+     "sku": null,
+     "ref": null
+    }
+   ]
+  },
+  {
+   "sku": "BPJJ-006",
+   "slug": "silicone-16oz-siliparty-party",
+   "crafts": [
+    {
+     "key": "uv",
+     "label_en": "UV FULL-COLOUR",
+     "label_zh": "UV 热转印",
+     "title_en": "Photographic artwork over the whole body",
+     "title_zh": "照片级图案，整只印满",
+     "desc_en": "Gradients, photos and multi-colour logos in one pass. Silicone takes a surface primer first, so the print holds through washing and daily handling.",
+     "desc_zh": "渐变、照片、多色 logo 一次印满整只杯。硅胶表面先做一层处理再印，洗过、日常磕碰都不容易掉色。",
+     "cta_en": "Ask for UV artwork pricing",
+     "cta_zh": "问 UV 满印的价格",
+     "img": "/proc-uv.webp",
+     "sku": null,
+     "ref": null
+    },
+    {
+     "key": "screen",
+     "label_en": "SCREEN PRINT",
+     "label_zh": "丝印",
+     "title_en": "1–3 spot colours, lowest unit cost",
+     "title_zh": "一到三色，单价最省",
+     "desc_en": "The cheapest way to put a one-colour brand mark on a silicone cup. Crisp edges; print area is confirmed per model before sampling.",
+     "desc_zh": "单色 logo 单价最低的做法，字边干净。每款能印多大面积，打样前逐款确认。",
+     "cta_en": "Ask for screen print pricing",
+     "cta_zh": "问丝印的价格",
+     "img": "/proc-screen.webp",
+     "sku": null,
+     "ref": null
+    }
+   ]
+  },
+  {
+   "sku": "BPJJ-008",
+   "slug": "silicone-20oz-pint-glass",
+   "crafts": [
+    {
+     "label_en": "GLOW IN THE DARK",
+     "label_zh": "夜光工艺",
+     "title_en": "The same body, moulded in glow green",
+     "title_zh": "同一个杯身，做成夜光绿",
+     "desc_en": "Moulded in phosphorescent silicone. Charges under daylight or a phone torch and keeps glowing after the lights go down — no battery, no LED, no switch.",
+     "desc_zh": "用蓄光硅胶一体成型。白天或手机灯照一会儿就吸满光，天黑后自己亮几个小时，不用电池、不用灯珠、也没有开关。",
+     "cta_en": "Quote this finish",
+     "cta_zh": "按这个工艺询价",
+     "key": "glow-GJB-021",
+     "sku": "GJB-021",
+     "img": "/img/v88-20261023/gjb-021-186944c62c.webp",
+     "ref": "GJB-021"
+    },
+    {
+     "key": "uv",
+     "label_en": "UV FULL-COLOUR",
+     "label_zh": "UV 热转印",
+     "title_en": "Photographic artwork over the whole body",
+     "title_zh": "照片级图案，整只印满",
+     "desc_en": "Gradients, photos and multi-colour logos in one pass. Silicone takes a surface primer first, so the print holds through washing and daily handling.",
+     "desc_zh": "渐变、照片、多色 logo 一次印满整只杯。硅胶表面先做一层处理再印，洗过、日常磕碰都不容易掉色。",
+     "cta_en": "Ask for UV artwork pricing",
+     "cta_zh": "问 UV 满印的价格",
+     "img": "/proc-uv.webp",
+     "sku": null,
+     "ref": null
+    },
+    {
+     "key": "screen",
+     "label_en": "SCREEN PRINT",
+     "label_zh": "丝印",
+     "title_en": "1–3 spot colours, lowest unit cost",
+     "title_zh": "一到三色，单价最省",
+     "desc_en": "The cheapest way to put a one-colour brand mark on a silicone cup. Crisp edges; print area is confirmed per model before sampling.",
+     "desc_zh": "单色 logo 单价最低的做法，字边干净。每款能印多大面积，打样前逐款确认。",
+     "cta_en": "Ask for screen print pricing",
+     "cta_zh": "问丝印的价格",
+     "img": "/proc-screen.webp",
+     "sku": null,
+     "ref": null
+    }
+   ]
+  },
+  {
+   "sku": "GJB-007",
+   "slug": "customized-silicone-16oz-straw",
+   "crafts": [
+    {
+     "key": "uv",
+     "label_en": "UV FULL-COLOUR",
+     "label_zh": "UV 热转印",
+     "title_en": "Photographic artwork over the whole body",
+     "title_zh": "照片级图案，整只印满",
+     "desc_en": "Gradients, photos and multi-colour logos in one pass. Silicone takes a surface primer first, so the print holds through washing and daily handling.",
+     "desc_zh": "渐变、照片、多色 logo 一次印满整只杯。硅胶表面先做一层处理再印，洗过、日常磕碰都不容易掉色。",
+     "cta_en": "Ask for UV artwork pricing",
+     "cta_zh": "问 UV 满印的价格",
+     "img": "/proc-uv.webp",
+     "sku": null,
+     "ref": null
+    },
+    {
+     "key": "screen",
+     "label_en": "SCREEN PRINT",
+     "label_zh": "丝印",
+     "title_en": "1–3 spot colours, lowest unit cost",
+     "title_zh": "一到三色，单价最省",
+     "desc_en": "The cheapest way to put a one-colour brand mark on a silicone cup. Crisp edges; print area is confirmed per model before sampling.",
+     "desc_zh": "单色 logo 单价最低的做法，字边干净。每款能印多大面积，打样前逐款确认。",
+     "cta_en": "Ask for screen print pricing",
+     "cta_zh": "问丝印的价格",
+     "img": "/proc-screen.webp",
+     "sku": null,
+     "ref": null
+    }
+   ]
+  },
+  {
+   "sku": "GJB-008",
+   "slug": "customized-silicone-12oz-wine-gjb008",
+   "crafts": [
+    {
+     "label_en": "GLOW IN THE DARK",
+     "label_zh": "荧光工艺",
+     "title_en": "The same body, moulded in glow green",
+     "title_zh": "同一个杯身，做成荧光版",
+     "desc_en": "Moulded in phosphorescent silicone. Charges under daylight or a phone torch and keeps glowing after the lights go down — no battery, no LED, no switch.",
+     "desc_zh": "同一个 12 oz 红酒杯身，换成蓄光硅胶做。造型、盖件都不变，灯一关自己发亮，不用电池也不用灯珠。",
+     "cta_en": "Quote this finish",
+     "cta_zh": "按这个工艺询价",
+     "key": "glow-GJB-020",
+     "sku": "GJB-020",
+     "img": "/img/v88-20261023/gjb-020-4bc4774e0a.webp",
+     "ref": "GJB-020"
+    },
+    {
+     "key": "uv",
+     "label_en": "UV FULL-COLOUR",
+     "label_zh": "UV 热转印",
+     "title_en": "Photographic artwork over the whole body",
+     "title_zh": "照片级图案，整只印满",
+     "desc_en": "Gradients, photos and multi-colour logos in one pass. Silicone takes a surface primer first, so the print holds through washing and daily handling.",
+     "desc_zh": "渐变、照片、多色 logo 一次印满整只杯。硅胶表面先做一层处理再印，洗过、日常磕碰都不容易掉色。",
+     "cta_en": "Ask for UV artwork pricing",
+     "cta_zh": "问 UV 满印的价格",
+     "img": "/proc-uv.webp",
+     "sku": null,
+     "ref": null
+    },
+    {
+     "key": "screen",
+     "label_en": "SCREEN PRINT",
+     "label_zh": "丝印",
+     "title_en": "1–3 spot colours, lowest unit cost",
+     "title_zh": "一到三色，单价最省",
+     "desc_en": "The cheapest way to put a one-colour brand mark on a silicone cup. Crisp edges; print area is confirmed per model before sampling.",
+     "desc_zh": "单色 logo 单价最低的做法，字边干净。每款能印多大面积，打样前逐款确认。",
+     "cta_en": "Ask for screen print pricing",
+     "cta_zh": "问丝印的价格",
+     "img": "/proc-screen.webp",
+     "sku": null,
+     "ref": null
+    }
+   ]
+  },
+  {
+   "sku": "GJB-016",
+   "slug": "silicone-28oz-beer-stein-gjb016",
+   "crafts": [
+    {
+     "key": "uv",
+     "label_en": "UV FULL-COLOUR",
+     "label_zh": "UV 热转印",
+     "title_en": "Photographic artwork over the whole body",
+     "title_zh": "照片级图案，整只印满",
+     "desc_en": "Gradients, photos and multi-colour logos in one pass. Silicone takes a surface primer first, so the print holds through washing and daily handling.",
+     "desc_zh": "渐变、照片、多色 logo 一次印满整只杯。硅胶表面先做一层处理再印，洗过、日常磕碰都不容易掉色。",
+     "cta_en": "Ask for UV artwork pricing",
+     "cta_zh": "问 UV 满印的价格",
+     "img": "/proc-uv.webp",
+     "sku": null,
+     "ref": null
+    },
+    {
+     "key": "screen",
+     "label_en": "SCREEN PRINT",
+     "label_zh": "丝印",
+     "title_en": "1–3 spot colours, lowest unit cost",
+     "title_zh": "一到三色，单价最省",
+     "desc_en": "The cheapest way to put a one-colour brand mark on a silicone cup. Crisp edges; print area is confirmed per model before sampling.",
+     "desc_zh": "单色 logo 单价最低的做法，字边干净。每款能印多大面积，打样前逐款确认。",
+     "cta_en": "Ask for screen print pricing",
+     "cta_zh": "问丝印的价格",
+     "img": "/proc-screen.webp",
+     "sku": null,
+     "ref": null
+    }
+   ]
+  },
+  {
+   "sku": "LJB-001",
+   "slug": "silicone-1-5oz-ljb001",
+   "crafts": [
+    {
+     "key": "uv",
+     "label_en": "UV FULL-COLOUR",
+     "label_zh": "UV 热转印",
+     "title_en": "Photographic artwork over the whole body",
+     "title_zh": "照片级图案，整只印满",
+     "desc_en": "Gradients, photos and multi-colour logos in one pass. Silicone takes a surface primer first, so the print holds through washing and daily handling.",
+     "desc_zh": "渐变、照片、多色 logo 一次印满整只杯。硅胶表面先做一层处理再印，洗过、日常磕碰都不容易掉色。",
+     "cta_en": "Ask for UV artwork pricing",
+     "cta_zh": "问 UV 满印的价格",
+     "img": "/proc-uv.webp",
+     "sku": null,
+     "ref": null
+    },
+    {
+     "key": "screen",
+     "label_en": "SCREEN PRINT",
+     "label_zh": "丝印",
+     "title_en": "1–3 spot colours, lowest unit cost",
+     "title_zh": "一到三色，单价最省",
+     "desc_en": "The cheapest way to put a one-colour brand mark on a silicone cup. Crisp edges; print area is confirmed per model before sampling.",
+     "desc_zh": "单色 logo 单价最低的做法，字边干净。每款能印多大面积，打样前逐款确认。",
+     "cta_en": "Ask for screen print pricing",
+     "cta_zh": "问丝印的价格",
+     "img": "/proc-screen.webp",
+     "sku": null,
+     "ref": null
+    }
+   ]
+  },
+  {
+   "sku": "LJB-002",
+   "slug": "silicone-2oz-shumbler-shot-ljb002",
+   "crafts": [
+    {
+     "label_en": "GLOW IN THE DARK",
+     "label_zh": "夜光工艺",
+     "title_en": "The same body, moulded in glow green",
+     "title_zh": "同一个杯身，做成夜光绿",
+     "desc_en": "Moulded in phosphorescent silicone. Charges under daylight or a phone torch and keeps glowing after the lights go down — no battery, no LED, no switch.",
+     "desc_zh": "用蓄光硅胶一体成型。白天或手机灯照一会儿就吸满光，天黑后自己亮几个小时，不用电池、不用灯珠、也没有开关。",
+     "cta_en": "Quote this finish",
+     "cta_zh": "按这个工艺询价",
+     "key": "glow-LJB-008",
+     "sku": "LJB-008",
+     "img": "/img/v88-20261023/ljb-008-849b7d02a5.webp",
+     "ref": "LJB-008"
+    },
+    {
+     "key": "uv",
+     "label_en": "UV FULL-COLOUR",
+     "label_zh": "UV 热转印",
+     "title_en": "Photographic artwork over the whole body",
+     "title_zh": "照片级图案，整只印满",
+     "desc_en": "Gradients, photos and multi-colour logos in one pass. Silicone takes a surface primer first, so the print holds through washing and daily handling.",
+     "desc_zh": "渐变、照片、多色 logo 一次印满整只杯。硅胶表面先做一层处理再印，洗过、日常磕碰都不容易掉色。",
+     "cta_en": "Ask for UV artwork pricing",
+     "cta_zh": "问 UV 满印的价格",
+     "img": "/proc-uv.webp",
+     "sku": null,
+     "ref": null
+    },
+    {
+     "key": "screen",
+     "label_en": "SCREEN PRINT",
+     "label_zh": "丝印",
+     "title_en": "1–3 spot colours, lowest unit cost",
+     "title_zh": "一到三色，单价最省",
+     "desc_en": "The cheapest way to put a one-colour brand mark on a silicone cup. Crisp edges; print area is confirmed per model before sampling.",
+     "desc_zh": "单色 logo 单价最低的做法，字边干净。每款能印多大面积，打样前逐款确认。",
+     "cta_en": "Ask for screen print pricing",
+     "cta_zh": "问丝印的价格",
+     "img": "/proc-screen.webp",
+     "sku": null,
+     "ref": null
+    }
+   ]
+  },
+  {
+   "sku": "GJZD-009",
+   "slug": "collapsible-mug",
+   "crafts": [
+    {
+     "key": "uv",
+     "label_en": "UV FULL-COLOUR",
+     "label_zh": "UV 热转印",
+     "title_en": "Photographic artwork over the whole body",
+     "title_zh": "照片级图案，整只印满",
+     "desc_en": "Gradients, photos and multi-colour logos in one pass. Silicone takes a surface primer first, so the print holds through washing and daily handling.",
+     "desc_zh": "渐变、照片、多色 logo 一次印满整只杯。硅胶表面先做一层处理再印，洗过、日常磕碰都不容易掉色。",
+     "cta_en": "Ask for UV artwork pricing",
+     "cta_zh": "问 UV 满印的价格",
+     "img": "/proc-uv.webp",
+     "sku": null,
+     "ref": null
+    },
+    {
+     "key": "screen",
+     "label_en": "SCREEN PRINT",
+     "label_zh": "丝印",
+     "title_en": "1–3 spot colours, lowest unit cost",
+     "title_zh": "一到三色，单价最省",
+     "desc_en": "The cheapest way to put a one-colour brand mark on a silicone cup. Crisp edges; print area is confirmed per model before sampling.",
+     "desc_zh": "单色 logo 单价最低的做法，字边干净。每款能印多大面积，打样前逐款确认。",
+     "cta_en": "Ask for screen print pricing",
+     "cta_zh": "问丝印的价格",
+     "img": "/proc-screen.webp",
+     "sku": null,
+     "ref": null
+    }
+   ]
+  },
+  {
+   "sku": "GJZD-014",
+   "slug": "hydaway-collapsible-pint",
+   "crafts": [
+    {
+     "key": "uv",
+     "label_en": "UV FULL-COLOUR",
+     "label_zh": "UV 热转印",
+     "title_en": "Photographic artwork over the whole body",
+     "title_zh": "照片级图案，整只印满",
+     "desc_en": "Gradients, photos and multi-colour logos in one pass. Silicone takes a surface primer first, so the print holds through washing and daily handling.",
+     "desc_zh": "渐变、照片、多色 logo 一次印满整只杯。硅胶表面先做一层处理再印，洗过、日常磕碰都不容易掉色。",
+     "cta_en": "Ask for UV artwork pricing",
+     "cta_zh": "问 UV 满印的价格",
+     "img": "/proc-uv.webp",
+     "sku": null,
+     "ref": null
+    },
+    {
+     "key": "screen",
+     "label_en": "SCREEN PRINT",
+     "label_zh": "丝印",
+     "title_en": "1–3 spot colours, lowest unit cost",
+     "title_zh": "一到三色，单价最省",
+     "desc_en": "The cheapest way to put a one-colour brand mark on a silicone cup. Crisp edges; print area is confirmed per model before sampling.",
+     "desc_zh": "单色 logo 单价最低的做法，字边干净。每款能印多大面积，打样前逐款确认。",
+     "cta_en": "Ask for screen print pricing",
+     "cta_zh": "问丝印的价格",
+     "img": "/proc-screen.webp",
+     "sku": null,
+     "ref": null
+    }
+   ]
+  },
+  {
+   "sku": "GJZD-016",
+   "slug": "hydaway-collapsible-tumbler-with-lid",
+   "crafts": [
+    {
+     "key": "uv",
+     "label_en": "UV FULL-COLOUR",
+     "label_zh": "UV 热转印",
+     "title_en": "Photographic artwork over the whole body",
+     "title_zh": "照片级图案，整只印满",
+     "desc_en": "Gradients, photos and multi-colour logos in one pass. Silicone takes a surface primer first, so the print holds through washing and daily handling.",
+     "desc_zh": "渐变、照片、多色 logo 一次印满整只杯。硅胶表面先做一层处理再印，洗过、日常磕碰都不容易掉色。",
+     "cta_en": "Ask for UV artwork pricing",
+     "cta_zh": "问 UV 满印的价格",
+     "img": "/proc-uv.webp",
+     "sku": null,
+     "ref": null
+    },
+    {
+     "key": "screen",
+     "label_en": "SCREEN PRINT",
+     "label_zh": "丝印",
+     "title_en": "1–3 spot colours, lowest unit cost",
+     "title_zh": "一到三色，单价最省",
+     "desc_en": "The cheapest way to put a one-colour brand mark on a silicone cup. Crisp edges; print area is confirmed per model before sampling.",
+     "desc_zh": "单色 logo 单价最低的做法，字边干净。每款能印多大面积，打样前逐款确认。",
+     "cta_en": "Ask for screen print pricing",
+     "cta_zh": "问丝印的价格",
+     "img": "/proc-screen.webp",
+     "sku": null,
+     "ref": null
+    }
+   ]
+  }
+ ]
+}

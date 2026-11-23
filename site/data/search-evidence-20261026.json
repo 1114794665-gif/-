@@ -1,0 +1,12 @@
+{
+  "checkedAt": "2026-10-26",
+  "market": "US / English procurement intent",
+  "method": "Public web search and primary supplier-page review; not a Google Ads or Search Console volume export",
+  "monthlyVolumeVerified": false,
+  "accountDataLimit": "No authorized Google Ads/GSC demand dataset; Ahrefs documentation request requires a connection link_id not available to this run. Historical 2026-10-24 insufficient-plan result is not fresh volume verification.",
+  "items": [
+    {"query":"custom LED cups", "primaryURL":"/custom-led-drinkware/", "exampleModel":"FGB-006", "intentObservation":"Supplier product pages support an OEM/wholesale buying-page interpretation, with model configuration and quote workflow.","sourceURL":"https://www.abundmetal.com/products/led-light-up-cups/","monthlyVolume":null,"status":"intent observed, volume unverified","restriction":"Other suppliers' capacities, batteries, MOQ and performance claims are not transferred to BOOM Drinkware models."},
+    {"query":"custom silicone cups", "primaryURL":"/custom-silicone-cups/", "exampleModel":"LJB-001", "intentObservation":"Supplier product listings cover multiple cup forms, so drinkware format and purchase purpose must be disambiguated.","sourceURL":"https://consumersiliconeproducts.com/silicone-housewares-products","monthlyVolume":null,"status":"intent observed, volume unverified","restriction":"Therapy cupping and infant products in search results are not treated as general drinkware demand."},
+    {"query":"custom collapsible cups", "primaryURL":"/collapsible-cups/", "exampleModel":"GJZD-011", "sourceURL":"https://flysilicone.com/products/drinkware/collapsible-cups/","monthlyVolume":null,"status":"search result observed but direct page returned 404; not verified page evidence","restriction":"Do not promote this observation to verified demand or use its specifications."}
+  ]
+}

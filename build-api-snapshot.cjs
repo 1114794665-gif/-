@@ -35,6 +35,7 @@ function relPath(u) {
 
 function build(outDir) {
   const dataDir = p.join(outDir, 'data');
+  const activeUrls=new Set([...fs.readFileSync(p.join(outDir,'sitemap.xml'),'utf8').matchAll(/<loc>(.*?)<\/loc>/g)].map(m=>new URL(m[1]).pathname));
   const fields = readJson(p.join(dataDir, 'product-fields.json'), {});
 
   // 型号规格按英文路由归档，中文页共用同一份（中文页没有独立的型号数据）
@@ -71,6 +72,7 @@ function build(outDir) {
       const html = fs.readFileSync(file, 'utf8');
       const blocks = jsonLdBlocks(html);
       const url = L.prefix + slug + '/';
+      if(!activeUrls.has(url)){skipped.push(url);continue;}
       const prod = blocks.find((b) => b && b['@type'] === 'Product');
       const page = blocks.find((b) => b && b['@type'] === 'WebPage');
       const label = String((page && page.name) || (prod && prod.name) || '');
@@ -117,6 +119,12 @@ function build(outDir) {
     products
   };
 
+  // Keep the current admin contract (items/cats) alongside the bilingual public snapshot.
+  const shared=readJson(p.join(dataDir,'runtime-shared-niles-20261111.json'),{});
+  const libraryKey=Object.keys(shared).find(k=>k.startsWith('EVERCUP_LIBRARY_'));
+  snapshot.items=((shared[libraryKey]&&shared[libraryKey].products)||[]).filter(item=>activeUrls.has(item.route)).map(item=>{const published=products.find(v=>v.lang==='en'&&v.url===item.route);return {...item,name:published?.name||item.name,description:published?.description||item.description,image:published?.image||item.image}});
+  const categories=new Map();for(const item of snapshot.items){const name=item.category||'未分类',group=item.groupName||item.group||'未分组';if(!categories.has(name))categories.set(name,new Map());const groups=categories.get(name);groups.set(group,(groups.get(group)||0)+1)}
+  snapshot.cats=[...categories].map(([name,groups])=>({name,count:[...groups.values()].reduce((a,v)=>a+v,0),groups:[...groups].map(([name,count])=>({name,count}))}));
   const target = p.join(dataDir, 'api-products-snapshot.json');
   fs.mkdirSync(dataDir, { recursive: true });
   fs.writeFileSync(target, JSON.stringify(snapshot, null, 0));

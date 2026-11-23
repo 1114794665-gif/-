@@ -99,7 +99,12 @@ async function seoList(env){
 }
 async function seoUpsert(inp,env){
  if(!inp||!inp.route||!/^\/[A-Za-z0-9_/-]*\/$/.test(inp.route))throw new Error('页面地址不合法');
+ const index=await ghRead(GH_INDEX,env.GITHUB_TOKEN);
+ if(!index.data?.pages?.some(p=>p.route===inp.route))throw new Error('页面不在当前目录中');
+ for(const key of ['title','meta','h1'])if(typeof inp[key]!=='string'||!inp[key].trim()||inp[key].length>2000)throw new Error('标题、描述和 H1 必须填写，且不得超过 2000 字符');
  const cur=await ghRead(GH_FILE,env.GITHUB_TOKEN);
+ if(inp.expectedSha&&inp.expectedSha!==cur.sha)throw new Error('版本已变化，请刷新后重试');
+
  const ov=cur.data||{version:1,updatedAt:'',pages:{}};ov.pages=ov.pages||{};
  ov.pages[inp.route]={route:inp.route,pageType:String(inp.pageType||'page'),
   title:String(inp.title||'').trim(),meta:String(inp.meta||'').trim(),h1:String(inp.h1||'').trim(),
@@ -118,6 +123,8 @@ function trpcInputs(url,body){
   if(v&&typeof v==='object'&&'json'in v)return v.json;return v||{}};
 }
 async function handleTrpc(request,url,path,env){
+ const origin=request.headers.get('Origin');if(origin&&origin!==url.origin)return json({ok:false,code:'ORIGIN'},403);
+
  const procs=decodeURIComponent(path.slice('/api/trpc/'.length)).split(',');
  const batched=url.searchParams.get('batch')==='1';
  let body={};if(request.method==='POST'){try{body=await request.json()}catch{}}
@@ -127,6 +134,10 @@ async function handleTrpc(request,url,path,env){
   const name=procs[i];
   try{
    let data=[],cookie=null;
+   const publicNames=['auth.me','auth.captcha','auth.loginLocal','auth.login','auth.logout'];
+   if(!publicNames.includes(name)&&!await authMe(request,env)){results.push({error:{json:{message:'Login required',code:'UNAUTHORIZED',data:{code:'UNAUTHORIZED',httpStatus:401}}}});continue;}
+   if(['seo.upsert','auth.loginLocal','auth.login','auth.logout'].includes(name)&&request.method!=='POST'){results.push({error:{json:{message:'POST required',code:'METHOD_NOT_SUPPORTED',data:{httpStatus:405}}}});continue;}
+
    if(name==='auth.me')data=await authMe(request,env);
    else if(name==='auth.captcha')data=await authCaptcha(env);
    else if(name==='auth.loginLocal'||name==='auth.login'){const r=await authLogin(getInp(i),env);data=r.user;cookie=r.cookie}
@@ -144,6 +155,11 @@ async function handleTrpc(request,url,path,env){
  return new Response(JSON.stringify(batched?results:results[0]),{status:200,headers});
 }
 async function handleSeoRest(request,env){
+ const url=new URL(request.url),origin=request.headers.get('Origin');
+ if(origin&&origin!==url.origin)return json({ok:false,code:'ORIGIN'},403);
+ if(!await authMe(request,env))return json({ok:false,code:'UNAUTHORIZED'},401);
+ if(!['GET','POST'].includes(request.method))return json({ok:false,code:'METHOD'},405);
+
  try{
   if(request.method==='GET')return json(await seoList(env));
   const inp=await request.json();return json(await seoUpsert(inp,env));

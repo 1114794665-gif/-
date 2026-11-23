@@ -1,0 +1,6 @@
+{
+ "/custom-plastic-cups/": "<div class=\"opt-faq\"><details><summary>How do I choose plastic cups with lids and straws?</summary><p>Use the exact model and component references. Nominal capacity alone does not establish lid or straw fit. Confirm the chosen components and packing in the specification.</p></details></div",
+ "/custom-silicone-cups/": "<div class=\"opt-faq\"><details><summary>Which reference can I use for silicone shot glasses?</summary><p>LJB-001 is the silicone shot-cup reference in the current model library. Review its model page, then confirm the final dimensions, logo and quantities for your project.</p></details></div",
+ "/led-light-up-cups/": "<div class=\"opt-faq\"><details><summary>Can LED cups with logo share the same power and lighting?</summary><p>No common configuration is assumed. State the desired lighting, activation and power preference, then review each selected model. The logo should be checked with the light on and off.</p></details></div",
+ "/bar-accessories/": "<div class=\"opt-faq\"><details><summary>Are silicone sleeves, neoprene sleeves and foam can coolers interchangeable?</summary><p>No. They are different material or construction references. Match the intended can, bottle or glass, then confirm the material and decoration for the specific model.</p></details></div"
+}

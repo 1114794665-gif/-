@@ -63,4 +63,4 @@ Key facts:
 - Chinese mirror of the whole site: https://www.boomdrinkware.com/zh/
 - Chinese guide index: https://www.boomdrinkware.com/zh/blog/
 
-- Full model catalogue (415 models, all pages): https://www.boomdrinkware.com/llms-full.txt
+- Model catalogue (availability and current models must be confirmed against the product pages): https://www.boomdrinkware.com/llms-full.txt
