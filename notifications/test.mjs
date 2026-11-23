@@ -1,7 +1,7 @@
 import { DatabaseSync } from 'node:sqlite';
 import fs from 'node:fs/promises';
 import assert from 'node:assert/strict';
-const code = (await fs.readFile(new URL('./worker.mjs',import.meta.url),'utf8')).replace("import { EmailMessage } from 'cloudflare:email';",'class EmailMessage {constructor(from,to,raw){Object.assign(this,{from,to,raw});}}');
+const code = (await fs.readFile(new URL('./worker.mjs',import.meta.url),'utf8')).replace("import { sendSmtp } from './smtp.mjs';",'const sendSmtp=(password,raw)=>globalThis.__smtpTestSend(raw);');
 const {default:worker,flush} = await import('data:text/javascript;base64,'+Buffer.from(code+'\nexport { flush };').toString('base64'));
 const sql = new DatabaseSync(':memory:');
 sql.exec('CREATE TABLE enquiries(id TEXT PRIMARY KEY,payload TEXT,received_at TEXT);CREATE TABLE attachments(enquiry_id TEXT);');
@@ -9,6 +9,7 @@ const db={prepare(query){let args=[];const statement={bind(...values){args=value
 const id='ENQ-11111111-1111-1111-1111-111111111111';
 sql.prepare('INSERT INTO enquiries VALUES(?,?,?)').run(id,JSON.stringify({message:'QA TEST ONLY',email:'qa@example.com',token:'DO-NOT-INCLUDE'}),'2026-11-09T00:00:00Z');
 let messages=[],fail=false;const env={DB:db,EMAIL:{async send(message){if(fail)throw Object.assign(Error('provider failure'),{code:'E_DELIVERY_FAILED'});messages.push(message);}}};
+env.SMTP_PASSWORD='synthetic-test-only';globalThis.__smtpTestSend=(raw)=>env.EMAIL.send({to:'niles@boomdrinkware.com',raw});
 let pending=[];const ctx={waitUntil(task){pending.push(task);}};
 const request=()=>new Request('https://internal/enqueue',{method:'POST',body:JSON.stringify({id})});
 assert.equal((await worker.fetch(new Request('https://internal/'),env,ctx)).status,404);
@@ -16,7 +17,7 @@ assert.equal((await worker.fetch(request(),env,ctx)).status,202);await Promise.a
 assert.equal(messages.length,1);assert.equal(messages[0].to,'niles@boomdrinkware.com');
 const body=Buffer.from(messages[0].raw.split('\r\n\r\n')[1].replaceAll('\r\n',''),'base64').toString();assert.ok(body.includes('QA TEST ONLY'));assert.ok(!body.includes('DO-NOT-INCLUDE'));
 pending=[];await worker.fetch(request(),env,ctx);await Promise.all(pending);assert.equal(messages.length,1);
-assert.equal(sql.prepare('SELECT state FROM oem_notification_outbox').get().state,'sent');
+assert.equal(sql.prepare('SELECT state FROM oem_notification_outbox').get().state,'accepted');
 sql.prepare("UPDATE oem_notification_outbox SET state='pending',attempts=0,retry_at=0").run();fail=true;await flush(env);
 assert.equal(sql.prepare('SELECT state FROM oem_notification_outbox').get().state,'pending');assert.equal(sql.prepare('SELECT attempts FROM oem_notification_outbox').get().attempts,1);
 sql.prepare("UPDATE oem_notification_outbox SET attempts=4,retry_at=0").run();await flush(env);assert.equal(sql.prepare('SELECT state FROM oem_notification_outbox').get().state,'failed');
