@@ -6,9 +6,9 @@
 
   var PATH = location.pathname;
   var TITLES = {
-    '/custom-ice-buckets/': 'Custom Ice Buckets Wholesale | BOOM Drinkware',
-    '/custom-shot-glasses/': 'Custom Shot Glasses Bulk | BOOM Drinkware',
-    '/led-light-up-cups/': 'Custom LED Light Up Cups Wholesale | BOOM Drinkware'
+    '/custom-ice-buckets/': 'Custom Ice Buckets Wholesale | Free-Design & High-Quality',
+    '/custom-shot-glasses/': 'Custom Shot Glasses Bulk | Free-Design & High-Quality',
+    '/led-light-up-cups/': 'Custom LED Light Up Cups | Free-Design & High-Quality'
   };
   var GENERIC = ["Can you build the collection around our brand idea?", "How can our logo and artwork make the collection our own?", "Where should we start?"];
   var SHOT_FAQ = [{"q":"What capacity should I choose for custom shot glasses?","a":"Start with the pour you serve: 1.5 oz suits tastings and branded giveaways, while 2 oz works for a standard shot. For collapsible sets, confirm the filled and folded size before artwork is placed."},{"q":"Can I print on silicone and LED shot glasses?","a":"Yes, but the method follows the material. Silicone styles are reviewed for pad or screen printing; LED acrylic styles are checked with the light on and off. Send your artwork and we will confirm the usable position on the selected model."},{"q":"What should I send for a shot glass quote?","a":"Send the model shortlist, quantity, artwork, preferred colours, packaging and destination. If you are still choosing, tell us the drink, venue and event date and we will narrow the options."}];

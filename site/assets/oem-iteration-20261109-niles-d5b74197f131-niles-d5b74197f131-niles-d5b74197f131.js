@@ -13,7 +13,7 @@ function apply(){
  const make=(html)=>{const t=document.createElement('template');t.innerHTML=html;return t.content.firstElementChild;};
  const heading=(eyebrow,title,body)=>`<p class="of-eyebrow">${eyebrow}</p><h2>${title}</h2><p class="u-intro">${body}</p>`;
  const figure=(src,alt,caption)=>`<figure><img src="${src}" alt="${alt}" loading="lazy" width="1400" height="900"><figcaption>${caption}</figcaption></figure>`;
- const title="Drinkware OEM & ODM | Model, Tooling & Packaging | BOOM";document.title=title;
+ const title="Drinkware OEM Manufacturer | Free-Design & High-Quality";document.title=title;
  const desc="Start with an existing model or bring a product idea. Review the product, artwork, tooling and packaging requirements together before confirming the project scope.";
  for(const sel of ['meta[name="description"]','meta[property="og:description"]','meta[name="twitter:description"]']){const el=document.querySelector(sel);if(el)el.content=desc;}
  for(const sel of ['meta[property="og:title"]','meta[name="twitter:title"]']){const el=document.querySelector(sel);if(el)el.content=title;}
