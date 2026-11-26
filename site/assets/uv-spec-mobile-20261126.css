@@ -1,0 +1,43 @@
+/* uv-spec-mobile-20261126
+ * 手机上的 UV 印刷规格表。
+ * 桌面端是两列（左标签 / 右内容），手机上左列固定 160px，
+ * 内容只剩 180px 宽，长句会被挤成又高又窄的一条。
+ * 这里只在小屏把每行改成「标签在上、内容在下」，桌面端不受影响。
+ *
+ * 注意：这张表是页面运行时重画的，手写的 class 会被覆盖掉，
+ * 所以用 th[scope="row"] 这个属性做锚点（只有规格表带它）。
+ */
+@media (max-width: 640px) {
+  table:has(th[scope='row']) {
+    display: block;
+    width: 100%;
+  }
+
+  table:has(th[scope='row']) tbody,
+  table:has(th[scope='row']) tr {
+    display: block;
+    width: 100%;
+  }
+
+  table:has(th[scope='row']) tr {
+    padding: 4px 0 2px;
+  }
+
+  table:has(th[scope='row']) tr > th {
+    display: block;
+    width: 100% !important;
+    background: transparent !important;
+    padding: 14px 18px 2px !important;
+    font-size: 11px !important;
+    letter-spacing: 0.12em !important;
+    color: #8a8175 !important;
+  }
+
+  table:has(th[scope='row']) tr > td {
+    display: block;
+    width: 100% !important;
+    padding: 2px 18px 16px !important;
+    font-size: 14.5px !important;
+    line-height: 1.6 !important;
+  }
+}

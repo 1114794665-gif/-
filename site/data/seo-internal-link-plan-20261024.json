@@ -1,0 +1,2432 @@
+{
+  "updatedAt": "2026-10-24T21:31:20.659105+08:00",
+  "policy": "Original workbook is preserved. Retired/merged categories migrate to current canonical category pages; self-links are removed.",
+  "originalPlanRows": [
+    {
+      "originalSource": "/",
+      "originalTarget": "/custom-plastic-cups/",
+      "source": "/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "custom plastic cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/",
+      "originalTarget": "/custom-stadium-cups/",
+      "source": "/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "custom stadium cups",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/",
+      "originalTarget": "/custom-frosted-cups/",
+      "source": "/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "custom frosted cups",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/",
+      "originalTarget": "/color-changing-cups/",
+      "source": "/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "color changing cups",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/",
+      "originalTarget": "/custom-tumblers/",
+      "source": "/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "custom tumblers",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/",
+      "originalTarget": "/custom-plastic-mugs/",
+      "source": "/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "custom plastic mugs",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/",
+      "originalTarget": "/custom-silicone-cups/",
+      "source": "/",
+      "target": "/custom-silicone-cups/",
+      "originalAnchor": "custom silicone cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/",
+      "originalTarget": "/collapsible-cups/",
+      "source": "/",
+      "target": "/collapsible-cups/",
+      "originalAnchor": "collapsible cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/",
+      "originalTarget": "/led-light-up-cups/",
+      "source": "/",
+      "target": "/led-light-up-cups/",
+      "originalAnchor": "LED light up cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/",
+      "originalTarget": "/custom-shot-glasses/",
+      "source": "/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "custom shot glasses",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/",
+      "originalTarget": "/custom-beer-mugs/",
+      "source": "/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "custom beer mugs",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/",
+      "originalTarget": "/custom-wine-cups/",
+      "source": "/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "plastic wine glasses",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/",
+      "originalTarget": "/custom-can-coolers/",
+      "source": "/",
+      "target": "/bar-accessories/",
+      "originalAnchor": "custom can coolers",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/",
+      "originalTarget": "/custom-water-bottles/",
+      "source": "/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "custom water bottles",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/",
+      "originalTarget": "/drinkware-blanks/",
+      "source": "/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "drinkware blanks",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/",
+      "originalTarget": "/bar-accessories/",
+      "source": "/",
+      "target": "/bar-accessories/",
+      "originalAnchor": "custom bar accessories",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/",
+      "originalTarget": "/new-arrivals/",
+      "source": "/",
+      "target": "/new-arrivals/",
+      "originalAnchor": "new custom drinkware 2026",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/",
+      "originalTarget": "/oem-manufacturer/",
+      "source": "/",
+      "target": "/oem-manufacturer/",
+      "originalAnchor": "custom drinkware manufacturer",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/",
+      "originalTarget": "/wholesale/",
+      "source": "/",
+      "target": "/wholesale/",
+      "originalAnchor": "wholesale custom drinkware",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/",
+      "originalTarget": "/low-moq-custom-cups/",
+      "source": "/",
+      "target": "/low-moq-custom-cups/",
+      "originalAnchor": "custom cups no minimum",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/",
+      "originalTarget": "/faq/",
+      "source": "/",
+      "target": "/faq/",
+      "originalAnchor": "custom cups FAQ",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/",
+      "originalTarget": "/blog/",
+      "source": "/",
+      "target": "/blog/",
+      "originalAnchor": "custom drinkware guides",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/",
+      "originalTarget": "/led-light-up-cups/",
+      "source": "/",
+      "target": "/led-light-up-cups/",
+      "originalAnchor": "LED light up cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/",
+      "originalTarget": "/custom-silicone-cups/",
+      "source": "/",
+      "target": "/custom-silicone-cups/",
+      "originalAnchor": "custom silicone cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/",
+      "originalTarget": "/low-moq-custom-cups/",
+      "source": "/",
+      "target": "/low-moq-custom-cups/",
+      "originalAnchor": "custom cups no minimum",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/",
+      "originalTarget": "/rush-production/",
+      "source": "/",
+      "target": "/rush-production/",
+      "originalAnchor": "rush custom cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/backyard-bbq-cups/",
+      "originalTarget": "/custom-plastic-cups/",
+      "source": "/backyard-bbq-cups/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "custom plastic cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/backyard-bbq-cups/",
+      "originalTarget": "/custom-stadium-cups/",
+      "source": "/backyard-bbq-cups/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "custom stadium cups",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/backyard-bbq-cups/",
+      "originalTarget": "/custom-can-coolers/",
+      "source": "/backyard-bbq-cups/",
+      "target": "/bar-accessories/",
+      "originalAnchor": "custom can coolers",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/backyard-bbq-cups/",
+      "originalTarget": "/led-light-up-cups/",
+      "source": "/backyard-bbq-cups/",
+      "target": "/led-light-up-cups/",
+      "originalAnchor": "LED light up cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/backyard-bbq-cups/",
+      "originalTarget": "/custom-frosted-cups/",
+      "source": "/backyard-bbq-cups/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "custom frosted cups",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/beach-party-cups/",
+      "originalTarget": "/custom-silicone-cups/",
+      "source": "/beach-party-cups/",
+      "target": "/custom-silicone-cups/",
+      "originalAnchor": "custom silicone cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/beach-party-cups/",
+      "originalTarget": "/custom-wine-cups/",
+      "source": "/beach-party-cups/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "plastic wine glasses",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/beach-party-cups/",
+      "originalTarget": "/custom-can-coolers/",
+      "source": "/beach-party-cups/",
+      "target": "/bar-accessories/",
+      "originalAnchor": "custom can coolers",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/beach-party-cups/",
+      "originalTarget": "/collapsible-cups/",
+      "source": "/beach-party-cups/",
+      "target": "/collapsible-cups/",
+      "originalAnchor": "collapsible cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/beach-party-cups/",
+      "originalTarget": "/custom-tumblers/",
+      "source": "/beach-party-cups/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "custom tumblers",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/pool-party-cups/",
+      "originalTarget": "/custom-silicone-cups/",
+      "source": "/pool-party-cups/",
+      "target": "/custom-silicone-cups/",
+      "originalAnchor": "custom silicone cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/pool-party-cups/",
+      "originalTarget": "/custom-plastic-cups/",
+      "source": "/pool-party-cups/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "custom plastic cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/pool-party-cups/",
+      "originalTarget": "/led-light-up-cups/",
+      "source": "/pool-party-cups/",
+      "target": "/led-light-up-cups/",
+      "originalAnchor": "LED light up cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/pool-party-cups/",
+      "originalTarget": "/custom-wine-cups/",
+      "source": "/pool-party-cups/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "plastic wine glasses",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/holiday-party-cups/",
+      "originalTarget": "/led-light-up-cups/",
+      "source": "/holiday-party-cups/",
+      "target": "/led-light-up-cups/",
+      "originalAnchor": "LED light up cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/holiday-party-cups/",
+      "originalTarget": "/custom-plastic-cups/",
+      "source": "/holiday-party-cups/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "custom plastic cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/holiday-party-cups/",
+      "originalTarget": "/custom-can-coolers/",
+      "source": "/holiday-party-cups/",
+      "target": "/bar-accessories/",
+      "originalAnchor": "custom can coolers",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/holiday-party-cups/",
+      "originalTarget": "/custom-shot-glasses/",
+      "source": "/holiday-party-cups/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "custom shot glasses",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/holiday-party-cups/",
+      "originalTarget": "/custom-tumblers/",
+      "source": "/holiday-party-cups/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "custom tumblers",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/birthday-party-cups/",
+      "originalTarget": "/custom-frosted-cups/",
+      "source": "/birthday-party-cups/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "custom frosted cups",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/birthday-party-cups/",
+      "originalTarget": "/custom-stadium-cups/",
+      "source": "/birthday-party-cups/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "custom stadium cups",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/birthday-party-cups/",
+      "originalTarget": "/custom-plastic-cups/",
+      "source": "/birthday-party-cups/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "custom plastic cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/birthday-party-cups/",
+      "originalTarget": "/custom-shot-glasses/",
+      "source": "/birthday-party-cups/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "custom shot glasses",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/birthday-party-cups/",
+      "originalTarget": "/led-light-up-cups/",
+      "source": "/birthday-party-cups/",
+      "target": "/led-light-up-cups/",
+      "originalAnchor": "LED light up cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/camping-drinkware/",
+      "originalTarget": "/collapsible-cups/",
+      "source": "/camping-drinkware/",
+      "target": "/collapsible-cups/",
+      "originalAnchor": "collapsible cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/camping-drinkware/",
+      "originalTarget": "/custom-silicone-cups/",
+      "source": "/camping-drinkware/",
+      "target": "/custom-silicone-cups/",
+      "originalAnchor": "custom silicone cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/camping-drinkware/",
+      "originalTarget": "/custom-water-bottles/",
+      "source": "/camping-drinkware/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "custom water bottles",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/camping-drinkware/",
+      "originalTarget": "/custom-plastic-mugs/",
+      "source": "/camping-drinkware/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "custom plastic mugs",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/camping-drinkware/",
+      "originalTarget": "/custom-tumblers/",
+      "source": "/camping-drinkware/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "custom tumblers",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/tailgate-party-cups/",
+      "originalTarget": "/custom-can-coolers/",
+      "source": "/tailgate-party-cups/",
+      "target": "/bar-accessories/",
+      "originalAnchor": "custom can coolers",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/tailgate-party-cups/",
+      "originalTarget": "/custom-stadium-cups/",
+      "source": "/tailgate-party-cups/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "custom stadium cups",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/tailgate-party-cups/",
+      "originalTarget": "/custom-plastic-cups/",
+      "source": "/tailgate-party-cups/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "custom plastic cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/tailgate-party-cups/",
+      "originalTarget": "/led-light-up-cups/",
+      "source": "/tailgate-party-cups/",
+      "target": "/led-light-up-cups/",
+      "originalAnchor": "LED light up cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/tailgate-party-cups/",
+      "originalTarget": "/custom-shot-glasses/",
+      "source": "/tailgate-party-cups/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "custom shot glasses",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/wedding-cups/",
+      "originalTarget": "/custom-frosted-cups/",
+      "source": "/wedding-cups/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "custom frosted cups",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/wedding-cups/",
+      "originalTarget": "/custom-wine-cups/",
+      "source": "/wedding-cups/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "plastic wine glasses",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/wedding-cups/",
+      "originalTarget": "/custom-can-coolers/",
+      "source": "/wedding-cups/",
+      "target": "/bar-accessories/",
+      "originalAnchor": "custom can coolers",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/wedding-cups/",
+      "originalTarget": "/custom-shot-glasses/",
+      "source": "/wedding-cups/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "custom shot glasses",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/wedding-cups/",
+      "originalTarget": "/custom-stadium-cups/",
+      "source": "/wedding-cups/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "custom stadium cups",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/bachelorette-party-cups/",
+      "originalTarget": "/custom-wine-cups/",
+      "source": "/bachelorette-party-cups/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "plastic wine glasses",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/bachelorette-party-cups/",
+      "originalTarget": "/custom-frosted-cups/",
+      "source": "/bachelorette-party-cups/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "custom frosted cups",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/bachelorette-party-cups/",
+      "originalTarget": "/custom-shot-glasses/",
+      "source": "/bachelorette-party-cups/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "custom shot glasses",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/bachelorette-party-cups/",
+      "originalTarget": "/custom-can-coolers/",
+      "source": "/bachelorette-party-cups/",
+      "target": "/bar-accessories/",
+      "originalAnchor": "custom can coolers",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/bachelorette-party-cups/",
+      "originalTarget": "/led-light-up-cups/",
+      "source": "/bachelorette-party-cups/",
+      "target": "/led-light-up-cups/",
+      "originalAnchor": "LED light up cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/nightclub-led-drinkware/",
+      "originalTarget": "/led-light-up-cups/",
+      "source": "/led-light-up-cups/",
+      "target": "/led-light-up-cups/",
+      "originalAnchor": "LED light up cups",
+      "status": "合并同意图页面后为自身链接，取消"
+    },
+    {
+      "originalSource": "/nightclub-led-drinkware/",
+      "originalTarget": "/custom-shot-glasses/",
+      "source": "/led-light-up-cups/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "custom shot glasses",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/nightclub-led-drinkware/",
+      "originalTarget": "/custom-plastic-cups/",
+      "source": "/led-light-up-cups/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "custom plastic cups",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/nightclub-led-drinkware/",
+      "originalTarget": "/custom-beer-mugs/",
+      "source": "/led-light-up-cups/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "custom beer mugs",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/nightclub-led-drinkware/",
+      "originalTarget": "/bar-accessories/",
+      "source": "/led-light-up-cups/",
+      "target": "/bar-accessories/",
+      "originalAnchor": "custom bar accessories",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/corporate-gifts/",
+      "originalTarget": "/custom-tumblers/",
+      "source": "/corporate-gifts/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "custom tumblers",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/corporate-gifts/",
+      "originalTarget": "/custom-water-bottles/",
+      "source": "/corporate-gifts/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "custom water bottles",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/corporate-gifts/",
+      "originalTarget": "/custom-plastic-mugs/",
+      "source": "/corporate-gifts/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "custom plastic mugs",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/corporate-gifts/",
+      "originalTarget": "/custom-can-coolers/",
+      "source": "/corporate-gifts/",
+      "target": "/bar-accessories/",
+      "originalAnchor": "custom can coolers",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/corporate-gifts/",
+      "originalTarget": "/custom-silicone-cups/",
+      "source": "/corporate-gifts/",
+      "target": "/custom-silicone-cups/",
+      "originalAnchor": "custom silicone cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/graduation-party-cups/",
+      "originalTarget": "/custom-stadium-cups/",
+      "source": "/graduation-party-cups/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "custom stadium cups",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/graduation-party-cups/",
+      "originalTarget": "/custom-plastic-cups/",
+      "source": "/graduation-party-cups/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "custom plastic cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/graduation-party-cups/",
+      "originalTarget": "/custom-frosted-cups/",
+      "source": "/graduation-party-cups/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "custom frosted cups",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/graduation-party-cups/",
+      "originalTarget": "/custom-can-coolers/",
+      "source": "/graduation-party-cups/",
+      "target": "/bar-accessories/",
+      "originalAnchor": "custom can coolers",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/custom-silicone-cups/",
+      "originalTarget": "/pool-party-cups/",
+      "source": "/custom-silicone-cups/",
+      "target": "/pool-party-cups/",
+      "originalAnchor": "pool party",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/custom-silicone-cups/",
+      "originalTarget": "/beach-party-cups/",
+      "source": "/custom-silicone-cups/",
+      "target": "/beach-party-cups/",
+      "originalAnchor": "beach party",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/custom-silicone-cups/",
+      "originalTarget": "/camping-drinkware/",
+      "source": "/custom-silicone-cups/",
+      "target": "/camping-drinkware/",
+      "originalAnchor": "camping",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/led-light-up-cups/",
+      "originalTarget": "/nightclub-led-drinkware/",
+      "source": "/led-light-up-cups/",
+      "target": "/led-light-up-cups/",
+      "originalAnchor": "nightclub bar",
+      "status": "合并同意图页面后为自身链接，取消"
+    },
+    {
+      "originalSource": "/led-light-up-cups/",
+      "originalTarget": "/holiday-party-cups/",
+      "source": "/led-light-up-cups/",
+      "target": "/holiday-party-cups/",
+      "originalAnchor": "holiday party",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/led-light-up-cups/",
+      "originalTarget": "/birthday-party-cups/",
+      "source": "/led-light-up-cups/",
+      "target": "/birthday-party-cups/",
+      "originalAnchor": "birthday party",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/custom-plastic-cups/",
+      "originalTarget": "/backyard-bbq-cups/",
+      "source": "/custom-plastic-cups/",
+      "target": "/backyard-bbq-cups/",
+      "originalAnchor": "outdoor BBQ",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/custom-plastic-cups/",
+      "originalTarget": "/birthday-party-cups/",
+      "source": "/custom-plastic-cups/",
+      "target": "/birthday-party-cups/",
+      "originalAnchor": "birthday party",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/custom-plastic-cups/",
+      "originalTarget": "/tailgate-party-cups/",
+      "source": "/custom-plastic-cups/",
+      "target": "/tailgate-party-cups/",
+      "originalAnchor": "tailgate party",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/custom-stadium-cups/",
+      "originalTarget": "/backyard-bbq-cups/",
+      "source": "/custom-plastic-cups/",
+      "target": "/backyard-bbq-cups/",
+      "originalAnchor": "outdoor BBQ",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/custom-stadium-cups/",
+      "originalTarget": "/tailgate-party-cups/",
+      "source": "/custom-plastic-cups/",
+      "target": "/tailgate-party-cups/",
+      "originalAnchor": "tailgate party",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/custom-stadium-cups/",
+      "originalTarget": "/wedding-cups/",
+      "source": "/custom-plastic-cups/",
+      "target": "/wedding-cups/",
+      "originalAnchor": "wedding",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/custom-stadium-cups/",
+      "originalTarget": "/graduation-party-cups/",
+      "source": "/custom-plastic-cups/",
+      "target": "/graduation-party-cups/",
+      "originalAnchor": "graduation party",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/custom-can-coolers/",
+      "originalTarget": "/tailgate-party-cups/",
+      "source": "/bar-accessories/",
+      "target": "/tailgate-party-cups/",
+      "originalAnchor": "tailgate party",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/custom-can-coolers/",
+      "originalTarget": "/beach-party-cups/",
+      "source": "/bar-accessories/",
+      "target": "/beach-party-cups/",
+      "originalAnchor": "beach party",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/custom-can-coolers/",
+      "originalTarget": "/wedding-cups/",
+      "source": "/bar-accessories/",
+      "target": "/wedding-cups/",
+      "originalAnchor": "wedding",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/custom-frosted-cups/",
+      "originalTarget": "/wedding-cups/",
+      "source": "/custom-plastic-cups/",
+      "target": "/wedding-cups/",
+      "originalAnchor": "wedding",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/custom-frosted-cups/",
+      "originalTarget": "/birthday-party-cups/",
+      "source": "/custom-plastic-cups/",
+      "target": "/birthday-party-cups/",
+      "originalAnchor": "birthday party",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/custom-frosted-cups/",
+      "originalTarget": "/bachelorette-party-cups/",
+      "source": "/custom-plastic-cups/",
+      "target": "/bachelorette-party-cups/",
+      "originalAnchor": "bachelor/bachelorette party",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/custom-wine-cups/",
+      "originalTarget": "/wedding-cups/",
+      "source": "/custom-plastic-cups/",
+      "target": "/wedding-cups/",
+      "originalAnchor": "wedding",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/custom-wine-cups/",
+      "originalTarget": "/beach-party-cups/",
+      "source": "/custom-plastic-cups/",
+      "target": "/beach-party-cups/",
+      "originalAnchor": "beach party",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/custom-wine-cups/",
+      "originalTarget": "/bachelorette-party-cups/",
+      "source": "/custom-plastic-cups/",
+      "target": "/bachelorette-party-cups/",
+      "originalAnchor": "bachelor/bachelorette party",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/collapsible-cups/",
+      "originalTarget": "/camping-drinkware/",
+      "source": "/collapsible-cups/",
+      "target": "/camping-drinkware/",
+      "originalAnchor": "camping",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/collapsible-cups/",
+      "originalTarget": "/beach-party-cups/",
+      "source": "/collapsible-cups/",
+      "target": "/beach-party-cups/",
+      "originalAnchor": "beach party",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/custom-tumblers/",
+      "originalTarget": "/corporate-gifts/",
+      "source": "/custom-plastic-cups/",
+      "target": "/corporate-gifts/",
+      "originalAnchor": "corporate gift",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/custom-tumblers/",
+      "originalTarget": "/camping-drinkware/",
+      "source": "/custom-plastic-cups/",
+      "target": "/camping-drinkware/",
+      "originalAnchor": "camping",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/custom-water-bottles/",
+      "originalTarget": "/corporate-gifts/",
+      "source": "/custom-plastic-cups/",
+      "target": "/corporate-gifts/",
+      "originalAnchor": "corporate gift",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/custom-water-bottles/",
+      "originalTarget": "/camping-drinkware/",
+      "source": "/custom-plastic-cups/",
+      "target": "/camping-drinkware/",
+      "originalAnchor": "camping",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/custom-shot-glasses/",
+      "originalTarget": "/nightclub-led-drinkware/",
+      "source": "/custom-plastic-cups/",
+      "target": "/led-light-up-cups/",
+      "originalAnchor": "nightclub bar",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/custom-shot-glasses/",
+      "originalTarget": "/birthday-party-cups/",
+      "source": "/custom-plastic-cups/",
+      "target": "/birthday-party-cups/",
+      "originalAnchor": "birthday party",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/custom-beer-mugs/",
+      "originalTarget": "/nightclub-led-drinkware/",
+      "source": "/custom-plastic-cups/",
+      "target": "/led-light-up-cups/",
+      "originalAnchor": "nightclub bar",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/custom-beer-mugs/",
+      "originalTarget": "/tailgate-party-cups/",
+      "source": "/custom-plastic-cups/",
+      "target": "/tailgate-party-cups/",
+      "originalAnchor": "tailgate party",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/color-changing-cups/",
+      "originalTarget": "/birthday-party-cups/",
+      "source": "/custom-plastic-cups/",
+      "target": "/birthday-party-cups/",
+      "originalAnchor": "birthday party",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/color-changing-cups/",
+      "originalTarget": "/holiday-party-cups/",
+      "source": "/custom-plastic-cups/",
+      "target": "/holiday-party-cups/",
+      "originalAnchor": "holiday party",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/custom-plastic-mugs/",
+      "originalTarget": "/corporate-gifts/",
+      "source": "/custom-plastic-cups/",
+      "target": "/corporate-gifts/",
+      "originalAnchor": "corporate gift",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/custom-plastic-mugs/",
+      "originalTarget": "/camping-drinkware/",
+      "source": "/custom-plastic-cups/",
+      "target": "/camping-drinkware/",
+      "originalAnchor": "camping",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/drinkware-blanks/",
+      "originalTarget": "/corporate-gifts/",
+      "source": "/custom-plastic-cups/",
+      "target": "/corporate-gifts/",
+      "originalAnchor": "corporate gift",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/bar-accessories/",
+      "originalTarget": "/nightclub-led-drinkware/",
+      "source": "/bar-accessories/",
+      "target": "/led-light-up-cups/",
+      "originalAnchor": "nightclub bar",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/uv-printing/",
+      "originalTarget": "/custom-plastic-cups/",
+      "source": "/uv-printing/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "custom plastic cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/uv-printing/",
+      "originalTarget": "/custom-tumblers/",
+      "source": "/uv-printing/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "custom tumblers",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/uv-printing/",
+      "originalTarget": "/custom-stadium-cups/",
+      "source": "/uv-printing/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "custom stadium cups",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/uv-printing/",
+      "originalTarget": "/custom-frosted-cups/",
+      "source": "/uv-printing/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "custom frosted cups",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/uv-printing/",
+      "originalTarget": "/custom-can-coolers/",
+      "source": "/uv-printing/",
+      "target": "/bar-accessories/",
+      "originalAnchor": "custom can coolers",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/laser-engraving/",
+      "originalTarget": "/custom-tumblers/",
+      "source": "/laser-engraving/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "custom tumblers",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/laser-engraving/",
+      "originalTarget": "/custom-silicone-cups/",
+      "source": "/laser-engraving/",
+      "target": "/custom-silicone-cups/",
+      "originalAnchor": "custom silicone cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/laser-engraving/",
+      "originalTarget": "/custom-shot-glasses/",
+      "source": "/laser-engraving/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "custom shot glasses",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/laser-engraving/",
+      "originalTarget": "/custom-wine-cups/",
+      "source": "/laser-engraving/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "plastic wine glasses",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/screen-printing/",
+      "originalTarget": "/custom-stadium-cups/",
+      "source": "/screen-printing/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "custom stadium cups",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/screen-printing/",
+      "originalTarget": "/custom-plastic-cups/",
+      "source": "/screen-printing/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "custom plastic cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/screen-printing/",
+      "originalTarget": "/custom-frosted-cups/",
+      "source": "/screen-printing/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "custom frosted cups",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/screen-printing/",
+      "originalTarget": "/custom-water-bottles/",
+      "source": "/screen-printing/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "custom water bottles",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/heat-transfer-printing/",
+      "originalTarget": "/custom-plastic-cups/",
+      "source": "/heat-transfer-printing/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "custom plastic cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/heat-transfer-printing/",
+      "originalTarget": "/custom-tumblers/",
+      "source": "/heat-transfer-printing/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "custom tumblers",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/hydro-dipping/",
+      "originalTarget": "/custom-tumblers/",
+      "source": "/custom-led-drinkware/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "custom tumblers",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/hydro-dipping/",
+      "originalTarget": "/custom-water-bottles/",
+      "source": "/custom-led-drinkware/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "custom water bottles",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/custom-plastic-cups/",
+      "originalTarget": "/uv-printing/",
+      "source": "/custom-plastic-cups/",
+      "target": "/uv-printing/",
+      "originalAnchor": "UV printed cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/custom-plastic-cups/",
+      "originalTarget": "/screen-printing/",
+      "source": "/custom-plastic-cups/",
+      "target": "/screen-printing/",
+      "originalAnchor": "screen printed cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/custom-plastic-cups/",
+      "originalTarget": "/heat-transfer-printing/",
+      "source": "/custom-plastic-cups/",
+      "target": "/heat-transfer-printing/",
+      "originalAnchor": "heat transfer cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/custom-stadium-cups/",
+      "originalTarget": "/screen-printing/",
+      "source": "/custom-plastic-cups/",
+      "target": "/screen-printing/",
+      "originalAnchor": "screen printed cups",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/custom-stadium-cups/",
+      "originalTarget": "/uv-printing/",
+      "source": "/custom-plastic-cups/",
+      "target": "/uv-printing/",
+      "originalAnchor": "UV printed cups",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/custom-frosted-cups/",
+      "originalTarget": "/screen-printing/",
+      "source": "/custom-plastic-cups/",
+      "target": "/screen-printing/",
+      "originalAnchor": "screen printed cups",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/custom-frosted-cups/",
+      "originalTarget": "/uv-printing/",
+      "source": "/custom-plastic-cups/",
+      "target": "/uv-printing/",
+      "originalAnchor": "UV printed cups",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/custom-tumblers/",
+      "originalTarget": "/uv-printing/",
+      "source": "/custom-plastic-cups/",
+      "target": "/uv-printing/",
+      "originalAnchor": "UV printed cups",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/custom-tumblers/",
+      "originalTarget": "/laser-engraving/",
+      "source": "/custom-plastic-cups/",
+      "target": "/laser-engraving/",
+      "originalAnchor": "laser engraved cups",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/custom-tumblers/",
+      "originalTarget": "/hydro-dipping/",
+      "source": "/custom-plastic-cups/",
+      "target": "/custom-led-drinkware/",
+      "originalAnchor": "hydro dipped tumblers",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/custom-silicone-cups/",
+      "originalTarget": "/laser-engraving/",
+      "source": "/custom-silicone-cups/",
+      "target": "/laser-engraving/",
+      "originalAnchor": "laser engraved cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/custom-silicone-cups/",
+      "originalTarget": "/screen-printing/",
+      "source": "/custom-silicone-cups/",
+      "target": "/screen-printing/",
+      "originalAnchor": "screen printed cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/custom-can-coolers/",
+      "originalTarget": "/uv-printing/",
+      "source": "/bar-accessories/",
+      "target": "/uv-printing/",
+      "originalAnchor": "UV printed cups",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/custom-can-coolers/",
+      "originalTarget": "/screen-printing/",
+      "source": "/bar-accessories/",
+      "target": "/screen-printing/",
+      "originalAnchor": "screen printed cups",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/custom-water-bottles/",
+      "originalTarget": "/screen-printing/",
+      "source": "/custom-plastic-cups/",
+      "target": "/screen-printing/",
+      "originalAnchor": "screen printed cups",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/custom-water-bottles/",
+      "originalTarget": "/hydro-dipping/",
+      "source": "/custom-plastic-cups/",
+      "target": "/custom-led-drinkware/",
+      "originalAnchor": "hydro dipped tumblers",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/custom-wine-cups/",
+      "originalTarget": "/uv-printing/",
+      "source": "/custom-plastic-cups/",
+      "target": "/uv-printing/",
+      "originalAnchor": "UV printed cups",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/custom-wine-cups/",
+      "originalTarget": "/laser-engraving/",
+      "source": "/custom-plastic-cups/",
+      "target": "/laser-engraving/",
+      "originalAnchor": "laser engraved cups",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/custom-shot-glasses/",
+      "originalTarget": "/laser-engraving/",
+      "source": "/custom-plastic-cups/",
+      "target": "/laser-engraving/",
+      "originalAnchor": "laser engraved cups",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/custom-shot-glasses/",
+      "originalTarget": "/uv-printing/",
+      "source": "/custom-plastic-cups/",
+      "target": "/uv-printing/",
+      "originalAnchor": "UV printed cups",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/custom-plastic-mugs/",
+      "originalTarget": "/screen-printing/",
+      "source": "/custom-plastic-cups/",
+      "target": "/screen-printing/",
+      "originalAnchor": "screen printed cups",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/custom-plastic-mugs/",
+      "originalTarget": "/uv-printing/",
+      "source": "/custom-plastic-cups/",
+      "target": "/uv-printing/",
+      "originalAnchor": "UV printed cups",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/color-changing-cups/",
+      "originalTarget": "/screen-printing/",
+      "source": "/custom-plastic-cups/",
+      "target": "/screen-printing/",
+      "originalAnchor": "screen printed cups",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/color-changing-cups/",
+      "originalTarget": "/uv-printing/",
+      "source": "/custom-plastic-cups/",
+      "target": "/uv-printing/",
+      "originalAnchor": "UV printed cups",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/collapsible-cups/",
+      "originalTarget": "/screen-printing/",
+      "source": "/collapsible-cups/",
+      "target": "/screen-printing/",
+      "originalAnchor": "screen printed cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/collapsible-cups/",
+      "originalTarget": "/laser-engraving/",
+      "source": "/collapsible-cups/",
+      "target": "/laser-engraving/",
+      "originalAnchor": "laser engraved cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/custom-beer-mugs/",
+      "originalTarget": "/screen-printing/",
+      "source": "/custom-plastic-cups/",
+      "target": "/screen-printing/",
+      "originalAnchor": "screen printed cups",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/custom-beer-mugs/",
+      "originalTarget": "/uv-printing/",
+      "source": "/custom-plastic-cups/",
+      "target": "/uv-printing/",
+      "originalAnchor": "UV printed cups",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/led-light-up-cups/",
+      "originalTarget": "/uv-printing/",
+      "source": "/led-light-up-cups/",
+      "target": "/uv-printing/",
+      "originalAnchor": "UV printed cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/led-light-up-cups/",
+      "originalTarget": "/screen-printing/",
+      "source": "/led-light-up-cups/",
+      "target": "/screen-printing/",
+      "originalAnchor": "screen printed cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/drinkware-blanks/",
+      "originalTarget": "/uv-printing/",
+      "source": "/custom-plastic-cups/",
+      "target": "/uv-printing/",
+      "originalAnchor": "UV printed cups",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/drinkware-blanks/",
+      "originalTarget": "/laser-engraving/",
+      "source": "/custom-plastic-cups/",
+      "target": "/laser-engraving/",
+      "originalAnchor": "laser engraved cups",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/bar-accessories/",
+      "originalTarget": "/uv-printing/",
+      "source": "/bar-accessories/",
+      "target": "/uv-printing/",
+      "originalAnchor": "UV printed cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/bar-accessories/",
+      "originalTarget": "/screen-printing/",
+      "source": "/bar-accessories/",
+      "target": "/screen-printing/",
+      "originalAnchor": "screen printed cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/blog/",
+      "originalTarget": "/custom-plastic-cups/",
+      "source": "/blog/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "custom cups cost",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/faq/",
+      "originalTarget": "/custom-plastic-cups/",
+      "source": "/faq/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "custom cups cost",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/blog/",
+      "originalTarget": "/low-moq-custom-cups/",
+      "source": "/blog/",
+      "target": "/low-moq-custom-cups/",
+      "originalAnchor": "custom cups no minimum",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/faq/",
+      "originalTarget": "/low-moq-custom-cups/",
+      "source": "/faq/",
+      "target": "/low-moq-custom-cups/",
+      "originalAnchor": "custom cups no minimum",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/blog/",
+      "originalTarget": "/uv-printing/",
+      "source": "/blog/",
+      "target": "/uv-printing/",
+      "originalAnchor": "UV printing vs screen printing",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/faq/",
+      "originalTarget": "/uv-printing/",
+      "source": "/faq/",
+      "target": "/uv-printing/",
+      "originalAnchor": "UV printing vs screen printing",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/blog/",
+      "originalTarget": "/wedding-cups/",
+      "source": "/blog/",
+      "target": "/wedding-cups/",
+      "originalAnchor": "wedding cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/faq/",
+      "originalTarget": "/wedding-cups/",
+      "source": "/faq/",
+      "target": "/wedding-cups/",
+      "originalAnchor": "wedding cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/blog/",
+      "originalTarget": "/custom-silicone-cups/",
+      "source": "/blog/",
+      "target": "/custom-silicone-cups/",
+      "originalAnchor": "unbreakable pool cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/faq/",
+      "originalTarget": "/custom-silicone-cups/",
+      "source": "/faq/",
+      "target": "/custom-silicone-cups/",
+      "originalAnchor": "unbreakable pool cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/blog/",
+      "originalTarget": "/led-light-up-cups/",
+      "source": "/blog/",
+      "target": "/led-light-up-cups/",
+      "originalAnchor": "LED cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/faq/",
+      "originalTarget": "/led-light-up-cups/",
+      "source": "/faq/",
+      "target": "/led-light-up-cups/",
+      "originalAnchor": "LED cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/blog/",
+      "originalTarget": "/drinkware-blanks/",
+      "source": "/blog/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "tumbler blanks wholesale",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/faq/",
+      "originalTarget": "/drinkware-blanks/",
+      "source": "/faq/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "tumbler blanks wholesale",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/blog/",
+      "originalTarget": "/custom-can-coolers/",
+      "source": "/blog/",
+      "target": "/bar-accessories/",
+      "originalAnchor": "custom koozies bulk",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/faq/",
+      "originalTarget": "/custom-can-coolers/",
+      "source": "/faq/",
+      "target": "/bar-accessories/",
+      "originalAnchor": "custom koozies bulk",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/blog/",
+      "originalTarget": "/oem-manufacturer/",
+      "source": "/blog/",
+      "target": "/oem-manufacturer/",
+      "originalAnchor": "import custom drinkware from china",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/faq/",
+      "originalTarget": "/oem-manufacturer/",
+      "source": "/faq/",
+      "target": "/oem-manufacturer/",
+      "originalAnchor": "import custom drinkware from china",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/blog/",
+      "originalTarget": "/rush-production/",
+      "source": "/blog/",
+      "target": "/rush-production/",
+      "originalAnchor": "rush custom cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/faq/",
+      "originalTarget": "/rush-production/",
+      "source": "/faq/",
+      "target": "/rush-production/",
+      "originalAnchor": "rush custom cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/blog/",
+      "originalTarget": "/birthday-party-cups/",
+      "source": "/blog/",
+      "target": "/birthday-party-cups/",
+      "originalAnchor": "milestone birthday cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/faq/",
+      "originalTarget": "/birthday-party-cups/",
+      "source": "/faq/",
+      "target": "/birthday-party-cups/",
+      "originalAnchor": "milestone birthday cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/blog/",
+      "originalTarget": "/color-changing-cups/",
+      "source": "/blog/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "color changing cups",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/faq/",
+      "originalTarget": "/color-changing-cups/",
+      "source": "/faq/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "color changing cups",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/blog/",
+      "originalTarget": "/collapsible-cups/",
+      "source": "/blog/",
+      "target": "/collapsible-cups/",
+      "originalAnchor": "collapsible cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/faq/",
+      "originalTarget": "/collapsible-cups/",
+      "source": "/faq/",
+      "target": "/collapsible-cups/",
+      "originalAnchor": "collapsible cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/blog/",
+      "originalTarget": "/free-samples/",
+      "source": "/blog/",
+      "target": "/free-samples/",
+      "originalAnchor": "custom cups free sample",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/faq/",
+      "originalTarget": "/free-samples/",
+      "source": "/faq/",
+      "target": "/free-samples/",
+      "originalAnchor": "custom cups free sample",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/blog/",
+      "originalTarget": "/holiday-party-cups/",
+      "source": "/blog/",
+      "target": "/holiday-party-cups/",
+      "originalAnchor": "LED cups bulk",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/faq/",
+      "originalTarget": "/holiday-party-cups/",
+      "source": "/faq/",
+      "target": "/holiday-party-cups/",
+      "originalAnchor": "LED cups bulk",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/new-arrivals/",
+      "originalTarget": "/collapsible-cups/",
+      "source": "/new-arrivals/",
+      "target": "/collapsible-cups/",
+      "originalAnchor": "collapsible cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/new-arrivals/",
+      "originalTarget": "/color-changing-cups/",
+      "source": "/new-arrivals/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "color changing cups",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/new-arrivals/",
+      "originalTarget": "/custom-tumblers/",
+      "source": "/new-arrivals/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "40 oz tumblers with handle",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/new-arrivals/",
+      "originalTarget": "/led-light-up-cups/",
+      "source": "/new-arrivals/",
+      "target": "/led-light-up-cups/",
+      "originalAnchor": "liquid activated LED cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/new-arrivals/",
+      "originalTarget": "/uv-printing/",
+      "source": "/new-arrivals/",
+      "target": "/uv-printing/",
+      "originalAnchor": "uv dtf cup wraps",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/new-arrivals/",
+      "originalTarget": "/custom-wine-cups/",
+      "source": "/new-arrivals/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "silicone wine glasses unbreakable",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/new-arrivals/",
+      "originalTarget": "/bar-accessories/",
+      "source": "/new-arrivals/",
+      "target": "/bar-accessories/",
+      "originalAnchor": "LED ice buckets",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/new-arrivals/",
+      "originalTarget": "/custom-can-coolers/",
+      "source": "/new-arrivals/",
+      "target": "/bar-accessories/",
+      "originalAnchor": "slim can koozies",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/new-arrivals/",
+      "originalTarget": "/custom-frosted-cups/",
+      "source": "/new-arrivals/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "frosted cups",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/new-arrivals/",
+      "originalTarget": "/custom-water-bottles/",
+      "source": "/new-arrivals/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "shaker bottles with logo",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/oem-manufacturer/",
+      "originalTarget": "/uv-printing/",
+      "source": "/oem-manufacturer/",
+      "target": "/uv-printing/",
+      "originalAnchor": "UV printed cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/oem-manufacturer/",
+      "originalTarget": "/laser-engraving/",
+      "source": "/oem-manufacturer/",
+      "target": "/laser-engraving/",
+      "originalAnchor": "laser engraved cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/oem-manufacturer/",
+      "originalTarget": "/screen-printing/",
+      "source": "/oem-manufacturer/",
+      "target": "/screen-printing/",
+      "originalAnchor": "screen printed cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/oem-manufacturer/",
+      "originalTarget": "/heat-transfer-printing/",
+      "source": "/oem-manufacturer/",
+      "target": "/heat-transfer-printing/",
+      "originalAnchor": "heat transfer cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/oem-manufacturer/",
+      "originalTarget": "/hydro-dipping/",
+      "source": "/oem-manufacturer/",
+      "target": "/custom-led-drinkware/",
+      "originalAnchor": "hydro dipped tumblers",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/oem-manufacturer/",
+      "originalTarget": "/custom-plastic-cups/",
+      "source": "/oem-manufacturer/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "custom plastic cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/oem-manufacturer/",
+      "originalTarget": "/custom-silicone-cups/",
+      "source": "/oem-manufacturer/",
+      "target": "/custom-silicone-cups/",
+      "originalAnchor": "custom silicone cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/oem-manufacturer/",
+      "originalTarget": "/led-light-up-cups/",
+      "source": "/oem-manufacturer/",
+      "target": "/led-light-up-cups/",
+      "originalAnchor": "LED light up cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/oem-manufacturer/",
+      "originalTarget": "/custom-tumblers/",
+      "source": "/oem-manufacturer/",
+      "target": "/custom-plastic-cups/",
+      "originalAnchor": "custom tumblers",
+      "status": "已迁移到当前URL"
+    },
+    {
+      "originalSource": "/wholesale/",
+      "originalTarget": "/low-moq-custom-cups/",
+      "source": "/wholesale/",
+      "target": "/low-moq-custom-cups/",
+      "originalAnchor": "custom cups no minimum",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/wholesale/",
+      "originalTarget": "/rush-production/",
+      "source": "/wholesale/",
+      "target": "/rush-production/",
+      "originalAnchor": "rush custom cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/wholesale/",
+      "originalTarget": "/free-samples/",
+      "source": "/wholesale/",
+      "target": "/free-samples/",
+      "originalAnchor": "free sample custom cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/low-moq-custom-cups/",
+      "originalTarget": "/wholesale/",
+      "source": "/low-moq-custom-cups/",
+      "target": "/wholesale/",
+      "originalAnchor": "wholesale custom drinkware",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/low-moq-custom-cups/",
+      "originalTarget": "/rush-production/",
+      "source": "/low-moq-custom-cups/",
+      "target": "/rush-production/",
+      "originalAnchor": "rush custom cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/low-moq-custom-cups/",
+      "originalTarget": "/free-samples/",
+      "source": "/low-moq-custom-cups/",
+      "target": "/free-samples/",
+      "originalAnchor": "free sample custom cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/rush-production/",
+      "originalTarget": "/wholesale/",
+      "source": "/rush-production/",
+      "target": "/wholesale/",
+      "originalAnchor": "wholesale custom drinkware",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/rush-production/",
+      "originalTarget": "/low-moq-custom-cups/",
+      "source": "/rush-production/",
+      "target": "/low-moq-custom-cups/",
+      "originalAnchor": "custom cups no minimum",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/rush-production/",
+      "originalTarget": "/free-samples/",
+      "source": "/rush-production/",
+      "target": "/free-samples/",
+      "originalAnchor": "free sample custom cups",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/free-samples/",
+      "originalTarget": "/wholesale/",
+      "source": "/free-samples/",
+      "target": "/wholesale/",
+      "originalAnchor": "wholesale custom drinkware",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/free-samples/",
+      "originalTarget": "/low-moq-custom-cups/",
+      "source": "/free-samples/",
+      "target": "/low-moq-custom-cups/",
+      "originalAnchor": "custom cups no minimum",
+      "status": "沿用现有URL"
+    },
+    {
+      "originalSource": "/free-samples/",
+      "originalTarget": "/rush-production/",
+      "source": "/free-samples/",
+      "target": "/rush-production/",
+      "originalAnchor": "rush custom cups",
+      "status": "沿用现有URL"
+    }
+  ],
+  "currentRelationships": [
+    {
+      "source": "/",
+      "target": "/bar-accessories/"
+    },
+    {
+      "source": "/",
+      "target": "/blog/"
+    },
+    {
+      "source": "/",
+      "target": "/collapsible-cups/"
+    },
+    {
+      "source": "/",
+      "target": "/custom-plastic-cups/"
+    },
+    {
+      "source": "/",
+      "target": "/custom-silicone-cups/"
+    },
+    {
+      "source": "/",
+      "target": "/faq/"
+    },
+    {
+      "source": "/",
+      "target": "/led-light-up-cups/"
+    },
+    {
+      "source": "/",
+      "target": "/low-moq-custom-cups/"
+    },
+    {
+      "source": "/",
+      "target": "/new-arrivals/"
+    },
+    {
+      "source": "/",
+      "target": "/oem-manufacturer/"
+    },
+    {
+      "source": "/",
+      "target": "/rush-production/"
+    },
+    {
+      "source": "/",
+      "target": "/wholesale/"
+    },
+    {
+      "source": "/backyard-bbq-cups/",
+      "target": "/bar-accessories/"
+    },
+    {
+      "source": "/backyard-bbq-cups/",
+      "target": "/custom-plastic-cups/"
+    },
+    {
+      "source": "/backyard-bbq-cups/",
+      "target": "/led-light-up-cups/"
+    },
+    {
+      "source": "/beach-party-cups/",
+      "target": "/bar-accessories/"
+    },
+    {
+      "source": "/beach-party-cups/",
+      "target": "/collapsible-cups/"
+    },
+    {
+      "source": "/beach-party-cups/",
+      "target": "/custom-plastic-cups/"
+    },
+    {
+      "source": "/beach-party-cups/",
+      "target": "/custom-silicone-cups/"
+    },
+    {
+      "source": "/pool-party-cups/",
+      "target": "/custom-plastic-cups/"
+    },
+    {
+      "source": "/pool-party-cups/",
+      "target": "/custom-silicone-cups/"
+    },
+    {
+      "source": "/pool-party-cups/",
+      "target": "/led-light-up-cups/"
+    },
+    {
+      "source": "/holiday-party-cups/",
+      "target": "/bar-accessories/"
+    },
+    {
+      "source": "/holiday-party-cups/",
+      "target": "/custom-plastic-cups/"
+    },
+    {
+      "source": "/holiday-party-cups/",
+      "target": "/led-light-up-cups/"
+    },
+    {
+      "source": "/birthday-party-cups/",
+      "target": "/custom-plastic-cups/"
+    },
+    {
+      "source": "/birthday-party-cups/",
+      "target": "/led-light-up-cups/"
+    },
+    {
+      "source": "/camping-drinkware/",
+      "target": "/collapsible-cups/"
+    },
+    {
+      "source": "/camping-drinkware/",
+      "target": "/custom-plastic-cups/"
+    },
+    {
+      "source": "/camping-drinkware/",
+      "target": "/custom-silicone-cups/"
+    },
+    {
+      "source": "/tailgate-party-cups/",
+      "target": "/bar-accessories/"
+    },
+    {
+      "source": "/tailgate-party-cups/",
+      "target": "/custom-plastic-cups/"
+    },
+    {
+      "source": "/tailgate-party-cups/",
+      "target": "/led-light-up-cups/"
+    },
+    {
+      "source": "/wedding-cups/",
+      "target": "/bar-accessories/"
+    },
+    {
+      "source": "/wedding-cups/",
+      "target": "/custom-plastic-cups/"
+    },
+    {
+      "source": "/bachelorette-party-cups/",
+      "target": "/bar-accessories/"
+    },
+    {
+      "source": "/bachelorette-party-cups/",
+      "target": "/custom-plastic-cups/"
+    },
+    {
+      "source": "/bachelorette-party-cups/",
+      "target": "/led-light-up-cups/"
+    },
+    {
+      "source": "/led-light-up-cups/",
+      "target": "/bar-accessories/"
+    },
+    {
+      "source": "/led-light-up-cups/",
+      "target": "/birthday-party-cups/"
+    },
+    {
+      "source": "/led-light-up-cups/",
+      "target": "/custom-plastic-cups/"
+    },
+    {
+      "source": "/led-light-up-cups/",
+      "target": "/holiday-party-cups/"
+    },
+    {
+      "source": "/led-light-up-cups/",
+      "target": "/screen-printing/"
+    },
+    {
+      "source": "/led-light-up-cups/",
+      "target": "/uv-printing/"
+    },
+    {
+      "source": "/corporate-gifts/",
+      "target": "/bar-accessories/"
+    },
+    {
+      "source": "/corporate-gifts/",
+      "target": "/custom-plastic-cups/"
+    },
+    {
+      "source": "/corporate-gifts/",
+      "target": "/custom-silicone-cups/"
+    },
+    {
+      "source": "/graduation-party-cups/",
+      "target": "/bar-accessories/"
+    },
+    {
+      "source": "/graduation-party-cups/",
+      "target": "/custom-plastic-cups/"
+    },
+    {
+      "source": "/custom-silicone-cups/",
+      "target": "/beach-party-cups/"
+    },
+    {
+      "source": "/custom-silicone-cups/",
+      "target": "/camping-drinkware/"
+    },
+    {
+      "source": "/custom-silicone-cups/",
+      "target": "/laser-engraving/"
+    },
+    {
+      "source": "/custom-silicone-cups/",
+      "target": "/pool-party-cups/"
+    },
+    {
+      "source": "/custom-silicone-cups/",
+      "target": "/screen-printing/"
+    },
+    {
+      "source": "/custom-plastic-cups/",
+      "target": "/bachelorette-party-cups/"
+    },
+    {
+      "source": "/custom-plastic-cups/",
+      "target": "/backyard-bbq-cups/"
+    },
+    {
+      "source": "/custom-plastic-cups/",
+      "target": "/beach-party-cups/"
+    },
+    {
+      "source": "/custom-plastic-cups/",
+      "target": "/birthday-party-cups/"
+    },
+    {
+      "source": "/custom-plastic-cups/",
+      "target": "/camping-drinkware/"
+    },
+    {
+      "source": "/custom-plastic-cups/",
+      "target": "/corporate-gifts/"
+    },
+    {
+      "source": "/custom-plastic-cups/",
+      "target": "/custom-led-drinkware/"
+    },
+    {
+      "source": "/custom-plastic-cups/",
+      "target": "/graduation-party-cups/"
+    },
+    {
+      "source": "/custom-plastic-cups/",
+      "target": "/heat-transfer-printing/"
+    },
+    {
+      "source": "/custom-plastic-cups/",
+      "target": "/holiday-party-cups/"
+    },
+    {
+      "source": "/custom-plastic-cups/",
+      "target": "/laser-engraving/"
+    },
+    {
+      "source": "/custom-plastic-cups/",
+      "target": "/led-light-up-cups/"
+    },
+    {
+      "source": "/custom-plastic-cups/",
+      "target": "/screen-printing/"
+    },
+    {
+      "source": "/custom-plastic-cups/",
+      "target": "/tailgate-party-cups/"
+    },
+    {
+      "source": "/custom-plastic-cups/",
+      "target": "/uv-printing/"
+    },
+    {
+      "source": "/custom-plastic-cups/",
+      "target": "/wedding-cups/"
+    },
+    {
+      "source": "/bar-accessories/",
+      "target": "/beach-party-cups/"
+    },
+    {
+      "source": "/bar-accessories/",
+      "target": "/led-light-up-cups/"
+    },
+    {
+      "source": "/bar-accessories/",
+      "target": "/screen-printing/"
+    },
+    {
+      "source": "/bar-accessories/",
+      "target": "/tailgate-party-cups/"
+    },
+    {
+      "source": "/bar-accessories/",
+      "target": "/uv-printing/"
+    },
+    {
+      "source": "/bar-accessories/",
+      "target": "/wedding-cups/"
+    },
+    {
+      "source": "/collapsible-cups/",
+      "target": "/beach-party-cups/"
+    },
+    {
+      "source": "/collapsible-cups/",
+      "target": "/camping-drinkware/"
+    },
+    {
+      "source": "/collapsible-cups/",
+      "target": "/laser-engraving/"
+    },
+    {
+      "source": "/collapsible-cups/",
+      "target": "/screen-printing/"
+    },
+    {
+      "source": "/uv-printing/",
+      "target": "/bar-accessories/"
+    },
+    {
+      "source": "/uv-printing/",
+      "target": "/custom-plastic-cups/"
+    },
+    {
+      "source": "/laser-engraving/",
+      "target": "/custom-plastic-cups/"
+    },
+    {
+      "source": "/laser-engraving/",
+      "target": "/custom-silicone-cups/"
+    },
+    {
+      "source": "/screen-printing/",
+      "target": "/custom-plastic-cups/"
+    },
+    {
+      "source": "/heat-transfer-printing/",
+      "target": "/custom-plastic-cups/"
+    },
+    {
+      "source": "/custom-led-drinkware/",
+      "target": "/custom-plastic-cups/"
+    },
+    {
+      "source": "/blog/",
+      "target": "/bar-accessories/"
+    },
+    {
+      "source": "/blog/",
+      "target": "/birthday-party-cups/"
+    },
+    {
+      "source": "/blog/",
+      "target": "/collapsible-cups/"
+    },
+    {
+      "source": "/blog/",
+      "target": "/custom-plastic-cups/"
+    },
+    {
+      "source": "/blog/",
+      "target": "/custom-silicone-cups/"
+    },
+    {
+      "source": "/blog/",
+      "target": "/free-samples/"
+    },
+    {
+      "source": "/blog/",
+      "target": "/holiday-party-cups/"
+    },
+    {
+      "source": "/blog/",
+      "target": "/led-light-up-cups/"
+    },
+    {
+      "source": "/blog/",
+      "target": "/low-moq-custom-cups/"
+    },
+    {
+      "source": "/blog/",
+      "target": "/oem-manufacturer/"
+    },
+    {
+      "source": "/blog/",
+      "target": "/rush-production/"
+    },
+    {
+      "source": "/blog/",
+      "target": "/uv-printing/"
+    },
+    {
+      "source": "/blog/",
+      "target": "/wedding-cups/"
+    },
+    {
+      "source": "/faq/",
+      "target": "/bar-accessories/"
+    },
+    {
+      "source": "/faq/",
+      "target": "/birthday-party-cups/"
+    },
+    {
+      "source": "/faq/",
+      "target": "/collapsible-cups/"
+    },
+    {
+      "source": "/faq/",
+      "target": "/custom-plastic-cups/"
+    },
+    {
+      "source": "/faq/",
+      "target": "/custom-silicone-cups/"
+    },
+    {
+      "source": "/faq/",
+      "target": "/free-samples/"
+    },
+    {
+      "source": "/faq/",
+      "target": "/holiday-party-cups/"
+    },
+    {
+      "source": "/faq/",
+      "target": "/led-light-up-cups/"
+    },
+    {
+      "source": "/faq/",
+      "target": "/low-moq-custom-cups/"
+    },
+    {
+      "source": "/faq/",
+      "target": "/oem-manufacturer/"
+    },
+    {
+      "source": "/faq/",
+      "target": "/rush-production/"
+    },
+    {
+      "source": "/faq/",
+      "target": "/uv-printing/"
+    },
+    {
+      "source": "/faq/",
+      "target": "/wedding-cups/"
+    },
+    {
+      "source": "/new-arrivals/",
+      "target": "/bar-accessories/"
+    },
+    {
+      "source": "/new-arrivals/",
+      "target": "/collapsible-cups/"
+    },
+    {
+      "source": "/new-arrivals/",
+      "target": "/custom-plastic-cups/"
+    },
+    {
+      "source": "/new-arrivals/",
+      "target": "/led-light-up-cups/"
+    },
+    {
+      "source": "/new-arrivals/",
+      "target": "/uv-printing/"
+    },
+    {
+      "source": "/oem-manufacturer/",
+      "target": "/custom-led-drinkware/"
+    },
+    {
+      "source": "/oem-manufacturer/",
+      "target": "/custom-plastic-cups/"
+    },
+    {
+      "source": "/oem-manufacturer/",
+      "target": "/custom-silicone-cups/"
+    },
+    {
+      "source": "/oem-manufacturer/",
+      "target": "/heat-transfer-printing/"
+    },
+    {
+      "source": "/oem-manufacturer/",
+      "target": "/laser-engraving/"
+    },
+    {
+      "source": "/oem-manufacturer/",
+      "target": "/led-light-up-cups/"
+    },
+    {
+      "source": "/oem-manufacturer/",
+      "target": "/screen-printing/"
+    },
+    {
+      "source": "/oem-manufacturer/",
+      "target": "/uv-printing/"
+    },
+    {
+      "source": "/wholesale/",
+      "target": "/free-samples/"
+    },
+    {
+      "source": "/wholesale/",
+      "target": "/low-moq-custom-cups/"
+    },
+    {
+      "source": "/wholesale/",
+      "target": "/rush-production/"
+    },
+    {
+      "source": "/low-moq-custom-cups/",
+      "target": "/free-samples/"
+    },
+    {
+      "source": "/low-moq-custom-cups/",
+      "target": "/rush-production/"
+    },
+    {
+      "source": "/low-moq-custom-cups/",
+      "target": "/wholesale/"
+    },
+    {
+      "source": "/rush-production/",
+      "target": "/free-samples/"
+    },
+    {
+      "source": "/rush-production/",
+      "target": "/low-moq-custom-cups/"
+    },
+    {
+      "source": "/rush-production/",
+      "target": "/wholesale/"
+    },
+    {
+      "source": "/free-samples/",
+      "target": "/low-moq-custom-cups/"
+    },
+    {
+      "source": "/free-samples/",
+      "target": "/rush-production/"
+    },
+    {
+      "source": "/free-samples/",
+      "target": "/wholesale/"
+    }
+  ]
+}

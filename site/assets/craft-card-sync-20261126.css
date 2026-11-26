@@ -1,0 +1,145 @@
+/* craft-card-sync-20261126
+ * 工艺页商品卡与「上新页」对齐的补充样式。
+ * 主体（白底、圆角、边框、方形图区、编号行、底部链接）沿用全站 .ec-library-card 规则，
+ * 这里只补：卡内编号 / 材质角标、说明行的排版。
+ */
+/* 网格：与上新页一致的四列节奏 */
+main .craft-grid, .craft-grid.craft-grid {
+  display: grid !important;
+  grid-template-columns: repeat(4, minmax(0, 1fr)) !important;
+  gap: 24px !important;
+  align-items: stretch;
+}
+main .craft-grid > .craft-card, .craft-grid.craft-grid > .craft-card {
+  grid-column: auto !important;
+  width: auto !important;
+  margin: 0 !important;
+}
+@media (max-width: 1100px) {
+  main .craft-grid, .craft-grid.craft-grid { grid-template-columns: repeat(3, minmax(0, 1fr)) !important; gap: 20px !important; }
+}
+@media (max-width: 780px) {
+  main .craft-grid, .craft-grid.craft-grid { grid-template-columns: repeat(2, minmax(0, 1fr)) !important; gap: 14px !important; }
+}
+@media (max-width: 520px) {
+  main .craft-grid, .craft-grid.craft-grid { grid-template-columns: 1fr !important; }
+}
+
+.craft-card {
+  display: flex !important;
+  flex-direction: column !important;
+  background: #fff !important;
+  border: 1px solid #dfe5dd !important;
+  border-radius: 14px !important;
+  overflow: hidden !important;
+  min-width: 0;
+}
+.craft-card .craft-media {
+  position: relative;
+  display: block;
+  aspect-ratio: 1 / 1;
+  padding: 14px;
+  background: #fff;
+  border-bottom: 1px solid #eef0ec;
+}
+.craft-card .craft-media img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  display: block;
+}
+.craft-card .craft-media {
+  background: #fff !important;
+  padding: 14px !important;
+  box-sizing: border-box !important;
+}
+.craft-card .craft-media img {
+  object-fit: contain !important;
+  width: 100% !important;
+  height: 100% !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+}
+.craft-card .craft-num {
+  position: absolute;
+  left: 14px;
+  top: 11px;
+  font: italic 20px/1 Georgia, serif;
+  color: #26483b;
+  letter-spacing: .02em;
+}
+.craft-card .craft-mat {
+  position: absolute;
+  right: 12px;
+  top: 10px;
+  font-family: Manrope, Arial, sans-serif;
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: #4a5648;
+  background: #f5f1e9;
+  padding: 5px 9px;
+  border-radius: 20px;
+  line-height: 1.1;
+}
+.craft-card .craft-copy {
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 7px !important;
+  padding: 15px 15px 16px !important;
+  flex: 1 !important;
+}
+.craft-card .craft-model {
+  margin: 0 !important;
+  font-family: 'IBM Plex Mono', monospace !important;
+  font-size: 10.5px !important;
+  font-weight: 700 !important;
+  letter-spacing: .08em !important;
+  text-transform: uppercase;
+  color: #6d7d65 !important;
+}
+.craft-card h3 {
+  margin: 0 !important;
+  font-family: Manrope, Arial, sans-serif !important;
+  font-size: 14px !important;
+  font-weight: 700 !important;
+  line-height: 1.4 !important;
+  min-height: 0 !important;
+  color: #24382e;
+}
+.craft-card h3 a {
+  font: inherit !important;
+  color: inherit !important;
+  text-decoration: none !important;
+}
+.craft-card .craft-facts {
+  margin: 0 !important;
+  font-size: 12px !important;
+  line-height: 1.55 !important;
+  color: #6a7b70 !important;
+  min-height: 0 !important;
+}
+.craft-card .craft-note {
+  margin: 0 !important;
+  font-size: 11px !important;
+  line-height: 1.45 !important;
+  color: #8d968e !important;
+}
+.craft-card .craft-link {
+  margin: auto 0 0 !important;
+  padding: 10px 0 0 !important;
+  border-top: 1px solid #edf0e9 !important;
+  font-size: 11.5px !important;
+  color: #26483b !important;
+  text-decoration: none !important;
+  letter-spacing: .01em;
+}
+.craft-card .craft-link:hover {
+  color: #a9502f !important;
+}
+@media (max-width: 640px) {
+  .craft-card .craft-media { padding: 10px; }
+  .craft-card .craft-copy { padding: 12px 12px 14px !important; }
+  .craft-card h3 { font-size: 13px !important; }
+}

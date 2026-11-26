@@ -18,7 +18,7 @@ function jsonLdBlocks(html) {
   const re = /<script[^>]+type=["']application\/ld\+json["'][^>]*>([\s\S]*?)<\/script>/gi;
   let m;
   while ((m = re.exec(html))) {
-    try { out.push(JSON.parse(m[1])); } catch (e) { /* 坏块跳过 */ }
+    try { const add=(v)=>{if(v&&Array.isArray(v['@graph']))v['@graph'].forEach(add);else if(v&&v['@type'])out.push(v)};add(JSON.parse(m[1])); } catch (e) { /* 坏块跳过 */ }
   }
   return out;
 }

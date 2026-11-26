@@ -2,7 +2,7 @@
    The form itself is plain HTML in the page (works with JS off, readable to crawlers).
    This script only validates, uploads and posts to the existing /api/enquiries endpoint:
    one-time session token, Idempotency-Key, multipart body, same file rules as the worker
-   (2 MB each, 5 MB total, pdf/png/jpg/webp/dxf/dwg/step/stp). */
+   (10 MB each, 25 MB total, pdf/png/jpg/webp/dxf/dwg/step/stp). */
 (function () {
   'use strict';
   if (window.__boomSgRfq) return;
@@ -11,7 +11,7 @@
   var MAX_FILE = 10 * 1024 * 1024;
   var MAX_TOTAL = 25 * 1024 * 1024;
   var OK_EXT = /\.(pdf|png|jpe?g|webp|dxf|dwg|step|stp)$/i;
-  var FILE_ERROR = 'Check the attachments: 2 MB each, 5 MB total. PDF, PNG, JPG, WEBP, DXF, DWG, STEP only.';
+  var FILE_ERROR = 'Check the attachments: 10 MB each, 25 MB total. PDF, PNG, JPG, WEBP, DXF, DWG, STEP only.';
   var REQUIRED_ERROR = 'Add an email address so the quotation can be sent.';
   var FAIL_ERROR = 'Receipt not confirmed. Please retry — your entries and files are kept.';
 

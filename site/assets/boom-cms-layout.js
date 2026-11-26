@@ -1,11 +1,12 @@
 (()=>{
  const editing=new URLSearchParams(location.search).has('cms-edit')&&parent!==window;
  const pathFor=el=>{if(el.dataset.boomKey)return el.dataset.boomKey;const parts=[];let p=el;while(p&&p!==document.body){let i=1;for(let s=p.previousElementSibling;s;s=s.previousElementSibling)if(s.tagName===p.tagName)i++;parts.unshift(p.tagName.toLowerCase()+':nth-of-type('+i+')');p=p.parentElement;}return 'body'+(parts.length?' > '+parts.join(' > '):'');};
- const mark=()=>{for(const el of document.querySelectorAll('body,body *'))if(!el.dataset.boomKey)el.dataset.boomKey=pathFor(el);};mark();
+ let needKeys=editing;
+ const mark=()=>{if(!needKeys)return;for(const el of document.querySelectorAll('body,body *'))if(!el.dataset.boomKey)el.dataset.boomKey=pathFor(el);};mark();
  const find=key=>document.querySelector('[data-boom-key="'+key+'"]');
  let saved=[],busy=false;
- function apply(list){saved=list||saved;if(busy)return;busy=true;observer.disconnect();mark();for(const p of saved.filter(p=>p.type==='blockOrder')){const box=find(p.original);if(!box)continue;let keys;try{keys=JSON.parse(p.value);}catch{continue;}const nodes=keys.map(find);if(nodes.some(n=>!n||n.parentElement!==box))continue;const current=[...box.children];if(current.length===nodes.length&&current.some((n,i)=>n!==nodes[i]))for(const node of nodes)box.append(node);}observer.observe(document.body,{subtree:true,childList:true});busy=false;}
- const observer=new MutationObserver(()=>apply());observer.observe(document.body,{subtree:true,childList:true});
+ function apply(list){saved=list||saved;if(!editing&&saved.some(p=>p.type==='blockOrder'))needKeys=true;if(busy)return;busy=true;observer.disconnect();mark();for(const p of saved.filter(p=>p.type==='blockOrder')){const box=find(p.original);if(!box)continue;let keys;try{keys=JSON.parse(p.value);}catch{continue;}const nodes=keys.map(find);if(nodes.some(n=>!n||n.parentElement!==box))continue;const current=[...box.children];if(current.length===nodes.length&&current.some((n,i)=>n!==nodes[i]))for(const node of nodes)box.append(node);}observer.observe(document.body,{subtree:true,childList:true});busy=false;}
+ const observer=new MutationObserver(()=>{if(busy)return;apply()});observer.observe(document.body,{subtree:true,childList:true});
  document.addEventListener('boom-layout-apply',e=>apply(e.detail));
  fetch('/api/cms/'+(editing?'page':'public')+'?path='+encodeURIComponent(location.pathname)).then(r=>r.json()).then(d=>apply((editing?d.draft:d.patches)||[])).catch(()=>{});
  if(!editing)return;

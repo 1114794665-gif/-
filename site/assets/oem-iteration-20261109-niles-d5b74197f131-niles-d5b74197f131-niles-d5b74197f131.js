@@ -2,7 +2,7 @@
 function apply(){
  if(!/^\/oem-manufacturer\/?$/.test(location.pathname))return;
  const main=document.querySelector('main');if(!main)return;
- main.querySelectorAll('.of-stat strong').forEach(x=>{if(/As fast as 1 day/i.test(x.textContent))x.textContent='3–5 days';});
+ main.querySelectorAll('.of-stat strong').forEach(x=>{if(/As fast as 1 day/i.test(x.textContent))x.textContent='Project-specific schedule';});
  const liveForm=main.querySelector('.oemx-rfq form');if(liveForm){liveForm.closest('aside').id='project-enquiry';if(!liveForm.querySelector('.u-upload-guide'))liveForm.insertAdjacentHTML('beforeend','<p class="u-upload-guide">For attachments, use the contact form: one supported file, up to 2 MiB. For multiple files, email us directly.</p>');}
  const actionText=['Review the use case and identify missing specifications.','Assess feasibility and document the agreed production scope.','Prepare and review the sample against the approved specification.','Manufacture and inspect against the agreed acceptance criteria.','Coordinate the agreed shipping scope and documents.'];
  const inputs=[...main.querySelectorAll('.of-process *')].filter(x=>x.children.length===0&&/^(YOU SEND|CUSTOMER INPUT)$/i.test(x.textContent.trim()));inputs.forEach((x,i)=>{const parent=x.parentElement.parentElement;if(!parent.querySelector('.u-action')){const el=document.createElement('p');el.className='u-action';el.innerHTML='<strong>BOOM ACTION</strong>'+actionText[i];parent.append(el);}});
@@ -13,7 +13,7 @@ function apply(){
  const make=(html)=>{const t=document.createElement('template');t.innerHTML=html;return t.content.firstElementChild;};
  const heading=(eyebrow,title,body)=>`<p class="of-eyebrow">${eyebrow}</p><h2>${title}</h2><p class="u-intro">${body}</p>`;
  const figure=(src,alt,caption)=>`<figure><img src="${src}" alt="${alt}" loading="lazy" width="1400" height="900"><figcaption>${caption}</figcaption></figure>`;
- const title="Drinkware OEM Manufacturer | Free-Design & High-Quality";document.title=title;
+ const title="Drinkware OEM Manufacturing from Specification to Production";document.title=title;
  const desc="Start with an existing model or bring a product idea. Review the product, artwork, tooling and packaging requirements together before confirming the project scope.";
  for(const sel of ['meta[name="description"]','meta[property="og:description"]','meta[name="twitter:description"]']){const el=document.querySelector(sel);if(el)el.content=desc;}
  for(const sel of ['meta[property="og:title"]','meta[name="twitter:title"]']){const el=document.querySelector(sel);if(el)el.content=title;}

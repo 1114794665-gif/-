@@ -11,3 +11,25 @@ https://:project.pages.dev/*
   X-Robots-Tag: noindex
 https://:version.:project.pages.dev/*
   X-Robots-Tag: noindex
+
+# BOOM buyer cache policy 20261125
+# HTML uses Pages default ETag + revalidation; no broad conflicting cache rule.
+/assets/*
+  Cache-Control: public, max-age=0, must-revalidate
+/assets/fonts/*
+  ! Cache-Control
+  Cache-Control: public, max-age=31536000, immutable
+/data/*
+  Cache-Control: public, max-age=0, must-revalidate
+/img/*
+  Cache-Control: public, max-age=604800, must-revalidate
+/api/*
+  Cache-Control: private, no-store
+/admin
+  Cache-Control: private, no-store
+/admin/*
+  Cache-Control: private, no-store
+/manage
+  Cache-Control: private, no-store
+/manage/*
+  Cache-Control: private, no-store
