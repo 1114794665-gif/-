@@ -52,7 +52,7 @@
   function tick() {
     var now = performance.now();
     if (root.getAttribute('data-boom-client') === 'ready') clientReady();
-    var hasClient = !!document.querySelector('script[type="module"][src]');
+    var hasClient = Array.prototype.some.call(document.querySelectorAll('script[type="module"][src]'), function (script) { try { var url = new URL(script.src, location.href);return url.origin === location.origin && url.pathname.indexOf('/assets/') === 0; } catch (_) { return false; } });
     var parsed = document.readyState !== 'loading';
     // A stable static page does not prove that an outstanding module is ready.
     if (!parsed || (hasClient && !ready)) { stable = 0;previous = '';if (now - started > 12000) show('static-fallback');return; }
