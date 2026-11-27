@@ -1,0 +1,10 @@
+/* The contact card is a complete row, not an intrinsic-width third grid item. */
+html body .buyer-rfq-grid{min-width:0}
+html body .buyer-rfq-grid>.buyer-rfq-aside{position:static!important;align-self:start;min-width:0;max-width:100%}
+html body .buyer-rfq-grid>.svc-manager{grid-column:1/-1!important;width:100%!important;max-width:100%!important;min-width:0!important;box-sizing:border-box}
+html body .svc-manager{grid-template-columns:150px minmax(0,1fr)!important;min-width:0!important;max-width:100%!important;box-sizing:border-box}
+html body .svc-manager>div{min-width:0!important;max-width:100%!important}
+html body .svc-manager h2,html body .svc-manager p,html body .svc-manager a{white-space:normal!important;overflow-wrap:anywhere;max-width:100%;min-width:0}
+html body .svc-manager h2{font-size:clamp(22px,2.3vw,32px)!important;line-height:1.25!important}
+html body .svc-manager>img{max-width:100%;object-fit:cover}
+@media(max-width:767px){html body .svc-manager{grid-template-columns:64px minmax(0,1fr)!important;gap:12px 16px!important}html body .svc-manager h2{font-size:20px!important}}

@@ -37,7 +37,7 @@
    }
    for(const n of main.querySelectorAll('#project-resources a[href]')){
     if(location.pathname==='/custom-silicone-cups/'&&/\/(?:screen-printing|laser-engraving)\//.test(n.getAttribute('href'))){
-     const uv=n.getAttribute('href').includes('screen-printing');n.setAttribute('href',uv?'/uv-printing/':'/color-changing-ink/');n.textContent=uv?'UV printing for silicone cups':'Color-changing ink for silicone cups';
+     const uv=n.getAttribute('href').includes('screen-printing');if(uv){n.remove();continue;}n.setAttribute('href','/color-changing-ink/');n.textContent='Color-changing ink for silicone cups';
     }
    }
    if(!document.querySelector('#boom-funnel-copy-style')){
@@ -53,7 +53,7 @@
   applyFunnelCopy();
   if(!document.querySelector('#boom-seo-section-style')){const style=el('style');style.id='boom-seo-section-style';style.textContent='#boom-bespoke-cups,#boom-research-faq,#boom-screen-scope{font:16px/1.75 Arial,sans-serif;color:#173d35;max-width:1200px;margin:40px auto;padding:28px;box-sizing:border-box}#boom-bespoke-cups{background:#f3f6ef;border:1px solid #d6dfd5;border-radius:16px}#boom-bespoke-cups h2,#boom-research-faq h2{font-size:28px;line-height:1.25}#boom-research-faq details{padding:16px 0;border-bottom:1px solid #d6dfd5}#boom-research-faq summary{font-weight:600;cursor:pointer}#boom-bespoke-enquiry{margin-top:30px;padding-top:24px;border-top:1px solid #d6dfd5}';document.head.append(style)}
   if(document.title!==d.fields.Final_SEO_Title)document.title=d.fields.Final_SEO_Title;
-  const h=document.querySelector('h1');if(h&&d.fields.Final_H1&&h.textContent!==d.fields.Final_H1)h.textContent=d.fields.Final_H1;
+  const h=document.querySelector('h1');if(h&&d.fields.Final_H1&&h.textContent.replace(/\s+/g,' ').trim()!==d.fields.Final_H1.replace(/\s+/g,' ').trim())h.textContent=d.fields.Final_H1;
   const meta=document.querySelector('meta[name="description"]');if(meta&&d.fields.Final_Meta_Description&&meta.content!==d.fields.Final_Meta_Description)meta.content=d.fields.Final_Meta_Description;
   if(d.copy_css&&!document.querySelector('#boom-serp-copy-style')){const style=el('style',d.copy_css);style.id='boom-serp-copy-style';document.head.append(style);}
   if(d.model_link_fixes)for(const f of d.model_link_fixes)for(const card of document.querySelectorAll('.ec-library-card')){const sku=card.querySelector('.ec-library-model')?.textContent.trim()||card.dataset.model;if(sku===f.sku)for(const a of card.querySelectorAll('a[href*="/products/"]'))if(a.getAttribute('href')!==f.to)a.setAttribute('href',f.to);}
@@ -106,7 +106,7 @@
  let reconcileTimer=0;
  const needsReconcile=()=>{
   const h=document.querySelector('main h1');if(!h)return false;
-  if(document.title!==d.fields.Final_SEO_Title||h.textContent!==d.fields.Final_H1||document.querySelector('meta[name="description"]')?.content!==d.fields.Final_Meta_Description)return true;
+  if(document.title!==d.fields.Final_SEO_Title||h.textContent.replace(/\s+/g,' ').trim()!==d.fields.Final_H1.replace(/\s+/g,' ').trim()||document.querySelector('meta[name="description"]')?.content!==d.fields.Final_Meta_Description)return true;
   if(d.tritan_wash_test&&!document.querySelector('#boom-tritan-wash-results'))return true;
   if(d.material_options?.length){const rows=[...document.querySelectorAll('main tr')].filter(n=>/^(Material|Material options)$/.test(n.querySelector('th')?.textContent.trim()||''));if(rows.some(n=>!n.textContent.includes('TRITAN')))return true;}
   return false;

@@ -62,6 +62,9 @@
   }
 
   function convert() {
+    var config=window.__boomPageContract;
+    if(/^\/(?:zh\/)?uv-printing\/$/.test(location.pathname)&&config&&config.uvPlasticCards){var grid=document.querySelector('.uvc-grid');if(grid&&!grid.querySelector('[data-uv-plastic-model]'))grid.innerHTML=config.uvPlasticCards;}
+
     var zh = /^\/zh(\/|$)/.test(location.pathname);
     var CTA_FULL = zh ? '查看型号与选项 →' : 'View model & options →';
     var CTA_SHORT = zh ? '查看型号 →' : 'View model →';

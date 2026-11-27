@@ -1,0 +1,30 @@
+/* 2026-11-26 分类卡（五个产品家族）标题字号修正
+   背景：工业主题里 `body.boom-industrial main h2` 用 clamp(28px,3vw,42px) 统一了正文区 h2，
+   把 /products/ 里 301px 宽的卡片标题也顶到了 42px，四五行、压掉正文。
+   这里按卡片原本的设计值（22px）收回，并做两级手机适配。 */
+
+body.boom-industrial main .bx-family h2 {
+  font-size: 22px;
+  line-height: 1.3;
+  letter-spacing: -0.01em;
+  margin: 10px 0 12px;
+  font-weight: 600;
+}
+
+body.boom-industrial main .bx-family .bx-meta {
+  font-size: 11px;
+  letter-spacing: 0.1em;
+}
+
+@media (max-width: 1180px) {
+  body.boom-industrial main .bx-family h2 {
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 720px) {
+  body.boom-industrial main .bx-family h2 {
+    font-size: 19px;
+    line-height: 1.32;
+  }
+}

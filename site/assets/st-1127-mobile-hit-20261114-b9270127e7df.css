@@ -1,0 +1,119 @@
+/* 移动端触控热区 2026-11-14
+   目标：主控件可点高度 ≥44px，次级文字链 ≥36px，图标按钮 ≥44×44。
+   只在窄屏 / 触屏设备生效，桌面版式与字号完全不变。 */
+
+@media (max-width: 900px), (pointer: coarse) {
+  /* ---------- 图标按钮：分类树展开 / 关闭 / 型号切换 ---------- */
+  .ec-cat-toggle,
+  .ec-cat-close,
+  .ec-fam-toggle {
+    min-width: 44px;
+    min-height: 44px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  /* 分类树里「全部产品线」与子分类链接 */
+  .ec-cat-all,
+  .ec-cat-child {
+    display: flex;
+    align-items: center;
+    min-height: 44px;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  /* ---------- 页脚与站内导航链接：真行高，不用负边距堆叠 ---------- */
+  .ec-foot-links a,
+  .byf-footer nav a,
+  .bx-footer-grid a,
+  .ec-keyword-links a {
+    display: flex;
+    align-items: center;
+    min-height: 36px;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  /* ---------- 面包屑 ---------- */
+  .bx-breadcrumb a {
+    display: inline-flex;
+    align-items: center;
+    min-height: 36px;
+  }
+
+  /* ---------- 产品卡内的型号链接 / 标题链接 ---------- */
+  .ec-library-card-copy h3 a,
+  a.ec-library-link,
+  a.ec-fam-badge {
+    display: flex;
+    align-items: center;
+    min-height: 44px;
+  }
+
+  /* ---------- 折叠问答标题：整行可点 ---------- */
+  .opt-faq summary,
+  .bx-details summary,
+  details > summary {
+    min-height: 44px;
+    display: flex;
+    align-items: center;
+  }
+
+  /* ---------- 正文内嵌文字链：只补到 34px，避免盖住上下行文字 ---------- */
+  .bx-note a,
+  .bx-prose a,
+  main p a {
+    padding-top: 9px;
+    padding-bottom: 9px;
+    margin-top: -9px;
+    margin-bottom: -9px;
+  }
+
+  /* ---------- 表单控件 ---------- */
+  .boom-rfq input[type=text],
+  .boom-rfq input[type=email],
+  .boom-rfq input[type=tel],
+  .boom-rfq input[type=number],
+  .boom-rfq input[type=date],
+  .boom-rfq select {
+    min-height: 44px;
+  }
+
+  /* ---------- 顶部滚动横条：文字不再钻到右侧提示按钮底下 ----------
+     横条本身是横向滚动条。窄屏时右侧有个深色滚动提示，文字会从它底下穿过去，
+     看起来像被截断。这里让文字在提示按钮之前淡出，并把滚动落点也留出同样的空档。
+     桌面端（>900px 且非触屏）不受影响。 */
+  .container-site.h-9 .overflow-x-auto {
+    margin-right: 82px;               /* 让出右侧提示按钮的位置，文字不再从它底下穿过 */
+    scroll-padding-right: 24px;
+    -webkit-mask-image: linear-gradient(90deg, #000 0, #000 calc(100% - 22px), rgba(0, 0, 0, 0) 100%);
+    mask-image: linear-gradient(90deg, #000 0, #000 calc(100% - 22px), rgba(0, 0, 0, 0) 100%);
+  }
+  .container-site.h-9 .overflow-x-auto > span {
+    scroll-margin-right: 24px;
+  }
+  /* 渐隐层原色与横条底色不一致，窄屏会露出一块异色方块；淡出交给上面的遮罩，这里关掉 */
+  .container-site.h-9 .relative > .absolute.inset-y-0 {
+    background-image: none !important;
+  }
+  /* 提示按钮的浅色投影在深色横条上像一圈白边，去掉 */
+  .container-site.h-9 .relative > .absolute.right-3 {
+    box-shadow: none;
+  }
+
+  /* ---------- 顶部图标按钮：搜索 / 菜单 ---------- */
+  header button,
+  header [role="button"] {
+    min-width: 44px;
+    min-height: 44px;
+  }
+
+  /* ---------- 底部固定导航 ---------- */
+  .ec-mobile-nav a,
+  .bx-mobile-nav a,
+  nav[class*="fixed"] a {
+    min-height: 44px;
+  }
+}

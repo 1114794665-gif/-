@@ -1,0 +1,486 @@
+/* Buyer review, 2026-11-25. Scope: presentation only; original content and controls retained. */
+/* Give model names and procurement facts a readable hierarchy above legacy catalog rules. */
+.boom-scene-products .boom-scene-card .ec-library-card-copy{padding:20px!important;gap:0!important}
+.boom-scene-products .boom-scene-card h3{display:block!important;min-height:0!important;height:auto!important;margin:0 0 12px!important;font-size:19px!important;line-height:1.4!important;letter-spacing:-.015em!important;-webkit-line-clamp:unset!important;overflow:visible!important}
+.boom-scene-products .boom-scene-card h3 a{display:inline!important;font-size:inherit!important;line-height:inherit!important;min-height:0!important;height:auto!important}
+.boom-scene-products .boom-scene-card .ec-library-model{font-size:12px!important;letter-spacing:.04em!important;line-height:1.5!important;margin:0 0 10px!important}
+.boom-scene-products .boom-scene-card .ec-library-facts{font-size:14px!important;line-height:1.6!important;min-height:0!important;margin:0 0 12px!important}
+.boom-scene-products .boom-scene-card .boom-scene-role{font-size:14px!important;line-height:1.6!important;margin:0 0 18px!important}
+.boom-scene-products .boom-scene-card .ec-library-link{font-size:14px!important;line-height:1.5!important;margin-top:auto!important;min-height:44px!important}
+.boom-scene-products .boom-scene-card .ec-library-image-link{aspect-ratio:4/3!important;padding:16px!important}
+.boom-scene-products .boom-scene-card .ec-library-image-link img{padding:0!important;object-fit:contain!important;height:100%!important;width:100%!important;transform:none!important}
+/* Dark hero navigation must remain visible against factory photography. */
+.bx-business-hero .bx-breadcrumb{color:#d6e5da!important;font-size:12px!important;line-height:1.6!important}
+.bx-business-hero .bx-breadcrumb a{color:#e2efc9!important}
+.bx-breadcrumb,.ec-library-breadcrumb{font-size:12px!important;line-height:1.65!important}
+/* Bound article measure while retaining all prose and FAQ answers. */
+.boom-article-shell{min-width:0}
+.boom-article-shell p,.boom-article-shell li{line-height:1.8!important}
+.boom-article-shell h2{line-height:1.25!important;letter-spacing:-.025em!important}
+/* Reserve scroll room for the desktop header and mobile bottom navigation. */
+html{scroll-padding-top:100px;scroll-padding-bottom:90px}
+main :is(h2,h3,[id]){scroll-margin-top:100px;scroll-margin-bottom:90px}
+@media(max-width:600px){
+ .bx-business-hero{padding:24px 20px!important}
+ .bx-business-hero .bx-wrap{width:100%!important}
+ .bx-business-hero .bx-business-grid{gap:24px!important}
+ .bx-business-hero .bx-breadcrumb{padding:0 0 20px!important}
+ .bx-business-hero .bx-kicker{margin-bottom:14px!important}
+ .bx-business-hero h1{font-size:31px!important;line-height:1.16!important;margin-bottom:18px!important}
+ .bx-business-hero .bx-lead{font-size:16px!important;line-height:1.65!important;margin-bottom:18px!important}
+ .bx-business-hero .bx-actions{gap:10px!important;margin:20px 0 0!important}
+ .bx-business-hero .bx-actions .bx-button{flex:1 1 135px;padding:12px 10px!important;font-size:12px!important;min-height:48px!important}
+ .bx-business-hero .bx-business-photo{margin:24px 0 0!important}
+ .bx-business-hero .bx-business-photo img{height:auto!important;aspect-ratio:3/2!important;object-fit:cover!important}
+ .bx-business-hero .bx-business-photo figcaption{font-size:11px!important;line-height:1.6!important;padding:10px 12px!important}
+ .boom-scene-products .boom-scene-card .ec-library-image-link{aspect-ratio:3/2!important;padding:16px!important}
+ .boom-scene-products .boom-scene-card .ec-library-card-copy{padding:18px!important}
+ .boom-scene-products .boom-scene-card h3{font-size:19px!important}
+ .boom-scene-products .boom-scene-heading h2{font-size:28px!important;line-height:1.2!important}
+ .bx-collection-hero .bx-breadcrumb,.bx-product-hero .bx-breadcrumb{padding:18px 0!important}
+ .boom-page-intro{margin-bottom:24px!important}
+ .boom-page-intro>p:not(.boom-page-kicker){font-size:16px!important;line-height:1.7!important}
+ .boom-article-shell h1{font-size:34px!important;line-height:1.16!important}
+ .boom-article-shell h2{font-size:25px!important}
+ main input:not([type=checkbox]):not([type=radio]),main textarea,main select{font-size:16px!important}
+}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto!important}}
+/* The mobile decision wrapper uses display:contents: its dark background has no box. */
+@media(max-width:800px){
+ .bx-product-decision{color:#173d35!important}
+ .bx-product-decision>h1{color:#173d35!important}
+ .bx-product-decision>.bx-kicker{color:#365a31!important}
+ .bx-product-decision>p{color:#3e584b!important}
+ .bx-product-decision .bx-product-review{color:#3e584b!important}
+}
+/* Existing arrow decoration already supplies the product-link affordance. */
+.boom-scene-products .ec-library-link::after{content:none!important}
+/* Outrank the existing dark-panel theme at the mobile display:contents breakpoint. */
+@media(max-width:800px){
+ body .bx-site .bx-product-decision>h1{color:#173d35!important}
+ body .bx-site .bx-product-decision>.bx-kicker{color:#365a31!important}
+ body .bx-site .bx-product-decision>p{color:#3e584b!important}
+}
+.boom-scene-products .boom-scene-card .ec-library-link::before,.boom-scene-products .boom-scene-card .ec-library-link::after{content:none!important;display:none!important}
+@media(max-width:600px){
+ /* Compact catalog still keeps two models in view; procurement text must remain readable. */
+ body .bx-site .ec-library-card:not(.boom-scene-card) h3{font-size:14px!important;line-height:1.45!important;min-height:0!important;-webkit-line-clamp:unset!important;overflow:visible!important}
+ body .bx-site .ec-library-card:not(.boom-scene-card) h3 a{font-size:inherit!important;line-height:inherit!important}
+ body .bx-site .ec-library-card:not(.boom-scene-card) .ec-library-facts{font-size:12px!important;line-height:1.6!important}
+ body .bx-site .ec-library-card:not(.boom-scene-card) .ec-library-link{font-size:12px!important;line-height:1.5!important;min-height:44px!important}
+}
+
+@media(max-width:600px){
+ /* Each form row already owns its gap; avoid adding a second gap to each field. */
+ .buyer-rfq-form .rfq-row .rfq-field{margin-bottom:0!important}
+}
+/* Also cover the direct project form's intro and progress strip. */
+.boom-page-intro .buyer-form-steps{color:#173d35!important;line-height:1.65!important;font-size:12px!important;padding:12px!important}
+.boom-page-intro .direct-preview-note{font-size:13px!important;line-height:1.65!important;padding:12px!important}
+@media(max-width:600px){
+ body .boom-page-intro h1{font-size:31px!important;line-height:1.17!important;letter-spacing:-.025em!important;margin-bottom:20px!important}
+ body .boom-page-intro .ec-library-eyebrow{font-size:12px!important;line-height:1.5!important;letter-spacing:.07em!important;margin-bottom:18px!important}
+ body .boom-page-intro .buyer-response-promise{font-size:16px!important;line-height:1.65!important;padding:12px!important}
+}
+body.boom-industrial .boom-page-intro>.buyer-form-steps{color:#173d35!important}
+/* Define both sides of this state so React and static contact intros agree. */
+body.boom-industrial .boom-page-intro>.buyer-form-steps{background:#eaf0e3!important;border:1px solid #d5dfce!important;border-radius:8px!important;color:#173d35!important;margin-top:18px!important}
+
+/* ===== 阅读舒适度修复 2026-11-25 13:30 =====
+   问题：正文 12px、行距 1.75、一行宽 850–1217px（约 140–220 字符）→ 看着串行
+   方案：正文 16px、行距 1.62、限宽 72 字符
+   2026-11-25 16:20 修正：只作用于「没有 class 的纯正文段落」，并跳过首屏 / 深色 CTA。
+   带 class 的段落属于设计好的组件（首屏小标、导语、说明、卡片、页脚），
+   统一压成 16px、字距清零，会把首屏小标撑大、把深色块里的浅色文字排散。 */
+main :where(p, li):not([class]):not(.tn-cta *, .of-hero *, .bx-business-hero *, .fp-hero *, .fp-cta *, .bx-brief-strip *, .tn-help-v2 *, .svc-manager *) {
+  font-size: 16px !important;
+  line-height: 1.62 !important;
+  letter-spacing: 0 !important;
+}
+/* 正文限宽：一行约 72 个字符，眼睛换行不丢行 */
+main :where(p, li):not([class]):not(.tn-cta *, .of-hero *, .bx-business-hero *, .fp-hero *, .fp-cta *, .bx-brief-strip *, .tn-help-v2 *, .svc-manager *) { max-width: 72ch !important; }
+main :where(div)[class*="lead"], main :where(div)[class*="note"],
+main :where(div)[class*="summary"], main :where(div).bx-group-purpose {
+  max-width: 72ch !important;
+}
+/* 段与段之间收紧一点，读起来成段而不是散点 */
+main :where(p):not([class]) + :where(p) { margin-top: .82em !important; }
+/* 卡片内小字回退（产品名、规格、按钮），保持原来的密度 */
+main .ec-library-card :where(p, li),
+main .bx-model-grid :where(p, li),
+main .ec-family-card :where(p, li),
+main .ec-library-facts,
+main .buyer-micro {
+  font-size: 12.5px !important;
+  line-height: 1.5 !important;
+  max-width: none !important;
+}
+/* 小标签略放大并放开字距，不再是 10px 蚂蚁字 */
+main .of-eyebrow,
+main .boom-buyer-eyebrow,
+main .bx-kicker {
+  font-size: 11.5px !important;
+  letter-spacing: .085em !important;
+  line-height: 1.5 !important;
+}
+
+/* ===== 商品卡统一 · 2026-11-25 14:10 =====
+   依据上新页 /new-arrivals/ 实测：白卡 #fff、边框 #dfe5dd、圆角 14px、
+   图区 1:1、标题 Manrope 14px/700、型号 IBM Plex Mono 11px、链接 12px。
+   范围：品类页 / 产品页 / 场景页 / 工艺页。上新页本身保持 4 列不变。 */
+
+/* --- 1. 一行五个 --- */
+main .ec-library-grid,
+main .bx-model-grid,
+main .led-products-grid {
+  grid-template-columns: repeat(5, minmax(0, 1fr)) !important;
+  gap: 16px !important;
+}
+/* 上新页是参照版，维持四列 */
+main .na-body .ec-library-grid {
+  grid-template-columns: repeat(4, minmax(0, 1fr)) !important;
+  gap: 22px !important;
+}
+@media (max-width: 999px) {
+  main .ec-library-grid,
+  main .bx-model-grid,
+  main .led-products-grid { grid-template-columns: repeat(4, minmax(0, 1fr)) !important; gap: 14px !important; }
+}
+@media (max-width: 779px) {
+  main .ec-library-grid,
+  main .bx-model-grid,
+  main .led-products-grid { grid-template-columns: repeat(3, minmax(0, 1fr)) !important; gap: 12px !important; }
+}
+@media (max-width: 559px) {
+  main .ec-library-grid,
+  main .bx-model-grid,
+  main .led-products-grid,
+  main .na-body .ec-library-grid { grid-template-columns: repeat(2, minmax(0, 1fr)) !important; gap: 10px !important; }
+}
+
+/* --- 2. 卡片外壳：来源库卡与新卡长得一样 --- */
+main .ec-library-grid > .ec-library-card,
+main .bx-model-grid > .ec-library-card,
+main .led-products-grid > .led-product {
+  background: #fff !important;
+  border: 1px solid #dfe5dd !important;
+  border-radius: 14px !important;
+  overflow: hidden !important;
+  display: flex !important;
+  flex-direction: column !important;
+  min-width: 0 !important;
+}
+
+/* --- 3. 图区：正方形 + 白底留边，与上新页同比例 --- */
+main .ec-library-grid > .ec-library-card > .ec-library-image-link,
+main .bx-model-grid > .ec-library-card > .ec-library-image-link,
+main .led-products-grid > .led-product > .led-product-image {
+  display: block !important;
+  aspect-ratio: 1 / 1 !important;
+  padding: 14px !important;
+  background: #fff !important;
+  border: 0 !important;
+  border-radius: 0 !important;
+  overflow: hidden !important;
+}
+main .ec-library-grid > .ec-library-card > .ec-library-image-link > img,
+main .bx-model-grid > .ec-library-card > .ec-library-image-link > img,
+main .led-products-grid > .led-product > .led-product-image > img {
+  width: 100% !important;
+  height: 100% !important;
+  aspect-ratio: auto !important;
+  max-height: none !important;
+  object-fit: contain !important;
+  transform: none !important;
+  display: block !important;
+}
+
+/* --- 4. 文字区 --- */
+main .ec-library-grid > .ec-library-card > .ec-library-card-copy,
+main .bx-model-grid > .ec-library-card > .ec-library-card-copy,
+main .led-products-grid > .led-product > .led-product-copy {
+  display: flex !important;
+  flex-direction: column !important;
+  flex: 1 !important;
+  gap: 7px !important;
+  padding: 15px 15px 16px !important;
+}
+/* 型号 / 材质 / 容量 */
+main .ec-library-grid > .ec-library-card .ec-library-model,
+main .bx-model-grid > .ec-library-card .ec-library-model,
+main .led-products-grid > .led-product .led-model {
+  font-family: 'IBM Plex Mono', monospace !important;
+  font-size: 10.5px !important;
+  font-weight: 700 !important;
+  line-height: 1.5 !important;
+  letter-spacing: .08em !important;
+  color: #a9502f !important;
+  margin: 0 !important;
+  max-width: none !important;
+}
+/* 产品名 */
+main .ec-library-grid > .ec-library-card h3,
+main .bx-model-grid > .ec-library-card h3,
+main .led-products-grid > .led-product h3 {
+  font-family: Manrope, Arial, sans-serif !important;
+  font-size: 14px !important;
+  font-weight: 700 !important;
+  line-height: 1.4 !important;
+  letter-spacing: -.005em !important;
+  color: #173d34 !important;
+  margin: 0 !important;
+  min-height: 0 !important;
+  height: auto !important;
+  display: block !important;
+  overflow: visible !important;
+  -webkit-line-clamp: unset !important;
+}
+main .ec-library-grid > .ec-library-card h3 a,
+main .bx-model-grid > .ec-library-card h3 a,
+main .led-products-grid > .led-product h3 a {
+  font: inherit !important;
+  color: inherit !important;
+  text-decoration: none !important;
+  display: inline !important;
+}
+/* 规格行 */
+main .ec-library-grid > .ec-library-card .ec-library-facts,
+main .bx-model-grid > .ec-library-card .ec-library-facts,
+main .led-products-grid > .led-product .led-product-copy > p:not(.led-model) {
+  font-family: Manrope, Arial, sans-serif !important;
+  font-size: 12px !important;
+  line-height: 1.5 !important;
+  color: #6a7b70 !important;
+  margin: 0 !important;
+  min-height: 0 !important;
+  max-width: none !important;
+}
+/* 场景用途标签：沿用上新页“款式数”那种小药丸 */
+main .boom-scene-products .boom-scene-card .boom-scene-role {
+  align-self: flex-start !important;
+  font-family: Manrope, Arial, sans-serif !important;
+  font-size: 11.5px !important;
+  line-height: 1.5 !important;
+  color: #8c432b !important;
+  background: #f8efe9 !important;
+  border: 1px solid #efdccf !important;
+  border-radius: 20px !important;
+  padding: 2px 8px !important;
+  margin: 0 !important;
+  max-width: none !important;
+}
+/* 底部链接 */
+main .ec-library-grid > .ec-library-card .ec-library-link,
+main .bx-model-grid > .ec-library-card .ec-library-link,
+main .led-products-grid > .led-product .led-text-link {
+  margin: auto 0 0 !important;
+  padding: 6px 0 0 !important;
+  min-height: 0 !important;
+  font-family: Manrope, Arial, sans-serif !important;
+  font-size: 12px !important;
+  line-height: 1.5 !important;
+  font-weight: 600 !important;
+  color: #a9502f !important;
+  text-decoration: underline !important;
+  text-underline-offset: 3px !important;
+}
+/* 对比按钮降为安静的次要文字 */
+main .ec-library-grid > .ec-library-card .buyer-compare-button,
+main .bx-model-grid > .ec-library-card .buyer-compare-button {
+  align-self: flex-start !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  min-height: 0 !important;
+  border: 0 !important;
+  background: none !important;
+  font-size: 11px !important;
+  line-height: 1.4 !important;
+  font-weight: 500 !important;
+  color: #6a7b70 !important;
+  text-decoration: underline !important;
+  text-underline-offset: 3px !important;
+}
+
+/* --- 5. 首图字体：与首页同一套标准 ---
+   首页 body.boom-home .of-hero h1：clamp(44px,5vw,72px)/1.03/-.045em
+   眉标：Manrope 11.5px/800，字距 .085em，大写 */
+main .led-hero h1,
+.led-hero h1 {
+  font-size: clamp(44px, 5vw, 72px) !important;
+  line-height: 1.03 !important;
+  letter-spacing: -.045em !important;
+}
+main .led-hero .led-eyebrow,
+.led-hero .led-eyebrow {
+  font-family: Manrope, Arial, sans-serif !important;
+  font-size: 11.5px !important;
+  font-weight: 800 !important;
+  line-height: 1.5 !important;
+  letter-spacing: .085em !important;
+  text-transform: uppercase !important;
+}
+
+/* --- 6. 窄屏时品类页把左侧菜单收成按钮 ---
+   左侧菜单占 236+52=288px，1092 宽的窗口里卡片区只剩 725，
+   排五个会窄到 132px、标题折五行。收成按钮后卡片区回到满幅，五个才站得住。 */
+@media (max-width: 1299px) {
+  main .bx-collect-rail-layout {
+    grid-template-columns: 1fr !important;
+    gap: 0 !important;
+  }
+  main .bx-collect-rail-layout > .ec-cat-rail {
+    position: fixed !important;
+    top: 0 !important;
+    bottom: 0 !important;
+    left: 0 !important;
+    width: min(86vw, 330px) !important;
+    max-height: none !important;
+    background: #fff !important;
+    z-index: 120 !important;
+    padding: 18px 18px 40px !important;
+    overflow-y: auto !important;
+    transform: translateX(-102%) !important;
+    transition: transform .26s cubic-bezier(.4,0,.2,1) !important;
+    box-shadow: none !important;
+  }
+  main .bx-collect-rail-layout > .ec-cat-rail.is-open {
+    transform: none !important;
+    box-shadow: 8px 0 40px rgba(0, 0, 0, .18) !important;
+  }
+  main .bx-collect-rail-layout > .ec-cat-mobile-bar {
+    display: block !important;
+    position: sticky !important;
+    top: 64px !important;
+    z-index: 60 !important;
+    background: #fff !important;
+    margin: 0 0 10px !important;
+    padding: 8px 0 !important;
+  }
+  main .bx-collect-rail-layout > .ec-cat-mobile-bar .ec-cat-mobile-btn {
+    display: inline-flex !important;
+    position: static !important;
+    margin: 0 !important;
+  }
+}
+
+/* --- 7. 工艺页型号行长短不一时，标题保持同一水平线 --- */
+main .led-products-grid > .led-product .led-model {
+  min-height: 3em !important;
+}
+
+/* --- 8. 收起后的“Product categories”按钮补上药丸外观 --- */
+@media (max-width: 1299px) {
+  main .bx-collect-rail-layout > .ec-cat-mobile-bar {
+    background: #f5f6ef !important;
+    padding: 10px 0 12px !important;
+  }
+  main .bx-collect-rail-layout > .ec-cat-mobile-bar .ec-cat-mobile-btn {
+    display: inline-flex !important;
+    align-items: center !important;
+    gap: 9px !important;
+    padding: 10px 18px !important;
+    border: 1px solid #dcdcd2 !important;
+    border-radius: 99px !important;
+    background: #fff !important;
+    color: #16211b !important;
+    font-family: Manrope, Arial, sans-serif !important;
+    font-size: 13px !important;
+    font-weight: 650 !important;
+    line-height: 1.2 !important;
+    box-shadow: 0 2px 10px rgba(18, 34, 34, .07) !important;
+  }
+  main .bx-collect-rail-layout > .ec-cat-mobile-bar .ec-cat-mobile-btn::before {
+    content: "" !important;
+    width: 12px !important;
+    height: 9px !important;
+    flex: 0 0 auto !important;
+    background-image: linear-gradient(#16211b, #16211b), linear-gradient(#16211b, #16211b), linear-gradient(#16211b, #16211b) !important;
+    background-size: 12px 1.5px, 12px 1.5px, 12px 1.5px !important;
+    background-position: 0 0, 0 3.5px, 0 7px !important;
+    background-repeat: no-repeat !important;
+  }
+}
+
+/* ===== 抽搐修复 1/2：让 hidden 重新生效（2026-11-25 14:32） =====
+   上面给卡片写了 display:flex !important，把 [hidden] 的隐藏能力压掉了，
+   导致场景页 104 张卡全部铺开（页面凭空多出 8500px），
+   脚本再一张张藏回去时页面就剧烈收缩。这里把隐藏优先级提到最高。 */
+main [hidden],
+main .ec-library-card[hidden],
+main .led-product[hidden],
+main .boom-scene-card[hidden] {
+  display: none !important;
+}
+
+/* ===== 抽搐修复 2/2：首屏等内容系统画完再显示（2026-11-25 15:05） =====
+   页面打开后内容系统会把正文整块重画两到三次，用户在画的过程中能看到
+   文字和图片跳动。这里在头部把一个开关类挂到 html 上，正文先不显示，
+   等系统给出 ready 信号、且 120 毫秒内没有新变化后再淡入。
+   最多等 0.9 秒，超时无论如何都显示，绝不会让页面变空白。 */
+html.boom-gate main { opacity: 0 !important; }
+main { transition: opacity .16s ease-out; }
+
+/* 等待期间顶部一条很细的进度线，让这一下等待看起来是有意的 */
+html.boom-gate #boom-first-frame-status {
+  display: block !important;
+  position: fixed; top: 0; left: 0; right: 0; height: 2px;
+  z-index: 9999; overflow: hidden; background: transparent;
+}
+html.boom-gate #boom-first-frame-status::after {
+  content: ""; position: absolute; top: 0; bottom: 0; left: 0; width: 40%;
+  background: linear-gradient(90deg, transparent, #a9502f, transparent);
+  animation: boom-gate-bar .9s linear infinite;
+}
+@keyframes boom-gate-bar { from { transform: translateX(-100%) } to { transform: translateX(250%) } }
+html:not(.boom-gate) #boom-first-frame-status { display: none !important; }
+
+/* ===== 2026-11-25 16:50 长文区收进版心 =====
+   问题：main 直属的 ec-library-detail-section 没有左右留白，
+   「A direct route through the factory」这类段落从屏幕最左边起排，看着像没居中。
+   方案：与全站 1240 版心对齐，左右各留 24px。 */
+main > .ec-library-detail-section {
+  max-width: 1240px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-left: 24px !important;
+  padding-right: 24px !important;
+}
+@media (max-width: 640px) {
+  main > .ec-library-detail-section { padding-left: 20px !important; padding-right: 20px !important; }
+}
+/* 长文区里的问答块原本左右各缩 28px，和上下标题对不齐，拉平 */
+main > .ec-library-detail-section #boom-research-faq {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+  max-width: none !important;
+}
+
+/* ===== 2026-11-25 17:20 博客列表卡片标题 =====
+   问题：全站统一把 main 里的 h2 设成 42px（给区块大标题用），
+   博客卡片标题也是 h2，被一起放大到 42px / 行高 47px，
+   卡片只预留两行高度（2.72em），第三行被切掉一半，压住下面的摘要。
+   方案：只对博客卡片标题还原成 19px，允许三行，行高与预留高度成比例。 */
+body.boom-industrial main .tn-post h2,
+body.boom-industrial main .tn-posts h2 {
+  font-size: 19px !important;
+  line-height: 1.34 !important;
+  letter-spacing: -.012em !important;
+  font-weight: 700 !important;
+  margin: 14px 0 0 !important;
+  -webkit-line-clamp: 3 !important;
+  line-clamp: 3 !important;
+  min-height: 4.02em !important;
+}
+@media (max-width: 760px) {
+  body.boom-industrial main .tn-post h2 { font-size: 18px !important; }
+}
+
+/* ===== 2026-11-25 17:45 页尾长文区块的行距 =====
+   问题：h2 紧贴上一段正文，读起来像挤在一起；底部两个链接也贴在正文下沿。
+   方案：只在 #buyer-decision-rewrite 里补标题上间距与链接间距，不动别处。 */
+main > #buyer-decision-rewrite h2 { margin-top: 30px !important; }
+main > #buyer-decision-rewrite h2:first-child { margin-top: 0 !important; }
+main > #buyer-decision-rewrite > p { margin-bottom: 14px !important; }
+main > #buyer-decision-rewrite > p:has(+ a),
+main > #buyer-decision-rewrite > p:last-of-type { margin-bottom: 18px !important; }
+main > #buyer-decision-rewrite > a { display: inline-block; margin-right: 18px; margin-top: 4px; }
