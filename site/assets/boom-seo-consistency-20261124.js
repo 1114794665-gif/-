@@ -50,6 +50,8 @@
   }
 
  function update(){
+  const contract=window.__boomPageContract;if(contract&&contract.route===location.pathname){d.fields.Final_H1=contract.h1;d.fields.Final_SEO_Title=contract.title;d.fields.Final_Meta_Description=contract.description;if(contract.lead)d.hero=contract.lead;}
+
   applyFunnelCopy();
   if(!document.querySelector('#boom-seo-section-style')){const style=el('style');style.id='boom-seo-section-style';style.textContent='#boom-bespoke-cups,#boom-research-faq,#boom-screen-scope{font:16px/1.75 Arial,sans-serif;color:#173d35;max-width:1200px;margin:40px auto;padding:28px;box-sizing:border-box}#boom-bespoke-cups{background:#f3f6ef;border:1px solid #d6dfd5;border-radius:16px}#boom-bespoke-cups h2,#boom-research-faq h2{font-size:28px;line-height:1.25}#boom-research-faq details{padding:16px 0;border-bottom:1px solid #d6dfd5}#boom-research-faq summary{font-weight:600;cursor:pointer}#boom-bespoke-enquiry{margin-top:30px;padding-top:24px;border-top:1px solid #d6dfd5}';document.head.append(style)}
   if(document.title!==d.fields.Final_SEO_Title)document.title=d.fields.Final_SEO_Title;
