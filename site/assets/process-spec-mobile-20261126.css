@@ -1,0 +1,36 @@
+/* 手机端：工艺页规格表改为「标签在上、内容在下」，避免两列被挤成细条 */
+@media (max-width: 640px) {
+  table:has(th[scope="row"]):not(:has(thead)) {
+    display: block;
+    width: 100%;
+  }
+  table:has(th[scope="row"]):not(:has(thead)) tbody {
+    display: block;
+  }
+  table:has(th[scope="row"]):not(:has(thead)) tr {
+    display: block;
+    padding: 14px 16px 16px;
+    border-top: 1px solid rgba(0, 0, 0, 0.08);
+  }
+  table:has(th[scope="row"]):not(:has(thead)) tr:first-child {
+    border-top: 0;
+    padding-top: 16px;
+  }
+  table:has(th[scope="row"]):not(:has(thead)) th[scope="row"] {
+    display: block;
+    width: auto;
+    background: transparent;
+    padding: 0 0 6px;
+    border: 0;
+    font-size: 11px;
+    letter-spacing: 0.08em;
+  }
+  table:has(th[scope="row"]):not(:has(thead)) td {
+    display: block;
+    width: auto;
+    padding: 0;
+    border: 0;
+    line-height: 1.6;
+    overflow-wrap: anywhere;
+  }
+}
