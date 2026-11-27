@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "source_parent": "ca643c15e5dc5d5a0102978f302ae6d66a5b8b7a",
+  "source_parent": "9ea3527d7cee5259aaf7044b7f678839f1e2c46a",
   "purpose": "Exact public bundle fixing DOM writer feedback loops and UV plastic material scope. Preserve current worker and bindings.",
   "files": [
     {
@@ -285,8 +285,8 @@
     },
     {
       "path": "assets/boom-seo-consistency-20261124.json",
-      "bytes": 249544,
-      "sha256": "f3a6c4c6700ef5f0cf4a47c87d638cf2b6ac7b97fd51005a97b086e0bc37a9a0"
+      "bytes": 249515,
+      "sha256": "f201418c62234f2d51ce547590ccb57dd4dc73eae5d1c9909a553be893480ac1"
     },
     {
       "path": "assets/boom-seo-head-20261119.js",
@@ -2070,8 +2070,8 @@
     },
     {
       "path": "color-changing-ink/index.html",
-      "bytes": 46591,
-      "sha256": "43694dbc7e574a63c109cc226b2b53a415ac179d6e05c41dbd49fe5dedafee68"
+      "bytes": 46529,
+      "sha256": "f902f9236c47e0ddc6849154133069701eda09c231e4ebd4a05feb99a560c04e"
     },
     {
       "path": "compliance/index.html",
@@ -10265,8 +10265,8 @@
     },
     {
       "path": "data/runtime-pages-niles-20261111/color-changing-ink/index.json",
-      "bytes": 516,
-      "sha256": "ef47e5d9fd7997816623fc223357f970982e53f2c5e650240861e08243c34bb1"
+      "bytes": 503,
+      "sha256": "df09503656be31280483ea540acd02b3ba8e70066946a2aca59ef246dde70c68"
     },
     {
       "path": "data/runtime-pages-niles-20261111/compliance/index.json",
@@ -10405,8 +10405,8 @@
     },
     {
       "path": "data/runtime-pages-niles-20261111/heat-transfer-printing/index.json",
-      "bytes": 1845,
-      "sha256": "f355ebd284d8631f55c34cb757d0e0c30bf1bdb0a00a9b07612c7c80a709cd47"
+      "bytes": 1825,
+      "sha256": "b8ec71260e7616ca82cd12e5699ad032a9c3635ce606d30737f4faa18007a880"
     },
     {
       "path": "data/runtime-pages-niles-20261111/holiday-party-cups/index.json",
@@ -10425,8 +10425,8 @@
     },
     {
       "path": "data/runtime-pages-niles-20261111/laser-engraving/index.json",
-      "bytes": 2019,
-      "sha256": "3535f877480214e187bb898a8c000b8ac7ebd856573af5a1c6a804982b89d581"
+      "bytes": 2011,
+      "sha256": "9a58e979879f9478a64d0b57c3a60434142b1bb7beed40c2c03a76bf7d09c1dc"
     },
     {
       "path": "data/runtime-pages-niles-20261111/led-light-up-cups/index.json",
@@ -10950,8 +10950,8 @@
     },
     {
       "path": "data/runtime-pages-niles-20261111/products/index.json",
-      "bytes": 2442,
-      "sha256": "49e0b18bf7feba91bfaa091e89188e86db920a6df66fa3d9c3b52e33c8f7bbcc"
+      "bytes": 2473,
+      "sha256": "b470d8d73c8d96c9de0c41da9c4122003d8ba22d5e699568d37f0a7eaeceb33b"
     },
     {
       "path": "data/runtime-pages-niles-20261111/products/interlocking-12-x-8-glass/index.json",
@@ -12735,8 +12735,8 @@
     },
     {
       "path": "data/runtime-shared-niles-20261111.json",
-      "bytes": 2054935,
-      "sha256": "659581a49d73d00aad0fc0b02473b70111ba0a2613e6d522db9ecefa5cdc6fc7"
+      "bytes": 2054806,
+      "sha256": "8a830c3db994f6083fd0461a0bd0f0a1c920d05c90ae025ed9174311b70950ea"
     },
     {
       "path": "data/scene-map-7-20261028.json",
@@ -12930,8 +12930,8 @@
     },
     {
       "path": "data/seo-page-metadata-20261119.json",
-      "bytes": 533434,
-      "sha256": "9823bf8a4c126e312d0ff17dfdfc0def426fb0ea7f6d2a09f25c1abeac4f93e2"
+      "bytes": 533348,
+      "sha256": "7b1580bdffbe718e9d92968e761f59f83452f3e0cc39994168ef8f409b718bba"
     },
     {
       "path": "data/seo-pages-index.json",
@@ -13130,8 +13130,8 @@
     },
     {
       "path": "heat-transfer-printing/index.html",
-      "bytes": 58221,
-      "sha256": "434b8ed1e2e371a8429d5a92175df6cf077be63e2bcaa4328d32c0c8bae8ce7e"
+      "bytes": 58116,
+      "sha256": "9bfe702b4c8d8a2577395832720a8bdf015dd70432e50cf3d8845e2419ad068a"
     },
     {
       "path": "holiday-party-cups/index.html",
@@ -22040,8 +22040,8 @@
     },
     {
       "path": "laser-engraving/index.html",
-      "bytes": 61512,
-      "sha256": "13cb11785f65056ad357a9071fff851cbee09f642a9848e83dfe5fbfd64ca8c9"
+      "bytes": 61468,
+      "sha256": "b4e22b893eae889331714c9ddee3928f9cac8fd1964a94e6939c3e95eb93425a"
     },
     {
       "path": "led-light-up-cups/index.html",
@@ -22475,8 +22475,8 @@
     },
     {
       "path": "products/index.html",
-      "bytes": 34322,
-      "sha256": "aae6aa528f1ac48ba5c7c8a6aa4a94501146726dae803d2fb101ab2f27f9fe28"
+      "bytes": 34384,
+      "sha256": "be9a2dbf93824b4f1ec2dcc9714688d02c14829766164ff186363102c71eaafb"
     },
     {
       "path": "products/irregular-shape-led-bottom-lit-ice/index.html",
