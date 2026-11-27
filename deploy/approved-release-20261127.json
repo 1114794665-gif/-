@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "source_parent": "9d5e1d41ae25e69e60eda6ebcfa8b678420cf6d9",
+  "source_parent": "db155f330c308e86c03b6acdf73a7da9691ac433",
   "purpose": "Exact public bundle fixing DOM writer feedback loops and UV plastic material scope. Preserve current worker and bindings.",
   "files": [
     {
@@ -55,8 +55,8 @@
     },
     {
       "path": "admin/index.html",
-      "bytes": 5644,
-      "sha256": "ba73b0d8143d937801503da36fa0c4baca0310c5783ebd0aa3d6f9b306bec53d"
+      "bytes": 3563,
+      "sha256": "a27f1c4e57b2508e5e9f20a61f2faa3aff9e873a3147741eee626d2942d3ba24"
     },
     {
       "path": "admin/inquiries/index.html",
@@ -12960,8 +12960,8 @@
     },
     {
       "path": "data/seo-pages-index.json",
-      "bytes": 164467,
-      "sha256": "c21c8f2e57e4c0dafbad8635f6c006392b9957aab37006a3549bc73fc86a66b0"
+      "bytes": 210658,
+      "sha256": "0cc7d9e140e2cbdb6511b91585ff611de8f6244f09cb92290661271d21f95c85"
     },
     {
       "path": "data/seo-public-pages-20261119.json",

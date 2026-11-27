@@ -1,6 +1,37 @@
-<!doctype html><html lang="zh-CN"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><link rel="icon" type="image/png" sizes="48x48" href="/favicon-48.png"><link rel="icon" type="image/png" sizes="96x96" href="/favicon-96.png"><link rel="shortcut icon" href="/favicon.ico"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><title>内容管理 · BOOM Drinkware</title>
-<style>[hidden]{display:none!important}*{box-sizing:border-box}body{margin:0;font:15px/1.6 system-ui,sans-serif;background:#f4f4ef;color:#182b28}header{padding:18px 28px;background:#173d35;color:white;display:flex;gap:20px;align-items:center;justify-content:space-between}header strong{font-size:21px;letter-spacing:.05em}button,a.login{font:inherit;cursor:pointer;border:1px solid #a5b8ae;border-radius:6px;background:white;color:#173d35;padding:9px 14px}button.primary{background:#cfec78;color:#173d35;border-color:#cfec78}button:disabled{opacity:.4;cursor:wait}main{display:grid;grid-template-columns:340px 1fr;min-height:calc(100vh - 76px)}aside{padding:24px;border-right:1px solid #d1d8cf}h1{font-size:23px;margin:0 0 8px}h2{font-size:16px;margin:24px 0 10px}p{color:#50635a}label{display:block;font-weight:600;margin-top:16px}input,textarea,select{font:inherit;width:100%;padding:10px;border:1px solid #a5b8ae;background:#fff;border-radius:5px}textarea{min-height:125px;resize:vertical}button{margin:8px 4px 0 0}iframe{border:0;width:100%;height:calc(100vh - 76px);background:white}#status{margin:0;padding:10px 28px;background:#e5eadf;white-space:pre-wrap}#selected{word-break:break-word}#count{font-size:13px}ul{padding-left:18px}li{margin:6px 0}.notice{padding:32px;max-width:680px;margin:auto}a{color:inherit}#history button{display:block;width:100%;text-align:left}input[type=file]{font-size:12px}button:focus-visible,a:focus-visible{outline:3px solid #a7cb36;outline-offset:3px}@media(max-width:800px){main{grid-template-columns:1fr}aside{border-right:0}iframe{height:65vh}header{padding:16px;flex-wrap:wrap}}header{height:72px}#editor{grid-template-columns:250px minmax(0,1fr) 310px;min-height:0;height:calc(100vh - 115px)}#editor>aside{grid-column:3;grid-row:1;overflow:auto;background:white;border-left:1px solid #ddd;padding:20px}#preview{grid-column:2;grid-row:1;height:100%;min-width:0}#visual-nav{grid-column:1;grid-row:1;padding:16px;overflow:auto;background:#fafbf8;border-right:1px solid #d7ded8}#visual-nav button{display:block;width:100%;text-align:left;margin:3px 0;font-size:13px;border:0;background:transparent}#visual-nav button.active{background:#dce9df;font-weight:700}#visual-nav input{font-size:13px}#visual-nav h2{margin:16px 0 8px}#page-list{max-height:38vh;overflow:auto}#section-list button{border-left:2px solid #c7d5c9;border-radius:0}#visual-mode{display:flex;gap:6px}#visual-mode button{width:auto}#preview.mobile{max-width:390px;justify-self:center}#editor>aside>h1{font-size:20px}#page,#open,label[for=page]{display:none}#visual-current{font-size:12px;word-break:break-all}#visual-nav small{color:#5b6b62}@media(max-width:1000px){#editor{grid-template-columns:210px minmax(0,1fr)}#editor>aside{grid-column:1;grid-row:2}#visual-nav{grid-column:1;grid-row:1}#preview{grid-column:2;grid-row:1 / span 2;min-height:75vh}#editor{height:auto}}@media(max-width:650px){#editor{display:flex;flex-direction:column;height:auto}#preview{height:60vh}#page-list{max-height:22vh}} </style>
-<header><strong>BOOM <span style="font-weight:400">内容工作台</span></strong><span id="account"></span></header><p id="status" role="status">正在检查登录…</p>
-<div id="login" class="notice" hidden><h1>管理你的网站内容</h1><p>使用获授权的 GitHub 账号登录，修改页面文字、按钮文案和图片。</p><a class="login" href="/api/cms/auth/start">使用 GitHub 登录</a></div>
-<main id="editor" hidden><aside><h1>页面编辑</h1><p>打开页面后，点击右侧的文字或图片进行修改。中英文页面分别编辑。</p><label for="page">页面地址</label><input id="page" value="/" placeholder="/oem-manufacturer/"><button id="open">打开页面</button><h2>选中的内容</h2><p id="selected">请在页面中点击文字或图片</p><label for="value">替换文字 / 图片地址</label><textarea id="value"></textarea><label for="upload">上传替换图片（JPG、PNG、WebP，最多 512 KB）</label><input id="upload" type="file" accept="image/jpeg,image/png,image/webp"><button id="apply">应用到预览</button><h2>草稿与发布</h2><p id="count"></p><button id="save">保存草稿</button><button id="publish" class="primary">发布到网站</button><button id="live">查看正式页面</button><p>预览和草稿不会改变正式页面。发布后，相同的完整文字在本页出现多次时会一并替换。导航文字按当前页面保存。</p><h2>发布历史</h2><button id="versions">刷新历史</button><div id="history"></div><button id="logout">退出登录</button></aside><iframe id="preview" title="网站内容预览" sandbox="allow-scripts allow-same-origin"></iframe></main>
-<script src="/assets/st-1127-boom-cms-admin-94ba66402b0c.js" defer></script><script src="/assets/st-1127-boom-cms-visual-b3da142aa56c.js" defer></script><script src="/assets/st-1127-boom-cms-backgrounds-0c18e7dd8fe9.js" defer></script><script src="/assets/st-1127-boom-cms-layout-admin-e6eef4669907.js" defer></script><script src="/assets/st-1127-boom-cms-password-6a7f871b4ba3.js" defer></script><script src="/assets/st-1127-boom-cms-free-admin-f8b79ac97a66.js" defer></script></html>
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/png" sizes="48x48" href="/favicon-48.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <title>Custom Drinkware Manufacturer | Plastic, Silicone &amp; LED Cups Factory-Direct</title>
+    
+    
+    
+    <link href="/assets/st-1127-fonts-latin-20261029.speed-20261-ed96f81df5d9.css" rel="stylesheet">
+    <script type="module" crossorigin src="/assets/st-1127-index-buyer-experience-20261026.-758ea5209d66.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/st-1127-index-CmNkUeqe.speed-20261107-233ab2f01505.css">
+    <link rel="stylesheet" href="/assets/st-1127-internal-links-20261022-912f7ad570e8.css">
+  <link rel="stylesheet" href="/assets/st-1127-acquisition-20261022.speed-20261-bcebd78167e1.css">
+
+<link rel="stylesheet" href="/assets/st-1127-keyword-20261022.speed-20261107-304b7427a634.css">
+<link rel="stylesheet" href="/assets/st-1127-library-v88.speed-20261107-50403242b614.css">
+<link rel="stylesheet" data-whole-repair-css="1" href="/assets/st-1127-whole-repair-20261026.speed-2026-d73f94ee0301.css"><link rel="stylesheet" href="/assets/st-1127-final-mobile-rfq-20261026.speed--150ec92e3617.css"><link rel="stylesheet" href="/assets/st-1127-oem-focus-20261026.speed-2026110-63d43a7742ab.css" data-oem-focus-css="1"><link rel="stylesheet" href="/assets/st-1127-buyer-experience-20261026.speed--31fba8e0065a.css" data-buyer-experience-css="1"><link data-fs="1" rel="stylesheet" href="/assets/st-1127-fast-sample-20261031-e8e8af5c2cfd.css">
+<meta name="robots" content="noindex, nofollow">
+<link rel="stylesheet" href="/assets/st-1127-brand-boom-20261106-3b51db94bdbb.css">
+<link rel="stylesheet" href="/assets/st-1127-ui-upgrade-20261106.speed-202611-e2bcb02849fb.css">
+<link rel="stylesheet" href="/assets/st-1127-mobile-hit-20261114-b9270127e7df.css"></head>
+  <body>
+    <div id="root"></div>
+    <div id="seo-save-note" style="position:fixed;left:0;right:0;bottom:0;z-index:9999;background:#fff8e8;border-top:1px solid #f0dfb6;padding:9px 46px 9px 18px;font:13px/1.6 'Microsoft YaHei','PingFang SC',sans-serif;color:#5a4a28;box-shadow:0 -2px 12px rgba(0,0,0,.06)">
+      <b>保存说明：</b>点「Save SEO」会立刻把改动存进 GitHub 仓库（<a href="https://github.com/1114794665-gif/-/commits/deploy/cloudflare-free/site/data/seo-overrides.json" target="_blank" rel="noopener" style="color:#8a5a1a">查看存档记录 ↗</a>）。正式站是印好的页面，改完还要发布一次客户才看得到 —— 把改动告诉我，我 1 分钟发版。
+      <button type="button" onclick="var n=document.getElementById('seo-save-note');if(n)n.remove()" style="position:absolute;right:12px;top:6px;border:0;background:transparent;font-size:20px;line-height:1;color:#a08a5c;cursor:pointer" aria-label="关闭提示">×</button>
+    </div>
+    <script defer src="/assets/st-1127-growth-measurement-20261026.spee-1bac52961b9a.js"></script><script defer src="/assets/st-1127-product-options-20261028.speed-2-c89f68fc753b.js"></script><script defer src="/assets/st-1127-fast-sample-20261031.speed-20261-4697669b65cb.js"></script>
+<script defer src="/assets/st-1127-ec-nav-patch-20261029.speed-2026-3752d38cc75b.js"></script>
+
+</body>
+</html>
